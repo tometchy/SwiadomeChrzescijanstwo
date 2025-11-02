@@ -453,6 +453,19 @@
     </div>
   </nav>
 
+  <!-- Products Filter Bar -->
+  <section id="products-filter" class="bg-white border-bottom">
+    <div class="container py-2">
+      <div class="d-flex flex-wrap gap-2 align-items-center">
+        <span class="text-uppercase small text-muted me-2">Filter:</span>
+        <button type="button" class="btn btn-sm btn-dark filter-btn active" data-filter="all" aria-pressed="true">All</button>
+        <button type="button" class="btn btn-sm btn-outline-dark filter-btn" data-filter="new" aria-pressed="false">New Arrivals</button>
+        <button type="button" class="btn btn-sm btn-outline-dark filter-btn" data-filter="best" aria-pressed="false">Best Sellers</button>
+        <button type="button" class="btn btn-sm btn-outline-dark filter-btn" data-filter="related" aria-pressed="false">Related</button>
+      </div>
+    </div>
+  </section>
+
   <section id="billboard" class="bg-light py-5">
     <div class="container">
       <div class="row justify-content-center">
@@ -681,7 +694,7 @@
     </div>
   </section>
 
-  <section id="new-arrival" class="new-arrival product-carousel py-5 position-relative overflow-hidden">
+  <section id="new-arrival" class="new-arrival product-carousel py-5 position-relative overflow-hidden filterable-section" data-category="new">
     <div class="container">
       <div class="d-flex flex-wrap justify-content-between align-items-center mt-5 mb-3">
         <h4 class="text-uppercase">Our New Arrivals</h4>
@@ -826,7 +839,7 @@
     </div>
   </section>
 
-  <section id="best-sellers" class="best-sellers product-carousel py-5 position-relative overflow-hidden">
+  <section id="best-sellers" class="best-sellers product-carousel py-5 position-relative overflow-hidden filterable-section" data-category="best">
     <div class="container">
       <div class="d-flex flex-wrap justify-content-between align-items-center mt-5 mb-3">
         <h4 class="text-uppercase">Best Selling Items</h4>
@@ -1029,7 +1042,7 @@
     <div class="testimonial-swiper-pagination d-flex justify-content-center mb-5"></div>
   </section>
 
-  <section id="related-products" class="related-products product-carousel py-5 position-relative overflow-hidden">
+  <section id="related-products" class="related-products product-carousel py-5 position-relative overflow-hidden filterable-section" data-category="related">
     <div class="container">
       <div class="d-flex flex-wrap justify-content-between align-items-center mt-5 mb-3">
         <h4 class="text-uppercase">You May Also Like</h4>
@@ -1442,6 +1455,40 @@
     crossorigin="anonymous"></script>
   <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
   <script src="js/script.min.js"></script>
+  <script>
+    // Simple Products Filter below navbar
+    (function() {
+      const buttons = document.querySelectorAll('#products-filter .filter-btn');
+      const sections = document.querySelectorAll('.filterable-section');
+      if (!buttons.length || !sections.length) return;
+
+      function applyFilter(value) {
+        sections.forEach(sec => {
+          const cat = sec.getAttribute('data-category');
+          if (value === 'all' || value === cat) {
+            sec.classList.remove('d-none');
+          } else {
+            sec.classList.add('d-none');
+          }
+        });
+      }
+
+      buttons.forEach(btn => {
+        btn.addEventListener('click', function() {
+          const val = this.getAttribute('data-filter');
+          buttons.forEach(b => {
+            b.classList.remove('btn-dark', 'active');
+            b.classList.add('btn-outline-dark');
+            b.setAttribute('aria-pressed', 'false');
+          });
+          this.classList.remove('btn-outline-dark');
+          this.classList.add('btn-dark', 'active');
+          this.setAttribute('aria-pressed', 'true');
+          applyFilter(val);
+        });
+      });
+    })();
+  </script>
 </body>
 
 </html>

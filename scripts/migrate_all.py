@@ -392,6 +392,11 @@ def safe_body_html(soup, url=None, all_pages=None, assets=None):
                     # Keep original link to a page/file which could not be downloaded;
                     # strict import has already logged unavailable resources.
                     destination=canonical
+                # Every generated article lives at /czytelnia/<slug>/.
+                # Relative links keep working both under GitHub Pages /<repo>/
+                # and later under the final root domain (baseurl: '').
+                if destination.startswith('/') and not destination.startswith('//'):
+                    destination='../../'+destination.lstrip('/')
                 tag[attr]=destination+('#'+fragment if fragment else '')
     # Keep full body text, including nav, footer, tables, copyright and form labels.
     inner = node.body.decode_contents() if node.body else node.decode_contents()

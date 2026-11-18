@@ -48,3 +48,15 @@ def test_offline_missing_fails(tmp_path,monkeypatch):
 def test_index_never_guess_as_article():
     page=BeautifulSoup('<html><body><p>'+'ABC '*100+'</p><ul>'+''.join('<li><a href="x.html">Ważne pozycje</a></li>' for _ in range(100))+'</ul></body></html>','html.parser')
     assert not m.is_article('https://swch.pl/autorzy/index.html',page)
+
+
+def test_imported_article_links_work_under_github_pages_project_prefix():
+    original_url='https://swch.pl/autorzy/a/tekst.html'
+    related_url='https://swch.pl/autorzy/a/drugi.html'
+    original=BeautifulSoup('<html><body><p><a href="drugi.html">Wierny tekst</a></p><img src="/grafika/logo.png"></body></html>','html.parser')
+    related=BeautifulSoup('<html><body><article>'+('Tekst '*50)+'</article></body></html>','html.parser')
+    image_url='https://swch.pl/grafika/logo.png'
+    body,digest,chars=m.safe_body_html(original, original_url, {original_url:original,related_url:related}, {image_url:'/assets/legacy/swch/grafika/logo.png'})
+    assert 'href="../../czytelnia/' in body
+    assert 'src="../../assets/legacy/swch/grafika/logo.png"' in body
+    assert m.exact_text(BeautifulSoup(body,'html.parser')) == m.exact_text(original.body)

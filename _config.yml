@@ -10,7 +10,8 @@ markdown: kramdown
 permalink: pretty
 exclude:
 - _large_parts
-- archiwum
+- archiwum/swch
+- archiwum/wswch
 - README.md
 - Gemfile
 - Gemfile.lock

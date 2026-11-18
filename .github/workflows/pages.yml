@@ -53,10 +53,14 @@ jobs:
           JEKYLL_ENV: production
       - name: Restore exact archived HTML and assets outside Jekyll template processing
         run: |
-          if [ -d archiwum ]; then
-            mkdir -p _site/archiwum
-            cp -a archiwum/. _site/archiwum/
-          fi
+          # Jekyll renders archiwum/index.html as the navigation page.
+          # Only exact source mirrors bypass Jekyll to preserve original bytes.
+          for source in swch wswch; do
+            if [ -d "archiwum/$source" ]; then
+              mkdir -p "_site/archiwum/$source"
+              cp -a "archiwum/$source/." "_site/archiwum/$source/"
+            fi
+          done
           python3 scripts/rebuild_large_assets.py --output _site
       - name: Upload site
         uses: actions/upload-pages-artifact@v3

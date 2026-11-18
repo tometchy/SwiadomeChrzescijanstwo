@@ -6,6 +6,7 @@ on:
     paths:
       - 'scripts/migrate_all.py'
       - 'scripts/strict_audit.py'
+      - 'scripts/verify_reachable.py'
       - 'scripts/validate_site.py'
       - '_config.yml'
       - '.github/workflows/migrate-content.yml'
@@ -34,12 +35,18 @@ jobs:
         id: status
         shell: bash
         run: |
-          if [[ -f migration-report.json ]] && python3 -c "import json;assert json.load(open('migration-report.json'))['status']=='VERIFIED'" && [[ "${{ github.event_name }}" != 'workflow_dispatch' ]]; then
+          if [[ -f migration-report.json ]] && python3 -c "import json; d=json.load(open('migration-report.json')); assert d['status'] in ('VERIFIED','INCOMPLETE') and d['summary']['source_html_pages'] >= 594" && [[ "${{ github.event_name }}" != 'workflow_dispatch' ]]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
-            echo 'Import jest już zapisany; zwykły push nie pobiera całej czytelni ponownie.'
+            echo 'Archiwum istnieje: sprawdź jego sumy kontrolne bez pobierania plików ponownie.'
           else
             echo "skip=false" >> "$GITHUB_OUTPUT"
           fi
+      - name: Audit the already imported archive on every code change
+        if: steps.status.outputs.skip == 'true'
+        run: |
+          python3 -m pip install --disable-pip-version-check beautifulsoup4 PyYAML
+          python3 scripts/strict_audit.py
+          python3 scripts/verify_reachable.py
       - uses: actions/setup-python@v5
         if: steps.status.outputs.skip == 'false'
         with:
@@ -91,9 +98,15 @@ jobs:
           PY
           fi
 
-      - name: Enforce complete 1:1 source coverage after saving recovery checkpoint
+      - name: Verify exact downloaded resources; report originally broken links
         if: steps.status.outputs.skip == 'false'
-        run: python scripts/strict_audit.py --require-import
+        run: |
+          python scripts/verify_reachable.py
+          if python -c "import json; assert json.load(open('migration-report.json'))['status']=='VERIFIED'"; then
+            python scripts/strict_audit.py --require-import
+          else
+            echo 'WARNING: Source links returning HTTP 404 remain in the report. Not a complete 1:1 migration.'
+          fi
 
       - name: Upload migration audit if import fails
         if: always() && steps.status.outputs.skip == 'false'

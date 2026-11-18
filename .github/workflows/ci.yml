@@ -28,6 +28,7 @@ jobs:
           python -m pytest -q tests/
           python scripts/validate_site.py
           python scripts/strict_audit.py
+          if [ -f migration-report.json ]; then python scripts/verify_reachable.py; fi
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'

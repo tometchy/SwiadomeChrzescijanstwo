@@ -11,5 +11,9 @@ def test_temporary_pages_url():
 
 def test_deploy_keeps_integrity_gate():
     pages=(ROOT/'.github/workflows/pages.yml').read_text()
-    assert 'strict_audit.py --require-import' in pages
+    assert 'scripts/strict_audit.py' in pages
+    assert 'scripts/verify_reachable.py' in pages
     assert 'actions/deploy-pages@v4' in pages
+    migration=(ROOT/'.github/workflows/migrate-content.yml').read_text()
+    assert 'strict_audit.py --require-import' in migration
+    assert "workflow_dispatch:" in migration

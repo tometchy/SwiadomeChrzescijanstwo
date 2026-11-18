@@ -10,14 +10,14 @@ Przewidywany adres: https://tometchy.github.io/SwiadomeChrzescijanstwo/
 3. Pole `Custom domain` musi pozostać **puste**. Nie tworzymy `CNAME`.
 4. Jeżeli workflow migracji nie może wysłać plików, sprawdź `Settings → Actions → General → Workflow permissions → Read and write permissions` i ograniczenia gałęzi `master`. Workflow deklaruje `contents: write`.
 5. Wejdź do `Actions`. Początkowy proces `Bootstrap Jekyll source bundle` importuje pliki do `master`, a następnie `Jednorazowa migracja treści swch.pl i wswch.pl` pobiera archiwum.
-6. Zobacz raport importu `migration-audit` oraz `migration-report.json`. Bez poprawnego raportu **publikacja jest blokowana** zgodnie z wymaganiem niezmienności treści.
-7. Po udanym imporcie i audycie `Publish Jekyll to GitHub Pages` skompiluje Jekyll i opublikuje serwis. Sprawdź właściwy URL w `Settings → Pages`.
+6. Archiwum dostępnych stron jest już zapisane w `master`. Raport `migration-report.json` zawiera listę HTTP 404 i 50 artykułów zachowanych wyłącznie jako oryginalne kopie HTML. Przy kolejnych pushach nie pobieramy archiwum od nowa.
+7. `Publish Jekyll to GitHub Pages` opublikuje **tylko podgląd** po pozytywnym sprawdzeniu SHA-256 i kompletności wszystkich naprawdę pobranych plików. Sprawdź adres w `Settings → Pages`. Nigdy nie oznaczaj tego podglądu jako pełnego audytu 1:1.
 
 ## Pipeline'y
 
 - `.github/workflows/ci.yml` — Python unit tests, składnia, walidacja 41/39, suchy build Jekylla bez udawania pełnej migracji.
 - `.github/workflows/migrate-content.yml` — jednorazowy import źródłowych HTML i plików wraz z rygorystycznym audytem; raport błędów jako artefakt.
-- `.github/workflows/pages.yml` — publikacja dopiero po udanym imporcie i kontroli treści.
+- `.github/workflows/pages.yml` — automatyczna publikacja PODGLĄDU po kontroli kopii pobranych plików (`scripts/verify_reachable.py`). Pełny audyt 1:1 jest osobnym, surowszym wymogiem przed zmianą domeny.
 
 ## Dalsza zmiana domeny
 
@@ -33,13 +33,13 @@ Dawny projekt graficzny w szablonie Kaira zachowano w gałęzi `backup/legacy-ka
 
 Pierwsza próba instalacji zgłosiła brak uprawnienia `workflows` dla tokenu GitHub Actions; poprawiono to przez oddzielne zapisanie trzech workflow z uprawnionego połączenia GitHub, przed automatycznym odtworzeniem pozostałych plików. Ponowny bootstrap zakończył się sukcesem.
 
-`GitHub Pages` nie opublikuje serwisu, dopóki `migration-report.json` nie potwierdzi zaimportowania treści i nie przejdzie `scripts/strict_audit.py --require-import`. To celowe zabezpieczenie przed częściową migracją.
+Podgląd GitHub Pages używa weryfikacji rzeczywiście pobranych źródeł i nie uznaje ich za pełny wynik 1:1. Pełna kontrola `scripts/strict_audit.py --require-import` pozostaje wymagana przed migracją domeny i zamknięciem audytu.
 
 ## Checkpoint przy niepełnym imporcie
 
 Crawl GitHub Actions z 18.11.2026 pobrał 594 oryginalne strony HTML, zmapował 487 artykułów do Jekylla oraz pobrał 112 plików. Wykazał 159 błędów (109 odpowiedzi 404 i 50 różnic wyłącznie w białych znakach podczas przenoszenia artykułów). Pełna zgodność całej witryny nie została potwierdzona.
 
-Workflow migracji zapisuje teraz również **niekompletny** import (oryginalne bajty, Markdown i `migration-report.json`) w repozytorium, ale nadal kończy się błędem, jeśli status jest inny niż `VERIFIED`. Artykuły nieprzekształcone bezstratnie pojawiają się w spisie jako linki do oryginalnych plików HTML. Strona publiczna pozostaje zablokowana przez `scripts/strict_audit.py --require-import`.
+Workflow zapisuje **niekompletny** import, ale kończy się sukcesem podglądowym wyłącznie po walidacji pobranych plików. Artykuły nieprzekształcone bezstratnie są dostępne jako linki do oryginalnych HTML. Błędy HTTP 404 pozostają jawne w raporcie i w zgłoszeniu GitHub Issue #1.
 
 CI zapisuje plik `jekyll-preview` dostępny w zakładce Actions do pobrania i obejrzenia lokalnie. Nie jest to wdrożenie GitHub Pages.
 

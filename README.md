@@ -1,10 +1,10 @@
 # Świadome Chrześcijaństwo — Jekyll, tryb zgodności treści ze źródłem
 
-**Status: NIEZAKOŃCZONA WERYFIKACJA 1:1.** Nie zmieniaj jeszcze DNS. W środowisku przygotowującym ZIP nie udało się pobrać kompletnych oryginalnych stron internetowych.
+**Status: PODGLĄD Z ZACHOWANYCH ŹRÓDEŁ; PEŁNA WERYFIKACJA 1:1 NIEZAKOŃCZONA.** GitHub Actions zapisało do repozytorium 594 oryginalne strony HTML, 487 bezstratnie przekonwertowanych artykułów oraz 112 plików. Oryginalne HTML kolejnych 50 artykułów pozostają dostępne bez konwersji. 109 adresów ze starego serwisu odpowiada HTTP 404. Nie zmieniaj jeszcze DNS.
 
-## Co jest w ZIP
+## Co jest w repozytorium
 
-- 41 kart książek i 39 kart broszur. Tytuły, autorzy, wydania, historyczne ceny i statusy zostały przepisane z publicznego katalogu `https://www.wswch.pl/` z 17.11.2026 bez poprawiania błędów oryginału. W `source_text_verified` jest **false** aż do pobrania i zweryfikowania oryginalnego HTML.
+- 41 kart książek i 39 kart broszur. Tytuły, autorzy, wydania, historyczne ceny i statusy zostały przepisane z publicznego katalogu `https://www.wswch.pl/` z 17.11.2026 bez poprawiania błędów oryginału. Po imporcie katalog został zweryfikowany względem rzeczywiście pobranej tabeli HTML (`source_text_verified: true`).
 - 17 zachowanych linków do ofert Allegro (dystrybutor `Piotr448` potwierdzony przez właściciela). Linki są technicznymi odnośnikami i nie zmieniają treści oryginalnych katalogów.
 - Usunięte dwa napisane przez asystenta artykuły oraz wszystkie własne opisy książek, marketingowe slogany, fikcyjne streszczenia i dopisane interpretacje.
 - Teksty wstawione na stronę główną i podstrony informacyjne pochodzą z oryginalnej zawartości obu witryn; przed produkcją wymagają porównania z bajtami źródłowymi.
@@ -16,9 +16,9 @@
 
 1. Repozytorium docelowe: `tometchy/SwiadomeChrzescijanstwo`, gałąź `master`. Poprzednią ręczną inspirację zachowano w `backup/legacy-kaira-2025`.
 2. Włącz `Settings → Actions → General → Workflow permissions → Read and write permissions`, jeśli akcja nie może zapisywać importu. W `Settings → Pages` wybierz publikację przez GitHub Actions.
-3. Push uruchomi `.github/workflows/migrate-content.yml`. Import **kończy się błędem**, jeśli pobranie choćby jednego odkrytego zasobu albo porównanie tekstu się nie powiedzie. Raport błędów będzie dostępny jako artefakt działania.
-4. Workflow wdrożeniowy `.github/workflows/pages.yml` nie opublikuje strony bez pozytywnej weryfikacji `scripts/strict_audit.py --require-import`.
-5. Po imporcie zweryfikuj spis adresów i przytoczone treści w `migration-report.json` i `STRICT_AUDIT.json`, a następnie rzeczywiste wyświetlanie na podglądowej domenie.
+3. GitHub Actions zaimportowało i zapisało dostępne źródła. Zwykłe zmiany w `master` weryfikują zapisane pliki, bez ponownego ściągania kilkuset stron; ręczne uruchomienie `Jednorazowa migracja treści...` w `Actions → Run workflow` wymusza nowe pobranie źródeł.
+4. Workflow `.github/workflows/pages.yml` publikuje **tymczasowy podgląd** po pozytywnym sprawdzeniu bajtów, SHA-256, artykułów i katalogu przez `scripts/verify_reachable.py` oraz `scripts/strict_audit.py`. Wykryte źródłowe HTTP 404 pozostają w raporcie. To NIE jest pozytywny pełny audyt 1:1.
+5. Pełny audyt `scripts/strict_audit.py --require-import` nadal wymaga statusu `VERIFIED`, a więc bezbłędnej migracji wszystkich znalezionych URL. Nie przełączaj domeny przed ręczną kontrolą braków.
 
 ### Lokalnie na Linux Mint / Ubuntu
 
@@ -45,6 +45,6 @@ bundle install && bundle exec jekyll build
 
 ## GitHub Pages pod adresem tymczasowym
 
-Zobacz `DEPLOY_GITHUB_PAGES.md`. URL projektu to `https://tometchy.github.io/SwiadomeChrzescijanstwo/`; nie konfiguruj `CNAME` ani własnego DNS. Repozytorium jest obecnie prywatne: na darmowym planie GitHub Pages wymaga repozytorium publicznego; na GitHub Pro/Team/Enterprise może być prywatne.
+Zobacz `DEPLOY_GITHUB_PAGES.md`. URL projektu to `https://tometchy.github.io/SwiadomeChrzescijanstwo/`; nie konfiguruj `CNAME` ani własnego DNS. Repozytorium zostało już ustawione jako publiczne. W `Settings → Pages` wybierz źródło **GitHub Actions**.
 
-Import 1:1 nadal wymaga kontroli: nawet pomyślny crawl nie dowodzi obecności osieroconych zasobów niepowiązanych odnośnikami. Strona pozostaje zablokowana dla publikacji, jeśli raport importu jest niekompletny.
+Podgląd można opublikować z niekompletnym raportem WYŁĄCZNIE wtedy, gdy **wszystkie pobrane bajty i artykuły są sprawdzone**, a pozostałe błędy ograniczają się do oryginalnych HTTP 404 i udokumentowanych kopii HTML artykułów. Nie oznacza to, że pełna migracja 1:1 została zakończona.

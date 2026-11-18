@@ -18,7 +18,7 @@ import shutil
 import sys
 import time
 import unicodedata
-from collections import defaultdict, deque
+from collections import Counter, defaultdict, deque
 from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import unquote, urljoin, urlsplit, urlunsplit, quote
@@ -471,6 +471,7 @@ def write_content(pages, assets, errors, names, asset_titles, args, large_files=
     except Exception as exc:
         errors.append({'type':'catalog-verification','error':str(exc)})
     article_records=[]
+    fallback_records=[]
     for url,soup in sorted(pages.items()):
         # Full old page HTML is already published byte-for-byte in /archiwum/<site>/.
         # Only editorial articles also become Jekyll collection documents.
@@ -500,7 +501,11 @@ def write_content(pages, assets, errors, names, asset_titles, args, large_files=
             article_records.append({'source_url':url,'path':str(dest.relative_to(ROOT)),'permalink':permalink,'sha256':source_hash,'source_char_count':count})
         except Exception as exc:
             errors.append({'url':url,'type':'article-text','error':str(exc)})
-    report['articles_discovered']=len(article_records)
+            alias=normalize_url(url)[0]
+            fallback_records.append({'title':title_of(soup,url,names),'category':section_of(url),'source_url':url,'url':'/archiwum/'+alias+'/'+str(relative_path(url)).replace('\\','/')})
+    report['articles_discovered']=len(article_records)+len(fallback_records)
+    report['articles_archived_only']=len(fallback_records)
+    (ROOT/'_data'/'fallback_articles.yml').write_text(yaml.safe_dump(fallback_records,allow_unicode=True,sort_keys=False,width=250),encoding='utf-8')
     docs,tnp=[],[]
     for url,soup in pages.items():
         alias,_=normalize_url(url)
@@ -533,11 +538,15 @@ def write_content(pages, assets, errors, names, asset_titles, args, large_files=
         archive_index.append({'title':title_of(soup,url,names),'url':'/archiwum/'+alias+'/'+str(relative_path(url)),'source_url':url,'source_site':alias})
     (ROOT/'_data'/'legacy_pages.yml').write_text(yaml.safe_dump(archive_index,allow_unicode=True,sort_keys=False,width=250),encoding='utf-8')
     report['errors']=len(errors)
-    result={'status':'VERIFIED' if not errors and report['books_verified']==41 and report['brochures_verified']==39 else 'INCOMPLETE', 'summary':report, 'articles':article_records,'archived_html_pages':archived, 'assets':assets,'catalog_changes_from_online_source':changes,'errors':errors, 'limitations':['Unlinked URLs cannot be discovered automatically; verify source sitemap and backups','External-hosted assets are outside two domains']}
+    report['source_to_new_text_diffs']=sum(x.get('type') == 'article-text' for x in errors)
+    report['error_types']=dict(Counter(x.get('type', 'unknown') for x in errors))
+    result={'status':'VERIFIED' if not errors and report['books_verified']==41 and report['brochures_verified']==39 else 'INCOMPLETE', 'summary':report, 'articles':article_records,'fallback_articles':fallback_records,'archived_html_pages':archived, 'assets':assets,'catalog_changes_from_online_source':changes,'errors':errors, 'limitations':['Unlinked URLs cannot be discovered automatically; verify source sitemap and backups','External-hosted assets are outside two domains']}
     (ROOT/'migration-report.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')
-    # The site must not publish if any of its known source URLs could not be copied.
+    # Save partial captures without ever claiming they are verified.
     if result['status']!='VERIFIED':
-        raise RuntimeError('Odmowa oznaczenia migracji 1:1: '+str(len(errors))+' błędów; czytaj migration-report.json')
+        if not getattr(args,'allow_incomplete',False):
+            raise RuntimeError('Odmowa oznaczenia migracji 1:1: '+str(len(errors))+' błędów; czytaj migration-report.json')
+        print('IMPORT NIEKOMPLETNY: zapisano oryginalne pobrane bajty. Publikacja 1:1 pozostaje zablokowana.',flush=True)
     print(json.dumps(report,ensure_ascii=False,indent=2),flush=True)
 
 
@@ -550,8 +559,11 @@ if __name__ == '__main__':
     parser.add_argument('--max-total-mb', type=int, default=1400)
     parser.add_argument('--offline-dir', help='Folder archiwalnych plików: swch/... i wswch/... (dla testów/backupów)')
     parser.add_argument('--overwrite', action='store_true', help='Odtwórz wcześniej migrowane Markdown z oryginału')
-    parser.add_argument('--fail-on-errors', action='store_true', help='Zakończ błędem, jeśli jakikolwiek plik jest niedostępny')
+    parser.add_argument('--allow-incomplete', action='store_true', help='Zapisz częściowy import do naprawy; raport nadal INCOMPLETE')
+    parser.add_argument('--fail-on-errors', action='store_true', help='Tryb rygorystyczny (domyślny)')
     args = parser.parse_args()
+    if args.allow_incomplete and args.fail_on_errors:
+        parser.error('--allow-incomplete i --fail-on-errors wykluczają się')
     try:
         count = mirror(args)
         print(f'Gotowe: {count[0]} HTML, {count[1]} plików, {count[2]} błędów. Szczegóły w migration-report.json')

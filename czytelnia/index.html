@@ -24,6 +24,9 @@ permalink: /czytelnia/
   {% assign article_count = article_count | plus: 1 %}
   <a class="article-card" href="{{ article.url | relative_url }}" data-article-search="{{ article.title | escape }} {{ article.author | escape }} {{ article.category | escape }}"><span class="eyebrow eyebrow-dark">{{ article.category }}</span><h3>{{ article.title }}</h3><span class="link-strong">Czytaj tekst ↗</span></a>
   {% endif %}{% endfor %}
+  {% for fallback in site.data.fallback_articles %}{% if fallback.category == section.title %}
+  <a class="article-card" href="{{ fallback.url | relative_url }}" data-article-search="{{ fallback.title | escape }} {{ fallback.category | escape }}"><span class="eyebrow eyebrow-dark">{{ fallback.category }}</span><h3>{{ fallback.title }}</h3><span class="link-strong">Czytaj oryginalny HTML ↗</span></a>
+  {% endif %}{% endfor %}
   {% if article_count == 0 %}{% endif %}
   </div>
 </section>
@@ -31,6 +34,7 @@ permalink: /czytelnia/
 {% assign other_count = 0 %}
 <section class="reading-category" id="pozostale"><div class="section-head"><div><h2>Pozostałe publikacje</h2></div></div><div class="article-cards">
 {% for article in sorted_articles %}{% assign found = false %}{% for section in site.data.archive %}{% if article.category == section.title %}{% assign found = true %}{% endif %}{% endfor %}{% unless found %}{% assign other_count = other_count | plus: 1 %}<a class="article-card" href="{{ article.url | relative_url }}" data-article-search="{{ article.title | escape }} {{ article.author | escape }}"><span class="eyebrow eyebrow-dark">{{ article.category }}</span><h3>{{ article.title }}</h3><span class="link-strong">Czytaj tekst ↗</span></a>{% endunless %}{% endfor %}
+{% for fallback in site.data.fallback_articles %}{% assign found_fallback = false %}{% for section in site.data.archive %}{% if fallback.category == section.title %}{% assign found_fallback = true %}{% endif %}{% endfor %}{% unless found_fallback %}<a class="article-card" href="{{ fallback.url | relative_url }}" data-article-search="{{ fallback.title | escape }} {{ fallback.category | escape }}"><span class="eyebrow eyebrow-dark">{{ fallback.category }}</span><h3>{{ fallback.title }}</h3><span class="link-strong">Czytaj oryginalny HTML ↗</span></a>{% endunless %}{% endfor %}
 </div></section>
 
 </div></section>

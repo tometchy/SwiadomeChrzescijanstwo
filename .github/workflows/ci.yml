@@ -34,3 +34,9 @@ jobs:
           bundler-cache: true
       - name: Budowanie statycznego Jekylla (bez publikacji)
         run: bundle exec jekyll build --trace
+      - name: Downloadable site preview (not a published website)
+        uses: actions/upload-artifact@v4
+        with:
+          name: jekyll-preview
+          path: _site/
+          retention-days: 14

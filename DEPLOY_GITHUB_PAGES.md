@@ -34,3 +34,13 @@ Dawny projekt graficzny w szablonie Kaira zachowano w gałęzi `backup/legacy-ka
 Pierwsza próba instalacji zgłosiła brak uprawnienia `workflows` dla tokenu GitHub Actions; poprawiono to przez oddzielne zapisanie trzech workflow z uprawnionego połączenia GitHub, przed automatycznym odtworzeniem pozostałych plików. Ponowny bootstrap zakończył się sukcesem.
 
 `GitHub Pages` nie opublikuje serwisu, dopóki `migration-report.json` nie potwierdzi zaimportowania treści i nie przejdzie `scripts/strict_audit.py --require-import`. To celowe zabezpieczenie przed częściową migracją.
+
+## Checkpoint przy niepełnym imporcie
+
+Crawl GitHub Actions z 18.11.2026 pobrał 594 oryginalne strony HTML, zmapował 487 artykułów do Jekylla oraz pobrał 112 plików. Wykazał 159 błędów (109 odpowiedzi 404 i 50 różnic wyłącznie w białych znakach podczas przenoszenia artykułów). Pełna zgodność całej witryny nie została potwierdzona.
+
+Workflow migracji zapisuje teraz również **niekompletny** import (oryginalne bajty, Markdown i `migration-report.json`) w repozytorium, ale nadal kończy się błędem, jeśli status jest inny niż `VERIFIED`. Artykuły nieprzekształcone bezstratnie pojawiają się w spisie jako linki do oryginalnych plików HTML. Strona publiczna pozostaje zablokowana przez `scripts/strict_audit.py --require-import`.
+
+CI zapisuje plik `jekyll-preview` dostępny w zakładce Actions do pobrania i obejrzenia lokalnie. Nie jest to wdrożenie GitHub Pages.
+
+Aby uruchomić domyślny adres `https://tometchy.github.io/SwiadomeChrzescijanstwo/` na GitHub Free, ustaw repozytorium na **Public** (Settings → General → Danger Zone → Change repository visibility), a następnie Settings → Pages → Source → GitHub Actions. Na GitHub Pro można pozostawić prywatne repozytorium. Nie twórz pliku CNAME ani nie ustawiaj własnej domeny.

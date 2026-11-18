@@ -44,7 +44,7 @@ def validate(require_import=False):
             import urllib.parse
             origin=urllib.parse.urlsplit(data['source_url'])
             alias='wswch' if origin.hostname and 'wswch.pl' in origin.hostname else 'swch'
-            local_path=origin.path.lstrip('/') or 'index.html'
+            local_path=urllib.parse.unquote(origin.path).lstrip('/') or 'index.html'
             archive=ROOT/'_source_archive'/alias/local_path
             if not archive.is_file(): errors.append(f'{p}: brak surowego pliku źródła')
             else:

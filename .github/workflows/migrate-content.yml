@@ -1,6 +1,12 @@
 name: Jednorazowa migracja treści swch.pl i wswch.pl
 
 on:
+  push:
+    branches: [master]
+    paths:
+      - 'scripts/migrate_all.py'
+      - 'scripts/strict_audit.py'
+      - '.github/workflows/migrate-content.yml'
   workflow_dispatch:
   workflow_run:
     workflows: ['Bootstrap Jekyll source bundle']
@@ -47,10 +53,10 @@ jobs:
       - name: Import accessible original articles and assets
         if: steps.status.outputs.skip == 'false'
         run: |
-          python scripts/migrate_all.py --max-pages 6000 --max-assets 5000 --max-total-mb 1400 --delay 0.3 --overwrite --fail-on-errors
-      - name: Verify strict textual and raw HTML integrity
+          python scripts/migrate_all.py --max-pages 6000 --max-assets 5000 --max-total-mb 1400 --delay 0.3 --overwrite --allow-incomplete
+      - name: Verify copies and article text already imported
         if: steps.status.outputs.skip == 'false'
-        run: python scripts/strict_audit.py --require-import
+        run: python scripts/strict_audit.py
       - name: Cache available Polish cover photos
         if: steps.status.outputs.skip == 'false'
         run: python scripts/cache_covers.py
@@ -82,6 +88,10 @@ jobs:
               print('WARNING: The original sites have missing or non-importable resources. Review migration-report.json before DNS cutover.')
           PY
           fi
+
+      - name: Enforce complete 1:1 source coverage after saving recovery checkpoint
+        if: steps.status.outputs.skip == 'false'
+        run: python scripts/strict_audit.py --require-import
 
       - name: Upload migration audit if import fails
         if: always() && steps.status.outputs.skip == 'false'

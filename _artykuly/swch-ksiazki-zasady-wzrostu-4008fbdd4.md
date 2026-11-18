@@ -13,10 +13,10 @@ source_verified: true
 
 <table border="0" width="100%">
 <tr>
-<td valign="top"><font size="2">[</font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/"><font size="2">Następny
+<td valign="top"><font size="2">[</font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/"><font size="2">Następny
         rozdział</font></a><font size="2"> | Poprzedni rozdział
-        | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></td>
-<td align="right" valign="top"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+        | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></td>
+<td align="right" valign="top"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <h1>Zasady duchowego wzrostu</h1>
@@ -60,35 +60,35 @@ Back to the Bible Broadcast</i> <a name="spis"></a> </p>
 <h2>SPIS TREŚCI</h2>
 <blockquote>
 <dir>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/">WIARA</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">CZAS</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">AKCEPTACJA</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">CEL</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">PRZYSPOSABIANIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">PEŁNIA W NIM</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-07-51522a94e/">PRZYJĘCIE NASZEJ
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/">WIARA</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">CZAS</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">AKCEPTACJA</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">CEL</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">PRZYSPOSABIANIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">PEŁNIA W NIM</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-07-51522a94e/">PRZYJĘCIE NASZEJ
             WŁASNOŚCI</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">UTOŻSAMIENIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-09-cbed99f6f/">POŚWIĘCENIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">"STARY
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">UTOŻSAMIENIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-09-cbed99f6f/">POŚWIĘCENIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">"STARY
             CZŁOWIEK"</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">ZAPARCIE SIĘ SIEBIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">KRZYŻ - BOŻA DROGA</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">KRZYŻ</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">UCZNIOSTWO</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">PROCES UCZNIOSTWA</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">ODPOCZNIENIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">POMOC</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">DOSKONALENIE</a></li>
-<li><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-19-be1a695e8/">TRWANIE</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">ZAPARCIE SIĘ SIEBIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">KRZYŻ - BOŻA DROGA</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">KRZYŻ</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">UCZNIOSTWO</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">PROCES UCZNIOSTWA</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">ODPOCZNIENIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">POMOC</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">DOSKONALENIE</a></li>
+<li><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-19-be1a695e8/">TRWANIE</a><br/>
 </li>
 </dir>
 </blockquote>
 <table border="0">
 <tr>
-<td valign="top"><font size="2">[</font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/"><font size="2">Następny
+<td valign="top"><font size="2">[</font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-01-6d6c85bdf/"><font size="2">Następny
         rozdział</font></a><font size="2"> | Poprzedni rozdział
-        | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font><p><font size="2">(1999.06.22) Wersję HTML przygotował </font><a href="mailto:wasilewski@Jezus.pl"><font size="2">Piotr
+        | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font><p><font size="2">(1999.06.22) Wersję HTML przygotował </font><a href="mailto:wasilewski@Jezus.pl"><font size="2">Piotr
         Wasilewski</font></a></p>
 </td>
 </tr>

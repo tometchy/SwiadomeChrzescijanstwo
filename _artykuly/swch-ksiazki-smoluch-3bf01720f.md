@@ -16,7 +16,7 @@ source_verified: true
 <td valign="TOP"><h1>Paweł Smoluch<br/>
 <font size="5">Opowieść byłego katorżnika</font></h1>
 </td>
-<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <p>Przezwisko "Smoluch" otrzymał Paweł, mając lat

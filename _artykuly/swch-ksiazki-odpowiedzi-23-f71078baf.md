@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 23<br/>
 AUTORYTET PISMA ŚWIĘTEGO </h1>
 <p><em>"Dąż do tego, aby być doskonale posłusznym napisanemu prawu, inaczej mówiąc do tego, aby nie mieć żadnej społeczności z grzechem. Jeżeli jednak mimo wszystko grzeszysz, to niech to stanie się twoim codziennym smutkiem. Człowiek, który nie ma zamiaru nakierować siebie na przestrzeganie prawa, planuje żyć w grzechu. Taki człowiek nie powinien oczekiwać na Boże błogosławieństwo, ponieważ nie jest on szczery w pragnieniu przestrzegania wszystkich Bożych przykazań". </em></p>
@@ -21,6 +21,6 @@ AUTORYTET PISMA ŚWIĘTEGO </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy. </strong></p>
 <p>Czy całkowicie oddałem się Jezusowi Chrystusowi, decydując się być posłusznym we wszystkim według Jego Słowa? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

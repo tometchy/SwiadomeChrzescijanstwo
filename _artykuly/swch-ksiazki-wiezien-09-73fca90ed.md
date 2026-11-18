@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>9</h1></div>
 <p class="akapit">Proteusz spojrzał w górę, aby zbadać przyczynę hałasu dochodzącego od szczytu schodów. Zobaczył cień więźnia, stojącego pomiędzy dwoma strażnikami. Skuty kajdanami powoli, mozolnie schodził w dół po wąskich, stromych schodach.</p>
 <p class="akapit">Proteusz nie mógł nic na to poradzić, że pomyślał: zawsze wyobrażałem sobie, że jesteś gigantem, tymczasem tutaj wydajesz się tak zwyczajny. Wyglądasz... wręcz słabo.</p>
@@ -35,6 +35,6 @@ source_verified: true
 <p class="akapit">Z pierwszej celi odezwał się nagle jakiś głos.</p>
 <p class="akapit">- Co powiedziałeś?! Czyżby wtrącili tu Jana Chrzciciela?!</p>
 <p class="akapit">Proteusz westchnął. On i każdy człowiek w tym miejscu wiedział, co teraz ma nadejść.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

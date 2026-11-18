@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>8</h1></div>
 <p class="akapit">- Powiedz mi coś o moim kuzynie - poprosił Jan.
 <p class="akapit">- Obecnie jest w Galilei. Ma, podobnie jak ty, dwunastu uczniów. Są jeszcze inni, około pięćdziesięciu czy sześćdziesięciu, którzy są zawsze z nim. Wędruje od miasta do miasta, zwiastując.
@@ -29,6 +29,6 @@ source_verified: true
 <p class="akapit">- Nasz król - zawołał Jan - wziął sobie żonę swego brata. Herod ściągnął na siebie gniew Boży. Również i jego żona, Herodiada nie będzie oszczędzona.
 <p class="akapit">Nie później jak następnego ranka Herod tetrarcha usłyszał o Janowym oskarżeniu. A kiedy usłyszał, wpadł w furię. Jego gniew był jednak niczym w porównaniu z gniewem jego żony, która poprzysięgła Janowi możliwie najstraszliwszą zemstę. Gnana pragnieniem rewanżu, uprosiła swego męża, aby aresztował Jana i wtrącił do lochu. Natychmiast! Nie oznaczało to wszakże końca jej niegodziwych zamysłów.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

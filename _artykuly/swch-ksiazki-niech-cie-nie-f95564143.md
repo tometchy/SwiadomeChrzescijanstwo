@@ -46,29 +46,29 @@ konsekwencji oszustwa.</font></p>
 <blockquote>
 <ul>
 <li><font face="Tahoma" size="2"><strong>Podziękowania</strong></font></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-02-68966029f/"><font face="Tahoma" size="2"><strong>Przedmowa</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-02-68966029f/"><font face="Tahoma" size="2"><strong>Przedmowa</strong></font></a></li>
 <li><font face="Tahoma" size="2"><strong>Prolog:
             Prawdziwy czy fałszywy?</strong></font></li>
 </ul>
 <ol>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-04-289046ae5/"><font face="Tahoma" size="2"><strong>Fałszywi mesjasze i fałszywi
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-04-289046ae5/"><font face="Tahoma" size="2"><strong>Fałszywi mesjasze i fałszywi
             prorocy</strong></font></a></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-05-479d8b1c4/"><font face="Tahoma" size="2"><strong>Zewnętrzny wygląd</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-05-479d8b1c4/"><font face="Tahoma" size="2"><strong>Zewnętrzny wygląd</strong></font></a></li>
 <li><font face="Tahoma" size="2"><strong>Wewnętrzna
             natura (1)</strong></font></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-07-1f90daece/"><font face="Tahoma" size="2"><strong>Wewnętrzna natura (2)</strong></font></a></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-08-db0856ff9/"><font face="Tahoma" size="2"><strong>Przesłanie</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-07-1f90daece/"><font face="Tahoma" size="2"><strong>Wewnętrzna natura (2)</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-08-db0856ff9/"><font face="Tahoma" size="2"><strong>Przesłanie</strong></font></a></li>
 <li><font face="Tahoma" size="2"><strong>Zadanie i skutki
             (1)</strong></font></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-10-b368768b0/"><font face="Tahoma" size="2"><strong>Zadanie i skutki (2)</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-10-b368768b0/"><font face="Tahoma" size="2"><strong>Zadanie i skutki (2)</strong></font></a></li>
 <li><font face="Tahoma" size="2"><strong>Antychryst (1)</strong></font></li>
 <li><font face="Tahoma" size="2"><strong>Antychryst (2)</strong></font></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-13-bc58c94db/"><font face="Tahoma" size="2"><strong>Przyczyny i lekarstwo</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-13-bc58c94db/"><font face="Tahoma" size="2"><strong>Przyczyny i lekarstwo</strong></font></a></li>
 <li><font face="Tahoma" size="2"><strong>Zakończenie</strong></font></li>
 </ol>
 <ul>
 <li><font face="Tahoma" size="2"><strong>Epilog </strong></font></li>
-<li><a href="/czytelnia/swch-ksiazki-niech-cie-nie-16-259914748/"><font face="Tahoma" size="2"><strong>Odnośne fragmenty z Pisma</strong></font></a></li>
+<li><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-16-259914748/"><font face="Tahoma" size="2"><strong>Odnośne fragmenty z Pisma</strong></font></a></li>
 </ul>
 </blockquote>
 <p> </p>

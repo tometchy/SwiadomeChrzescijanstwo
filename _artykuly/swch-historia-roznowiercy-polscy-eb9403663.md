@@ -50,7 +50,7 @@ w głowach polskich korzeniła się ta reforma niesłychanie płytko, wyskawiwa�
 też z nich za byle jakim powodem bez śladu. Wiecznie chwiejny Zygmunt August
 może uchodzić za typ większości polskich protestantów: starczy, że ks. Biskup
 uchwyci za cugle woźniki królewskie, aby króla do katolickiego kościoła
-nawrócić;<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn1" name="_ftnref1" style="mso-footnote-id:ftn1" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[1]<?endif?></span></span></a>
+nawrócić;<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn1" name="_ftnref1" style="mso-footnote-id:ftn1" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[1]<?endif?></span></span></a>
 wobec byle energiczniejszego ruchu protestantyzm polski zaraz mięknie. Albo
 taki stary Tarnowski: protestanci liczą go z tryumfem do swoich; on uwierzył
 już, że papież to „antykryst”, i ma jeszcze tylko dwa skrupuły (co do znaczenia
@@ -85,7 +85,7 @@ piszą; lecz cóż odpowiemy sami na zarzut, że zagranica ceni wysoko Polaka i
 zbiera skrzętnie każdy, choćby najdrobniejszy ślad jego życia lub pisma, a
 dostrzega z boleścią, „w jak przekrzywionych rysach własna ojczyzna postać
 jednego z największych i najszlachetniejszych swych synów po dziś dzień
-przechowuje”. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn2" name="_ftnref2" style="mso-footnote-id:ftn2" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+przechowuje”. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn2" name="_ftnref2" style="mso-footnote-id:ftn2" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[2]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
@@ -107,12 +107,12 @@ w „Ateneum” 1882 roku, zeszyt IV.<o:p></o:p></span></p>
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">Nie
 wyliczamy tu prac, jakie d zeszłego wieku we Fryzji, Danii, Niemczech Polakowi
 temu poświęcano, ani dzieł, nieraz najodleglejszych, w których coraz o nim mówią,
-albo i najnowszych, jak Bidla i Kruskiego. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn3" name="_ftnref3" style="mso-footnote-id:ftn3" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[3]<?endif?></span></span></a>
+albo i najnowszych, jak Bidla i Kruskiego. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn3" name="_ftnref3" style="mso-footnote-id:ftn3" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[3]<?endif?></span></span></a>
 Bo i któż by się spodziewał znaleźć np. w zbiorze trzystu listów sławnych
-mężów, jakie Holender Gabbema w r. 1663 i 1668 wydał<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn4" name="_ftnref4" style="mso-footnote-id:
+mężów, jakie Holender Gabbema w r. 1663 i 1668 wydał<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn4" name="_ftnref4" style="mso-footnote-id:
 ftn4" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[4]<?endif?></span></span></a>,
 sporą wiązankę listów od i do Łaskiego pisanych; albo np. w zbiorze listów oryginalnych
-co do reformacji angielskiej, wydanym przez Parker’s Society<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn5" name="_ftnref5" style="mso-footnote-id:ftn5" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[5]<?endif?></span></span></a>,
+co do reformacji angielskiej, wydanym przez Parker’s Society<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn5" name="_ftnref5" style="mso-footnote-id:ftn5" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[5]<?endif?></span></span></a>,
 znaleźć sprawozdania piwowara angielskiego Burchera, albo Utenhova z Krakowa i
 indziej z lat 1557 i 1558, tyczących znowu Polaka? Sława imienia polskiego
 sięgała wtedy rzeczywiście daleko; oczy Europy były zwrócone na Polskę; z
@@ -129,7 +129,7 @@ Holender, dr. Abraham Kuyper, wyszedłszy ze studiów nad Łaskim (w stosunku do
 Kalwina) przystąpił do zebrania wszystkiego, co po Łaskim w druku, rękopisach i
 listach pozostało, i wydał w dwóch sporych tomach (r. 1866), co po latach pracy
 z bibliotek i archiwów europejskich, od Dublina do Petersburga rozjeżdżając,
-uzbierał. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn6" name="_ftnref6" style="mso-footnote-id:ftn6" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[6]<?endif?></span></span></a>
+uzbierał. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn6" name="_ftnref6" style="mso-footnote-id:ftn6" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[6]<?endif?></span></span></a>
 Zamierzał on w tomie osobnym dodać życiorys Polaka; zamiar ten spełnił zamiast
 niego H. Dalton w obszernej, gruntownej i pięknie napisanej pracy <i style="mso-bidi-font-style:normal">Johannes a Lasco</i> (Gotha 1881, s. 557),
 przetłumaczył na język holenderski i angielski; z pracy tej korzystał głównie i
@@ -178,7 +178,7 @@ normal">Monumentum</i> Ostroroga, jako drogi dla Polaków do odnalezienia
 swobody chrześcijańskiej. Liczne karty pozostawiono niezapisanymi, aby później
 wciągnąć rzeczy potrzebne – niepobożne ręce wyrywały te i inne katry, a na pozostałych
 (białych) zapisywał jakiś poczciwy hreczkosiej w roku 1653 i 1654, ile korcy,
-garncy itd. spotrzebował. Z tego to rękopisu korzystał Dalton. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn7" name="_ftnref7" style="mso-footnote-id:ftn7" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[7]<?endif?></span></span></a><o:p></o:p></span></p>
+garncy itd. spotrzebował. Z tego to rękopisu korzystał Dalton. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn7" name="_ftnref7" style="mso-footnote-id:ftn7" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[7]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -216,7 +216,7 @@ stwierdził ją słowami:<o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">Wołają
 mnie Anglicy i domagają się niby rodaka, ponieważ, jak się zdaje, pierwsze
-początki rodu naszego od nich wywodzić możemy. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn8" name="_ftnref8" style="mso-footnote-id:ftn8" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[8]<?endif?></span></span></a>
+początki rodu naszego od nich wywodzić możemy. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn8" name="_ftnref8" style="mso-footnote-id:ftn8" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[8]<?endif?></span></span></a>
 <o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
@@ -265,9 +265,9 @@ do Bolonii podążył, dokąd się niebawem (1514) z Rzymu dla studiów przenie�
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">Grono
 bolońskie, skupione pod jednym dachem, było wcale liczne, składało się na nie
-dziesięć osób: Łascy, trzej Radziwiłowie <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn9" name="_ftnref9" style="mso-footnote-id:ftn9" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[9]<?endif?></span></span></a>,
+dziesięć osób: Łascy, trzej Radziwiłowie <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn9" name="_ftnref9" style="mso-footnote-id:ftn9" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[9]<?endif?></span></span></a>,
 kilku innej młodzieży, służba z niby ochmistrzem ks. Janem Branickim, zdającym
-skrupulatnie rachunki przed arcybiskupem. Odnośny list jego, obszerny <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn10" name="_ftnref10" style="mso-footnote-id:ftn10" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[10]<?endif?></span></span></a>,
+skrupulatnie rachunki przed arcybiskupem. Odnośny list jego, obszerny <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn10" name="_ftnref10" style="mso-footnote-id:ftn10" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[10]<?endif?></span></span></a>,
 pisany straszną łaciną (szkoła w Ruszczy, jedyna, jaką przeszedł, chyba
 niewysoko stała), pozwala nam wejrzeć w tryb życia bolońskiego. Prowadzą własne
 gospodarstwo, kupili nawet wagę, na której Radziwiłł wiktuały odważa, by
@@ -293,7 +293,7 @@ wesołość, co wszystko za powrotem brata się zmienia. O nim świadczą najpoc
 i Branicki („nigdym nie widział takiego chłopca, zaleca go najwyższa cnota; oby
 tylko długo pożył”), i Jarosz: w jego i w oczach innych<span style="mso-spacerun: yes">  </span>ożywia Jana „tak poważna stałość ... że
 wszyscy go niemal kornie czcimy ... – a nie mówię tego o nim tylko jako o
-bracie”. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn11" name="_ftnref11" style="mso-footnote-id:ftn11" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+bracie”. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn11" name="_ftnref11" style="mso-footnote-id:ftn11" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[11]<?endif?></span></span></a>
 Rzeczywiście zalecał się Jan statkiem, pilnością i pojętnością, chociaż nie
 dorównywał świetnym darom Jarosza; chętnie popisuje się listach do stryja. W
@@ -336,7 +336,7 @@ a raczej intratne dostojeństwa kościelne i sekretariat królewski, nie
 zapełniały Janowi życia; od gwaru, zgiełku, intryg dworskich ciągnęło go stale
 do ulubionych studiów humanistycznych. Raziło go otoczenie polskie, w którym
 zachodził, więcej niż gdziekolwiek indziej, tylu, co „choć o naukach pojęcia
-nie mają, mimo to nigdy milczeć nie myślą, aby ich o nieuctwo nie posądzono”; <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn12" name="_ftnref12" style="mso-footnote-id:ftn12" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[12]<?endif?></span></span></a>
+nie mają, mimo to nigdy milczeć nie myślą, aby ich o nieuctwo nie posądzono”; <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn12" name="_ftnref12" style="mso-footnote-id:ftn12" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[12]<?endif?></span></span></a>
 raził go brak światłych nauczycieli; raziła go nędza tych, co nauki pragnęli.
 Wszystko pchało go za granicę, lecz nie tylko do Włoch, ale i do środowiska
 nauk humanistycznych, do Bazylei Erazma Roterdamczyka i dalej na zachód, do
@@ -402,7 +402,7 @@ zaprzeczyć, jak korzystne wrażenie Jan na każdym, co go wtedy poznawał,
 wywierał. Częste są zwroty Erazma o jego śnieżnej czystości – prawdziwe to
 złoto i brylant szczery; zgorzkniały od chorób, prac i obmowisk starzec
 odmłodniał w miłym pożyciu z nim; raz skarży się, że „Jan Łaski (wyjazdem
-swoim) zabił wielu, a między nimi Erazma” <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn13" name="_ftnref13" style="mso-footnote-id:ftn13" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[13]<?endif?></span></span></a>
+swoim) zabił wielu, a między nimi Erazma” <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn13" name="_ftnref13" style="mso-footnote-id:ftn13" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[13]<?endif?></span></span></a>
 - najszczytniejsze świadectwo wystawił mu w dedykacji dzieł św. Ambrożego dla
 stryja:<o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -411,7 +411,7 @@ stryja:<o:p></o:p></span></p>
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">Ja,
 starzec, stałem się lepszym w pożyciu z tym młodzieńcem; starzec, nauczyłem się
 od młodzieńca, czego młodzieniec od starca nabierać by winien – trzeźwości,
-skromności, sromieżliwości, powściągliwej mowy, prawości. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn14" name="_ftnref14" style="mso-footnote-id:
+skromności, sromieżliwości, powściągliwej mowy, prawości. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn14" name="_ftnref14" style="mso-footnote-id:
 ftn14" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[14]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
@@ -444,11 +444,11 @@ rzymskimi katolikami zwać będziemy, czy nie lepiej to chrześcijanami się
 nazywać – gdzież będziemy teraz szukać opieki duchowej i nauki, gdy papieża i
 kardynałów nie stanie, czy nie lepiej zawierzyć samemu Duchowi Świętemu –
 baczcież, duchowni, by się lud od was nie odstrychnął, by nie zginęły wam wasze
-dostatki w wpływy. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn15" name="_ftnref15" style="mso-footnote-id:ftn15" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[15]<?endif?></span></span></a>
+dostatki w wpływy. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn15" name="_ftnref15" style="mso-footnote-id:ftn15" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[15]<?endif?></span></span></a>
 Na list ten Krzycki odpowiedział obszernie, z gryzącą ironią; wychłostał go
 nielitościwie, kazał własnemu życiu się przyjrzeć, prawił o urojonych zasługach
 szlachty, że jej wpływom gorsze niebezpieczeństwa grożą, nie oszczędził
-arcybiskupa nawet.<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn16" name="_ftnref16" style="mso-footnote-id:ftn16" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[16]<?endif?></span></span></a>
+arcybiskupa nawet.<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn16" name="_ftnref16" style="mso-footnote-id:ftn16" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[16]<?endif?></span></span></a>
 Lecz dotkliwa nauka wcale nie poskutkowała; w pięć lat później Jan przeprasza
 tego samego Krzyckiego w tej samej materii i uniewinnia przed nim brata i
 niepowściągliwość języka, której sam pochwalić nie może. <o:p></o:p></span></p>
@@ -517,7 +517,7 @@ rzeczy matematycznych i magicznych, niczego się – pisze do Amberacha z Krakow
 1527 r. – po tej bibliotece spodziewać nie należy; jest wiele miejsc próżnych,
 gdzie dawniej prawdopodobnie książki stały; teraz leży wszystko w kurzu i w
 pleśni. Przypuszczam, że za niedbalstwem przełożonych wiele stamtąd wykradziono
-lub ukradkiem wyprzedano. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn17" name="_ftnref17" style="mso-footnote-id:ftn17" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[17]<?endif?></span></span></a>
+lub ukradkiem wyprzedano. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn17" name="_ftnref17" style="mso-footnote-id:ftn17" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[17]<?endif?></span></span></a>
 <o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><span style="mso-tab-count:1">  </span><o:p></o:p></span></p>
@@ -535,9 +535,9 @@ do Moskwy bowiem, gdzie dotąd wiara grecka nieporuszona kwitnie, dokąd się
 Grecja przeniosła, przewieziono – twierdzi on w listach do tegóż Amerbacha – i
 odpisy najlepszych ksiąg z pierwowzorów, i znajdą się tam pewnie, choćby nigdy
 dotąd nie wydane, pisma greckich Ojców Kościoła; co uzbieram, a mam już nieco,
-prześlę do Frobena.</span><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn18" name="_ftnref18" style="mso-footnote-id:ftn18" title=""><span class="MsoFootnoteReference"><span style="font-family:Symbol;mso-ascii-font-family:Tahoma;mso-hansi-font-family:
+prześlę do Frobena.</span><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn18" name="_ftnref18" style="mso-footnote-id:ftn18" title=""><span class="MsoFootnoteReference"><span style="font-family:Symbol;mso-ascii-font-family:Tahoma;mso-hansi-font-family:
 Tahoma;mso-bidi-font-family:Tahoma;mso-char-type:symbol;mso-symbol-font-family:
-Symbol"><span style="mso-char-type:symbol;mso-symbol-font-family:Symbol">*</span></span></span></a><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn19" name="_ftnref19" style="mso-footnote-id:ftn19" title=""><span class="MsoFootnoteReference"><span style="font-family:Tahoma"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[18]<?endif?></span></span></span></a><span style="font-family:Tahoma"><o:p></o:p></span></p>
+Symbol"><span style="mso-char-type:symbol;mso-symbol-font-family:Symbol">*</span></span></span></a><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn19" name="_ftnref19" style="mso-footnote-id:ftn19" title=""><span class="MsoFootnoteReference"><span style="font-family:Tahoma"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[18]<?endif?></span></span></span></a><span style="font-family:Tahoma"><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -562,7 +562,7 @@ zaznacza wyraźnie, że<o:p></o:p></span></p>
 ile wiem, zaraza (luterska) Polski jeszcze nie tknęła, chyba że gdzie w sercach
 ludzkich się kryje; lecz jeśli raz, co Boże odwróć, przekroczy nasze granice,
 obawiam się, aby nam zło to nie sprawiło znacznie więcej kłopotów niż i Niemcom
-samym. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn20" name="_ftnref20" style="mso-footnote-id:ftn20" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[19]<?endif?></span></span></a><o:p></o:p></span></p>
+samym. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn20" name="_ftnref20" style="mso-footnote-id:ftn20" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[19]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -700,11 +700,11 @@ jeszcze chromał pod jego skutkami; należało bowiem spłacać zaciągnięte d�
 słowu i zobowiązaniom zadość uczynić. A pod tym względem obaj Łascy byli
 nadzwyczaj skrupulatni; nawet w Konstantynopolu, w niebezpieczeństwie życia i
 misji, jedna troska trapiła pana wojewodę: „jak wy tam w domu długom moim
-podołacie i słowa mego na najmniejszy szwank nie narazicie”<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn21" name="_ftnref21" style="mso-footnote-id:
+podołacie i słowa mego na najmniejszy szwank nie narazicie”<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn21" name="_ftnref21" style="mso-footnote-id:
 ftn21" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[20]<?endif?></span></span></a>
 – obaj byli całkiem odmiennych zasad od prymasa Gamrata, co to myśl o spłacaniu
 wierzyciela z największą flegmą odsuwał: „Dosyciem ja myślił, gdziem pieniędzy
-miał dostać, niechajże też on myśli, skąd mu je zapłacą.” <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn22" name="_ftnref22" style="mso-footnote-id:
+miał dostać, niechajże też on myśli, skąd mu je zapłacą.” <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn22" name="_ftnref22" style="mso-footnote-id:
 ftn22" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[21]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
@@ -723,7 +723,7 @@ rozruchy, za granicę wysłał – gdzież może być większy spokój niż u Er
 Podczas pobytu zaś w Wenecji i Bolonii w taką zażyłość wszedł z drogim Anianem,
 z którym mieszkanie i zajęcia dzielił, że w listach dziękował za wszystko, co
 Łaski Anianowi wyświadczył, jakby to jemu, Hozjuszowi, wyświadczył. Odwołał na
-koniec Łaski Aniana z Włoch, aby od studiów humanistycznych </span><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn23" name="_ftnref23" style="mso-footnote-id:ftn23" title=""></a><span class="MsoFootnoteReference"><span style="font-family:Symbol;mso-ascii-font-family:
+koniec Łaski Aniana z Włoch, aby od studiów humanistycznych </span><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn23" name="_ftnref23" style="mso-footnote-id:ftn23" title=""></a><span class="MsoFootnoteReference"><span style="font-family:Symbol;mso-ascii-font-family:
 Tahoma;mso-hansi-font-family:Tahoma;mso-bidi-font-family:Tahoma;mso-char-type:
 symbol;mso-symbol-font-family:Symbol"><span style="mso-char-type:symbol;
 mso-symbol-font-family:Symbol">*</span></span></span><span style="font-family:
@@ -752,7 +752,7 @@ pogrzebową, w której niedwuznacznie wyrażał, do czego Aniana gotowano. Na
 pogrzeb sprosił był osobną odezwą wszystkich scholarów wittenberskich; obszerny
 list jego do Łaskiego z wyrazami największego żalu jest najpiękniejszym
 pomnikiem Aniana. O nim wyraża się Hozjusz: „Klientem Łaskiego był niegdyś nasz
-Anian, którego nam losy przed czasem wydarły.”<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn24" name="_ftnref24" style="mso-footnote-id:ftn24" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[23]<?endif?></span></span></a><o:p></o:p></span></p>
+Anian, którego nam losy przed czasem wydarły.”<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn24" name="_ftnref24" style="mso-footnote-id:ftn24" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[23]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -785,7 +785,7 @@ obiecywał był stryjowi uroczyście, że biskupstwo synowca nie minie; wymienia
 też imię jego przy wielu wakansach, nawet (?) między kompetytorami o
 arcybiskupstwo po śmierci Drzewickiego (r. 1535), o czym on sam w liście do
 nowego arcybiskupa, Krzyckiego, napomykać się zdaje; również jeszcze w r. 1539,
-gdy poznańska katedra wakowała (jak ze współczesnego listu Hozjusza wynika) <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn25" name="_ftnref25" style="mso-footnote-id:ftn25" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[24]<?endif?></span></span></a>.
+gdy poznańska katedra wakowała (jak ze współczesnego listu Hozjusza wynika) <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn25" name="_ftnref25" style="mso-footnote-id:ftn25" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[24]<?endif?></span></span></a>.
 Lecz obietnica królewska nie wystarczała; należało samemu stawić się na
 targowisku Bony i datkami a obietnicami kupić, wyżebrać czy wyłudzić
 dostojeństwo i dochody, a o tym Łaski ani myślał. Pozostawiał wprawdzie
@@ -813,13 +813,13 @@ tego wobec Erazma:<o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">My
 tu pokoju zażywamy ... i staramy się, aby nam Luter i fakcje jego, którym
-wszystko złe zawdzięczamy, nie bruździli. <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn26" name="_ftnref26" style="mso-footnote-id:ftn26" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[25]<?endif?></span></span></a><o:p></o:p></span></p>
+wszystko złe zawdzięczamy, nie bruździli. <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn26" name="_ftnref26" style="mso-footnote-id:ftn26" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[25]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><span style="mso-spacerun: yes">  </span>W pięć lat później już przyznawał (1533 r.),
 ze choć nie mamy się czego od „ewanielików” obawiać, przecież zarodki poswarów
-i burz kiełkują, tłumione dotąd powagą króla-patriarchy;<a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn27" name="_ftnref27" style="mso-footnote-id:
+i burz kiełkują, tłumione dotąd powagą króla-patriarchy;<a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn27" name="_ftnref27" style="mso-footnote-id:
 ftn27" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[26]<?endif?></span></span></a>
 lecz myślał raczej o burzach wewnętrznych, politycznych, nie religijnych. W
 Polsce wiedziano niebawem o nadzwyczaj pochlebnej opinii Melanchtona o Łaskim; nie
@@ -851,7 +851,7 @@ Bożego, ze obawiam się, czy starczy nam pracowników w tym tak wielkim i już
 bielejącym się żniwie ... nie ludzkie rady, raczej łaska Boża nam ciebie dała,
 by wódz i pasterz, z pochodnią słowa Bożego na prawdziwej drodze przed nami
 kroczył; przeczuwał to szatan i wzniecał ci przeszkody, przeciwników, którzy z
-owym narzędziem Aleksandra (złotym) do rozprawy się zabierali ...<span style="mso-spacerun: yes">  </span><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn28" name="_ftnref28" style="mso-footnote-id:ftn28" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[27]<?endif?></span></span></a><o:p></o:p></span></p>
+owym narzędziem Aleksandra (złotym) do rozprawy się zabierali ...<span style="mso-spacerun: yes">  </span><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn28" name="_ftnref28" style="mso-footnote-id:ftn28" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[27]<?endif?></span></span></a><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-right:31.35pt"><span style="font-family:Tahoma"><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma">Cóż
@@ -875,7 +875,7 @@ którzy za nas to podprawiają, dla czego czasu nam szkoda – tylko obawiam si�
 czy kiedyś Pan Bóg nie poczyta naszych wymówek za bajki, czy uzna on owych
 wikarych, na których dziś wszystko spychamy, co do pieczy duchowej należy, czy
 nie z grozą zawoła; was, nie jakichś wikarych, poczyniłem stróżami trzody
-mojej, z waszych rąk patrzeć będę krwi jej ... <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn29" name="_ftnref29" style="mso-footnote-id:ftn29" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[28]<?endif?></span></span></a><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+mojej, z waszych rąk patrzeć będę krwi jej ... <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn29" name="_ftnref29" style="mso-footnote-id:ftn29" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[28]<?endif?></span></span></a><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -939,7 +939,7 @@ niepewny los – na tułaczkę, na ubóstwo, może i na prześladowanie?<o:p></o
 od nich i odłączcie się!” – „Wyjdź z niej, ludzie mój, abyś nie stał się
 uczestnikiem grzechu jej! ...” – kto raz prawdziwie w duchu swym to rozważył,
 nie będzie długo utykał pomiędzy tymi, którzy w oczach jego zasługi Chrystusowe
-stale znieważają <a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn30" name="_ftnref30" style="mso-footnote-id:ftn30" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[29]<?endif?></span></span></a><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+stale znieważają <a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftn30" name="_ftnref30" style="mso-footnote-id:ftn30" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[29]<?endif?></span></span></a><span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
 0cm;margin-left:1.0cm;margin-bottom:.0001pt"><span style="font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
 <p class="MsoNormal" style="margin-top:0cm;margin-right:31.35pt;margin-bottom:
@@ -1239,7 +1239,7 @@ mso-bidi-font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif
 <hr align="left" size="1" width="33%"/>
 <?endif?>
 <div id="ftn1" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref1" name="_ftn1" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref1" name="_ftn1" style="mso-footnote-id:
 ftn1" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[1]<?endif?></span></span></a>
 Bruckner czyni tu aluzję do legendarnego zajścia, które miało się wydarzyć w
 Wilnie w 1552 r. Gdy namówiony przez Mikołaja Czarnego Radziwiłła Zygmunt
@@ -1253,33 +1253,33 @@ w Litwie, t. I, Poznań 1853, s. 18 –19.<span style="mso-spacerun: yes"> 
 </span></p>
 </div>
 <div id="ftn2" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref2" name="_ftn2" style="mso-footnote-id:ftn2" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref2" name="_ftn2" style="mso-footnote-id:ftn2" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[2]<?endif?></span></span></a> H. Dalton, <i style="mso-bidi-font-style:normal">Johannes a Lasco</i>, Gotha 1881, s. IX.</p>
 </div>
 <div id="ftn3" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref3" name="_ftn3" style="mso-footnote-id:ftn3" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref3" name="_ftn3" style="mso-footnote-id:ftn3" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[3]<?endif?></span></span></a> Literaturę
 naukową dotyczącą Łaskiego omawia obszernie O. Bartel, <i style="mso-bidi-font-style:
 normal">Jan Łaski, część I, 1499 – 1556</i>, Warszawa 1955, s. 9 – 22.</p>
 </div>
 <div id="ftn4" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref4" name="_ftn4" style="mso-footnote-id:ftn4" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref4" name="_ftn4" style="mso-footnote-id:ftn4" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[4]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Epistularum ab illustribus et claris viris
 scriptarum centuriae tres</i>, Harlingae Frisiorum 1663; II wyd.: <i style="mso-bidi-font-style:normal">Illustrium et clarorum virorumspistolae
 selectiores</i>, Harlingae Frisiorum 1669.</p>
 </div>
 <div id="ftn5" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref5" name="_ftn5" style="mso-footnote-id:ftn5" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref5" name="_ftn5" style="mso-footnote-id:ftn5" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[5]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Original Letters Relative to the English
 Reformation</i>, wyd. H. Robinson, t. I – II, Cambridge 1846 –1847.</p>
 </div>
 <div id="ftn6" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref6" name="_ftn6" style="mso-footnote-id:ftn6" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref6" name="_ftn6" style="mso-footnote-id:ftn6" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[6]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Joannis a Lasco Opera tam edita, quam
 inedita</i>, t. I – II, Amstelodami – Hagae 1866. </p>
 </div>
 <div id="ftn7" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref7" name="_ftn7" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref7" name="_ftn7" style="mso-footnote-id:
 ftn7" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[7]<?endif?></span></span></a>
 Warto tu może podać tekst pierwotny („Ateneum”, t. II, 1898, s. 425): „Z tego
 rękopisu korzystał – za moją wskazówką – p. Dalton dla swych <i style="mso-bidi-font-style:normal">Lasciana</i> i innych publikacji – niestety,
@@ -1293,23 +1293,23 @@ Leningradu uległ zniszczeniu w czasie powstania warszawskiego w 1944 r.</p>
 <p class="MsoFootnoteText"><?if !supportEmptyParas?> <?endif?><o:p></o:p></p>
 </div>
 <div id="ftn8" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref8" name="_ftn8" style="mso-footnote-id:ftn8" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref8" name="_ftn8" style="mso-footnote-id:ftn8" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[8]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Lasciana</i>, s. 296</p>
 </div>
 <div id="ftn9" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref9" name="_ftn9" style="mso-footnote-id:ftn9" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref9" name="_ftn9" style="mso-footnote-id:ftn9" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[9]<?endif?></span></span></a> W
 rzeczywistości w Bolonii było tylko d w ó c h Radziwiłłów: Jan i Stanisław –
 por. W. Pociecha, <i style="mso-bidi-font-style:normal">Ze studiów bolońskich
 Jana Łaskiego</i>, „Reformacja w Polsce”, R. IV, 1926, s. 144 – 145.</p>
 </div>
 <div id="ftn10" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref10" name="_ftn10" style="mso-footnote-id:ftn10" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref10" name="_ftn10" style="mso-footnote-id:ftn10" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[10]<?endif?></span></span></a>
 Opublikowany przez Pociechę, op. cit., s. 148 – 149 (14 II 1515).</p>
 </div>
 <div id="ftn11" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref11" name="_ftn11" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref11" name="_ftn11" style="mso-footnote-id:
 ftn11" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[11]<?endif?></span></span></a>
 „<i style="mso-bidi-font-style:normal">Mirabile dictu quidem puerum tante
 memorie, tanteque constancie et severitatis, ut eum omnes facile timemus et
@@ -1319,44 +1319,44 @@ agam, pro virili mea operam circa bonas artes adhibebo</i>.” (W. Pociecha, <i 
 J. Łaskiego). </p>
 </div>
 <div id="ftn12" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref12" name="_ftn12" style="mso-footnote-id:ftn12" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref12" name="_ftn12" style="mso-footnote-id:ftn12" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[12]<?endif?></span></span></a> „<i style="mso-bidi-font-style:normal">Nosti tempora et mores nostratim, inter quos
 ut pauci sunt qui loqui sciant, ita plurimi qui non possunt tacere, nec desunt
 similes labris lactucae</i>” (J. Łaski do M. Aucta, 9 II 1532 – <i style="mso-bidi-font-style:normal">Lasciana</i>, s. 124).</p>
 <p class="MsoFootnoteText"><?if !supportEmptyParas?> <?endif?><o:p></o:p></p>
 </div>
 <div id="ftn13" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref13" name="_ftn13" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref13" name="_ftn13" style="mso-footnote-id:
 ftn13" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[13]<?endif?></span></span></a>
 <i style="mso-bidi-font-style:normal">Opus epistolarum Des, Erazmi Roterodami</i>,
 wyd. P. S. Allen i H. M. Allen. T. VI, Oxoni 1925, nr 1629, s. 195 (Erazm do A.
 Krzyckiego, 5 X 1525).</p>
 </div>
 <div id="ftn14" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref14" name="_ftn14" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref14" name="_ftn14" style="mso-footnote-id:
 ftn14" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[14]<?endif?></span></span></a>
 Cyt. H. Dalton, <i style="mso-bidi-font-style:normal">Johannes a Lasco</i>, s.
 112, przyp.</p>
 </div>
 <div id="ftn15" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref15" name="_ftn15" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref15" name="_ftn15" style="mso-footnote-id:
 ftn15" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[15]<?endif?></span></span></a>
 <i style="mso-bidi-font-style:normal">Acta Tomiciana</i>, t. IX, Posnaniae
 1876, nr 208, s. 219 (H. Łaski do W. Miedzyleskiego, biskupa kamienieckiego, 22
 VI 1527).</p>
 </div>
 <div id="ftn16" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref16" name="_ftn16" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref16" name="_ftn16" style="mso-footnote-id:
 ftn16" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[16]<?endif?></span></span></a>
 Krzycki był autorem listu do H. Łaskiego, podpisanego przez W. Miedzyleskiego (<i style="mso-bidi-font-style:normal">Acta Tomiciana</i>, t. IX, nr 239, s. 243 –
 245, 10 VIII 1527). </p>
 </div>
 <div id="ftn17" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref17" name="_ftn17" style="mso-footnote-id:ftn17" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref17" name="_ftn17" style="mso-footnote-id:ftn17" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[17]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Lasciana</i>, s. 102 (30 III 1527).</p>
 </div>
 <div id="ftn18" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref18" name="_ftn18" style="mso-footnote-id:ftn18" title=""><span class="MsoFootnoteReference"><span style='font-family:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref18" name="_ftn18" style="mso-footnote-id:ftn18" title=""><span class="MsoFootnoteReference"><span style='font-family:
 Symbol;mso-ascii-font-family:"Times New Roman";mso-hansi-font-family:"Times New Roman";
 mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style="mso-char-type:
 symbol;mso-symbol-font-family:Symbol">*</span></span></span></a> Oczekiwania
@@ -1366,7 +1366,7 @@ się bardzo; dziś po olbrzymiej pracy p. Biełorukowa o bibliotece carskiej (r.
 1899), rozwiały się te złudy na zawsze.</p>
 </div>
 <div id="ftn19" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref19" name="_ftn19" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref19" name="_ftn19" style="mso-footnote-id:
 ftn19" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[18]<?endif?></span></span></a>
 Brückner łączy tu fragmenty z dwu różnych listów Łaskiego do Amerbacha.
 Pierwszy pochodzi z listu z 1 VII 1526: „<i style="mso-bidi-font-style:normal">Arbitor
@@ -1379,23 +1379,23 @@ Si quid illinc habuero, habebit et Frobenius</i>” (<i style="mso-bidi-font-sty
 normal">Lasciana</i>, s. 100 i 103-103).</p>
 </div>
 <div id="ftn20" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref20" name="_ftn20" style="mso-footnote-id:ftn20" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref20" name="_ftn20" style="mso-footnote-id:ftn20" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[19]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Lasciana</i>, s. 106 – 107, przekład wolny.</p>
 </div>
 <div id="ftn21" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref21" name="_ftn21" style="mso-footnote-id:ftn21" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref21" name="_ftn21" style="mso-footnote-id:ftn21" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[20]<?endif?></span></span></a> Źródła cytatu
 nie dało się ustalić. </p>
 </div>
 <div id="ftn22" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref22" name="_ftn22" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref22" name="_ftn22" style="mso-footnote-id:
 ftn22" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:footnote"><?if !supportFootnotes?>[21]<?endif?></span></span></a>
 Anegdotę o Gamracie zanotował w <i style="mso-bidi-font-style:normal">Apoftegmatach</i>
 Jan Kochanowski – por. Dzieła polskie, wyd. J. Krzyżanowski, Warszawa 1960, s.
 776.</p>
 </div>
 <div id="ftn23" style="mso-element:footnote">
-<p class="MsoFootnoteText" style="text-align:justify"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref23" name="_ftn23" style="mso-footnote-id:
+<p class="MsoFootnoteText" style="text-align:justify"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref23" name="_ftn23" style="mso-footnote-id:
 ftn23" title=""></a><span class="MsoFootnoteReference"><span style='font-family:Symbol;mso-ascii-font-family:
 "Times New Roman";mso-hansi-font-family:"Times New Roman";mso-char-type:symbol;
 mso-symbol-font-family:Symbol'><span style="mso-char-type:symbol;mso-symbol-font-family:
@@ -1429,7 +1429,7 @@ grono Polaków, żeby choć Frycza, Warszewickiego i Mączyńskiego wymienić. 2
 <p class="MsoFootnoteText" style="text-align:justify"><?if !supportEmptyParas?> <?endif?><o:p></o:p></p>
 </div>
 <div id="ftn24" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref24" name="_ftn24" style="mso-footnote-id:ftn24" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref24" name="_ftn24" style="mso-footnote-id:ftn24" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[23]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Stanislai Hosii Epistolae</i>, wyd. F.
 Hipler i W. Zakrzewski, t. I, Kraków 1879, nr 16, s. 35 (Hozjusz do L.
 Bonamica, 12 II 1536).</p>
@@ -1438,12 +1438,12 @@ normal">Filip Melanchton w Polsce</i>, „Odrodzenie i Reformacja w Polsce”, t
 VI, 1961, s. 74-89.</p>
 </div>
 <div id="ftn25" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref25" name="_ftn25" style="mso-footnote-id:ftn25" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref25" name="_ftn25" style="mso-footnote-id:ftn25" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[24]<?endif?></span></span></a> <i style="mso-bidi-font-style:normal">Hosii Epistolae</i>, t. I, nr 55 s. 77
 (Hozjusz do J. Dantyszka, 7 VII 1539).</p>
 </div>
 <div id="ftn26" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref26" name="_ftn26" style="mso-footnote-id:ftn26" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref26" name="_ftn26" style="mso-footnote-id:ftn26" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[25]<?endif?></span></span></a> Opus
 epistolarum ... Roterodami, t. VII, Oxoni 1928, nr 1954, s. 334 (Łaski do
 Erazma, 20 II 1528). Przekład Brücknera błędny, bo zaciera mimowolnie (oparł
@@ -1455,22 +1455,22 @@ quicquid usquam est malorum, totum debemus</i>” (słów wyróżnionych spacją
 Dalton nie odczytał). </p>
 </div>
 <div id="ftn27" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref27" name="_ftn27" style="mso-footnote-id:ftn27" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref27" name="_ftn27" style="mso-footnote-id:ftn27" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[26]<?endif?></span></span></a> Tamże, t.
 X, Oxonii 1941, nr. 2862, s. 295 – 296 (ok. 25 III 1533).</p>
 </div>
 <div id="ftn28" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref28" name="_ftn28" style="mso-footnote-id:ftn28" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref28" name="_ftn28" style="mso-footnote-id:ftn28" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[27]<?endif?></span></span></a> Lasciana,
 s. 252 – 253, przekład wolny.</p>
 </div>
 <div id="ftn29" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref29" name="_ftn29" style="mso-footnote-id:ftn29" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref29" name="_ftn29" style="mso-footnote-id:ftn29" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[28]<?endif?></span></span></a> Tamże, s.
 263 (12 XII 1535 ), przekład wolny.</p>
 </div>
 <div id="ftn30" style="mso-element:footnote">
-<p class="MsoFootnoteText"><a href="/czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref30" name="_ftn30" style="mso-footnote-id:ftn30" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
+<p class="MsoFootnoteText"><a href="../../czytelnia/swch-historia-roznowiercy-polscy-eb9403663/#_ftnref30" name="_ftn30" style="mso-footnote-id:ftn30" title=""><span class="MsoFootnoteReference"><span style="mso-special-character:
 footnote"><?if !supportFootnotes?>[29]<?endif?></span></span></a> Joannis a
 Lasco opera, t. II, nr 9, s. 557 (Łaski do A. Hardenberga, 26 VII 1542).</p>
 </div>

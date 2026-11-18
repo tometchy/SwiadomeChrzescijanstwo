@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-29-d49af3d40/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-29-d49af3d40/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>30. MIESZKAJ W JEZUSIE  <br/>
 uwielbionym </h1>
 <p>"<i>Żywot nasz skryty jest z Chrystusem w Bogu, ale gdy się Chrystus on żywot nasz pokaże, tedy i wy z Nim okażecie się w chwale</i>".  Kol.3,3-4
@@ -28,6 +28,6 @@ uwielbionym </h1>
 	</p><p>O, błogie życie, jest ono dla nas, gdyż Jezus jest nasz! O, błogie życie! Już teraz psiadamy je z jego ukrytą siłą, a przed nami otwiera się widok na Jego doskonałą chwałę. Oby radość i błogość codziennego życia wykazała, że w nas pracuje ukryta moc przygotowuje nas do chwały, która ma być objawiona. Oby nasze pozostawanie w Jezusie uwielbianym było naszą siłą, mocą, która nas czyni zdolnymi, aby żyć na chwałę Bożą i do wzięcia udziału w chwale Syna. 
 	</p><p>A teraz dziateczki zostańcie w Nim, aby kiedy się On objawi, zastał w nas wesele i nie zawiódł się na nas w przyszłości.
 </p>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-29-d49af3d40/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-29-d49af3d40/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

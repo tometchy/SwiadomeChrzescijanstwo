@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 13<br/>
 MODLITWA O NOWE SERCE</h1>
 <p><em>"Grzesznicy nie nawracają się przez bezpośredni kontakt Ducha Świętego, ale przez prawdę, która głoszona jest im, jako środek. Oczekiwanie, aby grzesznik nawrócił się jedynie przez modlitwę jest kuszeniem Boga".</em></p>
@@ -19,6 +19,6 @@ MODLITWA O NOWE SERCE</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy</strong></p>
 <p>Czy chętnie oddajesz swoje serce Bogu w wierze i pokucie, czy też nadal twoje modlitwy są szukaniem swojego ja i koncentrują się na tym, co uważasz, że Bóg potrzebuje uczynić dla twojego serca, aby cię zbawić?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

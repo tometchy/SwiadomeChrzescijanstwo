@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 1<br/>
 PIERWSZE SPOTKANIA MODLITEWNE</h1>
 <p>"<em>Przezwyciężająca i skuteczna modlitwa, to taka modlitwa, która osiąga błogosławieństwo, którego szuka. Jest to taka modlitwa, która skutecznie porusza Boga. Prawdziwym celem skutecznej modlitwy jest to, aby poruszyła swój obiekt</em>" (z "Zasad modlitwy" Ch.G.Finney'a i L.C.Parkhursta, Jr.-Minneapolis Bethany House Publishers, 1980r. str.17).</p>
@@ -23,6 +23,6 @@ PIERWSZE SPOTKANIA MODLITEWNE</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy</strong></p>
 <p>Czy moje życie modlitewne i życie modlitewne mojego kościoła przedstawia Bożą rzeczywistość i wysłuchane modlitwy, czy też zostawiamy wrażenie, że modlitwa w rzeczywistości nie czyni nic dobrego.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 </p>
 {% endraw %}

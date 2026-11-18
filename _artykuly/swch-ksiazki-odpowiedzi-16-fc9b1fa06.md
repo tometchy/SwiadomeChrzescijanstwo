@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 16<br/>
 MODLITWA I PRZEBUDZENIE</h1>
 <p><em>"Mocne pragnienia jasno ilustrują siłę Bożych uczuć. Są one odzwierciedleniem prawdziwych Bożych uczuć w stosunku do niezbawionych grzeszników. Kiedy widzę to, co i ja sam mam czasami, miłość odczuwaną przez chrześcijan wobec zagubionych dusz, to wspaniałe wrażenie na mnie robi zdumiewająca miłość Boga i Jego pragnienie zbawienia ich". </em></p>
@@ -23,6 +23,6 @@ MODLITWA I PRZEBUDZENIE</h1>
 <li>Czy i jak studiuję Słowo Boże oraz czy jestem otwarty na prowadzenie Ducha Bożego, że wiem za kogo i o co mam się modlić?<br/>
 <li>Czy umiem zastosować obietnice Pisma Świętego zgodnie z potrzebami, które dostrzegam?<br/>
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

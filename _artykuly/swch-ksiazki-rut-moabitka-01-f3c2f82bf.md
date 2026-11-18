@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 <h2>Rut Moabitka, czyli "Część moja przypadła w miejscach uroczych"</h2>
 <p>Drogi Czytelniku, chciałbym w tym artykule włożyć ci w ręce słabą kopię drogi Bożej pewnej duszy, która na tej drodze stała się nie tylko szczęśliwą, ale w pełnym sensie tego słowa - błogosławioną. Do wydrukowania tej kopii pobudziła mnie ta sytucja, że chociaż nakreślona tam droga przez wioelu dawno jest znana, to jednak tysiące, niestety, przechodzą ją tylko w części. Skutkiem tego jest to, że taka w połowie przebyta droga nie doprowadza ich do szczęścia i rozczarowani pytają o przyczynę tego. Być może, Panu upodoba się przez ten artykuł wyjaśnić takim rozczarowanym duszom - w jakim miejscu są na tej drodze, gdzie obecnie zatrzymały się, i co jest przyczyną braku ich pełnego błogosławieństwa w Chrystusie. I jeszcze: być może, upodoba się Panu pobudzić tym artykułem gorliwość innej duszy - znów podnieść się na rozpoczętej drodze i zdecydowanie dążyć do celu, gdzie w końcu mogłaby, triumfując, powiedzieć: "Część moja przypadła w miejscach uroczych".
 </p><p>Niech Pan w tym celu obdarzy błogosławieństwem ten artykuł.
@@ -20,7 +20,7 @@ source_verified: true
 </p><p>Cudownie i chwalebnie okazuje się ta niewidoczna moc kierownictwa Bożego w te smutne dla Izraela dni! Doszło do nas opowiadanie o pewnym radosnym wydarzeniu. Pan oddzielił to wydarzenie od innych, opisanych w Księddze Sędziów, jako skarb, i zachował je dla nas, jak w szkatułce na cenności, w oddzielnej małej księdze "Rut". Jednak, jak by nie było radosne i piękne to wydarzenie, ono jest dla nas ważne zupełnie nie z powodu piękna. Zawsze to wszystko, co mówi nam Pismo, jest pouczeniem, przestrogą, napominaniem, pocieszeniem i kierownictwem ku temu, aby być podobającymi się Bogu. Jest to pewne i w stosunku do księgi "Rut". O, jakże głębokie prawdy zawarte są w niej dla każdego dziecka Bożego! Jakie źródła mocy objawia ona i jakim może być pobudzeniem do życia w pełni Chrystusowej, jeżeli nauczymy się rozumieć jej aluzje! Niech upodoba się Bogu dać nam z niej naszą część.
 </p><p>Pierwszy rozdział, od krtórego zaczniemy, ukazuje nam, jak droga zbłądzenia jednego Izraelity - w ręku Bożym przekształca się w środek przyprowadzający do Izraela Rut Moabitkę. Czytamy tam:
 </p>
-<h3><a href="/czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">O przeprowadzce Elimelecha ze swojej ojczyzny</a></h3>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<h3><a href="../../czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">O przeprowadzce Elimelecha ze swojej ojczyzny</a></h3>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 
 {% endraw %}

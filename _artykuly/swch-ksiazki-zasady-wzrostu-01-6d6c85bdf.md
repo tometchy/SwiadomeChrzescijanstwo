@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="2">[</font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/"><font size="2">Następny rozdział</font></a><font size="2"> | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/"><font size="2">Poprzedni rozdział</font></a><font size="2"> | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></p>
+<p><font size="2">[</font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/"><font size="2">Następny rozdział</font></a><font size="2"> | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/"><font size="2">Poprzedni rozdział</font></a><font size="2"> | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></p>
 <h1>WIARA</h1>
 <p>Celem tej książki jest staranne i jasne wyłożenie
 ważniejszych zasad duchowego wzrostu; zasad, które dopomogły
@@ -146,6 +146,6 @@ własną chwałę i cnotę, przez które darowane nam zostały
 drogie i największe obietnice, abyśmy przez nie stali się
 uczestnikami Boskiej natury, uniknąwszy skażenia, jakie na tym
 świecie pociąga za sobą pożądliwość". (2 Ptr.1,2-4). </p>
-<p><font size="2">[</font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/"><font size="2">Następny rozdział</font></a><font size="2"> | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/"><font size="2">Poprzedni rozdział</font></a><font size="2"> | </font><a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></p>
+<p><font size="2">[</font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/"><font size="2">Następny rozdział</font></a><font size="2"> | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/"><font size="2">Poprzedni rozdział</font></a><font size="2"> | </font><a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis"><font size="2">Spis treści</font></a><font size="2">]</font></p>
 
 {% endraw %}

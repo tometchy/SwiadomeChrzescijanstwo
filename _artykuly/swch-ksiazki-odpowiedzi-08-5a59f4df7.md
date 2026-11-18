@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 8<br/>
 CIERPLIWOŚĆ W MODLITWIE</h1>
 <p><em>"Musisz wytrwać. Nie możesz raz się pomodlić, potem przestać i nazywać to modlitwą wiary".</em></p>
@@ -19,6 +19,6 @@ CIERPLIWOŚĆ W MODLITWIE</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
 <p>Czy zniechęcam się i rezygnuję z wydawania świadectwa i modlitwy o czyjeś nawrócenie, jeżeli ten ktoś nie uwierzy i nie będzie pokutował ze swoich grzechów w wyznaczonym przeze mnie czasie?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

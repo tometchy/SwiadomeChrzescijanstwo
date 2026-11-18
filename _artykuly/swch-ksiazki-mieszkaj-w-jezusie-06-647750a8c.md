@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>6. MIESZKAJ W JEZUSIE <br/>
 gdyż Bóg Sam połączył cię z Nim </h1>
 <p>"<i>Lecz z Niego (przez Niego) wy jesteście w Jezusie Chrystusie</i>" 1 Kor. 1,30 "<i>Mój Ojciec jest winiarzem</i>" Jan 15,1 
@@ -26,6 +26,6 @@ w Chrystusie. Aby pozostać w Jezusie, konieczne jest, abyśmy codziennie odnowi
 	</p><p>Przez Boga jestem w Chrystusie, On mnie na nowo zrodził, uczynił latoroślą, która zdatna jest do przynoszenia owocu. O, żeby wierzący już raz przestali oglądać się na swoją starą naturę i przestali narzekać na swą słabość, jak gdyby Pan Bóg powołał ich do czegoś, do czego nie dorośli! O, żeby z wiarą i radością przyjęli to cudowne objawienie, że Pan Bóg Sam uczynił Siebie odpowiedzialnym za nasz rozwój duchowy i naszą owocność! Jak musiałyby poznikać chorobliwe wahania i wszelka obciążałość, a pod wpływem tej potężnej mocy, jaką jest wiara w wierność Tego, przez którego jesteśmy w Chrystusie, nasze całe jestestwo podniosło by się, aby przyjąć i wspaniałe przeznaczenie. 
 	</p><p>O, moja duszo, poddaj się potężnemu działaniu tego Słowa: "przez Boga jesteśmy w Chrystusie Jezusie". Znajdź czas na przemyślenie w cichym uwielbieniu tego słowa, aż oświeci cię światło od tronu Bożego zupełnie, i poznasz, że twa społeczność z Jezusem jest czynem wszechmogącego Ojca. Znajdź czas na to, aby dzień po dniu i w całym twym duchowym życiu, ze wszystkimi potrzebami i obowiązkami, wszystkimi przywilejami i życzeniami, sam Pan Bóg stał się ci wszystkim. Patrz na Jezusa, jak mówi do ciebie: "pozostań we Mnie", a równocześnie wskazuje w górę i dodaje: "Ojciec Mój jest-ci winiarzem". "On cię wszczepił we Mnie, przez Niego pozostaniesz we Mnie i dla Niego, dla Jego uwielbienia masz przynieść owoc". Niech twoja odpowiedź będzie: "Amen, Panie! niech się tak stanie!" Od wieczności był Jezus dla mnie przeznaczony, a ja dla Niego. Nierozłącznie należymy do siebie; jest to wola Boża, dlatego pozostanę w Jezusie. "Przez Boga jestem w Jezusie Chrystusie"!
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

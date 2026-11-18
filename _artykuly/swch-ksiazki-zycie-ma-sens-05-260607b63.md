@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-06-33da5750d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-06-33da5750d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>4<br/>
 Owocne podejście do Biblii</h1></center>
 <p>Żyjemy w czasie niezwykłej obfitości słów. Strumienie i rzeki słów w postaci mowy, pisma i druku nacierają na nas bez przerwy ze wszystkich stron. Gazety, czasopisma, książki, radio, telewizja, ogło-szenia, afisze, reklamy zalewają nas milionami słów. Współczesny student w ciągu jednego dnia wchłonąć musi dawkę słów większą niż ta, którą jego kolega sprzed stu lat miał na cały miesiąc. Do bibliotek instytutów naukowych poczta dostarcza tygodniowo tyle druków, że choćby ich pracownicy czytali bez przerwy dniami i nocami, nie przeczytaliby nawet połowy. Stan ten doprowadził do dewaluacji, degradacji słowa, do obojętności względem słowa, a nawet do znużenia i obrzydzenia słowem. Chronimy się przed tą powodzą słów pancerzem niedowierzania i lekceważenia. Rzucimy najwyżej okiem na tytuły gazetowe, przerzucimy pobieżnie czasopismo, posłuchamy jednym uchem pierwszej wiadomości dziennika radiowego i wyłączamy się. Utrzymujemy dystans od docierających do nas słów, ignorujemy je.
@@ -41,6 +41,6 @@ Słowo Twe zwycięża to, co złe, <br/>
 Słowo Twe uwalnia mnie."</p></i>
 <p>Niech te słowa nie tylko są śpiewane, lecz niech staną się wyrażeniem naszej prawdziwej postawy względem Jego Słowa, a znajdować się będziemy na drodze życia.[36]
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-06-33da5750d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-06-33da5750d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

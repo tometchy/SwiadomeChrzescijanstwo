@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>Wprowadzenie</h1></center>
 <p>- Jacek, żyjesz?<br/>
 - Żyję, ale co to za życie! -
@@ -46,6 +46,6 @@ Błogosławieństw znalazłem źródło,<br/>
 Żywą wodę w południa skwar;<br/>
 Wszystko to otrzymałem z Zbawcy mym.<br/>
 O, jaki wielki to dar!"</i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

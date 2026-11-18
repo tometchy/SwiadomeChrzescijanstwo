@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-23-78a9f851d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-23-78a9f851d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>24. MIESZKAJ W JEZUSIE <br/>
 w posłuszeństwie Jego przykazań</h1>
 <p>"<i>Jeżeli przykazania Moje zachowacie, trwać będziecie w miłości Mojej, jakom i Ja zachował przykazania Ojca Mego i trwam w miłości Jego</i>".  Jan 15,10 
@@ -25,6 +25,6 @@ przeciętnemu chrześcijaninowi pozostaje nieznany. Niech wola Boża obficie mie
 	</p><p>Zachowuj przykazania we wszystkich okolicznościach życia. Ślubowałeś uroczyście - nie prawda? - że nie ścierpisz żadnego grzechu w sobie: "Przysiągłem i chcę tego dotrzymać, że będę zachowywał prawa Twej sprawiedliwości". Bojuj o to usilnie w modlitwie, abyś mógł zupełnie i całkowicie pozostać w woli Bożej. Proś gorliwie o to, aby każdy utajony grzech - wszystko, co nie stoi w zupełnej zgodzie z wolą Bożą - został ci wyjawiony. Chodź wiernie i ostrożnie według światła, które ci zostało darowane, podporządkowując się Panu we wszystkich sprawach, aby wypełnić wszystko, co On rozkaże. Izrael składał śluby (2 Mojż. 19,8; 24,7), ale niebawem je łamał. Nowe przymierze daje nam tę łaskę, aby składać i dotrzymywać je (Jer. 31). Strzeż się przed nieposłuszeństwem i w drobnostkach. Nieposłuszeństwo stępia sumienie, zaciemnia duszę i zabija naszą duchową siłę chcenia, dlatego trzymaj się przykazań Chrystusowych z bezwarunkowym posłuszeństwem. Bądź podobny do żołnierza, który podlega wyłącznie rozkazom dowódcy. 
 	</p><p>A gdyby ci kiedy na chwilę miały te przykazania wydawać się ciężkie, to przypomnij sobie od kogo pochodzą. One są przykazaniami Tego, który cię miłuje; są one czystą miłością, pochodzą z miłości i prowadzą do miłości. Każde nowe oddanie woli pod kierownictwo przykazań prowadzi do głębszego połączenia z wolą, duchem i miłością Zbawiciela. Otrzymasz podwójną nagrodę, pełniejsze zrozumienie tajemnicy Jego miłości i zupełniejsze podobieństwo z Jego świętym życiem. Nauczysz się uważać za swój kosztowny skarb te słowa Zbawiciela: "Jeśli przykazania Moje zachowacie, trwać będziecie w miłości Mojej, tak jakom i Ja zachował przykazania Ojca Mego i trwam w miłości Jego".
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-23-78a9f851d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-23-78a9f851d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

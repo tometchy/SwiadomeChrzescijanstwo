@@ -22,7 +22,7 @@ source_verified: true
 <p>Mówimy wiele o uświęceniu. Jezus mówił o uświęceniu dopiero wtedy, gdy stanął w obliczu krzyża. On poświęcił samego siebie na krzyż, na ofiarę. Znajdując się na drodze do krzyża, powiedział: "Za nich poświęcam siebie samego, aby i oni byli poświęceni w prawdzie" (Jan 17, 19). Kiedy tak się poświęcimy: na krzyż, na ofiarę, kiedy zstąpimy w ślad za naszą Głową na to najniższe miejsce, wtedy i inni wokół nas będą poświęcali się w prawdzie. Nigdy przez to, że będziemy prowadzić spory na temat pojęcia uświęcenia.</p>
 <p>Baranek nie otworzył ust swoich, lecz poszedł dobrowolnie na miejsce kaźni, pokazując nam przez to, czym jest uświęcenie. On powiedział: "Za nich poświęcam siebie samego." Za nich! To jest miernikiem stopnia naszego uświęcenia. Siedem wypowiedzi Jezusa na krzyżu to siedem promieni Jego wspaniałości jako Baranka. Pierwsza z nich dotyczyła Jego nieprzyjaciół. Dla nich prosił o przebaczenie.  Druga dotyczyła Jego własnych. O nich troszczył się. Trzecia dotyczyła zgubionych. Za nich umarł. Jemu dano śmierć, a On dał w zamian życie.  To jest praktyczne uświęcenie!</p>
 <p><i>Georg Steinberger<br/>
-tłumaczył <a href="/archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
+tłumaczył <a href="../../archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
 </p>
 <br/><br/>
 <br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">

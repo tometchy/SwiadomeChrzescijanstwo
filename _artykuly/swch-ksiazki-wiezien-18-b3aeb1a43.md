@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-19-07388001e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-19-07388001e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>18</h1></div>
 <p class="akapit">"Janie, przyszli po ciebie. Dużo szybciej, niż myślałeś. Za parę minut będzie po wszystkim. Nie ma czasu, by powiadomić twoich uczniów ani mojej matki, Marii, która tak bardzo martwi się o twoje bezpieczeństwo. Nie będziesz miał możliwości powiedzieć nawet jednego słowa do kogokolwiek. Nie będziesz również w stanie powtórzyć pytań, które już raz mi zadałeś".</p>
 <p class="akapit">"Za niecałe cztery minuty będziesz martwy. Ile myśli może tłoczyć się w czyjejś głowie przez cztery minuty? Ile wątpliwości? Ile pytań? Niewiele. Ale, Janie, najgorsze jest to, że nie ma na nie odpowiedzi".</p>
@@ -38,6 +38,6 @@ source_verified: true
 <br/>
 <br/>
 <p class="akapit">Czy będziemy pogardzać tym, że Bóg objawił tak niewiele ze Swych dróg, czy raczej będziemy radować się, że objawił aż tak wiele?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-19-07388001e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-19-07388001e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

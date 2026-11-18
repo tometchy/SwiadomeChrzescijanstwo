@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 15<br/>
 MODLITWA PRZEZWYCIĘŻA STRACH</h1>
 <p><em>"Jeżeli masz Ducha Bożego, to musisz oczekiwać, że będziesz odczuwał wielki smutek z powodu stanu kościoła i świata. Czytajcie swoje Biblie i przyjrzyjcie się, jak apostołowie i prorocy zawsze wołali w rozpaczy z powodu stanu kościoła i świata". </em></p>
@@ -24,6 +24,6 @@ MODLITWA PRZEZWYCIĘŻA STRACH</h1>
 <li>Czy często nie mówię do ludzi o Bogu, bo obawiam się tego co mi mogą powiedzieć i uczynić?<br/>
 <li>Czy wytrwale się modlę o to, aby Duch Boży dał mi odwagę i obietnice z Biblii?
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-14-daf78d1a7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

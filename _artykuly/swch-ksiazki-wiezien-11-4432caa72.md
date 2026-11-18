@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>11</h1></div>
 <p class="akapit">Szczupły, kościsty człowiek zbliżył się do drzwi celi i utkwił obłąkany wzrok w dowódcy straży.</p>
 <p class="akapit">- Jan? Tutaj? Czy mówisz, że Jan jest tutaj w więzieniu? Czy chcesz powiedzieć, Proteuszu, że został wtrącony do trzeciej celi?</p>
@@ -21,6 +21,6 @@ source_verified: true
 <p class="akapit">- Nigdy więcej nie będę służył Bogu, który w ten sposób traktuje ludzi. Gdzie był, gdy Go potrzebowałem? Janie, gdzie jest twój Bóg teraz, gdy najbardziej Go potrzebujesz?</p>
 <p class="akapit">Ani jeden dźwięk nie dotarł z trzeciej celi. Cokolwiek Jan myślał, zachował to dla siebie. Proteusz zaś ze swej strony mógł się tylko zastanawiać: "Więzień z pierwszej celi wini za wszystko ludzi. Więzień z drugiej celi wini za wszystko Boga. Ciekaw jestem, kogo będzie winił więzień z trzeciej celi. Człowieka? Boga?</p>
 <p class="akapit">A może swego kuzyna?"</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-10-31161fb14/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

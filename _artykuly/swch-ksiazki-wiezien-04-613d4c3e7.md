@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-03-c4186ab5f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-03-c4186ab5f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>4</h1></div>
 <p class="akapit">Jan ponownie zamieszkał wśród esseńczyków, nie pozwolił jednak, by któryś z nich go adoptował. Pracą własnych rąk starał się zdobyć środki na zaspokojenie swych skromnych potrzeb: wyżywienie, wodę i odzienie.</p>
 <p class="akapit">Ani razu w ciągu tych lat nie zdarzyło się, by skosztował wina. Jego włosy rosły, nie ścinane od urodzenia. Ponieważ jednak mogły stać się dla niego jedynym możliwym powodem do dumy, poświęcał im minimum uwagi, aby przyćmić ich obfitość i piękno.</p>
@@ -24,6 +24,6 @@ source_verified: true
 <p class="akapit">Pewnego wieczoru, gdy stał na piaszczystym urwisku, z którego roztaczał się widok na Morze Martwe, i obserwował słońce zachodzące czerwono za postrzępionymi wzgórzami, usłyszał głos z nieba:</p>
 <p class="akapit">"Janie, wypełnił się czas. To, dla czego żyłeś przez te wszystkie lata, znajduje się w zasięgu ręki. Idź. Ogłoś Dzień Pański. Zrównajcie pagórki, wypełnijcie doliny, przygotujcie drogę dla Mesjasza. Idź teraz, Janie. Nie patrz w prawo ani w lewo. Niech w twoim życiu nie będzie miejsca na nic innego. Nikt nigdy nie nosił tak wielkiej odpowiedzialności, jak ty dzisiaj.</p>
 <p class="akapit">Głoś nadejście Pana!"</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-03-c4186ab5f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-03-c4186ab5f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

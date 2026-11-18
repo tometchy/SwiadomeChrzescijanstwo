@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>14<br/>
 Owocne współdziałanie</h1></center>
 <p>Kiedy po ziemi chodził drugi Adam - Jezus Chrystus, Bóg dawał świadectwo o tym, że ma w Nim upodobanie.[363] Był On nie z tego świata, reprezentował Królestwo Niebios i był pierwszym przyczółkiem tego królestwa na wrogim terenie księstwa tego świata.[364] Jego przyjście było ważnym etapem w Bożym planie odzyskania ziemi z powrotem pod Bożą władzę.[365] Nie miał jednak zdobywać tego terenu ogniem i mieczem, jak przypuszczali i sugerowali patrioci żydowscy, lecz w Boży sposób, poprzez Boży wzrost. Jezus w Swoich podobieństwach mówił często o tym wzroście królestwa Bożego.[366] Jego podobieństwa sugerowały, że królestwo to z małej komórki, z tego pierwszego zarodka rozwinie się, rozmnoży, rozrośnie, obejmując coraz to większe obszary.
@@ -41,6 +41,6 @@ By spotkać się z Panem, według słów Jego żyć. <br/>
 Chodź, chodź, w świetle chodź!<br/>
 Chodź, w świetle chodź! <br/>
 Chodź, w świetle Jego chodź!"</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

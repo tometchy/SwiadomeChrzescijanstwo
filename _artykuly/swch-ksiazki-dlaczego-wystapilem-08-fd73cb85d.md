@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 <h1>KONKLUZJA</h1>
 <p>Ze wszystkiego, co dotychczas było powiedziane, czytelnik może wnioskować i przekonać się, na ile sprzeczne z nauką ewangelii są dogmaty Kościoła rzymskokatolickiego i dlaczego ja w nie, nie wierzę.
 <p>Jakkolwiek to są rzeczywiste powody, dla których wystąpiłem z Kościoła rzymskokatolickiego, to jednak one nie mówią o tym, co przyjąłem na ich miejsce.
@@ -99,6 +99,6 @@ source_verified: true
 - Mniejsza o to. O praktycznym przyłączeniu się do jakiejś grupy pomyślę potem, na razie będę chrześcijaninem Chrystusowym i Jego apostołów; takim jak On nauczał i oni nauczali - w posłuszeństwie i oddaniu, głosząc to czynem i słowem. Gdzie? W kościele, który będzie najodpowiedniejszy ku temu. To już jest sprawa zewnętrznej manifestacji. Przede wszystkim chcę być chrześcijaninem naśladującym Pana naszego Jezusa Chrystusa. Ewangelia jest tak jasna, a Słowo Boże jest tak proste, że bez pomocy pośredników możemy je rozumieć.<br/>
 <p>Przebaczcie mi, że prześladowałem was. Nie myślę, że wyrządziłem wam wielkie krzywdy. Gdy dołożyłem starań, by zapoznać się z protestantyzmem w celu zwalczania go i wydałem wam wojnę, Bóg ze swojej strony wydał mi wojnę i naturalnie odniósł zwycięstwo. Jestem szczęśliwy, że uległem i mówiąc prawdę jestem wdzięczny, że ta walka nie zakończyła się klęską. Apostoł Paweł mówi o tym w ten sposób: "Co przedtem było mi zyskiem, uznałem za szkodę, a co miałem za szkodę, mam teraz za zysk". Nigdy nie będę w stanie wyrazić całej mej wdzięczności Panu za to, że On pozyskał mnie dla Prawdy.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

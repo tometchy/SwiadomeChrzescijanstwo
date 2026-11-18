@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Utylitarny Chrystus</h1>
 <p>Nasz Pan z góry przestrzegł nas, że przyjdą fałszywi Chrystusowie. Przeważnie myślimy o nich jako o przychodzących z zewnątrz, ale powinniśmy pamiętać, że mogą tacy powstać także i w samej świątyni.
 <p>Musimy być szczególnie ostrożni w sprawdzaniu, czy Chrystus, o którym wyznajemy, że chcemy Go naśladować, jest rzeczywiście Chrystusem Bożym. Zawsze istnieje niebezpieczeństwo, że będziemy naśladować Chrystusa, który nie jest prawdziwym Chrystusem, lecz produktem naszej wyobraźni, utworzonym według naszego własnego obrazu.
@@ -25,6 +25,6 @@ source_verified: true
 <p>Jozue staczający walki Pańskie, Dawid ratujący lud Boży z rąk Filistynów, Washington błagający Boga o pomoc przeciwko wrogowi, chcącemu zniewolić młodą Amerykę - to przykłady poszukiwania Bożej ingerencji na wysokim poziomie moralnych i duchowych zasad i w zgodności z Bożymi celami w historii ludzkości. Lecz nauczanie, że Chrystus zechce używać swojej świętej mocy dla osiągania naszych nieświętych interesów to zniesławianie naszego Pana i szkodzenie naszym własnym duszom.
 <p>My, współcześni chrześcijanie ewangeliczni, musimy uczyć się znowu prawd o Bożej suwerenności i panowaniu Chrystusa. Bóg nie będzie zabawiał się ze starym Adamem, Chrystus nie da się wykorzystywać dla żadnych jego samolubnych poczynań. Raczej nauczmy się tego czym prędzej, aby naszej generacji młodych chrześcijan zaoszczędzić tragedii naśladowania Chrystusa, który jest zaledwie Chrystusem wygodnictwa, a wcale nie jest rzeczywistym Panem Chwały.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

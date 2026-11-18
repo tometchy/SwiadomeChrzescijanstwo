@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>6</h1></div>
 <p class="akapit">Ludzie przychodzili słuchać Jana, ponieważ szukali czegoś, co wypełniłoby pustkę w ich życiu.
 <p class="akapit">Kupcy przychodzili go słuchać i pokutowali ze swych praktyk, jakie stosowali w interesach, po czym byli chrzczeni w słynnych wodach Jordanu. Przychodzili żołnierze, pokutowali z brutalności i byli chrzczeni. Przychodzili poganiacze wielbłądów, rolnicy, rybacy, gospodynie domowe, kobiety cieszące się dobrą sławą i ulicznice, wszelkie grupy i klasy społeczne. Wydawało się, że każdy, kto przychodzi, ma jakiś tajemny grzech do wyznania, z którego pokutował, a grzech znikał pod wodami Jordanu.
@@ -38,6 +38,6 @@ source_verified: true
 <p class="akapit">Był to chwalebny dzień. Nikt jednak nie starał się uchwycić tej oczywistości. Takie nastawienie zabiłoby Jana.
 <p class="akapit">A potem nastąpił inny pamiętny dzień.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-07-f56d81910/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-05-fef84b4ad/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

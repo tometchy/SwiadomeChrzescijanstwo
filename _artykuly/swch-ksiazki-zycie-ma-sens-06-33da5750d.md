@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-07-b10e1f7a9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-07-b10e1f7a9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>5<br/>
 Owocne rozumienie grzechu</h1></center>
 <p>Jeśli Bóg jest dobry i wspaniały, a wszystko, co istnieje, jest Jego stworzeniem, to skądże wzięło się zło? Znamy przecież otaczającą nas rzeczywistość i wiemy, że jest ona daleka od doskonałości. Nękają nas najróżniejsze schorzenia fizyczne, społeczne, ekonomiczne i inne. Świat pełny jest płaczu, narzekania, cierpień, krzywdy i zbrodni. Jak można tu mówić o doskonałości? Czyż odpowiedzialności za to nie ponosi Bóg, który to wszystko stworzył?
@@ -33,6 +33,6 @@ Zgrzeszyłem, Panie, przed obliczem Twym, <br/>
 O,  przebacz mi!"</p></i>
 <p>Związek grzechu ze śmiercią duchową, odrzuceniem przez Boga powoduje, że najistotniejszym, podstawowy problemem w stosunkach człowieka z Bogiem jest problem grzechu. Powrót człowieka do utraconej społeczności z Bogiem prowadzi więc jedynie przez rozwiązanie problemu grzechu. Rozwiązanie tego problemu stanowi istotę oferowanej przez Boga człowiekowi drogi ratunku.[60]
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-07-b10e1f7a9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-07-b10e1f7a9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

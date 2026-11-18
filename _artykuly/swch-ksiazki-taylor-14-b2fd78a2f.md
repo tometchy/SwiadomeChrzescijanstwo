@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-15-c38cc68e7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-13-147d76106/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-15-c38cc68e7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-13-147d76106/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 14<br/>
 Cel podróży - Wnętrze Chin</h2>
 <p>Hudson przeszedł szeroką ulicę eleganckiej dzielnicy Londynu "West End" (Zachodnia Część - przyp. tłum.), w pobliżu pięknego parku królewskiego i wstąpiwszy na szerokie schody wiodące do bramy wejściowej jednego ze znajdujących się tam okazałych domów, zadzwonił. Niemal natychmiast bramę wejściową otworzył lokaj, po czym Hudson, nie bez uczucia pewnego rodzaju zażenowania, wszedł do wspaniale urządzonego holu, który jakże wielce różnił się od wąskiego korytarzyka wiodącego do drzwi wejściowych przy ulicy Beaumont nr 1 w Whitechapel!
@@ -35,6 +35,6 @@ A radość świata, blaski złud ponęt zgasły, gdyż w dziecięcej miłości, 
 wierze, dusza ma tęskniąc za mym Panem zadrgała. Tak poszedłem w <br/>
 ślad za Zbawcą mym kochanym! Czy pójdziesz też? Pan woła.! <br/>
 Wierz! On kocha najgoręcej!...</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-15-c38cc68e7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-13-147d76106/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-15-c38cc68e7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-13-147d76106/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

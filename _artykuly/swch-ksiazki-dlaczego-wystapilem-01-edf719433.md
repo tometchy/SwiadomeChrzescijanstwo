@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 <h1>PRZEDMOWA AUTORA</h1>
 <p>Dlaczego wystąpiłem z Kościoła rzymskokatolickiego? Niewątpliwie wielu postawi mi to pytanie. Jedni zapytają mnie w duchu miłości, inni z pogardą, niektórzy z trwogą. Niewielu zapyta mnie w duchu miłości. Dlaczego jest tak, że ludzie dobrzy zawsze stanowią mniejszość? Święty Ignacy, założyciel zakonu jezuitów, rozpoczyna swoją książkę pod tytułem "Duchowe ćwiczenia" zdaniem, które uważał za podstawowe: "Każdy dobry i pobożny chrześcijanin winien posiadać dyspozycję brania z dobrej strony każdego słowa, nie dopatrując się dwuznaczności i obrazy. Jeśli czyjaś wypowiedź okaże się niewątpliwie negatywna, zapytaj mówiącego o jego intencję, a jeśli jest on w błędzie, wskaż mu jego błąd w łagodny sposób, by mógł naprawić zły czyn".
 <p>Pragnąłbym, by wszyscy, którzy chcą sądzić moją decyzję czynili to w duchu i świetle tej nauki, pamiętając stale na słowa Jezusa Chrystusa: "Nie sądźcie, byście nie byli sądzeni".
@@ -24,6 +24,6 @@ source_verified: true
 
 <br/><br/><hr align="LEFT" width="70%"/>
 <font size="-1">1) Sofistyka - sztuka dowodzenia rzeczy fałszywych w założeniu, przy pomocy błędnych wniosków pozornie słusznych argumentów, dowodzenie za pomocą fałszu ubranego w pozory prawdy.</font>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 </td></p></p></p></p></p></p></p></p>
 {% endraw %}

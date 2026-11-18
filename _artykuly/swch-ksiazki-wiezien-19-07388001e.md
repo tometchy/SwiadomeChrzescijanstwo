@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-20-9a4ce167f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-20-9a4ce167f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>19</h1></div>
 <p class="akapit">Taki dzień, jaki oczekiwał Jana, czeka każdego z nas. Jest to nieuniknione, ponieważ każdy wierzący w jakiś sposób wyobraża sobie swego Boga i jest w pełni przekonany, że jego Pan w pewnych okolicznościach postępuje w określony sposób. Twój Pan jednak nigdy nie jest w pełni taki, jak Go sobie wyobrażasz.</p>
 <p class="akapit">Stanąłeś teraz twarzą w twarz z Bogiem, którego w pełni nie rozumiesz. Spotkałeś Boga, który nie spełnia twoich oczekiwań. Każdy wierzący musi borykać się z Bogiem, który nie zawsze postępuje w taki sposób, jak należałoby oczekiwać.</p>
@@ -22,6 +22,6 @@ source_verified: true
 <p class="akapit">"Czy pójdziesz za Bogiem, którego nie rozumiesz? Czy pójdziesz za Bogiem, który nie spełnia twoich oczekiwań?"</p>
 <p class="akapit">Twój Pan dał ci w życiu coś, czego nie możesz unieść. Ciężar jest po prostu zbyt wielki. Nigdy nie przypuszczałeś, że On może zrobić coś takiego! Nadal jednak pozostaje aktualne pytanie: "Czy pójdziesz dalej za Bogiem, który nie spełnia twoich oczekiwań?"</p>
 <p class="akapit">"A błogosławiony jesteś,<br/>jeśli się mną nie zgorszysz".</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-20-9a4ce167f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-20-9a4ce167f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

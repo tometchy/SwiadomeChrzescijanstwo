@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-05-8fcfe4b18/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-03-2282a425a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-05-8fcfe4b18/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-03-2282a425a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 4<br/>
 Siła dzięki modlitwie</h2>
 <p>Pierwszą reakcją Hudsona na zaskakujące stwierdzenie doktora było uczucie głębokiego żalu i rozczarowania. Jeśli jest umierający, to znaczy, że nie będzie się mógł udać do Chin! Ach, kochane Chiny! Jakże pragnął tam się znaleźć! Jakże głęboko, w sercu jego tkwiło przekonanie, że Bóg przewidział tam dla niego konkretne zadanie! To było wprost niemożliwe, aby co do tego wszystkiego się po prostu mylił. Aż nareszcie przyszła taka myśl - a może jednak się pomylił? Ale jeśli Bóg rzeczywiście chciał go posłać do Chin, to w takim wypadku jest rzeczą konieczną, aby stan jego zdrowia uległ poprawie, i to pomimo oświadczenia lekarza, że nie było żadnej nadziei.
@@ -45,6 +45,6 @@ Siła dzięki modlitwie</h2>
 <p>"Oddałbym cały świat, gdybym mógł posiąść taką wiarę, jaką pan posiada!"
 <p>"I Pan może ją posiąść, panie doktorze - czy pan nie wie o tym?", odpowiedział Hudson spokojnie. "Otrzymać ją może każdy za darmo - bez pieniędzy i bez zapłaty".
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-05-8fcfe4b18/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-03-2282a425a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-05-8fcfe4b18/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-03-2282a425a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

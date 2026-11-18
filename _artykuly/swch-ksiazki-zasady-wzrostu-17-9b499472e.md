@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>POMOC</h1>
 <p>Większość z nas chciałaby się zatrzymać w obliczu tych prawd i prosić Boga o pomoc. Otóż Bóg nam nie pomoże. On dokonał dzieła zbawienia, lecz nie przyjmie go za nas. Podobnie nie zamierza On pomagać nam w chrześcijańskim życiu.
 <p>Niedojrzałość uważa Pana Jezusa za pomocnika. Dojrzałość zna Go jako życie samo w sobie. Dr J.E. Conant napisał: "Chrześcijańskie życie to nie nasze życie z pomocą Chrystusa, to Chrystus żyjący Swym  życiem  w  nas. Dlatego ta część naszego życia, która nie jest Jego życiem, nie jest życiem chrześcijańskim; ta część naszej służby, która nie jest Jego służbą, nie jest służbą chrześcijańską. Wszelki przejaw takiego życia i takiej służby ma ludzkie, naturalne źródło. Życie zaś chrześcijańskie i chrześcijańska służba ma źródło ponadnaturalne, duchowe". Paweł dodaje: "Dla mnie życiem jest Chrystus" (Flp.1,21) oraz "Wszystko mogę w tym, który mnie wzmacnia, w Chrystusie" (Flp.4,13).
@@ -27,6 +27,6 @@ source_verified: true
 <p>Wierzący nie musi błagać o pomoc. Musi on z wdzięcznością przyjąć to, co już należy do niego w Chrystusie. "Sprawiedliwy z wiary żyć będzie" (Hebr.10,38).
 <p>Nasz stary, dobry znajomy Andrew Murray zachęca nas tymi słowy: "Chociaż powoli, chociaż potykając się co chwila, wiara, która Mu zawsze dziękuje - nie za przeżycia, ale za obietnice, na których może się oprzeć - wzrasta z mocy w moc umacniając się ciągle w błogosławionej pewności, że Bóg osobiście uczyni w nas Swe dzieło doskonałym" (Flp.1,6): "Mając tę pewność, że Ten, który rozpoczął w was dobre dzieło, będzie je też pełnił aż do dnia Chrystusa Jezusa".
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-16-40970cad7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

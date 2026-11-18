@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Radykalny krzyż</h1>
 <p>Krzyż Chrystusowy jest najbardziej rewolucyjną rzeczą, jaka kiedykolwiek pojawiła się wśród ludzi.
 <p>Krzyż z dawnych rzymskich czasów nie znał kompromisu, nie robił nigdy żadnych ustępstw. Zwyciężał we wszystkich sporach, zabijając swojego przeciwnika i zmuszając go do milczenia na zawsze. Nie oszczędził nawet Chrystusa, lecz uśmiercił Go tak samo jak pozostałych. Zawieszono Go na krzyżu żywego, a sześć godzin później, gdy Go zdjęto, był martwy. Taki był krzyż, kiedy pierwszy raz pojawił się w historii chrześcijaństwa.
@@ -24,6 +24,6 @@ source_verified: true
 <p>Jeśli okażemy mądrość, to zrobimy tak, jak Jezus: wycierpimy krzyż nie bacząc na jego hańbę, zdążając do radości, jaka widnieje przed nami. Czynić to znaczy oddać wszelkie wzorce naszego życia na zniszczenie i ponowne odbudowanie mocą nowego, nieskończonego życia. I wtedy stwierdzimy, że chodzi o coś więcej niż poezję, więcej niż słodkie pienia i wzniosłe uczucia. Krzyż przeszyje nasze życie w miejscu, gdzie boli to najbardziej, nie oszczędzając ani nas, ani starannie pielęgnowanej opinii o nas samych. Pokona nas i doprowadzi do kresu nasze samolubne życie. Tylko wtedy będziemy mogli powstać z martwych do pełności nowego życia - utwierdzając wzorzec całkowicie nowego istnienia, wolnego i pełnego dobrych uczynków.
 <p>Zmieniony stosunek do krzyża, jaki widzimy we współczesnym chrześcijaństwie, nie jest dowodem tego, że Bóg się zmienił albo że Chrystus wniósł jakieś ulgi. Oznacza raczej, że chrześcijaństwo obecnej doby oddaliło się od wzorców Nowego Testamentu. Odeszliśmy już tak daleko, że trzeba będzie nie mniej niż nowej reformacji, aby przywrócić krzyż na jego właściwe miejsce w teologii i życiu Kościoła.
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p>
 {% endraw %}

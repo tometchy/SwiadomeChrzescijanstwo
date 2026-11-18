@@ -35,17 +35,17 @@ wrzesień 1981</h6>
 <table>
 <tr>
 <td>
-<img align="left" alt="Okładka" border="0" height="280" src="/assets/legacy/swch/ksiazki/biblia_dzis.jpg" width="182"/>
+<img align="left" alt="Okładka" border="0" height="280" src="../../assets/legacy/swch/ksiazki/biblia_dzis.jpg" width="182"/>
 </td>
 <td>
 <ul>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a><br/><br/>
-<li><a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a><br/><br/>
+<li><a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a><br/><br/>
 </li></li></li></li></li></li></li></ul>
 </td>
 </tr>
@@ -62,8 +62,8 @@ wrzesień 1981</h6>
 <a href="mailto:agape@kz.pl">agape@kz.pl</a>
 </h6>
 </font></td>
-<td align="RIGHT"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
-<a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="RIGHT"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
+<a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 </td>

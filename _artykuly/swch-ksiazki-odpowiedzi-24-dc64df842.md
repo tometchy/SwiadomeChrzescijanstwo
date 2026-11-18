@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 24<br/>
 MODLITWA W DUCHU ŚWIĘTYM</h1>
 <p><em>"Wielu chrześcijan posiada niewiedzę co do wpływu Ducha Świętego i niewiele zastanawiają się nad Jego obecnością w modlitwie. Kiedy otrzymują taki wpływ, to nie wiedzą o tym i nie poddają się Jemu oraz nie mogą radować się. W takim wypadku niczego nie odczuwamy - tylko jakieś poruszenie w naszym umyśle. Nic poza tym nie czujemy. Ledwie odczuwamy, że nasze myśli są zajęte określoną sprawą". </em></p>
@@ -24,6 +24,6 @@ MODLITWA W DUCHU ŚWIĘTYM</h1>
 <li>Czy chcesz pracować w modlitwie nad nawróceniem dusz nawet tych, których nie znasz, jeśli nawet będzie to wielkie zmaganie w duchu? <br/>
 <li>Czy może wolisz modlić się w ten sposób tylko za siebie samego?<br/>
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

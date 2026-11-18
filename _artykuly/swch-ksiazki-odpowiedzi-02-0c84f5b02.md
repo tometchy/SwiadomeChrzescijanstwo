@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-03-a58cc97fd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-01-50881855e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-03-a58cc97fd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-01-50881855e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 2<br/>
 NAWRÓCENIE</h1>
 <p>"<em>Duch Święty jest tym, który prowadzi Chrześcijan do zrozumienia i zastosowania obietnic zawartych w Piśmie... Dlatego był On z wieloma Chrześcijanami, którzy byli głęboko zaangażowani w modlitwie i widzieli fragmenty z Pisma, o których nigdy nie pomyśleliby przedtem, że mają takie właśnie zastosowanie w danym momencie</em>" ("Zasady modlitwy" str.62). </p>
@@ -26,6 +26,6 @@ NAWRÓCENIE</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy.</strong></p>
 <p>Czy moje życie modlitewne i posłuszeństwo słowu Bożemu dowodzi, że wierzę, iż Biblia jest prawdziwie słowem Boga i czy całkowicie roszczę sobie prawo do Jego obietnic w moim życiu i chodzeniu w Duchu Świętym? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-03-a58cc97fd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-01-50881855e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-03-a58cc97fd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-01-50881855e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 </p>
 {% endraw %}

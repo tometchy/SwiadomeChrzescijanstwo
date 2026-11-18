@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-18-61cfccc70/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-18-61cfccc70/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Prawdziwa wiara przynosi oddanie</h1>
 <p> Dla wielu chrześcijan Chrystus to niewiele więcej jak tylko idea lub w najlepszym razie ideał. Nie jest On dla nich faktem. Miliony tych, którzy wyznają wiarę, mówi jak gdyby był On rzeczywistością i postępuje, jak gdyby nie był. A naszą prawdziwą postawę ujawnia nasze postępowanie, nie nasze mówienie.
 <p> Swoją wiarę możemy udowodnić tylko swoim oddaniem, niczym innym. Każda wiara, która nie rządzi tym, kto ją posiada, nie jest prawdziwą wiarą - jest ona tylko pseudo-wiarą. Prawdopodobnie zaszokowałoby nas głęboko, gdybyśmy nagle zostali postawieni twarzą w twarz z naszymi wierzeniami i zmuszeni do wypróbowania ich w ogniu praktycznego życia.
@@ -21,6 +21,6 @@ source_verified: true
 <p> W naszych czasach nagląco jest nam potrzebne grono chrześcijan, gotowych ufać Bogu tak całkowicie, jak wiedzą, że będą musieli zaufać Mu w ostatecznym dniu. Dla każdego z nas zbliża się bowiem nieuchronnie dzień, w którym nie pozostanie nam nic, jak tylko Bóg. Dla pseudo-wierzącego jest to przerażająca myśl, lecz dla prawdziwie wierzącego jest to najbardziej pocieszająca myśl, jaką może mieć w swoim sercu.
 <p> Byłoby to rzeczywiście tragedią dojść do punktu, w którym nie pozostaje nic innego jak tylko Bóg i stwierdzić, że tak naprawdę nie ufaliśmy Mu w dniach naszej ziemskiej pielgrzymki. Lepiej byłoby zaprosić Boga teraz, aby usunął wszelką fałszywą ufność, oderwał nasze serca od wszystkich tajnych kryjówek i wyprowadził nas na otwartą przestrzeń, gdzie moglibyśmy sprawdzić sami czy rzeczywiście ufamy Mu, czy nie. Jest to surowa, ale pewna kuracja z naszych schorzeń. Łagodniejsza kuracja mogłaby okazać się nieskuteczna, a nasz czas szybko upływa.
  
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-18-61cfccc70/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-18-61cfccc70/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p>
 {% endraw %}

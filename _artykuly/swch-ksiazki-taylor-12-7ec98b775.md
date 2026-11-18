@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-13-147d76106/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-13-147d76106/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 12<br/>
 Nawróceni Chińczycy</h2>
 <p>Wąską uliczką szedł z wielką godnością w każdym ruchu pan Nee, ubrany w dobrze skrojoną żółtą jedwabną szatę z szerokimi rękawami. Tragarze noszący na głowie szorstkie słomiane kapelusze, ;z sandałami na nogach, posuwali się z res-pektem na bok, gdy go widzieli nadchodzącego, rzeczą oczywistą było bowiem, że był to mąż nauki; umiejący nie tylko czytać, ale  rozumiejący arcydzieła klasycznej literatury. Jako taki miał prawo cieszyć się respektem niewykształconych i prostaków. Ci, którzy go poznawali, przypominali też sobie, że jest on zamożnym kupcem, a dla tej przyczyny biedni ludzie usuwali się z drogi. Pan Nee posuwał się więc z łatwością po uliczce pełnej szyldów, zwisających z domów jak gdyby chorągwie, i dwuskrzydłowych drzwi, ale cały czas umyśl jego był zajęty rozmyślaniem o niepewnych kolejach życia, a bardziej jeszcze o tajemnicą osnutym zagadnieniu śmierci. Co więc dzieje się po śmierci? - to pytanie, które wciąż go nurtowało. Niepewność charakteryzująca ową ciemną niewiadomą powodowała, że czuł się nieswojo i niespokojnie. Gdzie by tu znaleźć drogę i prawdę, która by przyniosła ulgę i światło jego strwożonemu umysłowi?
@@ -47,6 +47,6 @@ Nawróceni Chińczycy</h2>
 <p>"Czy wolno zapytać jak pana godność?"
 <p>"Moje biedne nazwisko", brzmiała odpowiedź, "jest Wang".
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-13-147d76106/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-13-147d76106/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -16,13 +16,13 @@ source_verified: true
 <td valign="top"><h1><font color="#000080" face="Tahoma">Poradnik
         walki duchowej</font></h1>
 </td>
-<td align="right" valign="top"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="right" valign="top"><a href="http://www.czytelnia.Jezus.pl/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.czytelnia.Jezus.pl/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <p><font face="Tahoma" size="3"><i>Alfred Palla</i> </font></p>
 <p><font face="Tahoma" size="2"><strong>Fragmenty książki
 "Poradnik Walki Duchowej", która ukazała sie w lipcu
-1999 wydana przez Betezde. </strong></font><a href="/czytelnia/swch-ksiazki-poradnik-walki-duchowej-197e0c892/#zamowienie"><font face="Tahoma" size="2"><strong>Formularz zamówienia</strong></font></a><font face="Tahoma" size="2"><strong> na wersję dukowaną książki
+1999 wydana przez Betezde. </strong></font><a href="../../czytelnia/swch-ksiazki-poradnik-walki-duchowej-197e0c892/#zamowienie"><font face="Tahoma" size="2"><strong>Formularz zamówienia</strong></font></a><font face="Tahoma" size="2"><strong> na wersję dukowaną książki
 znajduje się u dołu tej strony.</strong></font></p>
 <p><a name="spis"></a><font face="Tahoma"> </font></p>
 <p><img align="right" alt="Poradnik walki duchowej" height="229" hspace="0" src="https://swch.pl/ksiazki/poradnik_walki_duchowej.jpg" width="150"/> </p>

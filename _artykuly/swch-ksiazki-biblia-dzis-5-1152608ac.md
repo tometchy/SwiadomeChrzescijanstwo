@@ -19,14 +19,14 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
 Chrześcijanin i Biblia : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
 ]
 </a></a></h6>
 </font>
@@ -111,7 +111,7 @@ Dlatego każdego dnia powinniśmy przychodzić do Biblii z oczekiwaniem. Wielkim
 Te objawienia, obietnice i przykazania przechowywać będziemy w naszych umysłach, aż nasza chrześcijańska pamięć stanie się jak dobrze zaopatrzona spiżarnia lub szafka kuchenna. Wtedy z jej półek w chwilach potrzeby będziemy mogli brać prawdy, obietnice, przykazania, które odpowiednie będą do sytuacji w jakiej się znajdziemy. Bez tego skazujemy siebie na wieczną niedojrzałość. Jedynie wtedy, gdy rozmyślamy nad Słowem Bożym, słuchamy Boga, słyszymy jego głos i odpowiadamy mu przez oddawanie czci, wiarę i posłuszeństwo, wzrastać będziemy do dojrzałości w Chrystusie.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/#Początek strony">Powrót</a> ]
 
 <br/><br/>
 <hr/>

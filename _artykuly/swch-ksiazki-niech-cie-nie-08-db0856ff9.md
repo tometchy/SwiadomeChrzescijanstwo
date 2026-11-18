@@ -576,7 +576,7 @@ wydawcy.<br/>
 Artykuł jest fragmentem książki Sue Waller "Niech cię
 nie oszuka żaden człowiek", która ukazała się w
 styczniu 1999 wydana przez Promocję Muzyki Chrześcijańskiej.</font></h5>
-<p><font face="Tahoma" size="2"><strong>Tu znajdziesz </strong></font><a href="/czytelnia/swch-ksiazki-niech-cie-nie-f95564143/#spis"><font face="Tahoma" size="2"><strong>spis
+<p><font face="Tahoma" size="2"><strong>Tu znajdziesz </strong></font><a href="../../czytelnia/swch-ksiazki-niech-cie-nie-f95564143/#spis"><font face="Tahoma" size="2"><strong>spis
 pozostałych rozdziałów</strong></font></a><font face="Tahoma" size="2"><strong> tej książki.</strong></font></p>
 
 {% endraw %}

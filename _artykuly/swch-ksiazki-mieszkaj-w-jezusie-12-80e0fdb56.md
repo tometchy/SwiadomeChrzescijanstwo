@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-13-ec508a422/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-13-ec508a422/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>12. MIESZKAJ W JEZUSIE  <br/>
 Sam Bóg utwierdza nas w Nim </h1>
 <p>"<i>A ten, który utwierdza nas z wami w Chrystusie i który nas pomazał  Bóg jest</i>"  2 Kor.1,21 
@@ -28,6 +28,6 @@ Sam Bóg utwierdza nas w Nim </h1>
 	</p><p>Zastosuj to teraz do obietnicy w naszym tekście: "Bóg to jest, który utwierdza nas w Chrystusie Jezusie". Tak jak teraz w tej chwili, oddajesz twemu Bogu wszelką troskę o twój rozwój i postęp. Bogu, który podjął się tego, żeby cię umocnić w Winnym Krzewie, i odczuwasz, jaka to radość móc zupełnie odpocząć w ręce Bożej, tak proś Go i ufaj Mu, że przez Ducha Świętego będzie ci stale przypominał tę świętą społeczność. On to uczyni, a z każdym porankiem stanie się twa wiara silniejsza i jaśniejsza, gdy Bóg twój stara się o to, abyś codziennie z Nim coraz ściślej się złączył. 
 	</p><p>A teraz, kochany współbojowniku, "niech cię Bóg wszelkiej Laski, który nas powołał w Chrystusie Jezusie, utwierdzi, umocni i ugruntuje". Oczekuj tego z zaufaniem i proś o ot gorąco. Licz na to, że Bóg nie pozostawi Swego dzieła i ucz się śpiewać z wiarą ten hymn, którego dźwięki po każdym nowym doświadczeniu będą brzmiały coraz czyściej i mocniej. "Temu, który nas może umocnić, niech będzie cześć po wieki wieczne. Amen".
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-13-ec508a422/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-13-ec508a422/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

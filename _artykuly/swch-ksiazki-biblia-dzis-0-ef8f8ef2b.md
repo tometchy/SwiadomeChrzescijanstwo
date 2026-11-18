@@ -19,14 +19,14 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
 Wstęp : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
 
 ]
 </a></a></h6>
@@ -46,7 +46,7 @@ Moja trzecia uwaga wstępna dotyczy przekonania, że Biblia jest prawdziwie ksi�
 Stąd jej ciągła popularność, jej pożałowania godne zaniedbanie i jej znaczenie dla współczesności stanowią trzy wystarczające powody, dla których powinniśmy poświęcić nasze umysły Biblii, księdze na dzisiaj.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/#Początek strony">Powrót</a> ]
 
 <br/><br/>
 <hr/>

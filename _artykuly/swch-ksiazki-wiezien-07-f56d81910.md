@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>7</h1></div>
 <p class="akapit">Niczym okno otworzyły się drzwi do nowej rzeczywistości, właśnie tu, nad Jordanem. Z samego jądra istoty Boga Ojca zstąpił jego Święty Duch, tak jak gołębica, przelatująca przez otwarte drzwi, i spoczął na jednym ze słuchaczy.</p>
 <p class="akapit">Oczy Jana przepatrywały tłum; jego przenikliwy wzrok badał każdą twarz. Co to było? Nadprzyrodzone światło, pojawiające się nie wiadomo skąd, jak gołębica wyfruwająca z okna, aby spocząć na kimś z tłumu.</p>
@@ -24,6 +24,6 @@ source_verified: true
 <p class="akapit">- To jest mój Syn umiłowany, w którym mam upodobanie.</p>
 <p class="akapit">I tak, jak Bóg był zadowolony, zadowolony był i Jan. Nie martwił się tym, że rzesze zapomniały o nim i podążyły za Jezusem. Wiedział, że po to właśnie przyszedł na świat.</p>
 <p class="akapit">Nie wiedział natomiast, że najłatwiejsze dni swej pracy ma już za sobą. Trudniejsze miały dopiero nadejść.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-08-5701ca420/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

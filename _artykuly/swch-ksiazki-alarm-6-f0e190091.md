@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-alarm-7-b329208fa/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-5-f912ff16b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-alarm-7-b329208fa/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-5-f912ff16b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
 <b><font face="Arial" size="4"><p align="CENTER">ROZDZIAŁ 5</p>
 </font><font face="Arial"><p align="JUSTIFY">Okropny stan nienawróconych</p>
 </font></b><font face="Times New Roman"><p align="JUSTIFY">Tak niewypowiedzianie straszny jest przypadek każdej nienawróconej duszy, że czasami myślałem, iż gdybym przekonał ludzi, że wciąż są nieodrodzeni, to wykonałbym ponad połowę pracy. Lecz ze smutnego doświadczenia wiem, że duch otępienia i ospałości tak opanowuje nieuświęconych, że mimo przekonania o swym nienawróceniu, ludzie ci siedzą spokojnie bez zwracania na to uwagi. Poprzez miłość cielesnych przyjemności, bądź uwikła</p></font>n<font face="Times New Roman">ie w ziemskie sprawy czy światowe troski, pożądliwości i uczucia cichnie głos sumienia i ludzie ci nie posuwają się dalej poza zimne życzenia i ogólne zamierzenia pokuty i poprawy. 
@@ -87,6 +87,6 @@ source_verified: true
 <p align="JUSTIFY">Cóż poczniesz, kiedy Pan wystąpi przeciwko tobie i w swym gniewie dopadnie ciebie i poczujesz to, o czym teraz czytasz? Kiedy przeciwnicy Daniela zostali wrzuceni do jaskini lwów wraz ze swymi żonami i dziećmi, lwy rzuciły się na nich i  pogruchotały im kości zanim jeszcze spadli na dno jaskini. Co stanie się z tobą kiedy wpadniesz w ręce Boga żywego?  Nie spieraj się z Bogiem. Pokutuj i nawróć <font face="Times New Roman">się, aby nic z tego nie przyszło na ciebie.</font></p>
 <p align="JUSTIFY"></p>
 <i><font face="Times New Roman"><p align="JUSTIFY">Szukajcie Pana póki można go znaleźć, wzywajcie go, dopóki jest blisko. Niech bezbożny porzuci swe postępowanie a niesprawiedliwy swe myśli i niech nawróci się do Pana i naszego Boga, a On zmiłuje się nad nim, gdyż jest On bogaty w przebaczenie.</p></font></i> (Iz. 55, 6-7).
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-alarm-7-b329208fa/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-5-f912ff16b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-alarm-7-b329208fa/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-5-f912ff16b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

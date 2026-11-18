@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-30-1c8f1c50d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-30-1c8f1c50d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 29<br/>
 WIZJA BLISKIEJ ŚMIERCI FINNEY'A </h1>
 <p><em>"Bądź pewien, że Bóg często daje więcej niż tylko odpowiedzi na modlitwę. On nie tylko pozwala osiągnąć to, o co się prosi, lecz łączy jedne błogosławieństwa z drugimi". </em></p>
@@ -29,6 +29,6 @@ WIZJA BLISKIEJ ŚMIERCI FINNEY'A </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy. </strong></p>
 <p>Czy moja społeczność z Bogiem przez Jezusa Chrystusa jest taka, że kiedy zbliżam się do śmierci, to mogę mówić: Słodki Jezu, słodki Jezu?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-30-1c8f1c50d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-30-1c8f1c50d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

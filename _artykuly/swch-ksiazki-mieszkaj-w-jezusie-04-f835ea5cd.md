@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>4. MIESZKAJ W JEZUSIE <br/>
 jako latorośl w winnej macicy </h1>
 <p>"<i>Jam jest winna macica, a wyście latorośle</i>" Jan 15,5 
@@ -29,6 +29,6 @@ przeze mnie Swój owoc zaoferował ginącemu światu"
 	</p><p>Cóż ty na to powiesz moja duszo? Czy masz dłużej zwlekać ze swą zgodą? Czy nie masz, zamiast rozmyślać nad tym, jak trudne jest życie na winnym krzewie - ponieważ patrzę na to , jako na coś, co ja mam wykonać - czy nie masz teraz rozpocząć uważać takie życie, jako to najradośniejsze i najwięcej błogie Czy nie powinienem już raz uwierzyć w to, że jeżeli będę w Nim, On będzie mnie strzegł i użyczy mi sił do mieszkania w Nim? Z mej strony to "mieszkanie" nie oznacza nic więcej, jak znaleźć swe położenie w Nim, zgodzić się na to, aby on mnie strzegł, aby w wierze poruczyć silnemu krzewowi, aby niósł słabą latorośl. Tak, ja to chcę uczynić, pozostanę w Tobie, uwielbiany Panie Jezu! 
 	</p><p>O, Zbawicielu jak niewymowna jest Twoja miłość "To poznanie jest mi za cudowne, za wysokie nie mogę tego zrozumieć. Ja mogę się tylko oddać Twojej miłości i prosić, abyś mi codziennie odsłonił coś z tej kosztownej tajemnicy i w ten sposób zachęcił Twego miłującego ucznia do wykonania tego, czego Twe serce tak gorąco pragnie - aby zawsze, zupełnie i jedynie w Tobie pozostać. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-05-44d5d43a3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

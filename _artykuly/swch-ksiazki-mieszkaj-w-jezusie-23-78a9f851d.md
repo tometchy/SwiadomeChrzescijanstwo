@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-24-a2b78613c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-24-a2b78613c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>23. MIESZKAJ W JEZUSIE <br/>
 tak jak Jezus mieszka w Ojcu</h1>
 <p>"<i>Jako Mnię umiłował Ojciec, tak i Ja umiłowałem was; trwajcież w miłości mojej (...) jako i Ja trwam w miłości Jego</i>". Jan.15,9.10
@@ -27,6 +27,6 @@ tak jak Jezus mieszka w Ojcu</h1>
 	</p><p>Jeżeliby jednak miała powstać wątpliwość, czy to jednak nie jest za wysokie powołanie dla nas, czy to tak jest naprawdę, to pamiętajmy o tym, że wielkość przywileju jest usprawiedliwiona wielkością celu zamierzonego przez Pana Boga. Jezus był doskonałej jedności z Ojcem, bez udzielenia Synowi przez Ojca całej pełni. On mógł Nim być ponieważ Go Ojciec miłował, a On pozostał w miłości Ojca. Wierzący mają być objawieniem Jezusa na ziemi. Nie mogą nim być bez całkowitego połączenia się z Nim; świat ma poznać, że Jezus ich miłuje, i że On ich posłał. Ale mogą być objawieniem, ponieważ Jezus miłuje ich miłością nieskończoną, która daje wszystko, co ma, jeżeli tylko zostają w Jego miłości. 
 	</p><p>Panie, pokaż nam Twą miłość; daj nam zrozumieć ze wszystkimi świętymi tę miłość, która przewyższa wszelki rozum. Panie, ukaż nam Twoje życie, abyśmy zrozumieli co to znaczy pozostawać w Twej miłości. To widzenie zdobędzie nasze serca tak, że nie będziemy pragnęli jakiegoś innego życia jak życia i pozostawania w Twej miłości.
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-24-a2b78613c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-24-a2b78613c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

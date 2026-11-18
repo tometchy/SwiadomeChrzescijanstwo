@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>16<br/>
 Owocne życie codzienne</h1></center>
 <p>Jeśli królestwo Boże, które przybliżyło się, gdy Jezus zaczął chodzić po ziemi, znajduje się wewnątrz człowieka, przemieniając go w nowe stworzenie, to wyniki tego zaczynają uzewnętrzniać się w postaci nowego, Bożego sposobu życia tego człowieka.[446] Jeśli Duch Święty, będący nośnikiem cech i charakteru Chrystusa, zajął w człowieku należne Mu miejsce i rozpoczął dzieło przemiany, to postępowanie tego człowieka w coraz mniejszym stopniu nosić będzie cechy starego, ziemskiego życia według ciała, a w coraz większym stopniu nosić będzie cechy nowego niebiańskiego życia według ducha. Jest to życie duchowe, mające swój początek i swój podstawowy przebieg w sferze ducha, niemniej jednak, za pośrednictwem przeobrażonej duszy, znajduje ono swój wyraz w sferze materialnej.[447] Jest niezmiernie przykre i bolesne, jeśli ludzie, którzy deklarują swą przynależność do Boga i fakt posiadania nowego, duchowego życia, nie ujawniają cech tego życia w konkretnej, widocznej postaci w swoim postępowaniu na co dzień. 
@@ -42,6 +42,6 @@ Owocne życie codzienne</h1></center>
 Tego pragnę, by być jak On.<br/>
 Przez życia troski, dążąc do chwały<br/>
 Pragnę być takim jak On." </p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-16-eeeb01202/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

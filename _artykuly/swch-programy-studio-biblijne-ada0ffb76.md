@@ -18,7 +18,7 @@ source_verified: true
 <i>Biblioteka Pisma Świętego na płycie CD ROM</i>
 </font></h2>
 <p>
-<img align="RIGHT" alt="Studio Biblijne" border="0" height="235" src="/assets/legacy/swch/programy/images/studio2.gif" width="196"/>
+<img align="RIGHT" alt="Studio Biblijne" border="0" height="235" src="../../assets/legacy/swch/programy/images/studio2.gif" width="196"/>
 </p>
 <h2>
 			Nowe spojrzenie na starożytne dzieło
@@ -126,7 +126,7 @@ source_verified: true
 		</h2>
 <p>
 <center>
-<img alt="Widok ogólny programu" height="470" src="/assets/legacy/swch/programy/images/studio1.gif" width="638"/>
+<img alt="Widok ogólny programu" height="470" src="../../assets/legacy/swch/programy/images/studio1.gif" width="638"/>
 </center>
 </p>
 <p>
@@ -225,10 +225,10 @@ source_verified: true
 </tr>
 </table>
 <p>
-			Zapraszamy do zapoznania się z <a href="/czytelnia/swch-programy-studio-recenzja-eab06ebe4/">recenzją Studia Biblijnego</a>. 
+			Zapraszamy do zapoznania się z <a href="../../czytelnia/swch-programy-studio-recenzja-eab06ebe4/">recenzją Studia Biblijnego</a>. 
 		</p>
 <p>
-<a href="/czytelnia/swch-programy-index-e2918a0b6/">
+<a href="../../czytelnia/swch-programy-index-e2918a0b6/">
 <b>Powrót do strony głównej</b>
 </a>
 </p><br/>

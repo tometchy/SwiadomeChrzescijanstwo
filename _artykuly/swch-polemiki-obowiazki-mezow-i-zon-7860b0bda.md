@@ -938,7 +938,7 @@ style='mso-element:field-begin'></span>PAGE \# &quot;'Strona: '#'<br>
 style='font-size:8.0pt;mso-bidi-font-size:10.0pt'><span style="mso-spacerun:
 yes">  </span></span></span><![endif]--><!--[if supportFields]><span
 lang=EN-GB><span style='mso-element:field-end'></span></span><![endif]--><span class="MsoCommentReference"><span lang="EN-GB" style="font-size:8.0pt;mso-bidi-font-size:
-10.0pt"><span style="mso-special-character:comment"> <?if !supportAnnotations?><a class="msocomoff" href="/czytelnia/swch-polemiki-obowiazki-mezow-i-zon-7860b0bda/#_msoanchor_1">[ITP1]</a><?endif?></span></span></span><span lang="EN-GB"> your self‑esteem.</span></p>
+10.0pt"><span style="mso-special-character:comment"> <?if !supportAnnotations?><a class="msocomoff" href="../../czytelnia/swch-polemiki-obowiazki-mezow-i-zon-7860b0bda/#_msoanchor_1">[ITP1]</a><?endif?></span></span></span><span lang="EN-GB"> your self‑esteem.</span></p>
 <?if !supportAnnotations?></div>
 <?endif?></div>
 </div>

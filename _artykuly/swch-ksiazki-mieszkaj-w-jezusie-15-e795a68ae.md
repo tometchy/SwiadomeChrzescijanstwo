@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-14-9ceb503f5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-14-9ceb503f5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>15. MIESZKAJ TERAZ W JEZUSIE</h1>
 <p>"<i>Oto teraz czas przyjemny,  oto teraz dzień zbawienia</i>" 2 Kor. 6,2
 
@@ -22,6 +22,6 @@ source_verified: true
 W każdej chwili możesz usłyszeć ten cichy szept: "Uczyń to teraz!". 
 	</p><p>Kto zechce zaraz rozpocząć, przekona się niebawem, jak błogosławieństwo otrzymane w jednej chwili, obejmuje i następną chwilę; jest już bowiem złączony z niezmieniającym się Jezusem, który go wziął w posiadanie i który mu udzielił mocy do życia w Bogu. "Uczyń to teraz", w chwili obecnej - nie jest niczym innym, jak początkiem tego stale obecnego "teraz", które obejmuje piękność i wspaniałość wieczności. Dlatego bracie, pozostań w Jezusie! Uczyń to teraz! 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-14-9ceb503f5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-14-9ceb503f5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-03-f2730ba93/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-03-f2730ba93/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Wielkie bożyszcze - rozrywka</h1>
 <p> Pewien niemiecki filozof powiedział przed wielu laty coś w tym sensie, że im więcej ma człowiek w swoim własnym sercu, tym mniej będzie potrzebował z zewnątrz. Nadmierna potrzeba dostaw z zewnątrz jest dowodem bankructwa wewnętrznego człowieka.
 <p> Jeśli jest to prawda (a ja wierzę, że tak), to obecna gonitwa za wszelkimi formami rozrywki świadczy o tym, że wewnętrzne życie współczesnego człowieka znajduje się w poważnym upadku. Przeciętny człowiek nie ma centralnego ośrodka stabilności moralnej ani źródła w swojej piersi, ani też wewnętrznej siły, która byłaby zdolna podnosić go ponad potrzebę coraz to nowych zastrzyków psychologicznych, dających mu otuchę do dalszego życia. Stał się on pasożytem świata, czerpiącym swoje życie z otoczenia, niezdolnym przeżyć ani jednego dnia bez stymulacji, jaką daje mu społeczeństwo.
@@ -24,6 +24,6 @@ source_verified: true
 <p> Czy to nie jest dziwne i zdumiewające, że w cieniu groźby zniszczenia atomowego, wiszącej nad światem, i w obliczu rychłego przyjścia Chrystusa ci, którzy podają się za naśladowców Pana, oddają się zapamiętale religijnym zabawom? Czyż w tym czasie, kiedy tak rozpaczliwie potrzeba dojrzałych świętych, liczne rzesze wierzących mają powracać do duchowego dzieciństwa i krzykiem domagać się zabawek religijnych?
 <p> "Wspomnij, Panie, na to, co się z nami stało! Spójrz i przypatrz się naszej zniewadze... Spadła korona z naszej głowy, biada nam, bo zgrzeszyliśmy! Dlatego chore jest nasze serce, dlatego zaćmione są nasze oczy." (Treny Jer. 5, 1. 16. 17) Amen, amen.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-03-f2730ba93/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-03-f2730ba93/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

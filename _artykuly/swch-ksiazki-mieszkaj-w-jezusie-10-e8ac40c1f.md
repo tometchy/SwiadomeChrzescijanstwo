@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>10. MIESZKAJ W JEZUSIE   <br/>
 On jest twoim odkupieniem </h1>
 <p>"<i>...Jezus Chrystus (...) stał się  nam od Boga odkupieniem</i>"  1 Kor.1,30 
@@ -38,6 +38,6 @@ należytego stosunku do Boga i zapewnia nas o Jego łasce i
 	</p><p>Pozostań w Nim, jako twym poświęceniu; doznanie Jego mocy uświęcającej tak pod względem ducha i duszy, jak i ciała, wzmocni twą wiarę w poświęcenie, które nie przestanie działać, aż rzędy końskie i kotły w Jeruzalemie będą miały napis: "Świętobliwość Pańska" (Zachariasza 14,20-21).
 	</p><p>Pozostań w Nim, jako twym odkupieniu i chodź już tu, jako dziedzic przyszłej chwały. Staraj się doznać na sobie zupełnej mocy wybawiającej Jego łaski, a wtedy twoje serce otworzy się dla zrozumienia, do jakiego stanowiska w stworzeniu przeznaczony jest człowiek, w którym wszystko ma być Jezusowi poddane, a ty sam zostaniesz przygotowany do wieczności z Bogiem.
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-11-26341fc4e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

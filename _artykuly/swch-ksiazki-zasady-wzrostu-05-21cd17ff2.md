@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>PRZYSPOSABIANIE</h1>
 <p>Kiedy już znamy wieczny Boży plan, niezmienny Jego cel względem każdego z nas, jeśli wiemy, w jaki sposób Bóg przysposabia nas do osiągnięcia tego celu, znajdujemy odpocznienie i ufność.
 <p>Tak się dzieje, że podstawowym czynnikiem wzrostu, zgodnie z Bożą logiką, jest potrzeba. Bez tego czynnika do nikąd byśmy nie zaszli w naszym chrześcijańskim życiu. Nasz Ojciec tworzy i dopuszcza potrzeby po to, by odwrócić nas od wszystkiego, co jest poza Chrystu-sem i skoncentrować nas na Nim samym. "Nie ja, lecz Chrystus" (Gal.2,20).
@@ -38,6 +38,6 @@ source_verified: true
 <p>Droga zaś jest bardzo trudna, trzeba stoczyć wiele walk, jednakże gorące pragnienie osiągnięcia celu trzymać go będzie w niej niewzruszenie.
 <p>Tylko ten, kto nie tęskni za Nim, za poznaniem Go, zawróci z tej drogi, a jest to droga, którą przebył przed nami Człowiek Chrystus Jezus. On pokonał wszelkie przeszkody. Dokonał tego ze względu na nas. Nie musimy już wspinać się - przewiezie nas pociąg Jego tryumfu. Każdy nieprzyjaciel czyhający przy drodze został zwyciężony, każdy wróg pokonany. Nie ma nic, co by nie zostało poddane pod Jego stopy, nie ma niczego we wszechświecie co byłoby w stanie pokonać najmniejsze dziecko Boże, które uchwyciło się ręki Pana i powiedziało: "Panie, przeprowadź mnie do miejsca, gdzie T y jesteś ze względu na wartość krwi, dzięki której już zwyciężyłeś". Cichy, ufny krok w dniach niepowodzenia i strachu, w dniach kiedy wszystko trzę-sie się i drży, przynosi Panu wielką chwałę" (G. P.).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

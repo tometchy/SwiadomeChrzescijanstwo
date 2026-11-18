@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-wiezien-19-07388001e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-wiezien-19-07388001e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>Epilog</h1></div>
 <p class="akapit">- Dowódco, trzecia cela jest pusta.
 <p class="akapit">- Nie pozostanie długo pusta. Właśnie otrzymałem wiadomość, że mamy przyjąć nowego więźnia.
@@ -40,6 +40,6 @@ source_verified: true
 <p class="akapit">Drogi czytelniku, nikt nie jest w stanie zrozumieć w pełni bólu, który odczuwasz, cierpiąc w obecnej sytuacji. Niezależnie od tego, czy spotkało cię to z powodu okoliczności, czy z winy ludzi, jedno jest pewne: zanim ta tragedia rozegrała się w twoim życiu, przeszła najpierw przez wszechmocną rękę Boga.
 <p class="akapit">"A błogosławiony jesteś..."
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-wiezien-19-07388001e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-wiezien-19-07388001e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

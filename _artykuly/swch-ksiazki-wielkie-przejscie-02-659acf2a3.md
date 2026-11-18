@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 <h1>R O Z D Z I A Ł 2<br/>
 PRAKTYCZNE PUSTOSZENIE NASZEGO STAREGO CZŁOWIECZEŃSTWA</h1>
 <p><em>Panie, my wiemy, że właśnie użyliśmy słów, których użył dawno temu jeden z mężów starotestamentowych, lecz nie rozumiał, że to Pan mówił (1Sam. 3,3-10). On myślał, że to był człowiek, myślał, że to był mąż Boży, aż nie został postawiony twarzą w twarz z faktem: nie, to nie człowiek mówił, to Bóg. A potem od razu w sobie powiedział: "Mów Panie, twój sługa słucha". Prosimy, abyśmy mogli mieć tę zdolność rozróżniania, kiedy Pan mówi, kiedy to nie jest tylko człowiek, lecz Pan. I abyśmy zrozumieli tak jak Samuel, jak wiele zależy od mówienia Pana do nas. Chcielibyśmy być jak Samuel, być tą wielką mocą Bożą pośród ludu Bożego. Prosimy Cię, abyśmy naprawdę mogli słyszeć Cię poprzez głos, który może mówić (...), żebyśmy mogli słyszeć wewnętrznie głos Pana (...), żebyśmy mogli iść przed Ciebie i przyjąć wszystkie instrukcje i rozkazania, które chciałbyś, abyśmy przyjęli. Tak pomóż nam Panie tego poranka, w imieniu Twoim. Amen.</em></p>
@@ -75,6 +75,6 @@ w jakichkolwiek doświadczeniach.</em></p>
 <p>Zamierzam na tym zakończyć tego poranka. Zobaczyliśmy, że pierwszą rzeczą, jaką spotykamy w Koryncie jest przeniesienie tego starego człowieczeństwa, jego osoby i kompleksów, do tego nowego. Pan mówi temu przeniesieniu: "nie!" i apostoł mówi "nie! - tylko Jezus Chrystus Ukrzyżowany!!!". Niech Pan bada nasze serca odnośnie tych dwóch człowieczeństw.</p>
 <p>Módlmy się:<br/>
 <em>Teraz, Panie, to może być bardzo szybko i bardzo łatwo przesłonięte w następnych kilku chwilach, kiedy odejdziemy i będziemy musieli myśleć z powrotem o tym, co było w tej godzinie. Zaoszczędź to, zachowaj nas od tego, Panie, nie chcemy wywierać presji, lecz modlimy się, aby Duch Święty poświęcił nasze serca w obecności tak wielkich spraw, w największej ze spraw z całego czasu i wieczności. Daj nam ciche rozważanie modlitewne w naszych sercach, abyśmy zobaczyli, gdzie jesteśmy, gdzie jesteśmy w tej całej Biblii. Tak pomóż nam. W imieniu Twego Syna. Amen.</em></p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

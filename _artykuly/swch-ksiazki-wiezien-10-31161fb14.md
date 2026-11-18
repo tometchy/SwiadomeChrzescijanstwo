@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>10</h1></div>
 <p class="akapit">- To Herod to uczynił, czyż nie? Ten przeklęty potwór!</p>
 <p class="akapit">- Janie, czy to ty? Pamiętasz mnie? Byłem z tobą, gdy byłeś dzieckiem. Byłem wtedy wielkim człowiekiem, spójrz na mnie teraz.</p>
@@ -21,6 +21,6 @@ source_verified: true
 <p class="akapit">- Janie, słyszysz mnie? Zapamiętaj moje słowa, zgnijesz tutaj, jak my wszyscy. Tam, na pustyni, powiedziałeś jedną słuszną rzecz. Nie ma granic niegodziwości ludzkiego serca. A Herod jest najgorszy ze wszystkich. Byłbym dziś szczęśliwym, bogatym człowiekiem, gdyby nie ten bezlitosny człowiek i inni... inni niegodziwcy, którzy spiskowali przeciwko mnie, aby zagarnąć wszystko, co posiadałem.</p>
 <p class="akapit">- Parnachu, panuj nad swoim językiem! - krzyknął jeden ze strażników.</p>
 <p class="akapit">Nastąpiła cisza. Więzień w pierwszej celi zamilkł. Niestety, głośne krzyki obudziły jego sąsiada.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-09-73fca90ed/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

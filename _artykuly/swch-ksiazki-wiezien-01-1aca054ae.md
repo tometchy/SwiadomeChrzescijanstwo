@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-02-995af2fda/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-00-6aac1e82b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-02-995af2fda/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-00-6aac1e82b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>1</h1></div>
 <p class="akapit">Elżbieta otworzyła drzwi, aby powitać młodego krewnego przybywającego z Betlejem.</p>
 <p class="akapit">- Mam dla was pilną przesyłkę od Józefa i Marii.</p>
@@ -31,6 +31,6 @@ source_verified: true
 <p class="akapit">- Masz rację, Elżbieto. Musimy natychmiast udać się na pustynię.</p>
 <p class="akapit">- Jak zdołamy tam przeżyć? Jeśli chcemy być całkowicie bezpieczni, musimy iść daleko w głąb pustyni. Czy ktoś jest w stanie tam wytrzymać?</p>
 <p class="akapit">- Elżbieto, będzie to dla nas wszystkich trudne, najoględniej mówiąc. A jednak esseńczycy jakoś tam żyją. Mają rodziny, dzieci, a nawet domy. Nasz syn przeżyje. - Tu Zachariasz cicho się roześmiał. - A może i my jakoś przetrwamy, choćby przez krótki czas.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-02-995af2fda/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-00-6aac1e82b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-02-995af2fda/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-00-6aac1e82b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 26<br/>
 DOSKONAŁOŚĆ </h1>
 <p><em>"Dusze chrześcijan, kiedy są obciążone muszą znaleźć uwolnienie. Bóg wkłada ciężary na dusze chrześcijan po to, aby przyprowadzić ich bliżej siebie". </em></p>
@@ -25,6 +25,6 @@ DOSKONAŁOŚĆ </h1>
 <li>Czy kiedykolwiek przebadałeś całkowicie swoje życie według prawa Bożego? <br/>
 <li>Czy wyznałeś swoje grzechy i radujesz się z tego, że Jezus Chrystus dał ci zwycięstwo nad wszystkimi grzechami, które są ci znane? <br/>
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-25-5b0c0b79f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 11<br/>
 MŁODZI LUDZIE I PRZEBUDZENIE </h1>
 <p><em>"Duch święty daje chrześcijanom duchowe rozeznanie odnośnie mechanizmów i rozwoju opatrzności. Nie jest niczym dziwnym, że chrześcijanie mogą mieć jasne poznanie odnośnie znaków czasów. Dzięki opatrzności wiedzą czego oczekiwać, aby modlić się z wiarą".</em></p>
@@ -20,6 +20,6 @@ MŁODZI LUDZIE I PRZEBUDZENIE </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
 <p>Czy otworzyłeś swoje życie dla Boga i Ducha Świętego tak, abyś mógł zobaczyć Jego dzieło opatrznościowe wokół siebie w tym w czym inni po prostu upatrują "łut szczęścia"? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

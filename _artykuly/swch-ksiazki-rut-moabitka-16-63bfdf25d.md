@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 <h2>Rut jest pierwowzorem Kościoła lub Oblubienicy Chrystusowej</h2>
 <p>Rozpatrując życie Rut, jak jest ono opisane w Piśmie Świtym, znajdujemy, że wszystko w nim jest pierwowzorem Kościoła Chrystusowego. Weźmy z niego tylko niektóre cechy.
 </p><p>Przede wszystkim - czas powołania Rut do Pana. Spójrzcie: kiedy właściwie Rut została pociągnięta do Boga? Dopóki Elimelech ze swoim domem pozostawał na swoim dziedzictwie, nie mogło być myśli o ty, aby promień światła przeniknął do jej duszy. Powołuje ją Bóg nie wcześniej i nie później, ale wtedy, gdy ta rodzina izraelska, razem ze swoją głową, wybrała fałszywą drogę, odeszła od Boga i stopniowo doszła do całkowitego upadku. Zapewne, końcem tego upadku było nawiązanie więzi pokrewieństwa z domami Moabitów. Oto tutaj mogło się zdarzyć, że Bóg posłał do serca Rut pierwsze promienie łaski. Tak więc, w tym czasie, kiedy znający Boga, należący do "pierwocin", jak syn marnotrawny, pozostawili ojcowski dom i odeszli do dalekiego kraju - Bóg zacząl pociągać do Siebie tę, która uważała się "za ostatnią". I to po to, aby uczynić ją "pierwszą". Zadziwiające, że ta odstęopcza od Boga rodzina, staje się przyczyną zbawienia Rut.
@@ -33,6 +33,6 @@ source_verified: true
 </p><p>Otwórz oczy swoje, dziecko Boże, i zobacz, że należysz do Kościoła, "który jest ciałem jego, pełnią tego, który sam wszystko we wszystkim wypełnia" (Ef. 1:23). Powiedz sobie sam to, co On mówił (Rzym. 8:29-30), a zatem - padnij do nóg Jego: On oczekuje tego, jak oczekiwał tego Boaz. Przystąp dfo Niego, połóż Mu na sercu wszystkie swoje nadzieje i swoje prawo do otrzymania twego działu; oddaj się Mu w pełni tak, abyś już więcej nie musiał wracać...
 </p><p>O, gdyby Kościół Boży doszedł do tego, do czego doszła Rut! Gdyby zapmniał siebie, jak ona,byłby na wszystko gotowy, jak ona, i gdyby dążył tylko do jednego celu - otrzymania swojego niebiańskiego dziedzictwa! Tylko tego oczekuje Pan! Jeżeli dziś Kościół dojdzie do tego, wtedy "przyjdzie ten, który ma przyjść, i nie będzie zwlekał" (Hebr. 10:37). Wtedy radośnie rozlegnie się zupełnie teraz nie chciane, święte i gorące brzmienie: "Amen, przyjdź Panie Jezu!" (Obj. 22:20).
 </p>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 
 {% endraw %}

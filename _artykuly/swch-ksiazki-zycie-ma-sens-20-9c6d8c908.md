@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>19<br/>
 Owocny patriotyzm</h1></center>
 <p>Nasze życie na świecie przebiega w określonym środowisku, które w szerokim znaczeniu nazywamy domem. Świat jest zbyt wielki, byśmy mogli być i czuć się jednakowo wszędzie. Dlatego miejsce, gdzie urodziliśmy się, wyrośli i żyjemy, jest nam szczególnie bliskie, drogie i miłe. Teren zamieszkały przez ludzi do nas podobnych, mówiących tym samym językiem i złączonych wspólną historią, mentalnością, kulturą i wielu innymi cechami, nazywamy naszym krajem ojczystym. W naszej naturze tkwi przywiązanie i miłość do ojczyzny. Jesteśmy z nią związani uczuciowo, co przejawia się na wiele różnych sposobów, między innymi tym, że niechętnie ją opuszczamy, że chodzi nam o jej dobro, że cieszymy się z jej pomyślności, że martwią nas jej niepowodze-nia. Więź człowieka z ojczyzną jest jak najbardziej logiczna i uzasadniona, gdyż jest ona wielkim wspólnym dobrem, od którego w sposób istotny uzależnione jest także dobro jednostki. Od stosunków panujących w ojczyźnie zależy w znaczynym stopniu osobiste samopoczucie, nasze bezpieczeństwo, możliwości naszego rozwoju i realizacji różnych celów życiowych, nasz poziom zamożności, ogólna opinia o nas w świecie i wiele innych elementów, wpływających na ogólny poziom i jakość naszego życia.[549]
@@ -39,6 +39,6 @@ Owocny patriotyzm</h1></center>
 Dlaczego nie budujesz mostów, by zjednoczyć świat? <br/>
 Dlaczego nie budujesz mostów, abyśmy byli jedno, <br/>
 A Polska była cząstką nieba!"</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

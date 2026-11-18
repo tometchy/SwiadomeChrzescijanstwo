@@ -13,9 +13,9 @@ source_verified: true
 
 <table border="0" valign="TOP" width="100%">
 <tr>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </td>
-<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <h1>Szukanie Boga<br/>
@@ -23,17 +23,17 @@ source_verified: true
 <a name="spis"></a>
 <h2>Spis treści</h2>
 <blockquote>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#slowo_wstepne">Słowo Wstępne</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Rozdział 1, Pragnienie Boga</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Rozdział 2, Błogosławieni ubodzy</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Rozdział 3, Usunięcie zasłony</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Rozdział 4, Poznanie Boga "Skosztujcie i zobaczcie..." (Psalm 34, 9)</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Rozdział 5, Wszechobecność</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Rozdział 6, Mówiący głos</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Rozdział 7, Spojrzenie duszy</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Rozdział 8, Odnowienie relacji między Stwórcą a stworzeniem</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Rozdział 9, Cichość i pokrzepienie</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-szukanie-boga-10-dd1acf9c3/">Rozdział 10, Sakrament życia</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#slowo_wstepne">Słowo Wstępne</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Rozdział 1, Pragnienie Boga</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Rozdział 2, Błogosławieni ubodzy</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Rozdział 3, Usunięcie zasłony</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Rozdział 4, Poznanie Boga "Skosztujcie i zobaczcie..." (Psalm 34, 9)</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Rozdział 5, Wszechobecność</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Rozdział 6, Mówiący głos</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Rozdział 7, Spojrzenie duszy</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Rozdział 8, Odnowienie relacji między Stwórcą a stworzeniem</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Rozdział 9, Cichość i pokrzepienie</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-szukanie-boga-10-dd1acf9c3/">Rozdział 10, Sakrament życia</a><br/>
 </li></li></li></li></li></li></li></li></li></li></li></blockquote>
 <a name="slowo_wstepne"></a>
 <h2>Słowo wstępne</h2>
@@ -49,7 +49,7 @@ Jego przyjście jest pewne jak świt poranka". (Ozeasza 6, 3)</p></b></i>
 <p>Książka ta jest skromną próbą pomocy głodnym dzieciom Bożym w odnalezieniu Boga. Nic z tego, co tu przedstawiam, nie jest nowe, z wyjątkiem może tego, że jest to odkrycie dokonane przez moje własne serce. Odkrycie wspaniałych duchowych prawd. Byli już inni przede mną, którzy zagłębiali się bardziej niż ja w tych świętych tajemnicach. A choć mój ogień nie jest zbyt duży, niemniej jednak jest prawdziwy. I być może znajdą się tacy, których świece zapalą się od mego płomienia.
 
 <p><i>A. W. Tozer Chicago, III., 16 czerwca 1948 r.</i>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <br/>
 <p><font size="-1">(1999.04.15) Wersję HTML przygotował <a href="mailto:wasilewski@Jezus.pl">Piotr Wasilewski</a></font></p>
 </td></p></p></p></p></p></p></p></p></p>

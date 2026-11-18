@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 1<br/>
 Pragnienie Boga</h1>
 <p><b>"Do Ciebie lgnie dusza moja, Prawica Twoja mnie wspiera". (Psalm 63, 9)</b>
@@ -52,6 +52,6 @@ I pragniemy ciągle nasycać Tobą nasze dusze.</p></i>
 <p>Człowiek, który ma Boga jako swój skarb, ma w Nim Jednym wszystkie swe bogactwa. Może nie mieć wielu zwykłych bogactw, a gdy dostanie pozwolenie na posiadanie czegoś, radość z tego będzie tak ograniczona, że posiadanie tego nie będzie niezbędne do szczęścia. A jeżeli będzie musiał oddawać jedną rzecz po drugiej, odczuje  niewielką stratę, ponieważ posiadanie źródła wszelkich bogactw w Jedynym Bogu da mu całe zadowolenie, całą przyjemność i rokosz. Cokolwiek by stracił, to tak, jakby nie stracił nic, ponieważ teraz ma to wszystko w Nim. A to, co ma, jest jego świętą i prawowitą własnością na zawsze.
 
 <i><p>O Boże, zakosztowałem Twojej dobroci i to mnie zarówno zadowoliło, jak i sprawiło we mnie pragnienie, by mieć więcej. Z bólem odczuwam świadomość potrzeby większej łaski. Wstydzę się braku tego pragnienia. O, Boże, Trójco, chcę Cię chcieć; tęsknię, aby być wypełniony tęsknotą; pragnę, aby jeszcze więcej pragnąć. Pokaż mi Swoją chwałę, proszę Cię, spraw tak, abym naprawdę poznał Ciebie. Zacznij łaskawie we mnie nową pracę Miłości. Powiedz do mej duszy: "Powstań, moja przyjaciółko, ma piękna, i pójdź!" A potem obdarz mnie łaską, by powstać i pójść za Tobą z tej zamglonej ziemi, gdzie błądziłem tak długo. Proszę Cię o to w imieniu Jezusa Chrystusa. Amen.</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-odpowiedzi-b-11df4a110/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-b-11df4a110/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Dodatek C<br/>
 KAROL GRADISON FINNEY<br/>
 Biograficzny zarys </h1>
@@ -32,6 +32,6 @@ Biograficzny zarys </h1>
 
 </p><p><em>W imieniu Jego Królestwa<br/>
 L. G. Parkhurst</em></p>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-odpowiedzi-b-11df4a110/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-b-11df4a110/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>Skróty i nazwy ksiąg biblijnych</center></h1>
 <p>Poniżej podano skróty ksiąg biblijnych użyte w spisie odnośników oraz nazwy tych ksiąg według dwóch najbardziej rozpowszechnionych w Polsce tłumaczeń Pisma Świętego: Biblii Tysiąclecia (wydawnictwo Pallotinum, Poznań-Warszawa 1980) oraz Biblii Warszawskiej (Brytyjskie i Zagraniczne Towarzystwo Biblijne, Warszawa 1975).
 
@@ -1489,6 +1489,6 @@ source_verified: true
 <p>[633]	Rz 15,13	2Tm 4,6-8	1P 1,6.8	1P 5,10 	</p>
 <p>[634]	Ps 84.2.3	Flp 1,21.23	2Kor 5,8	2Kor 5,1.2 	</p>
 <p>[635]	Ap 22,17	Flp 3,20.21	Dz 1,11	J 16,22              Ap 22,20.21</p>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p>
 {% endraw %}

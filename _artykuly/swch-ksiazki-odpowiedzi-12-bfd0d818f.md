@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 12<br/>
 BOŻA SZKOŁA MODLITWY</h1>
 <p><em>"Całkowite poświęcenie się Bogu jest niezbędne do tego, aby modlić się z wiarą. Musisz żyć świętym życiem i wszystko poświęcić Bogu - twój czas, talenty, wszystkie wpływy jakie posiadasz. Wszystko co masz, wszystko czym jesteś musi całkowicie należeć do Niego". </em></p>
@@ -22,6 +22,6 @@ BOŻA SZKOŁA MODLITWY</h1>
 <ol>
 <li>Czy potrzebuję uczęszczać do Bożej szkoły modlitwy?
 <li>Czy jestem gotów modlić się w wierze z poświęconego serca o zbawienie tych, którzy wydają się być najdalej od Boga?
-</li></li></ol><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font>
+</li></li></ol><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font>
 
 {% endraw %}

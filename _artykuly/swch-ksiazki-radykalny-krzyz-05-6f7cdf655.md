@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Zachłanność puszczy</h1>
 <p> "Człowiek został stworzony, aby żyć w sadzie" - mówi dr Harold C. Mason - "lecz na skutek grzechu został zmuszony do życia na polu, które wydarł swoim wrogom w pocie i łzach, i które utrzymuje w swoim posiadaniu tylko kosztem nieustannej czujności i nie kończącego się wysiłku. Gdyby zaledwie przez kilka lat zaniechał swoich starań, puszcza na nowo wkroczyłaby, aby opanować jego pole. Dżungla i lasy pochłonęłyby jego pracę i cała jego troskliwa opieka poszłaby na marne".
 <p> Każdy rolnik zna zachłanność puszczy, której nie da się zniszczyć ani przy pomocy nowoczesnej techniki, ani przez udoskonalenie metod uprawy. Bez względu na to, jak starannie przygotować glebę, w jak doskonałym stanie pozostawić płoty, jak dokładnie zakonserwować budynki, niech tylko właściciel zaniedba przez jakiś czas swoją cenną posiadłość, a zaraz zacznie ona wracać do dziczy, pochłaniana stopniowo przez dżunglę lub pustynię. Pozostawiona sama sobie przyroda zawsze stacza się samoczynnie w kierunku puszczy, nigdy w kierunku przynoszącego plony pola. O tym, powtarzam, wie każdy rolnik.
@@ -23,6 +23,6 @@ source_verified: true
 <p> Doprowadzenie do nawrócenia kilku osób po to tylko, aby pozostawić ich własnemu losowi bez odpowiedniej opieki jest równie nierozsądne, jak pozostawienie stadka małych jagniąt w głębi dzikiej puszczy; jest to tak absurdalne, jak wykarczowanie i obsianie kawałka pola w środku lasu i pozostawienie go na łaskę i niełaskę niegościnnej przyrody. Wszystko to byłoby daremnym trudem i nie mogłoby dać rzeczywistych korzyści.
 <p> Podobnie jest z każdym wysiłkiem duchowym, który nie uwzględnia zachłanności puszczy. Jagnięta należy koniecznie otoczyć opieką pasterską, gdyż w przeciwnym razie poginą; pole musi być uprawiane, w przeciwnym razie zmarnieje, duchowych zdobyczy koniecznie trzeba strzec przez czujność i modlitwę, w przeciwnym razie padną ofiarą nieprzyjaciela.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p>
 {% endraw %}

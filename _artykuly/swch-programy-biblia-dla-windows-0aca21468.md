@@ -33,7 +33,7 @@ Ktoś z was pytał czy program uruchomi się w systemach: Win 3.11, OS/2, MacOs,
 <li><b>Biblia Tysiąclecia,</b></li>
 </ul>
 </blockquote>
-<center><img alt="Biblia dla Windows - widok programu" border="0" height="501" src="/assets/legacy/swch/programy/images/biblia_w.gif" width="645"/></center>
+<center><img alt="Biblia dla Windows - widok programu" border="0" height="501" src="../../assets/legacy/swch/programy/images/biblia_w.gif" width="645"/></center>
 <blockquote>Program jest aplikacją MDI (Multi Document Interface), czyli można otwierać, używać wiele okien w tym samym czasie.
 <p>Do poruszania się po Biblii służy pasek nawigacyjny, gdzie można wybierać poszczególne księgi, rozdział i wersety. W jendym oknie wyświetlany jest jeden rozdział. Zaznaczone wersety w danym oknie można skopiować do schowka, zapisać do pliku tekstowego lub wydrukować. Wybrany werset można porównać z tym samym wersetem, ale w innym tłumaczeniu.
 <p>Program ma możliwość prostego wyszukiwania wersetów, zawierające zadane wyrazy ("po słowach").
@@ -87,19 +87,19 @@ Ktoś z was pytał czy program uruchomi się w systemach: Win 3.11, OS/2, MacOs,
 <table border="0" cellpadding="5">
 <tr align="CENTER" valign="CENTER">
 <td>
-<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.exe"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
+<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.exe"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
 <br/><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.exe">biblia_win_14.exe</a></center>
 1 - <b>1.44 MB</b></td>
 <td>
-<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w02"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
+<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w02"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
 <br/><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w02">biblia_win_14.w02</a></center>
 2 - <b>1.44 MB</b></td>
 <td>
-<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w03"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
+<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w03"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
 <br/><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w03">biblia_win_14.w03</a></center>
 3 - <b>1.44 MB</b></td>
 <td>
-<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w04"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
+<center><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w04"><img alt="Kliknij aby pobrać plik..." border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a>
 <br/><a href="http://swiatbiblii.ovh.org/download/biblia_win_14.w04">biblia_win_14.w04</a></center>
 4 - <b>1.1 MB</b></td>
 </tr>
@@ -155,7 +155,7 @@ Proszę je kierować na e-mail: <b><a href="mailto: dariuszb@ist.agh.edu.pl">dar
 </p></blockquote>
 <p><b>Życzę owocnego czytania i badania Pisma Świętego.</b></p>
 <p>
-<a href="/czytelnia/swch-programy-index-e2918a0b6/">
+<a href="../../czytelnia/swch-programy-index-e2918a0b6/">
 <b>Powrót do strony głównej</b>
 </a>
 </p><br/>

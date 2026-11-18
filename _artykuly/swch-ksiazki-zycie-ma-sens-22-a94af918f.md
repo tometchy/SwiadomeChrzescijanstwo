@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>21<br/>
 Owocna nadzieja</h1></center>
 <p>Na początku naszych rozważań postawiliśmy pytania dotyczące naszego pochodzenia, sensu życia i przeznaczenia. Ostatnie z nich brzmiało: Dokąd zdążam? U Boga znaleźliśmy odpowiedź na pytanie dotyczące naszego pochodzenia, w Bogu znaleźliśmy także sens naszego życia. Również i odpowiedzi dotyczącej naszego przeznaczenia nie będziemy poszukiwać gdzie indziej, tylko u Boga i w Jego Słowie, gdyż nikt inny odpowiedzi równie wiarygodnej nam nie udzieli.
@@ -42,6 +42,6 @@ Owocna nadzieja</h1></center>
  W tym jasnym kraju, gdzie młodość wciąż trwa,<br/>
  Gdzie łzy nie płyną, wszystkie troski przeminą. <br/>
  Tam mi mój Zbawca koronę da."</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-23-7df792729/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-21-200ce2d99/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

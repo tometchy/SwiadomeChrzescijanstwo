@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>ZAPARCIE SIĘ SIEBIE</h1>
 <p>Z chwilą, gdy wierzący odkrywa coś ze strasznej tyranii "starego człowieka" lub jeśli bez końca się z nim zmaga, całe jego zainteresowanie koncentruje się na pragnieniu zaparcia  się  siebie. Ono bowiem oznacza wolność, odpocznienie i wzrost w Chrystusie. Ono bowiem  oznacza ucieczkę od własnej natury. Człowiek zna wiele ucieczek z tej niewoli - Bóg zna tylko jeden sposób. Najpierw jednak omówimy niektóre z ludzkich metod.
 
@@ -39,6 +39,6 @@ source_verified: true
 <p>Któż z nas nie wie o niepowodzeniach naszych dróg i sposobów, naszych tak często dobrych chęci? Jest jednak coś, o czym większość nie wie, a mianowicie, że te właśnie   niepowodzenia są sposobem uczenia się Bożej drogi, sposobem wejścia na nią. "Bo myśli Moje, to nie myśli wasze, a drogi wasze, to nie drogi Moje - mówi Pan, lecz jak niebiosa są wyższe niż ziemia, tak Moje drogi są wyższe niż drogi wasze i myśli Moje niż myśli wasze" (Iz.55,8.9).
 <p>Jaki jest więc ten Boży sposób "zaparcia się samego siebie"? Bóg zna tylko jeden skuteczny sposób, leży on u podstaw Jego dróg. Jest to zasada dokonanego dzieła. Otóż droga, jaką wyznaczył nam Bóg we wszystkim, jest drogą, którą On sam już przetarł, pokonał, zakoń-czył w Chrystusie.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

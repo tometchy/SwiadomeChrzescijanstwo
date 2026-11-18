@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>3. MIESZKAJ W JEZUSIE <br/>
 a On cię zachowa </h1>
 <p>"<i>Ścigam, ażebym też uchwycił to, na com też od Chrystusa Jezusa uchwycony</i>". Filip.3.12 
@@ -32,6 +32,6 @@ a On cię zachowa </h1>
 	</p><p>Mój kochany, Ty który wraz ze mną ukryć się chcesz w Panu Jezusie, znajdź trochę czasu, aby być sam na sam z Jezusem, a wtedy powiedz Mu to wszystko. Byłoby to zuchwalstwem mówić o pozostawaniu w Jezusie tylko po to, aby wywołać u ciebie tylko przyjemne wrażenie; nie o to chodzi, chodzi o to, aby prawda Boża została natychmiast zamieniona w czyn i życie. O, oddaj się dziś kochanemu Zbawcy, aby czynić to jedno, czego od ciebie żąda. Wydaj siebie samego, aby pozostać w Nim. On dokona tego dzieła w tobie; możesz tego oczekiwać od Niego, Ze cię zachowa w Sobie i w ufności. 
 	</p><p>A gdyby znowu wyłoniły się jakieś wątpliwości, albo jakiś upadek doprowadził cię do rozpaczy, to pomyśl o tym, w czym Paweł znalazł moc dla siebie: "Zostałem uchwycony przez Jezusa Chrystusa". W tej pewności leży źródło siły; stąd możesz popatrzeć na cel, na który zwrócone jest serce Jezusa, na który i twoje serce może być zwrócone. W tym znajdziesz wzmocnienie twego zaufania, że Ten, który rozpoczął w tobie dobrą sprawę, Ten jej także dokona. W tym zaufaniu nabędziesz odwagi, aby dzień po dniu na nowo powtarzać: "Ścigam, abym uchwycił to, na com od Jezusa Chrystusa jest uchwycony". Dlatego też, że Sam Jezus mnie uchwycił, i ponieważ mnie strzeże, dlatego odważam się powiedzieć: "Mój Zbawicielu, pozostaję w Tobie". 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

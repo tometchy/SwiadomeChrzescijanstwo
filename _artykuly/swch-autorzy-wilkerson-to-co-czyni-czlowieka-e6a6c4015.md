@@ -476,7 +476,7 @@ z Nim w okręgach niebiańskich.
 <br/> 
 
 <p> 
-<center><b><font size="-2"><a href="/archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
+<center><b><font size="-2"><a href="../../archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
 <!--- highlighted text example---></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></blockquote>
 </blockquote>
 

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-02-80e1d9696/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-02-80e1d9696/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 1<br/>
 Ostatnich 2 i 1/2 szylinga</h2>
 <p>Było już po godzinie dziesiątej wieczorem. Było bardzo ciemno, a towarzyszący mu mężczyzna, ubrany w łachmany, był mu zupełnie obcy. Dziewiętnastoletni Hudson Taylor dotknął palcami znajdującą się w jego kieszeni monetę dwu i półszylingową, by się upewnić, czy jej czasem nie zgubił, a potem rozglądał się z pewnym uczuciem niepokoju. Był już kiedyś dawniej w tej biednej części miasta, ale nawet przy jasnym świetle słonecznym wąskie z brudu ulice nie były bynajmniej zapraszające. Teraz jednakże w świetle lamp ulicznych, dających zaledwie mizernie migocące światło, i to tylko na skrzyżowaniach ciemnych uliczek, na widok podejrzanie wyglądających ludzi, którzy znikali chyłkiem w bramach domów, odczuwał wyraźnie, że całą tę część miasta można by nazwać wszystkim, tylko nie dzielnicą bezpieczną i przyzwoitą. W każdym razie nikt by tam się nie wybrał na przechadzkę to jeszcze w towarzystwie nieznanego sobie człowieka w łachmanach po zapadnięciu zmroku. Ale skoro wybiera się do Chin, to wypada mu przyzwyczaić się do tego rodzaju sytuacji, a więc szedł dalej.
@@ -39,6 +39,6 @@ Ostatnich 2 i 1/2 szylinga</h2>
 <p>Przyglądał się jej niemal w osłupieniu, potem raz jeszcze przejrzał papier, w który były zawinięte rękawiczki w poszukiwaniu jakiegoś listu, jeszcze raz starał się odgadnąć kto napisał adres, przyglądał się długą chwilę odciskowi stempla pocztowego - ale to wszystko nic nie pomogło; nie był w stanie stwierdzić, kto mu to przysłał. I nigdy się tego nie dowiedział. W tej chwili nawet już mu na tym więcej nie zależało - dla niego paczuszka ta przyszła wprost z Nieba! Naraz sobie uświadomił, że nie tylko zastała mu zwrócona jego dwu i półszylingówka, lecz otrzymał na dodatek trzy dalsze. I wreszcie zaczął się serdecznie śmiać.
 <p>"To jest wspaniały procent" zawołał radośnie. "Ha ha, dwa i pół szylinga zainwestowanych w Bożym banku na przeciąg dwunastu godzin, przynosi mi dziesięć szylingów. Oto i bank dla mnie!"
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-02-80e1d9696/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-02-80e1d9696/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

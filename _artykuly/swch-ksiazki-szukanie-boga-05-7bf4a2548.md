@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 5<br/>
 Wszechobecność</h1>
 <p><b>"Gdzież się oddalę przed Twoim duchem? Gdzie ucieknę od Twego oblicza?"
@@ -51,6 +51,6 @@ Wszechobecność</h1>
 <p>Każdy człowiek, który przez pokutę i szczery powrót do Boga wyrwie się z trzymających go szablonów i zacznie szukać dla siebie duchowych wzorców w samej Biblii, będzie zachwycony tym, co tam znajdzie.
 <p>Powtórzmy raz jeszcze: Wszechobecność Boga jest faktem. Bóg jest tutaj. Cały wszechświat żyje dzięki Jego życiu. Nie jest On nieznanym i obcym Bogiem, ale bliskim Ojcem naszego Pana Jezusa Chrystusa, którego miłość przez tysiące lat obejmowała nas grzesznych ludzi. On zawsze próbuje zwrócić naszą uwagę, próbuje objawić się, porozumieć się z nami. A w nas jest zdolność poznania Go, jeśli tylko odpowiemy na Jego próby zbliżenia się (I to jest to, co nazywamy szukaniem Boga!). Będziemy Go coraz bardziej poznawać w miarę, jak nasza wrażliwość będzie się doskonalić przez wiarę, miłość i praktyczne używanie.
 <p><i>O, Boże i Ojcze, pokutuję za moje grzeszne, przesadne zajęcie się widzialnymi rzeczami. Zbyt dużo tego świata jest przy mnie. Ty byłeś tutaj, a ja nie wiedziałern. Byłem ślepy na Twą Obecność. Otwórz moje oczy, abym mógł Cię zobaczyć we mnie i wokół mnie. Proszę w Imieniu Jezusa Chrystusa. Amen.</i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

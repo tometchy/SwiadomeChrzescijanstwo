@@ -13,13 +13,13 @@ source_verified: true
 
 <h1 align="center"><font color="#000080" face="Tahoma">POKUTA</font></h1>
 <p align="center"><i>Tak więc i poganom dał Bóg upamiętanie</i>
-<a name="pwr1"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn1"><sup>1</sup></a></a>
+<a name="pwr1"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn1"><sup>1</sup></a></a>
 <i> ku żywotowi.</i></p>
 <p align="right"><i>Dz 11:18</i></p>
 <p>
 Pokuta wydaje się gorzką pigułką, jednak jej celem jest oczyszczenie od złego humoru grzechu.
 Ci, którzy wyznają antynomizm
-<a name="pwr2"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn2"><sup>2</sup></a></a>
+<a name="pwr2"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn2"><sup>2</sup></a></a>
 dyskredytują ją jako legalistyczną
 naukę, jednak sam Chrystus głosił pokutę: “Od onego czasu począł Jezus kazać i
 mówić: Pokutujcie” (Mt 4:17 BG). Przed wniebowstąpieniem, w swej mowie
@@ -245,7 +245,7 @@ skały, utoną w morzu Bożego miłosierdzia. “Obmyjcie się, oczyśćcie się
 1:16). Obmyj się w miednicy pokuty. “Chodźcie więc, a będziemy się prawować -
 mówi Pan! Choć wasze grzechy będą czerwone jak szkarłat, jak śnieg zbieleją”
 (Iz 1:18). Grzechy Manassesa
-<a name="pwr3"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn3"><sup>3</sup></a></a>
+<a name="pwr3"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#_ftn3"><sup>3</sup></a></a>
 były jak szkarłat, kiedy jednak głęboko się
 ukorzył, Bóg wyciągnął w jego stronę złote berło miłosierdzia.
 Gdy jego głowa stała się fontanną płaczu za grzech, bok Chrystusa stał się
@@ -304,7 +304,7 @@ Thomas Watson, <i>The Ten Commandments</i>, s.205-211, BOTT, Edynburg, 1999 (rep
 Przekład: Jacek Sałacki
 <hr align="left" size="1" width="50%"/>
 </font></p>
-<p><a name="_ftn1"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr1"><sup>1</sup></a></a>
+<p><a name="_ftn1"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr1"><sup>1</sup></a></a>
 <i>metanoia</i> (gr. “zmiana myślenia”) proces zmiany
 myślenia, w wyniku którego człowiek odwraca się on od grzechu i powraca do
 Boga. Termin ten w Średniowieczy był opacznie rozumiany. W przekładzie
@@ -314,13 +314,13 @@ myślenia, dlatego w łacińskojęzycznej Europie pokutę powszechnie rozumiano
 przede wszystkim jako żal, smutek i cierpienie. Dopiero Luter na nowo odkrył
 prawdziwe znaczenie ewangelicznej pokuty. We współczesnych polskich przekładach
 Biblii stosowany jest termin “upamiętanie”.</p>
-<p><a name="_ftn2"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr2"><sup>2</sup></a></a>
+<p><a name="_ftn2"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr2"><sup>2</sup></a></a>
 Antynomizm (gr. “przeciw prawu”) — heretycki pogląd, iż Dekalog nie powinien być normą dla
 chrześcijan (słynny spór Lutra z Janem Agrikolą), gdyż skoro jedynym motywem
 postępowania chrześcijanina ma być miłość do Chrystusa, wobec tego prawo jest
 niepotrzebne. Antynomizm zwalczali zarówno Luter, inni reformatorzy, jak i
 Kościół rzymski (Sobór w Trydencie, Sesja VI kanon 19 i 20).</p>
-<p><a name="_ftn3"><a href="/czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr3"><sup>3</sup></a></a>
+<p><a name="_ftn3"><a href="../../czytelnia/swch-autorzy-watson-pokuta-d6f10060f/#pwr3"><sup>3</sup></a></a>
 Historia króla Manassesa podana jest w 2 Kronik 33.</p>
 <p> </p>
 <form name="Guzik">

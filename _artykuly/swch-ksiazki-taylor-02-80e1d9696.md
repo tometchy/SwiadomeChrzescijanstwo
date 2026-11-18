@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-03-2282a425a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-01-a446b33bf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-03-2282a425a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-01-a446b33bf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 2<br/>
 Drainside</h2>
 <p>Dzielnica miasta Hull, w której mieszkał Hudson Taylor, nosiła nazwę Drainside (tzn. "Nad ściekami" przyp.tłum.), dla tej prostej przyczyny, że znajdowała się obok ścieków miejskich. Czynniki oficjalne nadawały tym ściekom nazwę kanału, lecz dla mieszkańców maleńkich domków, których dwa rzędy stały po obu stronach tego wąskiego rowu - i był to po prostu ściek. Było z nim poniekąd mieszkańcom tej dzielnicy bardzo wygodnie. Wystarczyło tylko otworzyć bramę domu i dostatecznie mocno machnąć wiadrem - i już wszystkie odpadki i śmieci domowe znajdowały się w tym rowie - bez dalszych kłopotów. Brudne papiery, liście kapusty, łupiny z ziemniaków i zgniłe jarzyny pływały bezwstydnie po wodzie, stanowiąc wspaniały cel dla wprawiających się w rzucaniu kamieniami ulicznych łobuzów. A to, że unosiła się z tego ścieku okropna woń i że stanowił nie lada niebezpieczeństwo dla chwiejących się na nogach klientów karczmy, znajdującej się naprzeciw domu, w którym mieszkał Hudson - szczególnie, gdy przechodził koła niego po zapadnięciu mroku - była tylko mało ważnym mankamentem, w porównaniu z wygodą, jaką było posiadanie w każdej chwili do dyspozycji tak łatwo osiągalnego śmietnika.
@@ -38,6 +38,6 @@ Drainside</h2>
 <p>Doktor wpisał otrzymaną kwotę do swojej książki kasowej i już zaczął oddalać się w kierunku drzwi, gdy nagle zawrócił mówiąc: "Ach, panie Hudsonie, niech pan jednak przyjmie te banknoty. Ja nie mam wprawdzie drobnych, ale dopłacę panu resztę należności tytułem poborów za następny tydzień za kilka dni... Dobranoc!"
 <p>I oto Hudson Taylor, mający zupełnie puste kieszenie, stał za chwilę całkiem sam w aptece trzymając w ręce plik banknotów. Modlitwa jego została wysłuchana. Nie tylko mógł zapłacić komorne swojej gospodyni, ale także miał dostateczną ilość pieniędzy do dyspozycji, aby zaspokoić swoje potrzeby na przeciąg kilku następnych tygodni - i przede wszystkim raz jeszcze przekonał się, że Bóg wysłuchuje modlitwę. Co do tego nie było już więcej wątpliwości - a więc mógł udać się do Chin!
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-03-2282a425a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-01-a446b33bf/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-03-2282a425a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-01-a446b33bf/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

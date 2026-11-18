@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 3<br/>
 Usunięcie zasłony</h1>
 <p><b>"Mamy więc, bracia, pewność, iż wejdziemy do Miejsca Świętego przez krew Jezusa". (Heb.10.19)</b>
@@ -69,6 +69,6 @@ W stosunku do nas, grzeszników.</p></i>
 <p>Strzeżmy się łatania naszego wewnętrznego życia w nadziei, że sami kiedyś dokonamy rozdarcia zasłony. Bóg musi uczynić wszystko za nas. Nasza rola - to poddanie się i ufanie. Musimy wyznać, porzucić, zaprzeć się i odrzucić życie własnego "Ja" i dopiero wtedy uznać je za ukrzyżowane, Lecz musimy być ostrożni, by móc odróżnić leniwe "przyjmowanie" od prawdziwego działania Boga. Musimy domagać się, aby dzieło zostało dokonane. Nie możemy spocząć na laurach, zadowoleni z prawidłowej nauki o ukrzyżowaniu swego "ja". Oznacza to naśladowanie króla Saula i oszczędzanie najlepszych owiec i wołów.
 <p>Nalegajmy, by Boża praca w nas dokonywana była prawdziwie, a na pewno to się stanie. Krzyż jest szorstki i niesie ze sobą śmierć, ale jest skuteczny. Nie zatrzymuje wiszącej na nim ofiary na zawsze. Przychodzi moment, gdy męka się kończy, a cierpiąca ofiara umiera. Potem następuje chwalebne i pełne mocy zmartwychwstanie, a o bólu zapomina się z powodu radości, że zasłona zostaje usunięta, i że weszliśmy w realne duchowe przeżywanie Obecności Żyjącego Boga.
 <i><p>Panie, jak wspaniałe są Twe drogi, a jak kręte i ciemne są drogi człowieka. Pokaż nam, jak umrzeć, byśmy mogli powstać do nowego życia. Rozedrzyj zasłonę naszego samolubnego życia, od góry do dołu, tak, jak to się stało z zasłoną Świątyni. Pragniemy podejść blisko w pełni wiary. Pragniemy mieszkać z Tobą w codziennym życiu już tu, na ziemi, tak abyśmy mogli przyzwyczaić się do oglądania chwały, gdy wejdziemy do Twych niebios, aby tam z Tobą przebywać. Prosimy Cię w Imieniu  Jezusa. Amen.</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-04-6cebaa8e0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-02-6a03948c7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

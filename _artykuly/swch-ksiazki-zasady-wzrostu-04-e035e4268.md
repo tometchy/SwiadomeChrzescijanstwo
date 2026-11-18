@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>CEL</h1>
 <p>Nasz Ojciec niebieski kryształowo jasno określił swój cel względem każdego z nas. Poznanie tego celu jest czymś wspaniałym, niesie w sobie tyle zachęty! Czy znasz ten cel? Teraz jest czas, abyś na podstawie autorytetu Jego wiecznego Słowa upewnił się o Jego celu względem twojego osobistego życia.
 <p>"Potem rzekł Bóg: "Uczyńmy człowieka na obraz nasz" (Rdz.1.26). Pierwszy Adam, ojciec rodzaju ludzkiego, został stworzony na podo-bieństwo Boga. Boże podobieństwo dostrzegamy w sferze jego osobo-wości, jego umysłu, uczuć, woli i tak dalej; umożliwia ono nawiązanie łączności duchowej, społeczności i współpracy między Bogiem a czło-wiekiem. W społeczności tej Bóg jest władzą, człowiek - sługą, jest poddanym Jego woli, która jest doskonałą wolnością. Wiemy jednak, że, w swej wolności wyboru, Adam wybrał inną drogę życia niż ta, którą wyznaczył mu Bóg, wybrał ją, gdyż polegał na sobie, ukochał samego siebie, usunął Boga z centrum swego życia, sam zajął to miejsce - stał się egocentryczny. Umarł wtedy dla Boga, który jest źródłem wszelkiego życia, umarł w swych przestępstwach i grzechach. W takich warunkach urodził się Adamowi syn "podobny do niego jako jego (upadłego) obraz (Rdz.5,3;BT): "Gdy Adam miał sto trzydzieści lat, urodził mu się syn, podobny do niego jako jego obraz, i dał mu imię Set". W ten sposób Adam zrodził i wychował grzeszne, bezbożne, egocentryczne plemię, umarłe na skutek występków i grzechów (Ef.2,1;BT): "I wy byliście umarłymi na skutek waszych występków i grzechów".
@@ -40,6 +40,6 @@ Dzieło zaś Ja wykonam, Ja spełnię swe plany".<br/></p></i>
 
 <p>"Albowiem Bóg to według upodobania sprawia w was i chcenie i wykonanie" (Flp.2,13). Co jest tym Jego "upodobaniem", według któ-rego działa On w nas? Otóż we wszystkim działa On w tym jednym celu: "aby życie Jezusa objawiło się w naszym śmiertelnym ciele" (2Kor.4,11;BT). A oto życie: "dla mnie bowiem żyć - to Chrystus" (Flp.1,21). Oto służba: "A wśród tych, byli też niektórzy Grecy. Oni... przystąpili do Filipa... i prosili go...: "Panie, chcemy ujrzeć Jezusa" (J.12,20.21).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-05-21cd17ff2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-03-767f8b420/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

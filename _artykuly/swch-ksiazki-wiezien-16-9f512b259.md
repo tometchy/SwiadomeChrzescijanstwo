@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>16</h1></div>
 <p class="akapit">Gdy nad wioską Nain zajaśniał kolejny dzień, tłum ludzi, który zgromadził się tu poprzedniego wieczoru, przeżył trudny do zniesienia szok. Jezus opuścił wioskę poprzedniej nocy, wkrótce po tym, jak odprawił tłum do domów. Odszedł i nikt nie wiedział, dokąd.</p>
 <p class="akapit">Tego ranka matka, która przebyła całą drogę z Damaszku, niosąc w ramionach swe kalekie dziecko, wyruszyła w daleką drogę powrotną, wciąż niosąc swe ukochane maleństwo, którego wykręcone stópki nigdy nie miały zostać uleczone. Przez resztę swego długiego życia ta matka będzie zastanawiać się, dlaczego Pan nie zaczekał choć chwilkę dłużej, zanim odprawił tłum, gdyż ona była następna w kolejce.</p>
@@ -25,6 +25,6 @@ source_verified: true
 <p class="akapit">Chore niemowlę umrze. Dziecko cierpiące na epilepsję do końca życia będzie miało ataki choroby. Gorączkująca młoda dziewczyna wycierpi całe tygodnie bólu, zanim odzyska zdrowie. Głuchoniemy człowiek spędzi resztę swego życia, żebrząc u bram miasta. Ci i wielu innych, może nawet w jeszcze tragiczniejszym położeniu, opuściło wioskę Nain tego ranka... każdy tak przygnębiony, że nie sposób opisać poczucia beznadziejności, jakie ich wypełniało. A co najgorsze, od Boga nie otrzymali żadnego wyjaśnienia w kwestii jego dróg.</p>
 <p class="akapit">Wielu zostało uzdrowionych, ale nie wszyscy.</p>
 <p class="standard">"A błogosławiony ten,<br/>kto się mną nie zgorszy".</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-17-992e0c0f0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>3<br/>
 Owocne pojmowanie Boga</h1></center>
 <p>Od dawnych czasów różne ludy, obserwując swoje materialne otoczenie, dochodziły świadomie czy podświadomie do przekonania, że człowiek i wszechświat muszą mieć Stwórcę, że poza tym wszystkim widzialnym musi ukrywać się mądrość i potęga jakiejś wyższej istoty czy istot. Doszedłszy do takiego przekonania ludzie różnych ras i kultur od dawnych czasów szukali sposobów poznania tych istot i nawiązania z nimi kontaktu. Co więcej, świadomi swojego uzależnienia od tych istot, poszukiwali także sposobu właściwego ułożenia sobie stosunków z tym nadrzędnym światem. Stąd zrodziło się pojęcie bóstwa, a w dalszej kolejności najróżniejsze sposoby wyrażania szacunku dla bóstw, odda-wania im czci, składania ofiar itd. Powstawały w ten sposób najróżniejsze religie, które moglibyśmy nazwać różnymi zestawami odpowiedzi na pytania dotyczące istnienia świata, człowieka i Boga. Wiemy, że istnieje mnóstwo religii, że w najróżniejszy sposób określają one istotę bóstwa, podają przeróżne odpowiedzi na pytania dotyczące powstania świata i człowieka, w różnoraki sposób określają też obowiązki człowieka względem bóstwa. Wiemy, że odpowiedzi te, ogólnie biorąc, są wzajemnie sprzeczne, brzmią fantastycznie i nie dają żadnej gwarancji prawdziwości.
@@ -39,6 +39,6 @@ Jak wielkiś Ty! Jak wielkiś Ty!"<br/></p></i>
 <p>-	Lecz czy zechce to zrobić?<br/>
 - Już zrobił!
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-05-260607b63/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-13-4ac327915/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-11-22d5216a7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-13-4ac327915/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-11-22d5216a7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Nowa tęsknota</h1>
 <p> W sercach coraz większej liczby ewangelicznie wierzących narasta nowa tęsknota za nadzwyczajnym przeżyciem duchowym. Więcej jest jednak takich, którzy lękają się tego, i którzy wysuwają zastrzeżenia wskazujące na niezrozumienie, strach lub oczywistą niewiarę. Ci wskazują palcem na nerwicę, na psychozy, na wyznawców pseudo-chrześcijańskich kultów i na nieposkromionych fanatyków, podciągając ich pod wspólny mianownik jako wyznawców "głębszego życia".
 <p> Choć oczywiście jest to zupełnie niedorzeczne, sam fakt istnienia takiego pomieszania pojęć zmusza tych, którzy zalecają życie w pełności Ducha, do określenia swych pojęć i wyjaśnienia stanowiska. A więc, o co nam chodzi i co zalecamy?
@@ -22,6 +22,6 @@ source_verified: true
 <p> Nikeforus, ojciec wschodniego Kościoła, w małej rozprawce o życiu w pełności Ducha, rozpoczyna od wezwania, które brzmi dla nas dziwnie dlatego tylko, że od dawna jesteśmy przyzwyczajeni naśladować Jezusa z daleka. "Ty, który pragniesz zdobyć cudowną, boską jasność naszego Zbawiciela, Jezusa Chrystusa, który chcesz czuć w swym sercu Boży ogień, który pragniesz pojąć i doświadczyć uczucia pojednania z Bogiem, który w celu odkrycia i wzięcia w posiadanie skarbu zakopanego w głębi twego serca odrzucasz wszystko, co świeckie, który pragniesz, by właśnie teraz płomień twej duszy zajaśniał, i dla tego celu porzucasz cały świat, który chcesz przez świadome przeżycia poznać i przyjąć Królestwo Niebieskie przebywające w tobie - pójdź, a ja udzielę ci nauki wiecznego, niebiańskiego żywota".
 <p> Takie cytaty z pewnością można mnożyć, aż mogłyby wypełnić pół tuzina tomów. W żadnej jednak generacji nie obumarła całkowicie taka tęsknota do Boga. Zawsze są tacy, którzy gardzą marnymi ścieżkami i z uporem kroczą wysoką drogą duchowej doskonałości. A jednak, co jest dosyć dziwne, to słowo "doskonałość" nigdy nie oznaczało duchowego punktu końcowego ani też takiego stanu czystości, który czyniłby czystość i modlitwę niepotrzebną. Jest dokładnie na odwrót.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-13-4ac327915/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-11-22d5216a7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-13-4ac327915/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-11-22d5216a7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p>
 {% endraw %}

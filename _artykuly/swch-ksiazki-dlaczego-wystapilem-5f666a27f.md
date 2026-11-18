@@ -13,9 +13,9 @@ source_verified: true
 
 <table border="0" valign="TOP" width="100%">
 <tr>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 </td>
-<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <h1>Dlaczego wystąpiłem z Kościoła rzymskokatolickiego?</h1>
@@ -40,17 +40,17 @@ source_verified: true
 <a name="spis"></a>
 <h2>Spis treści</h2>
 <blockquote>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">PRZEDMOWA AUTORA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">NIEOMYLNOŚĆ PAPIEŻA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-03-b1ffb21e7/">KONIECZNA POTRZEBA WIDZIALNEGO KOŚCIOŁA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">JEDNOŚĆ</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-05-2b31157b1/">MARIA - MATKA JEZUSA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">TRADYCJA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">POST EUCHARYSTYCZNY</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">KONKLUZJA</a><br/>
-<li><a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Znaczenie i popularność książki w Hiszpanii</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">PRZEDMOWA AUTORA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-02-2522ae60a/">NIEOMYLNOŚĆ PAPIEŻA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-03-b1ffb21e7/">KONIECZNA POTRZEBA WIDZIALNEGO KOŚCIOŁA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">JEDNOŚĆ</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-05-2b31157b1/">MARIA - MATKA JEZUSA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">TRADYCJA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-07-1af1b40ce/">POST EUCHARYSTYCZNY</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">KONKLUZJA</a><br/>
+<li><a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-09-16a882909/">Znaczenie i popularność książki w Hiszpanii</a><br/>
 </li></li></li></li></li></li></li></li></li></blockquote>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-01-edf719433/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 <br/>
 <p><font size="-1">
 (1999.03.25) Wersję HTML przygotował <a href="mailto:wasilewski@Jezus.pl">Piotr Wasilewski</a></font></p>

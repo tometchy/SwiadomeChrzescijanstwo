@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>1. MIESZKAJ W JEZUSIE<br/>
 do którego przyszedłeś</h1>
 <p>"<i>Pójdźcie do Mnie" Mat.11,28 "Mieszkajcie we Mnie</i>" Jan 15,4</p>
@@ -34,6 +34,6 @@ powiedział: "Pójdź do Mnie i zamieszkaj przy Mnie", ale powiedział:
 rozkazem do nas. I że nie będziemy tak długo poddanymi naszego Króla, jak długo nie przyjmiemy Jego rozkazu sercem ochotnym i szczerym. A gdy przyjrzymy się z podziwem tej błogości, która zawarta jest w tym nakazanym, prawidłowym stosunku do Pana Jezusa, rozgorzejemy pragnieniem i wola nasza całą mocą będzie chciała uczynić wszystko, aby posiąść to niewymowne błogosławieństwo obcowania z Panem. Chodźcie najmilsi i usiądźmy dzień za dniem u nóg Jezusa i patrząc na Niego, badajmy to jego Słowo. Czekajmy cicho i z ufnością, aż usłyszymy Jego święty głos - ten "głos cichy i wolny", który jest silniejszy od trzęsienia ziemi łamiącego skały, a który tchnie ożywiającym duchem i mówi: "Mieszkajcie we mnie". Dusza, która naprawdę usłyszy to Słowo z ust Jezusa, otrzyma z nim także siłę, aby móc przyjąć i zatrzymać zaofiarowaną w nim błogość. 
 	</p><p>O, Zbawicielu drogi, racz do nas przemówić, daj aby każdy z nas usłyszał Twój głos! Oby świadomość naszego wielkiego niedostatku i wiara w Twą cudowną miłość, w której pragniesz nam darować niewypowiedzianie błogie życie, zmusiły nas, abyśmy słuchali Ciebie i posłuszni byli Twemu głosowi, ilekroć do nas zawołasz: "Mieszkaj we Mnie". Drogi Czytelniku, aby odpowiedź twojego serca na to wezwanie była codzień coraz jaśniejsza i zdecydowana: "Tak, drogi Zbawicielu, pragnę w Tobie zamieszkać". 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-02-95d5da5c8/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

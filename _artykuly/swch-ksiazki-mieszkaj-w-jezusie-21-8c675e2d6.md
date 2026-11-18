@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-20-8b68d2008/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-20-8b68d2008/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>21. MIESZKAJ W JEZUSIE  <br/>
 a twe modlitwy będą wysłuchane</h1>
 <p>"<i>Jeśli we Mnie mieszkać będziecie i Słowa Moje w was mieszkać będą, cokolwiek chcielibyście proście a stanie się wam</i>". Jan 15.7 
@@ -26,6 +26,6 @@ a twe modlitwy będą wysłuchane</h1>
 	</p><p>Pozostawanie w Jezusie utrzymuje nas tam, gdzie wysłuchanie może być darowane. Niektórzy chrześcijanie modlą się szczerze o błogosławieństwo, ale kiedy przychodzi Bóg a chce im błogosławić to ich nie może znaleźć. Nigdy nie myśleli o tym, że błogosławieństwo musi być nie tylko wyproszone, ale także oczekiwane i przyjmowane również w modlitwie. W Jezusie otrzymujemy odpowiedź na nasze prośby. Poza Nim mogłoby wysłuchanie być niebezpieczne dla nas, moglibyśmy je obrócić na nasze rozkosze (Jak. 4,3). Niektóre z kosztownych błogosławieństw wysłuchanej modlitwy tak co do duchowych darów, jak i co do siły do pracy, mogą nam być tylko w tej formie udzielone, że głębiej pojmiemy i doświadczymy, kim jest dla nas Jezus przez łaskę Pana Boga. Obfitość jest w Nim! Pozostawanie w Nim jest warunkiem mocy modlitwy, ponieważ wysłuchanie leży w Jezusie i tylko w Nim do nas przychodzi!
 	</p><p>Pozostań w Jezusie wierząca duszo, tu jest szkoła modlitwy, potężnej, skutecznej i wysłuchiwanej modlitwy. Pozostań w Nim, a poznasz, co dla wielu jest zagadką: że tajemnica modlitwy wiary leży w życiu wierzącego, w życiu, które pozostaje tylko w Jezusie. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-20-8b68d2008/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-22-b81009c43/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-20-8b68d2008/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

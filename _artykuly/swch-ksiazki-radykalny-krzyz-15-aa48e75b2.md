@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-16-44d0b2866/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-14-7466cad4a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-16-44d0b2866/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-14-7466cad4a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Korzeń sprawiedliwych</h1>
 <p> Istotna różnica między pojmowaniem wiary przez ojców, a rozumieniem i przeżywaniem tej samej wiary przez ich potomków, polega na tym, że ojcowie zajęci byli korzeniem sprawy, podczas gdy obecnie ich potomkowie wydają się być zajęci tylko owocem.
 <p> Staje się to widoczne w naszym stosunku do niektórych wielkich chrześcijan, których imiona otoczone są przez zbory szacunkiem, jak na przykład Augustyn czy Bernard w czasach dawniejszych, albo Luter czy Wesley w czasach nowszych. Dzisiaj piszemy życiorysy takich jak oni i sławimy ich owoce, lecz istnieje tendencja pomijania korzenia, z którego te owoce wyrastały. "Kto pielęgnuje drzewo, spożywa jego owoc" - mówi mędrzec w Przypowieściach (27, 18).
@@ -23,6 +23,6 @@ source_verified: true
 <p> Cała Biblia i wszyscy święci przeszłości łączą się, by przekazać nam to samo. "Nie bądźcie w niczym pewni siebie"- mówią do nas - "wracajcie z powrotem do korzeni. Otwórzcie swoje serca i badajcie Pisma. Nieście swój krzyż, naśladujcie swego Pana i nie zwracajcie uwagi na przemijającą modę religijną. Tłumy zawsze są w błędzie. W każdej generacji liczba sprawiedliwych jest niewielka. Dołóżcie wszelkich starań, by być między nimi."
 <p> "Przez niegodziwość nie stanie człowiek na mocnym gruncie, lecz korzeń sprawiedliwych nie poruszy się." (Przyp. 12, 3).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-16-44d0b2866/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-14-7466cad4a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-16-44d0b2866/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-14-7466cad4a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p>
 {% endraw %}

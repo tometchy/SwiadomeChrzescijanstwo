@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 <h1>R O Z D Z I A Ł 6<br/>
 NIEZMIERNE ZNACZENIE JEZUSA CHRYSTUSA UKRZYŻOWANEGO, ZMARTWYCHWZBUDZONEGO I WYWYŻSZONEGO</h1>
 <p><em>Panie, kiedy mówimy do Ciebie: otwórz moje oczy, żebym mógł oglądać cudowne rzeczy z Twego prawa, Ty wiesz, że najbardziej cudowne możesz nam pokazać w Twoim Synu. To nie rzeczy, lecz Jego. Otwórz nasze oczy abyśmy mogli widzieć Go tego poranka. To do Ciebie, nie do ludzi, lecz do Ciebie mówimy: chcemy widzieć Jezusa. Tak Panie, daj nam to w Twoim miłosierdziu, abyśmy kiedy opuścimy to miejsce, mogli powiedzieć: "widzieliśmy Pana". Niech tak się stanie w Twoim imieniu. Amen.</em></p>
@@ -76,6 +76,6 @@ NIEZMIERNE ZNACZENIE JEZUSA CHRYSTUSA UKRZYŻOWANEGO, ZMARTWYCHWZBUDZONEGO I WYW
 </p><p>Tak więc tego poranka wystarczy - jak jestem pewien - do uchwycenia przez was tego i zmagania się z tym. O wiele więcej mogłoby być powiedziane, lecz teraz wystarczy na tyle. Bądźcie spokojni o to, myślcie o tym, rozważajcie to. Wszystko drodzy przyjaciele, co ja próbowałem wam powiedzieć, co Pan próbował wam pokazać wyszło z doświadczonego poznania krzyża Pana Jezusa Chrystusa. To prawda. Niech to nie będzie tematem, doktryną, nauczaniem, teorią, lecz potężną rzeczywistością, która jest w każdej rzeczywistości żyjącej w nas. Módlmy się.
 </p>
 <p><em>Jesteśmy bardzo świadomi, Panie, że kiedy dotykamy się rzeczywistości takiej jak ta, jest wiele tego, co próbuje toczyć o to bitwę, uczynić to trudnym zarówno do mówienia, jak i do słuchania. Tak więc teraz przy końcu tego szkolenia, musimy zaapelować do Ciebie, jako do Tego, Który jest na tronie, abyś wystąpił w Swojej władzy i mocy, aby uczynić te rzeczy rzeczywistością, żyjącą rzeczywistością w nas. Nie jako temat - powołanie w 1968 roku. Nie temat, który miałby sprawić, aby pewni ludzie stali się teraz całkowicie moimi zwolennikami. O Boże, zachowaj nas, wprowadź nas w dobro tego, co powiedziałeś. Uczyń żywym, uczyń mocą w nas. Niech to będzie zarejestrowane na ziemi i w niebie. W imieniu Pana Jezusa. Amen.</em></p>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

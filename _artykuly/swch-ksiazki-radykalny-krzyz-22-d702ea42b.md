@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Zadowolenie naszym wrogiem</h1>
 <p> Pewne duże przedsiębiorstwo mleczarskie robi ogromne interesy dzięki hasłu, które mówi, że ich wszystkie krowy są zadowolone ze swojego losu. Sprytne reklamy sprawiły, że slogan "zadowolone krowy" stał się wszystkim dobrze znany. Ale to, co jest cnotą dla krowy, może być wadą dla człowieka. A zadowolenie, jeśli chodzi o sprawy duchowe, jest z pewnością błędem.
 <p> Paweł wyznał, że nauczył się przyjmować z zadowoleniem takie dobra doczesne, jakie były jego udziałem. To jest coś innego niż zadowolenie z własnych osiągnięć duchowych. Gdy chodzi o nie, apostoł stwierdził wyraźnie, że nie jest z nich zadowolony:
@@ -23,6 +23,6 @@ source_verified: true
 <p> Jeśli nie będziesz tego robić, osiągniesz w końcu (będąc tego nieświadomy) pole cmentarne prawowiernych kości i będziesz skazany na spędzenie reszty życia w duchowym stanie, który najlepiej można scharakteryzować jako "poziom martwoty i kwintesencja wszelkiej mierności".
 <p> Niech Bóg zachowa nas wszystkich od takiego stanu. Amen.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p>
 {% endraw %}

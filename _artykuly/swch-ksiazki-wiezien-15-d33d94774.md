@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>15</h1></div>
 <p class="akapit">Zmieniła się sceneria. Wszystko rozgrywało się nadal w Egipcie, lecz działo się wiele lat później. Tym razem Pan czasu uczestniczył w innym dramacie. Nie był to dramat niewoli, lecz śmierci.</p>
 <p class="akapit">Ulicami biegały oszalałe kobiety, ścigane przez egipskich żołnierzy. Każde pierworodne dziecko hebrajskie płci męskiej miało tego dnia zostać zgładzone. Właściwie wszystkie oprócz jednego. Ten jedyny miał przetrwać i dorosnąć, aby wybawić Izrael z Egiptu. Ogarnięte paniką matki nie wiedziały jednak o tym. Przeżyły całe swoje życie i żadna z nich nie dowiedziała się nigdy, że osiemdziesiąt lat później Bóg pomścił śmierć swoich dzieci i wyzwolił Izrael.</p>
@@ -29,6 +29,6 @@ o twe uwolnienie.<br/>
 gdy przyjdzie po ciebie.<br/>
 Jednak nigdy nie nadejdzie<br/>
 moja odpowiedź".</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

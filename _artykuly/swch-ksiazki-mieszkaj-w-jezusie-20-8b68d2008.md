@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-21-8c675e2d6/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-19-e619701dd/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-21-8c675e2d6/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-19-e619701dd/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>20. MIESZKAJ W JEZUSIE  <br/>
 abyś przynosił wiele owocu </h1>
 <p>"<i>Kto mieszka we Mnie, a ja w nim, ten przynosi wiele owocu. W tym będzie uwielbiony Ojciec 
@@ -28,6 +28,6 @@ Mój, kiedy obfity owoc przyniesiecie</i>". Jan 15,5.8
 	</p><p>Pracując pozostań w Jezusie! Występują bowiem tutaj pokuszenia i niebezpieczeństwa. Praca dla Jezusa odciągała niektórych od Jezusa, a nawet zastępowała im społeczność z Nim! Praca ma niekiedy pozór pobożności, jest bez siły. Dlatego pozostań w Jezusie przy twej pracy: działalność Jezusa w tobie niech będzie tą utajoną sprężyną wszystkich twych poczynań. Doda ci ona pokory a równocześnie odwagi. Duch Święty Jezusa, który jest zarówno duchem serdecznego zlitowania, jak i duchem Bożej mocy, niech mieszka w tobie. 
 	</p><p>Pozostawaj w Jezusie i oddaj Mu ochotnie każde twe uzdolnienie i uczyń to bez zastrzeżeń, aby On mógł uświęcić je do Swej służby. Jeżeli Jezus ma rzeczywiście w nas pracować, to potrzeba do tego codziennie odnawianego uzgodnienia naszej woli z Jego świętą wolą. Ale rozumiemy już, że właśnie na tym polega pozostawanie w Nim, właśnie w tym widzimy nasz najwyższy przywilej i nasze najwyższe szczęście. Być latoroślą, przynoszącą wiele owocu - to niech będzie naszą jedyną radością. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-21-8c675e2d6/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-19-e619701dd/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-21-8c675e2d6/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-19-e619701dd/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

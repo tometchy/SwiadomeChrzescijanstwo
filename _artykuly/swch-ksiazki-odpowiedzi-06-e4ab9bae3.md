@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-05-bd76dfcda/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-05-bd76dfcda/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 6<br/>
 NADNATURALNE ŚWIATŁO</h1>
 <p><em>"On - Duch Święty modli się za nas, przez pobudzanie naszych umysłów". </em></p>
@@ -26,6 +26,6 @@ NADNATURALNE ŚWIATŁO</h1>
 <li>Czy szukam chwały Boga i skierowuję uwagę na Jezusa, abym miał poznawać i świadczyć o Nim? 
 </li></li></li></li></ol>
 <br/>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-05-bd76dfcda/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-07-608afb418/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-05-bd76dfcda/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

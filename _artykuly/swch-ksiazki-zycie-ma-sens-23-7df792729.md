@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-24-9239cea8b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-24-9239cea8b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>Zakończenie</center></h1>
 <p>Kończymy naszą podróż po stronicach Pisma Świętego, w trakcie której poszukiwaliśmy Bożych odpowiedzi na podstawowe pytania dotyczące naszego życia oraz Bożego przepisu na życie fascynujące, owocne i szczęśliwe. Mieliśmy możliwość przekonać się, że Słowo Boże na pytania te wyczerpująco odpowiada i przepis taki zawiera. Bóg zaprasza nas do pójścia Jego drogą i bierze na Siebie wszelkie obowiązki związane z zapewnieniem nam wszystkiego, co może nam być potrzebne, żeby dojść do celu. Niezliczone rzesze ludzi na przestrze-ni wielu wieków odnajdywały tę drogę, szły po niej i dochodziły. Bóg nikogo nie zawiódł i niezmiennie dotrzymywał Swoich przyrzeczeń.
 <p>To samo dzieje się i w naszym czasie. Wśród zgiełku i zamieszania panującego na świecie, wśród setek i tysięcy różnych idei, koncepcji, systemów, przekonań i kierunków, wśród zagubienia i dezorientacji brzmi ciągle cichy, nie natarczywy i nie narzucający się nikomu, lecz mimo to wyraźny i jednoznaczny głos Boży, ciągle też są i pojawiają się tacy, do których głos ten dociera, którzy odpowiadają i którzy wchodzą na tę drogę i idą po niej. Jeśli robią to konsekwentnie, trzymając się Bożych wskazówek, odnajdują Boga, odnajdują autentyzm nowego, duchowego życia w Chrystusie, a w jego ramach odnajdują swe szczęście. Ich oczy, otwarte na Bożą prawdę, w pozornie bezładnym i bezsensownym świecie odkrywają boski sens. Sensu tego nie ma w samym mówieniu o Bogu, w religijności ani w przynależności wyznaniowej, lecz sens ten nadaje życiu człowieka wyłącznie żywy Chrystus, obecny, żyjący i działający w człowieku w postaci Ducha Świętego, przemieniający człowieka w nowe stworzenie, dziecko Boże, obywatela Królestwa Niebios.
@@ -25,6 +25,6 @@ source_verified: true
 Zmartwychwstał Pan! Zwyciężył  śmierć! <br/>
 Zmartwychwstał Pan! Otworzył drogę, <br/>
 Więc życie me ma teraz sens, bo żyje Pan!"</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-24-9239cea8b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-24-9239cea8b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p>
 {% endraw %}

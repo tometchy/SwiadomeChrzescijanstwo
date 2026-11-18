@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>18<br/>
 Owocna walka</h1></center>
 <p>Życie dzieci Bożych na świecie przebiega w nieustannej walce. Wynika ona z tego, że ścierają się tutaj dwa ośrodki władzy, dwa antagonistyczne względem siebie żywioły duchowe: Boże Królestwo Niebios z szatańskim księstwem tego świata. Aż do naszej śmierci cielesnej i przejścia do wieczności znajdować się będziemy w otoczeniu wrogim względem Boga, a więc i względem Jego dzieci, obywateli Jego królestwa.[521] Ludzie cieleśni, zmysłowi, których całe życie ograniczone jest do sfery materialnej, nie dostrzegają tych realiów duchowych; nie widzą ani królestwa Bożego, ani księstwa tego świata, nie widzą między nimi kolosalnej różnicy ani toczonych przez nie nieustannych zmagań duchowych. Ich wzrok duchowy jest nieczynny, widzą oni tylko wydarzenia w sferze materialnej, które interpretują w sposób zmysłowy, uwzględniając tylko prawa rządzące materią. Dlatego daleki i niekon-kretny jest dla nich Bóg, a jeszcze bardziej daleki i mniej konkretny jest dla nich szatan. Uważają go za postać mityczną, śmieszną figurkę z rogami, ogonem i kopytami, z której stroją sobie żarty. Kiedy jednak człowiek wzbudzony zostaje do życia duchowego i jego oczy otworzą się na realia duchowe, wtedy dostrzeże także te dwie wrogie moce i toczoną przez nie ustawiczną walkę.[522]
@@ -45,6 +45,6 @@ Owocna walka</h1></center>
 Wiem, nie zawiedzie mnie Pan, zawsze wesprze mnie. <br/>
 Chociaż grozi burza i grom, wicher zrywa się, <br/>
 Ja w Bogu ufność swą mam, nie zawiedzie mnie." </p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-18-e218871b6/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

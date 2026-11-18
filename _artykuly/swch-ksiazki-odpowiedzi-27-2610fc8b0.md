@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 27 <br/>
 CAŁKOWITE ODDANIE SIEBIE</h1>
 <p><em>"Wypróbuj duchy przez Biblię ...Jeżeli porównasz ich wiernie z Biblią, to nigdy nie będziesz zawiedziony. Przez porównanie swoich pragnień z duchem i charakterystyką religii opisaną w Biblii, zawsze możesz wiedzieć czy twoje odczucia są wynikiem wpływu Ducha Świętego. Duch Boga wpływa na umysł ...On rozświetla inteligencję i prowadzi pod swoje oddziaływanie, aby byli doskonale rozsądni i rozumni we wszystkich swoich poglądach i ruchach". </em></p>
@@ -26,6 +26,6 @@ CAŁKOWITE ODDANIE SIEBIE</h1>
 <li>Czy poświęciłem się dla Niego i służbie Jemu? <br/>
 <li>Czy jestem gotów i czy jestem w stanie przyjąć z Jego ręki wszystko, co zamierzy uczynić ze mną? <br/>
 </li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-28-636c4c2f3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

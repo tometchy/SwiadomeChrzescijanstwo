@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-c-1bffe9d90/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-c-1bffe9d90/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Dodatek B<br/>
 ŚWIADECTWO LISTOWNE MODLITWY O DESZCZ PREZYDENTA COLLEGU FINNEY'A </h1>
 <p>Washington D.C., styczeń 1912 rok.<br/>
@@ -23,6 +23,6 @@ Xenia, Ohio </p>
 <p>W późniejszych latach jak i teraz, relacjonowałem to wydarzenie z dawnych lat do uszu ludzi. Jedne były skłonne to przyjąć, a drugie były nastawione nieco krytycznie. Młodsi słuchacze dziwili się jak po upływie tylu lat mogłem tak dużo zachować w pamięci. Niektórzy byli skłonni dopytywać się o cuda i specjalne przeznaczenie Boże. Być może w tamtych dniach, chrześcijanie zbyt bardzo wzorowali się na "zmagającym się Jakubie". Może w tych naszych późniejszych czasach, nasza wizja jest tak zajęta "odwiecznym planem", że straciliśmy dotknięcie Ojcowskiej dłoni. Jakkolwiek by było, ty i ja, którzy jesteśmy już u krańcu żywota wiemy, jak wyraźne wspomnienia nachodzą tych, którzy siedzą w wydłużającym się cieniu. Jak przyjemnie nam jest zbierać wszystkie wiadomości z przeszłości, które mówią o dobroci Boga. Chociaż też wymierza sprawiedliwość karzącą dłonią. </p>
 <p>Życząc tobie wszystkiego najlepszego w tym roku, twój szczerze oddany</p>
 <p><em>S.S.Burdett </em></p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-c-1bffe9d90/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-c-1bffe9d90/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

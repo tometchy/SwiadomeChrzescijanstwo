@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1><p>8. MIESZKAJ W JEZUSIE <br/>
 On jest twoją sprawiedliwością </p></h1>
 <p>"<i>Chrystus Jezus stał się nam sprawiedliwością</i>" 1 Kor.1,30 
@@ -28,6 +28,6 @@ On jest twoją sprawiedliwością </p></h1>
 	</p><p>Dziecię Boże pozostań w Jezusie, jako twej sprawiedliwości. Ty nosisz swą starą, grzeszną, zepsutą naturę w sobie, naturę, która stale chce przyjść do głosu i zaciemnić oraz podać w wątpliwość twoją pewność, że jesteś dziecięciem Bożym, i że masz otwarty dostęp do nieustannej łączności z Bogiem. Nie będziesz mógł mieszkać w światłości Bożej ani w niej chodzić tak, żeby ci żaden cień chmury nie przysłonił jej, jeżeli nie pozostaniesz nieustannie w Jezusie, twej sprawiedliwości. Do tego jesteś powołany; bacz, abyś chodził godny tego powołania. 
 	</p><p>Oddaj się Duchowi Świętemu, aby ci objawił tę cudowną łaskę, że możesz w Bożą sprawiedliwość odziany przychodzić do Boga każdej chwili. Znajdź trochę czasu, aby zastanowić się i pojąć to, że zostałeś przyobleczony szatą królewską, i że w tej ozdobie możesz się zbliżać do Boga bez obawy. To jest znakiem, że na tobie spoczywa upodobanie królewskie. Znajdź czas, aby sobie uświadomić, że jeżeli tej szaty potrzebujesz w pałacu królewskim, to tym nie mniej potrzebujesz jej, kiedy zostajesz wysłany w świat, jako poseł i przedstawiciel. Żyj w swym codziennym powołaniu w pełnej świadomości tego, że w Jezusie jesteś przed Bogiem sprawiedliwy, przedmiotem jego upodobania i miłości. Jeżeli wszystko, coś doznał od Jezusa i Jego łaski, połączysz z tą pierwszą myślą: "On stał mi się od Boga sprawiedliwością", da ci to zupełny pokój, wejdziesz do odpocznienia Bożego i pozostaniesz w Nim. W twym sercu i życiu objawi się, gdzie mieszkasz, gdyż jeżeli mieszkasz w Jezusie, to pokaże się także w tobie Jego istota, Jego charakter i Jego błogość. "Umiłowałeś sprawiedliwość, a nienawidziłeś nieprawości, przetoż pomazał cię o Boże, Bóg twój olejkiem wesela nad uczestników twoich" (Ps. 45,8). I twoim działem stanie się radość i rozkosz bez miary. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-09-41059715b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-07-421dc42d9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>TRWANIE</h1>
 <p>Na starcie naszego chrześcijańskiego życia, spragnieni i pełni gorli-wości dla Niego, wyobrażamy sobie, że zrobiliśmy już duży postęp. W rzeczy samej jest to dopiero początek. Dopiero po latach naszej wędrówki z Nim rozjaśnia się nam obraz, widzimy te rozległe, prawie nieskończone obszary rozwoju, przez które Bóg musi nas wciąż prowadzić.
 <p>Wiele z tych obszarów to po prostu pustynia - brak duchowej aktyw-ności, brak służby, słaba społeczność z Bogiem, z innymi... Jeśli jest modlitwa, to wymuszona, a czasem porzucana na długie miesiące, ustaje studium biblijne... Wszystko wydaje się na nic... W tym, tak skądinąd potrzebnym dla naszego duchowego rozwoju czasie, wierzący miewa odczucie, że Bóg przestał spełniać swe obietnice, że trwanie w wierze ma niewielki sens lub jest zgoła bez sensu. A jednak gdzieś głęboko w nas pozostaje głód, który nie pozwala nam zrezygnować. "Wszakże funda-ment Boży stoi niewzruszony, a ma tę pieczęć na sobie: Zna Pan tych, którzy są Jego...". (2Tym.2,19).
@@ -26,6 +26,6 @@ source_verified: true
 <p>Radość wasza jest naszą radością, jeśli trwacie w Nim. "Wierny jest Pan, który was utwierdzi i strzec będzie od złego" (2Tes.3,3).
 
 <p><i>Miles J. Standford</i>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-18-f0d91197e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>POŚWIĘCENIE</h1>
 <p>Dobrze byłoby podkreślić w tym miejscu kilka spraw:
 <ol>
@@ -36,6 +36,6 @@ source_verified: true
 <p>"Wszelkie prawdy o utożsamianiu, tzn. prawdy o krzyżu, o naszej śmierci z Chrystusem dla grzechu, o naszym poddaniu się śmierci na wzór ziarna pszenicznego, które pada na ziemię by umrzeć, są przygo-towaniem do zwycięskiego życia. Stanowią one fundament tego życia i dla jego prowadzenia mają znaczenie podstawowe" (J. Penn-Lewis).
 <p>"Uważne studium Listów Pawła prowadzi do wniosku, że są one napisane w oparciu o naukę o krzyżu (wyłożoną w Liście do Rzymian szóstym rozdziale) tj. w oparciu o fakt, że Bóg wydaje na krzyż upad-łego "starego Adama", a wyrok Jego jest nieodwołalny. Bóg traktuje wszystkich wierzących według zasady "w Chrystusie umarliście". Jed-nakże Kościół Chrystusa, jako całość, fakt ten ignoruje. Traktuje on upadłe stworzenie (starego człowieka) jako zdolne do poprawy, unie-ważniając w ten sposób znaczenie krzyża, na którym stary, upadły i nie nadający się do naprawy ród Adama został przyprawiony o śmierć"  (De V. Franke)
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-10-57b460b85/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

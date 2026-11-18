@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 6<br/>
 Mówiący głos</h1>
 <p><b>"Na początku było Słowo, a Słowo było u Boga, i Bogiem było Słowo". (Jn.1.1)</b>
@@ -37,6 +37,6 @@ Mówiący głos</h1>
 <p>Jeśli tylko chcesz dalej poznać Pana, natychmiast podejdź do otwartej Biblii spodziewając się, że do ciebie przemówi. Nie traktuj jej jak rzeczy, którą można przekładać z miejsca na miejsce. Jest to coś więcej niż rzecz, to jest Głos, Słowo, własne Słowo Żyjącego Boga.
 
 <p><i>Panie, uczyń mnie słuchać. Czasy są hałaśliwe, a moje uszy są zmęczone tysiącem głośnych nieustannie atakujących dźwięków. Daj mi Ducha, jakiego miał chłopiec Samuel, gdy mówił do Ciebie: "Mów, Panie, bo sługa Twój słucha". Pozwól mi słyszeć Ciebie, gdy mówisz w moim sercu. Pozwól mi przyzwyczaić się do dźwięku Twego Głosu, aby jego tony stały się mi bliskie, gdy ucichną dźwięki ziemi, a jedynym dźwiękiem będzie muzyka Twego Mówiącego Głosu. Amen.</i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-07-ac841da4b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-05-7bf4a2548/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

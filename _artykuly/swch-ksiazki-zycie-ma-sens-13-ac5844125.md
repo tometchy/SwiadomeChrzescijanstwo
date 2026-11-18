@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-12-ea95e1fd5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-12-ea95e1fd5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>12<br/>
 Owocna przemiana</center></h1>
 <p>Kiedy po pierwszym osobistym spotkaniu się z Bogiem rozkoszu-jemy się Jego obecnością i kąpiemy się w wezbranej rzece radości, pokoju i miłości Bożej, wszystko inne wydaje się dalekie  i chcielibyśmy, by stan taki trwał już nieprzerwanie. Niestety, czas leci i życie wnet uzmysłowi  nam realia otaczającego nas świata. Wyjdziemy z podniosłe-go nabożeństwa lub z tchnącej obecnością Bożą cichej komórki i zderzymy się z lawiną zwykłych, codziennych, brudnych świeckich bodźców w najróżniejszej postaci - bodźców, na które trzeba nam w różnorodny sposób reagować słowem, gestem, uczynkiem, postawą. Ani się spostrzeżemy, a nasze reakcje stają się naszymi zwykłymi reakcjami starego życia bez Boga, dostosowanymi do bodźców, brudnymi, świeckimi, nie mającymi nic wspólnego z Bożymi cechami i nowym życiem z Ducha. Co gorsza, może nawet dojść do tego, że po pewnym czasie nasze przeżycie duchowe wyda się nam jakimś dziwnym, nierealnym snem, jakimś niezwykłym epizodem, nie pasującym do reszty życia. Cóż to się z nami stało? - Chyba nie trudno odgadnąć w świetle poprzedniego rozdziału: nieprzeobrażona dusza pod wpływem zwykłych, starych bodźców cielesnych podjęła zwykły, stary tryb pracy, a duch ponownie wyeliminowany został do pierwotnej roli kogoś, kto nie ma nic do gadania. A gdzie zawarte przymierze z Bogiem? Gdzie wspaniałe przeżywanie Boga? Gdzie obecność i władza Jego Ducha? -Wydaje się, że nie ma po tym wszystkim ani śladu.
@@ -34,6 +34,6 @@ Owocna przemiana</center></h1>
 	Czy ty wiesz, co to jest wolnym być? <br/>
 		Pozwól być Jezusowi Mistrzem twym, Panem jutra! <br/>
 - 		Dowiesz się, co to jest wolnym być."</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-12-ea95e1fd5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-14-efe699338/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-12-ea95e1fd5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

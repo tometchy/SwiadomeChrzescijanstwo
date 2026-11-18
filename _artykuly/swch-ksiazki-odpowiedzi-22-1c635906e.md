@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 22<br/>
 MODLITWA I NAWRÓCENIE </h1>
 <p><em>"Modlitwa przezwyciężająca i skuteczna jest to modlitwa, która dosięga pożądanego błogosławieństwa". </em></p>
@@ -22,6 +22,6 @@ MODLITWA I NAWRÓCENIE </h1>
 <li>Czy moja duma lub moje pragnienie czynią mnie pysznym tak, że stojąc na drodze Bożej muszę przezwyciężać je w modlitwie? <br/>
 <li>Czy potrzebuję, aby Bóg poniżył mnie tak, żebym mógł być słyszany przez Niego? <br/>
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-23-f71078baf/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

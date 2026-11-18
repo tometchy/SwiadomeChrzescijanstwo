@@ -19,14 +19,14 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp</a> : 
 Bóg i Biblia : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
 ]
 
 </h6>
@@ -73,7 +73,7 @@ Jezus nazwał to pokorą małego dziecka. Bóg ukrywa się przed mądrym i przeb
 "Pokora" dzieci widoczna jest nie tylko w sposobie ich uczenia się, ale także w sposobie, w jaki przyjmują. Dzieci są uzależnione. Na nic z tego, co posiadają, nie zapracowały. Wszystko, co mają, zostało im dane za darmo. Zatem podobnie jak dzieci, mamy "przyjąć Królestwo Boże" (Mk 10,15). Grzesznicy bowiem nie zasługują na życie wieczne (które jest życiem Bożego Królestwa) ani nie mogą na nie zarobić. Musimy się ukorzyć, aby otrzymać je jako darmowy dar od Boga.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/#Początek strony">Powrót</a> ]
 <br/><br/>
 <hr/>
 	Copyright for Polish Edition © 1996 by Instytut im. T.B.Barrata<br/>

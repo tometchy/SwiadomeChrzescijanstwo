@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>13<br/>
 Owocny wzrost duchowy</center></h1>
 <p>Jako dwa podstawowe czynniki rozwoju duchowego wymieniliśmy I Słowo Boże i Ducha Świętego. Kto chce utrzymać się przy życiu  duchowym i rozwijać je w sobie, musi bezwarunkowo zapewnić nieprzerwane oddziaływanie na siebie tych dwóch czynników, gdyż bez nich życie duchowe będzie tylko złudzeniem. Oba wymienione czynniki działają ze sobą w ścisłej łączności, gdyż Słowo jest Duchem.[336] Zajmiemy się obecnie bliżej tym, jak w praktyce korzystać z tych czynników i zapewnić ich oddziaływanie na siebie. Chodzi o zapewnie-nie sobie dostaw siły życiowej dla podtrzymania i rozwijania naszego nowego, duchowego życia, chodzi o przebywanie w nowym, duchowym żywiole, w którym jedynie życie takie może istnieć. 
@@ -36,6 +36,6 @@ Owocny wzrost duchowy</center></h1>
 
 <i><p>"Czytaj Biblię, módl się co dnia,<br/>
 Jeśli wzrastać chcesz."</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

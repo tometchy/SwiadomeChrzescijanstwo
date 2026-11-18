@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-08-aa6e652e7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-06-cad67eb60/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-08-aa6e652e7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-06-cad67eb60/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 7<br/>
 Przyjazd do Chin</h2>
 <p>Po wzruszeniach i niebezpieczeństwach pierwszych dni, Hudson z wdzięcznością powitał wejście okrętu w strefę cieplejszego klimatu, gdzie i wody były spokojniejsze, gdzie jego bagaż, cały przemoczony wodą morską, nareszcie wyschnął Przez całe tygodnie, które zmieniły się na miesiące "Dumfries" żeglował po oceanach - najpierw po Atlantyku, zdążając na południe wzdłuż zachodniego brzegu Afryki, potem poprzez cały Ocean Indyjski, mijając Australię w odległości 120 mil i poprzez cieśniny leżące pomiędzy południowo-azjatyckimi wyspami - kierując się ku Pacyfikowi. Pomiędzy tymi wyspami Hudson dowiedział się jeszcze i o ogromnym niebezpieczeństwie grożącym okrętowi i jego załodze ze strony zupełnej ciszy na morzu, która mogła być dla żeglarzy równie niebezpieczna jak i gnanie okrętu przez straszliwą wichurę!
@@ -43,6 +43,6 @@ Przyjazd do Chin</h2>
 <p>"Nazywam się Edkinis", rzekł ów młody człowiek uprzejmie. "Nie ma tutaj wprawdzie doktora Medhursta, ale jest jego kolega i jestem pewny, że będzie mu bardzo miło, jeśli będzie mógł panu pomóc. Proszę wejść i usiąść, a ja pójdę po niego..."
 <p>Tej nocy, gdy Hudson wreszcie położył się spać, mógł wygodnie się wyciągnąć na czystym, ładnie zasłanym łóżku! Już nie był to więcej hamak okrętowy na maleńkim "Dumfries", ani też łóżko w jakiejś chińskiej oberży, pomiędzy ludźmi, których języka nie znał i których nie był w stanie zrozumieć!... W tej chwili był bowiem gościem Londyńskiego Towarzystwa Misyjnego, które mu dało do dyspozycji w swym gmachu duży, pełen świeżego powietrza pokój.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-08-aa6e652e7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-06-cad67eb60/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-08-aa6e652e7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-06-cad67eb60/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

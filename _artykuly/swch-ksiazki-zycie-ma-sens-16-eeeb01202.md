@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>15<br/>
 Owocne przeżywanie Boga</center></h1>
 <p>Z podanych już wcześniej faktów wiemy, że człowiek stworzony został do społeczności z Bogiem i pełnię jego życia gwarantować miało przebywanie w tej społeczności. Buntując się przeciwko Bogu człowiek zerwał swe stosunki z Bogiem, przez co skazał się na duchową pustkę, głód i nieszczęście. Chociaż ludzie nieraz o tym nie wiedzą, ich dążenie do szczęścia jest w swej istocie poszukiwaniem Boga. Tylko społeczność z Bogiem zapewnić może człowiekowi prawdziwą satysfakcję, zadowo-lenie i szczęście. Droga do tego prowadzi wyłącznie przez pojednanie i przymierze z Bogiem. Tylko ożywiony duch ludzki zdolny jest do kontaktowania się z Bogiem, gdyż dopiero ożywione zmysły duchowe są w stanie przekazać człowiekowi ten smak nowego, duchowego życia, zaspokajający głód duchowy. Jeśli więc przeszedłeś biblijną drogą powrotu do Boga, omówioną przez nas wcześniej, to skosztowałeś, jak dobry jest Bóg, i wiesz już, o czym mowa, gdy mówimy o społeczności z Bogiem i szczęściu w niej zawartym.[412] Chodzi jednak o to, by szczęście to było czymś trwałym, by nie było ono sztuczne, sugerowane, by nie było ono czymś chwilowym, jakimiś sporadycznymi przebłyskami albo tylko wspomnieniami dawnych przeżyć, lecz by było sprawą teraźniejszości, dnia dzisiejszego i by utwierdzało się, umacniało i pogłębiało w naszym życiu.
@@ -41,6 +41,6 @@ Jezus jest tu!<br/>
 Bóg jest wśród nas! <br/>
 O, wznieśmy ręce chwaląc Jego lmię! <br/>
 Bóg jest wśród nas!"</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-15-7b4641b55/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

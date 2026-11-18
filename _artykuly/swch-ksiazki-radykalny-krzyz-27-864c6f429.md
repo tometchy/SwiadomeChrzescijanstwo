@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-28-808a15780/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-28-808a15780/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>O skuteczności modlitwy</h1>
 <p> Obecnie organizuje się wiele spotkań modlitewnych. Nic dziwnego, ponieważ istnieje mnóstwo potrzeb. Z moich obserwacji (jeżeli są trafne), wyciągam wniosek, iż marnuje się wiele wysiłku. Spotkania te przynoszą bowiem bardzo małe rezultaty. Powodem tego są niewłaściwe motywy.
 <p> Zbyt wielu modlących się ludzi dąży do wykorzystania modlitwy jako środka realizującego cele, które nie są całkiem właściwe. Modlitwa często jest uważana za coś niewiele większego niż technika awansu: niebiańska metoda zdobywania sukcesu ziemskiego. Obecnie każdy indywidualny projekt religijny staje się tematem modlitwy. Niektóre z nich są niebiblijne, inne zaś "nadzwyczaj biblijne". Motywem wielu modlitw jest zwolnienie inspiratora z nieprzyjemnego obowiązku zarabiania środków do życia i umożliwienie mu bujania po świecie na koszt świętych. Może on rozsyłać listy, błagając o modlitwy ludu Bożego, organizować bardzo długie spotkania modlitewne, starając się zdobyć błogosławieństwa Boże na dzieło, które nie jest Bożym i którego Bóg nie rozpoczął.
@@ -28,6 +28,6 @@ source_verified: true
 <p> Jednym z nich jest uwidocznienie chwały Bożej wśród ludzi, a drugim uwolnienie Kościoła z współczesnej niewoli babilońskiej.
 <p> Od kilku pokoleń świat ewangelicznych chrześcijan budowany jest na wieściach. Z nostalgią spoglądamy wstecz na naszych ojców, którzy mieli z Bogiem olśniewające i zadawalające spotkania. Chętnie powołujemy się na nich i próbujemy wyciągnąć tyle duchowego pokarmu z poznania Najwyższego, który objawiał się kiedyś, ile tylko potrafimy. Zamyślamy się nad świadectwami objawienia się Boga takim mężom jak Abraham, Jakub, Mojżesz, Izajasz. Z tęsknotą w sercach czytamy, jak kiedyś "zatrzęsło się miejsce, na którym byli zebrani i napełnieni zostali wszyscy Duchem Świętym, i głosili z odwagą Słowo Boże". Czytamy opowiadania z życia Edwardsa i Finney'a, a nasze serca tęsknią, by ponownie widzieć jaśniejącą moc chwały Bożej.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-28-808a15780/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-28-808a15780/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>ODPOCZNIENIE</h1>
 <p>"A tak pozostaje jeszcze odpocznienie dla ludu Bożego. Kto bowiem wszedł do odpocznienia Jego, ten odpoczął od dzieł swoich, jak Bóg od swoich. Starajmy się tedy usilnie wejść do owego odpocznienia..." (Hebr.4,9-1.1), Wiele darzących życiem prawd Słowa Bożego składa się z dwóch nierozerwalnie z sobą  związanych części, "starania się" i "odpocznienie". "Starajmy  się tedy usilnie wejść do owego odpocznienia".
 <p>"Staranie się" związane jest z odkrywaniem i dochodzeniem do zrozumienia prawd odnoszących się do naszych potrzeb. W procesie tym czeka nas wiele zmagań, wiele poszukiwań, jest to czas usilnych próśb i udręk czekania.
@@ -33,6 +33,6 @@ source_verified: true
 <p>"Prawdziwą aktywnością jest ta, która wypływa z odpocznienia i której ono towarzyszy. Tylko wtedy, gdy wiemy co to znaczy "trwać w ucisze-niu", jesteśmy gotowi "iść naprzód".
 <p>"Uważajmy, byśmy szukając błogosławieństwa nie wypadli z odpo-cznienia duszy. Bóg nie może działać, gdy jesteśmy niespokojni, gdy niepokoimy się, choćby nawet o duchowe życie. Uchwyćmy się przeto Jego Słowa i Jemu pozostawmy Słowa wypełnienia".
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-17-9b499472e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-15-0e840d8d2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-27-864c6f429/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-27-864c6f429/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Nasze obowiązki</h1>
 <p> Wierzę, że ciąży na nas prawdziwy obowiązek duchowy, aby modlić się efektywnie dopóty, dopóki obecna zasłona nie będzie rozerwana i ludzie wierzący ponownie nie ujrzą twarzy Boga. Drugim celem naszych modlitw powinno być odnowienie duchowego życia Kościoła. Musimy wciąż modlić się, aby zaprzestał on haniebnie cudzołożyć ze światem i wrócił do swojej pierwszej miłości i swojego prawdziwego Pana. Standard jego życia został zdegenerowany, "poszedł na dno". Nic innego nie może go ocalić, jak tylko radykalna reformacja. Jedynie ci, których oczy są pomazane, mogą widzieć położenie Kościoła i ci, których serca wypełnione są Duchem Świętym, mogą skutecznie wstawiać się za nim w modlitwach. A teraz, nawet jeżeli będziemy się koncentrować na tych zasadniczo ważnych rzeczach, to wciąż istnieje wielkie niebezpieczeństwo, by prosić źle i zdobyć bardzo mało, jak również całkowicie się rozczarować. Dlaczego?
 <p> Problemem jest samolubstwo, które nigdzie nie jest tak "znakomicie" egoistyczne, jak na kolanach. Samolubstwo wykorzystał wąż w ogrodzie Eden, o samolubstwie świadczy złota sztaba w namiocie Achana. To czyni każdą modlitwę bezskuteczną, dopóki nie jest zidentyfikowane i odrzucone. Samolubstwo obraca czystą i pełnomocną modlitwę w słabą i bezskuteczną. Na przykład mogę żarliwie modlić się, aby chwała Boża objawiła się w moim pokoleniu, a całą rzecz zniszczyć tajoną nadzieją, że ja stanę się jednym z tych, przez których On ją objawi.
@@ -25,6 +25,6 @@ source_verified: true
 <p> Zbyt często modlimy się za właściwymi rzeczami, lecz oczekujemy odpowiedzi, mając niewłaściwe motywy; jednym z nich jest pragnienie zdobycia reputacji wśród świętych. Długo po tym, kiedy wszelka nadzieja znalezienia się na okładce czasopisma "Time" (Czas) znikła z naszych serc, możemy wciąż żywić nie wyznane pragnienie dostania się na okładkę gazety "Christian Life" (Chrześcijańskie życie). Zatem, jeżeli świat nie doceni naszej rzetelnej wartości, zrobi to Kościół.
 <p> Skoro nie możemy cieszyć się reputacją wielkiego męża stanu, czy aktora lub piłkarza, to wówczas będziemy chcieli zdobyć reputację niezwykłego chrześcijanina. Jest to równoznaczne z pożądaniem mięsa zamiast manny, czego rezultatem może być ubóstwo naszych dusz.
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-27-864c6f429/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-27-864c6f429/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

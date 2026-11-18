@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>7. MIESZKAJ W JEZUSIE <br/>
 On jest twą mądrością </h1>
 <p>"<i>Jezus Chrystus stał się nam mądrością od Boga</i>" 1Kor.1,30 
@@ -34,6 +34,6 @@ On jest twą mądrością </h1>
 	</p><p>Wycofuj się często do najdalszej komory twego serca, gdzie można usłyszeć głos Ducha, kiedy wszystko się uciszy. Z niewzruszonym zaufaniem nawet wtedy, gdy cię otacza ciemność i jesteś, jak ci sie zdaje opuszczony, trzymaj się tej pewności, że On jest światłem i wodzem Swoich. Przede wszystkim jednak żyj każdego dnia tą prawdą: On Sam, Jezus Chrystus, jest moją mądrością, dlatego musi być stale moim staraniem, aby w Nim pozostać. 
 	</p><p>Jeżeli w Nim mieszkasz, to Jego mądrość będzie spływała na ciebie, przynosząc jako owoc, życie w Nim utwierdzone. Ja jestem, ja pozostaję w Jezusie, tej mądrości Bożej, dlatego także i mnie zostanie ona udzielona.
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 14<br/>
 MODLITWA I KAZALNICA</h1>
 <p><em>"Prawda nigdy sama z siebie nie da efektów bez Ducha Bożego. Duch jest dany w odpowiedzi na modlitwę". </em></p>
@@ -21,6 +21,6 @@ MODLITWA I KAZALNICA</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy</strong></p>
 <p>Jak często w mojej posłudze chrześcijańskiej i służbie dla innych polegam bardziej na swoich przemyśleniach i działaniach niż na modlitwie i pracy Ducha Świętego?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-15-d55604c1c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>17</h1></div>
 <p class="akapit">Proteusz otworzył ciężkie drzwi więzienia i wyszedł na światło dzienne, aby uciec od smrodu lochów i choć na chwilę zaczerpnąć świeżego powietrza. Natychmiast do jego uszu dobiegła muzyka z pałacu Heroda. Herod wydawał tego wieczoru wielką ucztę dla swoich przyjaciół. "Obchodzi swe urodziny - przypomniał sobie Proteusz. - To dopiero będzie biesiada. To ci będzie..."</p>
 <p class="akapit">Wstrząsnął nim nagle chłodny dreszcz.</p>
@@ -27,6 +27,6 @@ source_verified: true
 <p class="akapit">- Co teraz? - spytał Proteusz.</p>
 <p class="akapit">- Powiem Janowi, że ma niecałe pięć minut życia. Przyprowadź go do mnie.</p>
 <p class="akapit">- Niech bogowie zmiłują się nad nami - wyszeptał Proteusz. - A jeśli jest tylko jeden Bóg i jeśli jest to Bóg Żydów, to bylibyśmy głupcami, sądząc, że okaże nam miłosierdzie za to, co mamy zrobić.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-18-b3aeb1a43/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-16-9f512b259/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

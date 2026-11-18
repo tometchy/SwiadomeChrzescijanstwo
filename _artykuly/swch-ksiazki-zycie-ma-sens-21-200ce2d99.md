@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>20<br/>
 Owocne cierpienie</h1></center>
 <p>W życiu ludzi, niezależnie od ich najróżniejszych cech indywidual-nych, zdarzają się rzeczy wielce nieprzyjemne, przykre i bolesne. Nieuleczalne choroby, wypadki powodujące kalectwo, niedorozwój fizyczny albo psychiczny, zbrodnie, klęski żywiołowe, epidemie, klęski nieurodzaju i głodu, wojny, prześladowania - oto niektóre zaledwie z wielu przyczyn udręki ludzi na ziemi, z powodu których planeta nasza nazywana jest padołem płaczu i narzekania. Problem cierpienia jest jednym z najbardziej palących problemów ludzkości. Wiele najróżniejszych dążeń i wysiłków stawiało lub stawia sobie za cel rozwiązanie lub przynajmniej złagodzenie tego problemu, lecz wiele z takich dążeń i wysiłków utraciło swą wiarygodność na skutek tego, że okazały się one w obliczu problemu cierpienia bezsilne. Nie ma przecież sensu łudzić się nadziejami, które okazują się nierealne, chwytać się środków, które okazują się nieskuteczne.
@@ -45,6 +45,6 @@ Owocne cierpienie</h1></center>
  Nie, nie, niełatwa droga ta!<br/>
  Lecz śmiało kroczę naprzód, bo Jezus jest ze mną,<br/>
  On dobrze moją drogę zna."</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-22-a94af918f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-20-9c6d8c908/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

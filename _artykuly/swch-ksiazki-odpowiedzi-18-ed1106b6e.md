@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 18<br/>
 MODLITWA I WIARA</h1>
 <p><em>"Musisz modlić się w wierze. Musisz oczekiwać, że otrzymasz te rzeczy, o które prosisz. Nie spodziewaj się odpowiedzi na modlitwę, jeżeli modlisz się nie oczekując, że ją otrzymasz. Nie powinieneś układać sobie takich oczekiwań bez żadnego powodu, oprócz przypadków, że jest powód, aby ją otrzymać." </em></p>
@@ -20,6 +20,6 @@ MODLITWA I WIARA</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
 <p>Czy twoja społeczność z Bogiem na tyle się rozwinęła, że wiesz o jakie rzeczy możesz modlić się z wiarą, wiedząc to, że zachęcając innych w szczególnych modlitwach sprawisz, że ich wiara wzrośnie? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

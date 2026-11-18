@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-08-2f3d128a5/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-08-2f3d128a5/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>O przyjmowaniu napominania</h1>
 <p>Pewne miejsce w księdze Kaznodziei mówi o starym i głupim królu, który już nie przyjmuje ostrzeżenia (Kazn..4,13).
 <p> Nie trudno zrozumieć, dlaczego stary król, zwłaszcza jeśli jest głupi, będzie uważał, że nie podlega napominaniu. Ponieważ przez długie lata przywykł do wydawania rozkazów, może łatwo powstać u niego taka pewność siebie, że nie będzie w stanie pogodzić się z myślą, iż mógłby też przyjąć jakieś wskazówki od innych. Przez długi czas jego zdanie było obowiązującym prawem, toteż to, co słuszne, stało się dla niego równoznaczne z tym, co on chce, zaś to, co złe, zaczęło oznaczać wszystko niezgodne z jego życzeniami. Wkrótce myśl o tym, że ktoś mógłby być na tyle mądry i na tyle dobry, aby móc go upominać, nie jest już w stanie dotrzeć do jego świadomości. Musi to być król głupi, aby dać się złapać w taką sieć, i król stary, aby tkwić w niej tak długo, aż stanie się ona nie do rozerwania, oraz tak długo, aż przestanie być świadomy jej istnienia.
@@ -26,6 +26,6 @@ source_verified: true
 <li>Jeśli jesteście strofowani, nie zwracajcie uwagi na źródło, skąd strofowanie pochodzi. Nie pytajcie, czy strofuje was wasz przyjaciel, czy wasz wróg. Strofowanie nieprzyjaciela ma często większą wartość niż strofowanie przyjaciela, ponieważ nie wywierają na nie wpływu względy sympatii.
 <li>Miejcie serca ciągle otwarte na napominanie Pańskie i bądźcie gotowi przyjąć Jego karcenie bez względu na to, kto trzyma rózgę. Wszyscy wielcy ludzie Boży umieli przyjmować uderzenia wielkodusznie i to było zapewne jednym z powodów tego, że byli to wielcy ludzie Boży.
 </li></li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-08-2f3d128a5/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-08-2f3d128a5/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p>
 {% endraw %}

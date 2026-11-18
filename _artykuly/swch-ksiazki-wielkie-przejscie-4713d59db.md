@@ -13,9 +13,9 @@ source_verified: true
 
 <table border="0" valign="TOP" width="100%">
 <tr>
-<td valign="TOP"><p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<td valign="TOP"><p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 </td>
-<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="../../assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="../../assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
 </tr>
 </table>
 <h1>Wielkie przejście</h1>
@@ -28,14 +28,14 @@ source_verified: true
 <a name="spis"></a>
 <h3>Spis treści</h3>
 <blockquote>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">R O Z D Z I A Ł 1, NOWY TESTAMENT - WIELKIE PRZEJŚCIE</a>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">R O Z D Z I A Ł 2, PRAKTYCZNE PUSTOSZENIE NASZEGO STAREGO CZŁOWIECZEŃSTWA</a>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">R O Z D Z I A Ł 3, POLE BITEWNE DWÓCH CZŁOWIECZEŃSTW</a>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">R O Z D Z I A Ł 4, WSZYSTKIM ZARZĄDZAJĄCA I WŁADAJĄCA WIZJA - WIDZENIE JEZUSA NASZEGO PANA</a>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">R O Z D Z I A Ł 5, NATURA I DYNAMIKA SŁUŻBY, NATURA I CEL KOŚCIOŁA</a>
-<li><a href="/czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">R O Z D Z I A Ł 6, NIEZMIERNE ZNACZENIE JEZUSA CHRYSTUSA UKRZYŻOWANEGO, ZMARTWYCHWZBUDZONEGO I WYWYŻSZONEGO</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">R O Z D Z I A Ł 1, NOWY TESTAMENT - WIELKIE PRZEJŚCIE</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">R O Z D Z I A Ł 2, PRAKTYCZNE PUSTOSZENIE NASZEGO STAREGO CZŁOWIECZEŃSTWA</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-03-01fc9b43a/">R O Z D Z I A Ł 3, POLE BITEWNE DWÓCH CZŁOWIECZEŃSTW</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">R O Z D Z I A Ł 4, WSZYSTKIM ZARZĄDZAJĄCA I WŁADAJĄCA WIZJA - WIDZENIE JEZUSA NASZEGO PANA</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-05-abe1c756b/">R O Z D Z I A Ł 5, NATURA I DYNAMIKA SŁUŻBY, NATURA I CEL KOŚCIOŁA</a>
+<li><a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">R O Z D Z I A Ł 6, NIEZMIERNE ZNACZENIE JEZUSA CHRYSTUSA UKRZYŻOWANEGO, ZMARTWYCHWZBUDZONEGO I WYWYŻSZONEGO</a>
 </li></li></li></li></li></li></blockquote>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Następny rozdział</a> | Poprzedni rozdział | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-01-c705b0b2d/">Następny rozdział</a> | Poprzedni rozdział | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 <br/>
 <p><font size="-1">
 Copyright wydania polskiego Marcin Łaszewski<br/>

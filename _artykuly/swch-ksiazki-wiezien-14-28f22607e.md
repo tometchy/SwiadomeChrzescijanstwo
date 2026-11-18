@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>14</h1></div>
 <p class="akapit">- Zostawcie mnie samego - powiedział Jezus do swych towarzyszy.</p>
 <p class="akapit">Po tych słowach udał się na ustronne miejsce, aby być sam. Nigdy dotąd w ciągu trzydziestu jeden lat swego życia, ani w całej swej preegzystencji w wieczności, nie pragnął tak intensywnie odpowiedzi na wołanie i pytanie kogoś, kto zmagał się ze zrozumieniem tajemniczych dróg Bożych.</p>
@@ -33,6 +33,6 @@ source_verified: true
 <p class="akapit">"O, Izraelu, stajesz w obliczu pewnego prostego faktu".</p>
 <p class="akapit">"Kobieto, i ty, jak wszyscy przed tobą... jak mój kuzyn, Jan, gnijący w lochu... stanęłaś twarzą w twarz z nagą prawdą".</p>
 <p class="akapit">"Twój Bóg nie spełnia twoich oczekiwań".</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-15-d33d94774/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

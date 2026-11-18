@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 30<br/>
 KONSEKWENCJE ODSTĘPSTWA </h1>
 <p><em>"Jeżeli umrzesz bez Ducha Świętego, to pójdziesz do piekła. Co do tego nie może być wątpliwości. Bez Ducha Świętego nigdy nie będziesz przygotowany na niebo". </em></p>
@@ -20,6 +20,6 @@ KONSEKWENCJE ODSTĘPSTWA </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy. </strong></p>
 <p>Czy kiedy się modlę jestem w pełni świadom wielkiej mocy modlitwy w tych ludziach, którzy całkowicie poświęcili siebie Chrystusowi? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-a-4b369ad45/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

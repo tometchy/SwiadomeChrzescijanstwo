@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>AKCEPTACJA</h1>
 <p>Każdy wierzący powinien postawić sobie dwa następujące pytania; im wcześniej to zrobi, tym lepiej. Pierwsze: Czy Bóg w pełni mnie akceptuje i drugie: Jeśli tak, to na jakiej podstawie to czyni? Są to decydujące pytania. Od odpowiedzi na nie zależy przełom w życiu nie-jednego człowieka. Brak akceptacji, nawet w stosunkach międzyludz-kich poważnie pustoszy życie ludzi młodych i starszych, majętnych i ubogich, zbawionych i niezbawionych. A jednak wielu wierzących, zarówno tych, którzy chcą coś w sferze ducha osiągnąć, jak i tych "wegetujących", żyje bez świadomości faktu, który przynosi odpo-cznienie, stanowi fundament duchowego życia i głosi, że On "w miłości przeznaczył nas dla siebie do synostwa przez Jezusa Chrystusa według upodobania woli swojej, ku uwielbieniu chwalebnej łaski swojej, którą nas obdarzył w Umiłowanym". (Ef.1,5.6).
 <p>Bóg Ojciec przyjmuje każdego z nas w Chrystusie. "Usprawiedli-wieni tedy z wiary, pokój mamy z Bogiem przez Pana naszego, Jezusa Chrystusa". (Rz.5,1).
@@ -53,6 +53,6 @@ source_verified: true
 <p>"A gdyby trąba wydała głos niewyraźny, któż by się gotował do boju?"(1Kor.14,8). Dopóki chrześcijanin nie będzie pewny swego stanowiska, dopóki na gruncie Pisma Świętego nie będzie o nim całko-wicie przekonany, nie da sobie rady, nie wytrzyma długo. Pismo zaś mówi: "Stańcie więc" (Ef.6,14;BT).
 <p>"Sam zaś Pan nasz Jezus Chrystus i Bóg Ojciec nasz, który nas umi-łował i przez łaskę udzielił nam niekończącego się pocieszenia i dobrej nadziei, niech pocieszy serca wasze i niech utwierdzi we wszelkim czy-nie i dobrej mowie!" (2Tes.2,16.17).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-04-e035e4268/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-02-cd6fb88b8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

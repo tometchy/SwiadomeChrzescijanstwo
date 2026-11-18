@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 21<br/>
 MODLITWA I TRUDNE DECYZJE </h1>
 <p><em>"Są trzy sposoby, za pomocą których Bóg objawia swoją wolę ludziom, aby ich modlitwa była właściwie ukierunkowana: przez wyraźne obietnice lub twierdzenie Biblii, przez przepowiedziane działanie Swojej Opatrzności i przez Swojego Ducha". </em></p>
@@ -21,6 +21,6 @@ MODLITWA I TRUDNE DECYZJE </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy. </strong></p>
 <p>Czy mam skłonność do tego, aby modląc się oczekiwać otrzymania od Boga najbardziej przyjemnych prac w Jego Królestwie? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-22-1c635906e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

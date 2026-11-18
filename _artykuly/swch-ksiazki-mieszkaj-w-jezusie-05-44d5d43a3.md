@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>5. MIESZKAJ W JEZUSIE <br/>
 tak jak przyszedłeś do Niego przez wiarę </h1>
 <p>"<i>Przetoż jakoście przyjęli Pana Jezusa Chrystusa, tak w Nim chodźcie, będąc wkorzenieni i wybudowani na Nim i utwierdzeni w wierze... obfitując w niej z dziękowaniem</i>". Kol.2,6.7 
@@ -30,6 +30,6 @@ tak jak przyszedłeś do Niego przez wiarę </h1>
 	</p><p>Jest to czymś zadziwiającym, jak taka wiara może wykonać wszystko, co jeszcze w tym stosunku do Jezusa jest zawarte. Czujność i modlitwa, zaparcie się samego siebie i posłuszeństwo, pilność w ściganiu pokoju - to należy do najważniejszych cech życia chrześcijańskiego. Ale wszystko to jest możliwe temu, kto wierzy. "A to jest zwycięstwo, które zwyciężyło świat, wiara nasza" (1Jana 5,4). Tak, wiara, która stale zamyka oczy na słabość stworzenia, a która znajduje swą radość wyłącznie we wszechmocy Zbawcy, czyni duszę radosną i mocną. Wówczas uczeń Jezusa oddaje się prowadzeniu Ducha Świętego, aby być coraz głębiej zaprowadzonym w poznanie nieocenionego i Wspaniałego Wybawcy, wieczystego Emanuela, darowanego nam przez Boga. Wiara idzie za pośrednictwem Ducha przez każdą stronicę Słowa Bożego, z tą jedną myślą, z tym jednym pragnieniem, aby każde nowe objawienie tego, czym jest Jezus i co przyrzeka, przyjąć jako pokarm życiowy. W ten sposób dusza stanie się mocna przez moc Bożą, aby być tym wszystkim i uczynić to wszystko, co jest konieczne, aby pozostać w Jezusie.
 	</p><p>Dziecię Boże czy chcesz pozostać w Jezusie? A więc wierz! Wierz zawsze, uwierz i teraz przed Panem i powiedz Mu z dziecięcym zaufaniem: "Ponieważ jesteś moim krzewem winnym, a ja Twoją latoroślą, dlatego chcę dziś pozostać w Tobie".
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-06-647750a8c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-04-f835ea5cd/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

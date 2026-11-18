@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-18-9ac4b59cd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-18-9ac4b59cd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>17. MIESZKAJ W JEZUSIE  <br/>
 przez Ducha Świętego </h1>
 <p>"<i>Ale to pomazanie, któreście wy wzięli od Niego, zostaje w was, a jako was nauczyło, tak w nim zostaniecie</i>"  1 Jana. 2,27 
@@ -24,6 +24,6 @@ przez Ducha Świętego </h1>
 	</p><p>Z tego rozmyślania wynika zupełnie jasno, że jeżeli pragniemy, aby nas Duch Święty poprowadził do stałego pozostawania w Jezusie to jest nam do tego potrzebna cicha, stanowcza wiara. Przy wszystkich pytaniach i trudnościach, które się pojawią, jeżeli bojujemy o to, aby mieszkać w Jezusie, przy całym pragnieniu, jakie odczuwamy, aby spotkać jakiegoś doświadczonego chrześcijanina, który by nam pomógł jeżeli tylko wyprosisz sobie to u Ojca. Nie jest możliwe uzyskanie życia w stałej łączności z Jezusem bez napełnienia Duchem Świętym. Wierz, że ta obfitość Ducha jest każdego dnia do dyspozycji. Pamiętaj o tym, że trzeba znaleźć czas, aby stać w modlitwie u stóp tronu Bożego i Baranka, z którego płyną strumienie wody żywej. Tam i tylko tam możesz być napełniony Duchem Świętym. Ćwicz się pilnie w zwyczaju, aby czcić Go codziennie, stale, przez cichą i mocną wiarę, że w nas wykonuje Swe dzieło. Wiara w Jego obecność w tobie uczyni cię gorliwym w unikaniu wszystkiego, co by Go mogło zasmucić, w unikaniu ducha świata, instynktów ciała i pobudek własnego "ja". Syć swą wiarę słowem Bożym i wszystkim tym, co ono ci mówi o Duchu Świętym, o Jego mocy, pociesze i działaniu. 
 	</p><p>Przede wszystkim zaś niech wiara w obecność Ducha w tobie pobudzi cię do tego, aby zamiast patrzeć w siebie, patrzeć na Jezusa. Od Niego otrzymaliśmy poznanie i będzie ono tym bardziej obficiej rozlane, im więcej skierujemy nasz wzrok na Niego. Chrystus jest Pomazańcem, a kiedy na Niego spoglądamy, spływa na nas święte pomazanie, kiedy na Niego spoglądamy spływa na nas "olejek najwyborniejszy, wylany na głowę, ściekający na brodę, na brodę Aaronową, ściekający aż i na podołek szat jego" (Ps.133,2). Przez wiarę w Jezusa otrzymujemy "pomazanie", a to pomazanie prowadzi nas znowu do Jezusa i do mieszkania w Nim. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-18-9ac4b59cd/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-18-9ac4b59cd/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-16-bbc6185ee/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

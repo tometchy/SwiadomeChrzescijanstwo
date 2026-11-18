@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>PRZYJĘCIE NASZEJ WŁASNOŚCI</h1>
 <p>Temat to niemałej wagi, wiąże się on bowiem z wiarą i praktycznym przyjęciem tego, co jest przedmiotem naszej ufności.
 <p>Przyjęcie naszej własności nie oznacza zdobycia czegoś nowego, oznacza praktyczne, realne przyswojenie sobie tego, co należało do nas już wcześniej, ale nie było przez nas używane.
@@ -31,6 +31,6 @@ source_verified: true
 <p>To, co wierzący czyni, to, co wierzący mówi, musi wypływać z tego, jakim  on  jest - na tym polega służenie życiem. "Ponieważ upodobał sobie Bóg, żeby w (Jezusie Chrystusie) zamieszkała cała pełnia boskości" (Kol.1,19). "Jesteśmy bowiem uczestnikami Chrystusa..." (Hbr3,14;BT) "...Abyście zostali napełnieni całą Pełnią Bożą" (Ef3,19;BT) "...Wasze życie ukryte jest z Chrystusem w Bogu" (Kol.3,3;BT) "...Aby życie Jezusa objawiło się w naszym śmiertelnym ciele" (2Kor.4,11;BT).
 <p>Jakże często tylko podziwiamy, tylko mówimy o prawdach, które Duch Święty objawia nam w Słowie, podczas gdy On chce nam je dać i w tym celu powinniśmy trzymać się tych prawd wiarą, czekając ufnie, aż On uczyni je nierozerwalną częścią rzeczywistości naszego życia. "Prorokiem jest ktoś, kto ma historię, kim zajmował się Bóg, kto doświadczył kształtującego działania Ducha. Czasem pytają nas, nawet kaznodzieje, ile dni powinno się przygotowywać kazanie. Odpo-wiedź brzmi: Co najmniej dziesięć lat, a prawdopodobnie około dwu-dziestu! Kaznodzieja bowiem znaczy dla Boga co najmniej tyle, ile zwiastowane słowo. Bóg wybiera na swoich proroków tych, w których życiu dokonał już tego, co zamierza uczynić Swym poselstwem dla współczesnego człowieka". (Watchman Nee).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-08-ffb5d39a2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-06-d9e07d1f8/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

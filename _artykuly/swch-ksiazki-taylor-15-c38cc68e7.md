@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 15<br/>
 Po czterdziestu latach</h2>
 <p>Było to w czterdzieści lat od owego dnia, w którym Hudson stojąc nad brzegiem morza w Brighton, ostatecznie postanowił założyć Wewnętrzną Misję Chin. Hudson siedział w jednej ze stacji misyjnych w prowincji Na Południe od Jeziora. Była to ostatnia z jedenastu prowincji, która otwarła się do pracy misyjnej. W jednej prowincji po drugiej - Czterech Strumie-niach, Na Północ od. Jeziora, Na Południe od Rzeki, Na Zachód od Gór, Na Południe od Chmur - powstały stacje misyjne, a były to wszystko prowincje znajdujące się w głębi Chin. Ale dotąd wrogo nastawieni urzędnicy zawiadujący tą gęsto zaludnioną prowincją Na Południe od Jeziora, zabraniali Europejczykom wyznającym swoją religię Jezusa tam się osiedlić. Przeszło trzydzieści lat Hudson się modlił o to, aby i tam się otworzyły drzwi, aż wreszcie obecnie i w tej prowincji znaleźli się pracownicy Wewnętrznej Misji Chin.
@@ -26,6 +26,6 @@ Po czterdziestu latach</h2>
 <p>A Hudson został już przyjęty z radością. Jedna z chińskich niewiast tak to określiła z oczami pełnymi łez, lecz z uśmiechem na ustach: "Przywitało go dziesięćkroć tysięcy aniołów!" Ponad wszystkimi tymi głosami powitania brzmiał jednak jeden głos, którego Hudson nauczył się słuchać na ziemi, a który miłował ponad wszystkie inne - ów Głos, który swego czasu mu powiedział: "Idź dla Mnie do Chin". Teraz jednak glos ten rzekł: "Dobrze, sługo dobry i wierny! Wejdź do radości Pana swego!"
 <p>I Hudson wszedł.
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

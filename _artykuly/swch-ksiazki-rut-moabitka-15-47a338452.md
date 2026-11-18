@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 <h2>Pierwowzór Izraela podczas chodzenia naszego Pana po ziemi i do Jego powtórnego przyjścia</h2>
 <p>Ten okres ogarnia już prawie dwa tysioące lat. Historia izraelskiego ludu przez ten czas jest historią jego cierpienia i zawiera w sobie trzy punkty zwrotne: wysiedlenie tego ludu z jego kraju, przebywanie pośrd innych ludów i jego powrót na swoją ojcowiznę. Zadziwiające pierwowzory tego wszystkiego znajdujemy w historii Elimelecha i jego domu. Przede wszystkim</p>
 <ol>
@@ -27,6 +27,6 @@ Ale, chwała Bogu: chociaż teraz się wydaje, że Izrael znajduje się w stanie
 Czy kiedykolwiek zwracaliśmy uwagę na ten delkatny język miłości Bożej, którym On rozmawia z resztką lub pozostałymi z Izraela? Wszyscy prorocy mówią o tej "resztce". Ciągle od nowa podkreśla On, że resztka będzie bardzo mała; pozostanie ona po mieczu; Pan zierze ją: On ją zbawi; On będzie łaskawy dla niej; On przerwie jej niewolę i wykupi, i przyprowadzi ją z powrotem. Oni, być może, i sami tego nie wiedzą; ale my wiemy, że Izraelici tylko wtedy w pełni i na zawsze osiągną swoje dziedzictwo, kiedy "Rut" dosięgnie przeznaczonego jej, ściślejszego zjednoczenia z "Boazem": to znaczy, kiedy Kościół Boży wejdzie z Chrystusem do swojego wiecznego dziedzictwa.
 Lecz to doprowadza już nas do drugiego pierwowzoru, który znajdujemy w Księdze Rut. Zwróćmy teraz na niego naszą uwagę.
 </li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 
 {% endraw %}

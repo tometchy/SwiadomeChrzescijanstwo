@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-01-86d245cbb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-01-86d245cbb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>1<br/>
 Owocne spojrzenie na siebie</h1></center>
 <p>Kim jestem? Skąd przychodzę? Po co istnieję? Dokąd zdążam? -Oto najbardziej podstawowe pytania ze wszystkich pytań, jakie mogą mnie dotyczyć. Nie chodzi w nich o odpowiedzi niepełne, jak podanie imienia i nazwiska, miejsca zamieszkania czy urodzenia, zawodu i tym podobnych personaliów, gdyż dane te nie wyczerpują treści postawionych pytań. Chodzi o odpowiedzi na fundamentalne zagadnienia mojego istnienia, jego początku, celu i końca. Chodzi o odpowiedzi takie, z których jednocześnie wynikałyby wnioski i wytyczne dotyczące sposobu prowadzenia życia, które nie pozostawiałyby żadnych niejasności, niedomówień i wątpliwości.
@@ -43,6 +43,6 @@ Owocne spojrzenie na siebie</h1></center>
  Zatrzymaj się na chwilę i pomyśl, po co żyjesz!"</i>
 <p>W świetle tego, co powiedzieliśmy, słowa tej piosenki stają się niezwykle ważne i aktualne. Nie chcemy żyć dłużej w niepewności, nie chcemy tylko tęsknić i wzdychać ani też oszukiwać siebie namiastkami. Ruszamy na poszukiwanie prawdy o naszym pochodzeniu oraz o sensie i celu naszego życia.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-01-86d245cbb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-03-229fdaa1b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-01-86d245cbb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

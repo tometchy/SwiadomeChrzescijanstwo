@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 3<br/>
 SPOTKANIE Z JEZUSEM</h1>
 <p>"<em>Prawdziwy chrześcijanin jest aktywny, ale jego aktywność i energia bierze się z głębokiej sympatii do mieszkającego w nim Ducha Chrystusowego. Chrystus jest ukształtowany w jego wnętrzu. Duch Chrystusa jest ogromnym zasilaczem siły jego duszy</em>" ("Zasady modlitwy" str. 94).</p>
@@ -24,6 +24,6 @@ SPOTKANIE Z JEZUSEM</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy</strong></p>
 <p>Czy tak poddałem moje życie Panu Jezusowi Chrystusowi, że poznałem rzeczywistość Jego obecności w moim życiu? </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-02-0c84f5b02/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

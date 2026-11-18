@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 5<br/>
 PIERWSI NAWRÓCENI PRZEZ NIEGO LUDZIE</h1>
 <p><em>"Jeżeli twoje uczucia są naprawdę szczere, to stwierdzisz, że Duch Święty poprowadzi cię, abyś się modlił o rzeczy, które są według woli Bożej". </em></p>
@@ -26,6 +26,6 @@ PIERWSI NAWRÓCENI PRZEZ NIEGO LUDZIE</h1>
 <li>Czy bojowałem w modlitwie i czy dzieliłem się prawdą Ewangelii z tymi, którzy nie znają Chrystusa, a którzy są najbliżej mnie i na których mam największy wpływ z powodu naszych wcześniejszych związków?
 <li>Czy teraz zamierzam modlić się i pracować nad zbawieniem tych, których miłuję i którzy są najbliżej mnie? 
 </li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-04-86cf58f2f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

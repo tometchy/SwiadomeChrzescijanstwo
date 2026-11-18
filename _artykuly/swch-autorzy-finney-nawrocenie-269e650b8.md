@@ -22,34 +22,34 @@ source_verified: true
 <tr><td valign="TOP" width="6%">
 <p align="RIGHT"><b><font face="Arial">I.</font></b></p></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#I"><b><font face="Arial">Udowodnić, że natura człowieka jest naturą czysto samolubną.</font></b></a></p></td>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#I"><b><font face="Arial">Udowodnić, że natura człowieka jest naturą czysto samolubną.</font></b></a></p></td>
 </tr>
 <tr><td valign="TOP" width="6%">
 <b><font><p align="RIGHT">II.</p></font></b></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#II"><b><font face="Arial">Udowodnić, że natura Chrześcijanina jest naturą dobroczynną - wybierającą szczęście innych.</font></b></a></p></td>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#II"><b><font face="Arial">Udowodnić, że natura Chrześcijanina jest naturą dobroczynną - wybierającą szczęście innych.</font></b></a></p></td>
 </tr>
 <tr><td valign="TOP" width="6%">
 <b><font><p align="RIGHT">III.</p></font></b></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#III"><b><font face="Arial">Udowodnić, że Nowe Narodzenie w Jezusie Chrystusie zawiera się w przemianie od eg</font><font face="Arial">oizmu </font><i><font face="Arial"><br/>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#III"><b><font face="Arial">Udowodnić, że Nowe Narodzenie w Jezusie Chrystusie zawiera się w przemianie od eg</font><font face="Arial">oizmu </font><i><font face="Arial"><br/>
 </font></i><font face="Arial">ku dobroczynności.</font></b></a></p></td>
 </tr>
 <tr><td valign="TOP" width="6%">
 <b><font><p align="RIGHT">IV.</p></font></b></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#IV"><b><font face="Arial">Wskazać pewne strefy gdzie święci i grzesznicy, czy też prawdziwie i fałszywie nawróceni, </font><i><font face="Arial"><br/>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#IV"><b><font face="Arial">Wskazać pewne strefy gdzie święci i grzesznicy, czy też prawdziwie i fałszywie nawróceni, </font><i><font face="Arial"><br/>
 </font></i><font face="Arial">są tacy sami i pewne strefy gdzie różnią się od siebie.</font></b></a></p></td>
 </tr>
 <tr><td valign="TOP" width="6%">
 <b><font><p align="RIGHT">V.</p></font></b></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#V"><b><font face="Arial">Odpowiedzieć na niektóre pytani</font><font face="Arial">a.</font></b></a></p></td>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#V"><b><font face="Arial">Odpowiedzieć na niektóre pytani</font><font face="Arial">a.</font></b></a></p></td>
 </tr>
 <tr><td valign="TOP" width="6%">
 <b><font><p align="RIGHT">VI.</p></font></b></td>
 <td valign="TOP" width="94%">
-<p><a href="/czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#VI"><b><font face="Arial">Zakończyć pewnymi uwagami.</font></b></a></p></td>
+<p><a href="../../czytelnia/swch-autorzy-finney-nawrocenie-269e650b8/#VI"><b><font face="Arial">Zakończyć pewnymi uwagami.</font></b></a></p></td>
 </tr>
 </table>
 <br/><br/>

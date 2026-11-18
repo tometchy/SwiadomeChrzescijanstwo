@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Musimy słuchać godnie</h1>
 <p> Ludzie przeważnie uważają, że gdy kaznodzieja wypowiada poselstwo prawdy, a jego słowa wpadają do uszu słuchających, to ma już miejsce rzeczywisty akt słuchania. Uważa się, że przyjęli oni pouczenie, ponieważ wysłuchali Słowa Bożego. Jednak to nie następuje.
 <p> Jeśli mamy zostać naprawdę pouczeni, musimy słuchać godnie lub dokładniej: musimy słuchać w sposób godny. Słuchając kazania, czytając dobrą książkę lub nawet czytając samą Biblię możemy wiele z tego tracić, jeśli nie słuchamy prawdy godnie. Słuchać niegodnie znaczy nie spełniać moralnych warunków, koniecznych do tego, aby słyszeć prawdę właściwie.
@@ -22,6 +22,6 @@ source_verified: true
 <p> Wszystkie te przykłady uczą tego samego. Bóg chce przemawiać do serc tych, którzy przygotują się, aby słyszeć, i odwrotnie: ci, którzy nie przygotują się, nie usłyszą niczego, choćby Słowo Boże padało do ich zewnętrznych uszu co niedzieli.
 <p> Dobrzy słuchacze są tak samo ważni jak dobrzy kaznodzieje. Potrzebujemy więcej jednych i drugich.
  
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-21-d8830ca5f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 2<br/>
 Błogosławieni ubodzy</h1>
 <b><p>"Błogosławieni ubodzy w duchu, albowiem do nich należy Królestwo Niebieskie". (Mat.5.3)</p></b>
@@ -42,6 +42,6 @@ Błogosławieni ubodzy</h1>
 <p>Jeśli chcemy naprawdę poznać Boga we wzrastającej intymności, musimy iść tą drogą wyrzeczeń. A jeśli postanowiliśmy szukać Boga, to prędzej czy później Pan podda nas tej próbie. Przechodząc swą próbę, Abraham nie rozumiał, co się z nim dzieje, ale gdyby postąpił inaczej, historia Starego Testamentu byłaby inna. Bóg z pewnością znalazłby swojego człowieka, ale strata dla Abrahama byłaby niezwykłe tragiczna. Tak więc, każdy z nas po kolei przyjdzie na miejsce próby i możemy się nawet nie spostrzec, gdy się tam znajdziemy. Nie będzie tam wiele możliwości do wyboru: jedna lub wykluczająca ją druga. Ale cała nasza przyszłość będzie zależała od wyboru, jakiego dokonamy.
 
 <i><p>Ojcze, chcę Cię poznać, lecz moje tchórzliwe serce boi się porzucić swe zabawki. Nie mogę się z nimi rozstać bez krwawienia serca i nie chcę ukrywać przed Tobą strachu przed rozstaniem się z nimi. Przychodzę cały drżący, ale przychodzę. Proszę Cię, wykorzeń z serca wszystkie rzeczy, które tak długo miłowałem i które stały się częścią mnie samego, tak, abyś mógł wejść i zamieszkać w moim sercu  bez rywala. Wtedy uczynisz, że stanie się ono wspaniałym miejscem dla Twych stóp. Wtedy moje serce już nie będzie potrzebowało słońca, by w nim świeciło, ponieważ Ty będziesz jego światem że nie będzie tam nocy. Proszę Cię o to w imieniu Jezusa. Amen.</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-03-bd636369b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-01-ce226b305/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

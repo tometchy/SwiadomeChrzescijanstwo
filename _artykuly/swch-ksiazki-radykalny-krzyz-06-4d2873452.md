@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-07-5b8a1e551/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-07-5b8a1e551/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Stary a nowy krzyż</h1>
 <p> Bez wszelkich zapowiedzi i przeważnie niepostrzeżenie do popularnych kręgów ewangelicznych wszedł w naszych czasach nowy krzyż. Jest podobny do starego krzyża, lecz różni się od niego. Podobieństwa są powierzchowne, różnice- fundamentalne.
 <p> Z tego nowego krzyża zaskoczyła nas nowa filozofia życia chrześcijańskiego, a z tej nowej filozofii przyszła nowa technika ewangeliczna: nowy typ spotkań i nowy rodzaj zwiastowania. Ten nowy rodzaj ewangelizacji używa tego samego języka co stary, ale jego treść nie jest taka sama i jego akcenty nie są takie, jak poprzednio.
@@ -28,6 +28,6 @@ source_verified: true
 <p> Każdemu, kto chciałby sprzeciwiać się temu albo uważać to tylko za wąski, prywatny pogląd na prawdę, chcę powiedzieć, że Bóg daje pieczęć Swojej aprobaty na to poselstwo od czasów Pawła aż po dzień dzisiejszy. Czy było ono wyrażane dokładnie tymi słowami, czy też nie, to właśnie ono było istotną treścią wszelkiego zwiastowania, przynoszącego światu poprzez wieki życie i moc. Mistycy, reformatorzy i ewangeliści na to właśnie kładli nacisk, a znaki i cuda, i potężne działania Ducha Świętego świadczyły o Bożej aprobacie.
 <p> Czy będąc dziedzicami takiej spuścizny mocy odważymy się zniekształcać prawdę? Czy ośmielimy się naszymi tępymi ołówkami zmieniać linie w planach albo zacierać wzór, pokazany nam na górze? Niech Bóg broni! Zwiastujmy stary krzyż, a oglądać będziemy starą moc.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-07-5b8a1e551/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-07-5b8a1e551/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

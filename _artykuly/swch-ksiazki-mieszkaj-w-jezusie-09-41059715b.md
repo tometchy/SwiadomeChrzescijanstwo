@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>9. MIESZKAJ W JEZUSIE  <br/>
 On jest twoim poświęceniem </h1>
 <p>"<i>Jezus Chrystus stał się nam od Boga poświęceniem</i>"  1 Kor.1,30 
@@ -30,6 +30,6 @@ On jest twoim poświęceniem </h1>
 	</p><p>To nowe, święte życie w tobie ma korzenie w Chrystusie, w niebie, i może rozwijać się i umacniać, jeżeli połączenie ze źródłem będzie nieprzerwane. Przede wszystkim jednak wierz niezachwianie, że to jest najwyższą radością Jezusa, jeżeli może to życie w tobie utrzymać i w tej nowej twojej naturze udzielić Swej mocy i mądrości, której potrzebujesz. Niech ta wiara skłania cię codziennie do wyzbycia sie wszelkiego spolegania na tobie i do wyznania, że wszystko, co pochodzi z twej starej natury jest zupełnie skażone. Ale pozwól się także napełnić ufnością, że wszystko czego Ojciec od ciebie oczekuje, jako dziecka stojącego pod łaską, możesz dokonać, ponieważ Jezus cię posila. Niech cię nauczy składać siebie samego ze wszystkim działaniem na ołtarzu, jako ofiarę duchową, która jest świętą i przyjemną, i słodką wonnością przed Nim. 
 	</p><p>Patrz na swe święte życie, nie jako na wysiłek, który wymaga od ciebie stałego napięcia, ale jako na naturalne rozwinięcie się życia Chrystusowego w tobie. Bądź upewniony przez wiarę mocną, radosną i pełną nadziei, że z obfitości świętości Jezusowej, zostanie ci zawsze dane to wszystko, czego potrzebujesz do życia w poświęceniu. Zrozumiesz i doznasz, co to znaczy pozostawać w Jezusie Chrystusie, naszym poświęceniu. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-08-1e352d406/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

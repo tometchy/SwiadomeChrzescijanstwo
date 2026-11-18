@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-alarm-4-8ff398927/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-2-99af81d5c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-alarm-4-8ff398927/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-2-99af81d5c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
 <b><font face="Arial" size="4"><p align="CENTER">ROZDZIAŁ  II<br/>
 ISTOTA NAWRÓCENIA</p>
 </font></b><p align="JUSTIFY"></p>
@@ -117,6 +117,6 @@ ISTOTA NAWRÓCENIA</p>
 <p align="JUSTIFY">Czy twe sumienie nie kieruje cię do komory modlitewnej i nie wyrzuca ci, że tak rzadko się tam modlisz i czytasz Słowo Boże? Czyż nie prowadzi cię ono do twej rodziny i nie pokazuje ci oskarżenia stawianego przez Boga oraz dusz twych dzieci, które zaniedbujesz? Czyż twe sumienie nie prowadzi cię do twego warsztatu bądź rzemiosła i nie mówi ci o nieprawościach jakie t</p></font>a<font face="Times New Roman">m popełniasz? Czyż nie prowadzi cię do gospody czy też do klubu i nie obwinia cię za przebywanie w rozwiązłym towarzystwie, marnowanie tam cennego czasu oraz swych talentów? Czyż nie prowadzi cię do twej komory w ukryciu i nie odczytuje ci potępienia?
 </font><p align="JUSTIFY">Sumi<font face="Times New Roman">enie - czyń swą powinność! W imieniu Boga Żywego nakazuję ci sprawować swój urząd. Przezwycięż tego grzesznika, pochwyć i pojmij go wyrywając z objęć zwiedzenia! Cóż to? Czyż chcesz mu schlebiać i pocieszać pomimo iż żyje w grzechach? Przebudź się, sumien</font>i<font face="Times New Roman">e! Dlaczego śpisz? Cóż to? Nie znajdujesz nagany? Cóż to? Czy ta dusza ma umrzeć w swej nierozważnej niedbałości wobec Boga i wieczności, a ty chcesz siedzieć cicho? Cóż to? Czy ma on trwać w swych występkach, a mimo to odczuwać pokój? Sumienie - powstań </font>i<font face="Times New Roman"> wykonaj swą pracę! Niech przemówi ukryty w grzeszniku kaznodzieja. Krzycz głośno, nie oszczędzaj, podnieś swój głos jak trąba. Nie pozwól, by obciążono cię krwią  za tę duszę.      </font></p>
 <p align="JUSTIFY"> </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-alarm-4-8ff398927/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-2-99af81d5c/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-alarm-4-8ff398927/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-2-99af81d5c/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-alarm-ce47e3d37/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

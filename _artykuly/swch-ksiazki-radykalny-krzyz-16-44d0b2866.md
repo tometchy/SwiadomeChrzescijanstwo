@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-15-aa48e75b2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-15-aa48e75b2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Z Bogiem żyje się łatwo</h1>
 <p> Pierwszym atakiem szatana skierowanym przeciwko ludzkości była jego chytra próba zniszczenia zaufania Ewy w życzliwość Bożą. Na nieszczęście dla niej i dla nas zamiar jego się powiódł. Od tamtego dnia ludzie mają fałszywe wyobrażenie o Bogu i właśnie to wytrąciło im spod nóg grunt sprawiedliwości i zepchnęło ich do życia lekkomyślnego i destruktywnego.
 <p> Nic nie wykrzywia i nie zniekształca duszy bardziej niż niskie, niestosowne pojęcia o Bogu. Pewne ugrupowania jak na przykład faryzeusze, mając przekonanie, że Bóg jest surowy i srogi, potrafili utrzymać dosyć wysoki poziom moralny, lecz sprawiedliwość ich była tylko zewnętrzna. Wewnątrz byli "grobami pobielanymi", jak powiedział im sam Pan. Ich błędne wyobrażenie o Bogu spowodowało błędne wyobrażenie o sposobie służenia Bogu. Dla faryzeusza służba Bogu była wielkim ciężarem, którego nie lubił, lecz którego nie dało się uniknąć, gdyż strata byłaby zbyt wielka. Bóg faryzeusza nie był Bogiem, z którym żyje się łatwo, toteż jego religia była posępna, surowa i pozbawiona miłości. Musiało tak być, gdyż nasze pojęcie Boga określa zawsze jakość naszej religii.
@@ -24,6 +24,6 @@ source_verified: true
 <p> Jakże dobrze byłoby nauczyć się, że z Bogiem żyć jest łatwo. On wie, jakim jesteśmy ulepieniem, pamięta, że jesteśmy prochem. On czasem może nas karcić, to prawda, lecz nawet i to robi z uśmiechem, z łagodnym uśmiechem Ojca promieniejącego dumą i zadowoleniem nad niedoskonałym, lecz obiecującym synem, który dzień po dniu staje się coraz bardziej podobny do Tego, którego jest dzieckiem.
 <p> Niektórzy z nas są nerwowi i zakłopotani, ponieważ wiemy, że Bóg zna każdą naszą myśl i widzi wszystkie nasze czyny. Nie trzeba nam się tym matrwić. Bóg jest sumą wszelkiej cierpliwości i szczytem łagodności i dobrej woli. Największą radość sprawimy Mu nie przez usiłowanie robić siebie dobrymi, lecz kiedy rzucimy się w Jego ramiona z wszystkimi naszymi brakami, wierząc, że On wszystko rozumie i mimo wszystko bardzo nas miłuje.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-15-aa48e75b2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-15-aa48e75b2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

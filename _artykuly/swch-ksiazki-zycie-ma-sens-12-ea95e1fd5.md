@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-11-66cbc6b20/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-11-66cbc6b20/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <h1><center>11<br/>
 Owocne spojrzenie w siebie</center></h1>
 <p>Człowiek, który nawiązał osobisty kontakt z Bogiem i został napełniony Duchem Świętym, znalazł nieopisane szczęście i pełne, doskonałe zaspokojenie swojego pragnienia i głodu duchowego.[257] Znajduje się on jednak w jakimś punkcie czasu i przestrzeni, ma przed sobą swoje dalsze życie z całą jego różnorodnością, skomplikowaniem, pracą, walkami i niebezpieczeństwami. Co w tej sytuacji należy robić, aby zachować zdobyte szczęście, aby zapewnić sobie zdrowy rozwój i pomyślność? - Jeśli Biblia, Boża instrukcja dla człowieka doprowa-dziła nas do znalezienia upragnionego szczęścia, możemy być pewni, że umożliwi nam ona także jego zachowanie. Jeśli idąc za Bożymi wskazówkami doszliśmy do poznania drogi ratunku, uzyskaliśmy przebaczenie grzechów, pojednanie z Bogiem i wspaniałe zaspokojenie naszego duchowego głodu, możemy być pewni, że idąc za tymi wskazówkami zdołamy także zachować zdobyte skarby, uniknąć niebezpieczeństw i dojść wytyczoną dla nas przez Boga drogą do wskazanego nam przez Niego celu. A zatem warunkiem pełnego i szczęśliwego życia jest posłuszeństwo względem Słowa Bożego, ścisłe przestrzeganie jego wskazówek i stałe, codzienne poddawanie się Bożej woli. Biblia wyraźnie stwierdza, że Boża instrukcja jest pod tym względem niezawodna i całkowicie wystarczająca.[258] Wynika stąd oczywisty wniosek, że poszukiwanie odpowiedzi na nasze ludzkie problemy u Boga i w Jego Słowie okazało się być drogą jedynie słuszną i owocną, toteż jedyną słuszną rzeczą na naszym obecnym etapie jest pozostanie na tej drodze i poszukiwanie odpowiedzi dotyczących sposobu prowadzenia naszego nowego życia z Bogiem również tylko u Boga i w Jego Słowie.
@@ -35,6 +35,6 @@ Zerwij więzy me, bym wyzwolonym był,<br/>
 O, uwolnij ducha, bym Cię czcił!"</p></i>
 <p>Jeśli Bóg w Swoim wspaniałym dziele przewidział ożywienie naszego ducha, na pewno nie robi tego po to, by miał on pozostawać w niewoli, obezwładniony przez ciało. Boże dzieło zawiera na pewno nie tylko ożywienie naszego ducha, lecz także jego wyzwolenie.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-11-66cbc6b20/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-13-ac5844125/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-11-66cbc6b20/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

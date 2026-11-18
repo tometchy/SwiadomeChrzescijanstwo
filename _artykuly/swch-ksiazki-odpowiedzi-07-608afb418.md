@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 7<br/>
 PEWNOŚĆ W MODLITWIE </h1>
 <p><em>"Jeżeli poprzez porównywanie naszego sumienia z Biblią, odkryjemy ciężar, że jesteśmy prowadzeni przez Ducha, aby modlić się za kogoś pojedynczego - to mamy dobry powód wierzenia, że Bóg jest gotowy błogosławić mu." </em></p>
@@ -25,6 +25,6 @@ PEWNOŚĆ W MODLITWIE </h1>
 <li>Czy modlę się za siebie, albo rzeczy które będą moim zyskiem? 
 <li>Czy chcę powierzyć się przewodnictwu Ducha Świętego, aby pokazał mi czy jestem chętny często i gorliwie modlić się za kogoś kogo prawie nie znam? 
 </li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-06-e4ab9bae3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

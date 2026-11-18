@@ -19,14 +19,14 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
 Kościół i Biblia : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
 ]
 </a></a></h6>
 </font>
@@ -102,7 +102,7 @@ Po trzecie, chcę zachęcić chrześcijańskich rodziców. Nauczajcie swoje dzie
 Tak więc intronizujmy Biblię w domu i w kościele. Nie dlatego, że oddajemy jej cześć, ale ponieważ przemawia przez nią Bóg. I wtedy, gdy ponownie usłyszymy jej głos, Kościół zostanie odnowiony, zreformowany i ożywiony, i stanie się taki, jakim chciał go widzieć Bóg - jasnym światłem świecącym w przemożnej ciemności.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/#Początek strony">Powrót</a> ]
 
 <br/><br/>
 <hr/>

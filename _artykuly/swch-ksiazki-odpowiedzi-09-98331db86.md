@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 9<br/>
 ROZSTRZYGAJĄCA ODMOWA</h1>
 <p><em>"Modlitwa, aby była skuteczna musi być czyniona przez wstawiennictwo Ducha. Nigdy nie będziesz mógł ofiarować modlitwy według woli Bożej jeśli nie wypłynie ona z Ducha".</em></p>
@@ -19,6 +19,6 @@ ROZSTRZYGAJĄCA ODMOWA</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
 <p>Czy w moich modlitwach naprawdę szukam poznania Chrystusa, aby wiedzieć o kogo i o co mogę się modlić, zgodnie z prowadzeniem Ducha Świętego?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-10-e074e905c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-08-5a59f4df7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

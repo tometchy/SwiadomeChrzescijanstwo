@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 10<br/>
 ODRZUCANIE MODLITWY I WYBIERANIE PRZEZNACZENIA</h1>
 <p><em>"Jeżeli jesteś napełniony Duchem, będziesz spokojny w czasie utrapień i pogodzony ze śmiercią. Zawsze będziesz przygotowany, aby umrzeć i nie będziesz obawiał się śmierci, a po niej będziesz odpowiednio bardziej szczęśliwy w niebie". </em></p>
@@ -21,6 +21,6 @@ ODRZUCANIE MODLITWY I WYBIERANIE PRZEZNACZENIA</h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy</strong></p>
 <p>Czy jestem gotów poświęcić się modlitwie pod kierownictwem Ducha Świętego i prowadzić rozmowę o zbawieniu z każdym kto potrzebuje Ewangelii Chrystusa bez względu na jego sytuacją i bliskość śmierci?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-09-98331db86/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

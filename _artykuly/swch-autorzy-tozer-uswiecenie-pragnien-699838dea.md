@@ -22,7 +22,7 @@ source_verified: true
 </p><p>Gdy Bóg odniesie w naszym życiu moralne zwycięstwo, zawsze zostaje uwielbiony, my zaś zostajemy zawsze ubłogosławieni, odnosząc z tego niezmierzoną, chwalebną korzyść. Chwała Boża i wieczne dobro Jego ludu są z sobą zawsze ściśle związane. Krew Jezusa Chrystusa oczyszcza nie tylko autentyczne grzechy, które zostały popełnione, lecz także wewnętrzne pragnienia, abyśmy nie pożądali grzechu. Oczyszczone pragnienia kierować będą człowieka w stronę sprawiedliwości poprzez delikatne przyciąganie moralne. Wtedy można powiedzieć że "myślimy o tym, co duchowe". Jest to stan naprawdę błogosławiony i błogosławionymi są ci, którzy go osiągają.
 </p>
 <p><i>A. W. Tozer</i><br/>
-<i>tłumaczył <a href="/archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
+<i>tłumaczył <a href="../../archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
 </p>
 <br/><br/>
 <br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">

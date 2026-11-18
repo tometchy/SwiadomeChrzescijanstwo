@@ -19,13 +19,13 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/">Duch Święty i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
 Posłowie
 ]
 </a></a></h6>
@@ -41,7 +41,7 @@ Ja sam przynajmniej, głęboko zaniepokojony przyjmowanym przez wielu nonszalanc
 Praktyczna użyteczność Pisma Świętego - dla Kościoła i chrześcijanina, domu i narodu - nie powinna być jednak głównym powodem, dla którego pragniemy jej przywrócenia, a raczej chwała Boża. Jeżeli słusznie nazywamy Biblię "Słowem Bożym" (choć wypowiedzianym za pomocą ludzkich słów), to zaniedbanie jej jest także zaniedbaniem Boga, natomiast słuchanie jej jest słuchaniem Boga. Głównym powodem, dla którego powinniśmy pozwolić, aby "Słowo Chrystusowe mieszkało w nas obficie" (Kol 3,16), nie jest fakt, że zostaniemy w ten sposób ubogaceni, ale że przez to Bóg będzie uwielbiony i uczczony. On pragnie, abyśmy mieli chrześcijańskie myśli i prowadzili chrześcijańskie życie. Ale aby mieć chrześcijańskie myśli, musimy być "myśli chrześcijańskiej" (por. 1Kor 2,16; Flp 2,5), a umysł nasz może się upodobnić do jego umysłu tylko wtedy, gdy nasączony zostanie jego Słowem. Dlatego <i>Biblia</i> jest <i>Księgą na dzisiaj</i>.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/#Początek strony">Powrót</a> ]
 
 <br/><br/>
 <hr/>

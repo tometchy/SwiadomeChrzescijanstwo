@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 19<br/>
 MODLITWA I SPRZECIW </h1>
 <p><em>"Jeżeli jesteś pełny Ducha Świętego, to musisz być przygotowany na to, że spotkasz się ze sprzeciwem zarówno w kościele jak i na świecie. Prawdopodobnie przywódcy kościoła sprzeciwią ci się tak jak wtedy, kiedy Chrystus żył na ziemi. Jeżeli jesteś napełniony Duchem Świętym, odkryjesz, że nie będziesz strapiony, ani rozgoryczony, ani zmartwiony wtedy, kiedy ludzie będą mówić przeciwko tobie". </em></p>
@@ -22,6 +22,6 @@ MODLITWA I SPRZECIW </h1>
 <li>Czy potrafię się modlić do Boga w centrum opozycji, kiedy pracuję dla Niego? <br/>
 <li>Czy mam czyste sumienie wobec tych, którzy powstają przeciwko mnie? <br/>
 </li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-20-3776d2a1c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

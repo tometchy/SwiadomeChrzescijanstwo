@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>2<br/>
 Owocne widzenie stworzenia</h1></center>
 <p>Daleko wcześniej, zanim istota ludzka urodzona na ten świat spostrzeże samą siebie, dostrzega ona otaczające ją rzeczy materialne. Uczy się poznawać świat, nie znając jeszcze nawet samej siebie. Widok smoczka kojarzy jej się z uczuciem ciepłego, słodkiego, odżywczego płynu, napełniającego usta; widok matczynej twarzy wywołuje błogi uśmiech zadowolenia; dopiero co otwarte oczy i niezgrabne jeszcze paluszki uważnie i wnikliwie badają różowego, plastikowego misia zawieszonego nad łóżeczkiem. To poznawanie otaczającej rzeczywistości, rozpoczęte wkrótce po urodzeniu, kontynuuje człowiek właściwie przez całe życie. Dzięki temu wzrasta jego znajomość świata i praw nim rządzących, która umożliwia mu prowadzenie życia w tym środowisku. Stopniowo człowiek tak przyzwyczaja się do otaczającej go rzeczywistości, że zupełnie przestaje go ona dziwić. Staje się ona nieodłączną częścią jego życia i zupełnie nie jest w stanie wyobrazić sobie rzeczywistości innej.
@@ -45,6 +45,6 @@ Owocne widzenie stworzenia</h1></center>
 Spoglądam na niebo pełne gwiazd, <br/>
 Kiedy myślę, czy życie to ma sens, <br/>
 Ja wołam do Ciebie: Ojcze nasz!"</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-04-649518dee/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-02-4b587c5a2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

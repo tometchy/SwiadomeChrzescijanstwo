@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>12</h1></div>
 <p class="akapit">Scena rozgrywa się w wiosce galilejskiej zwanej Nain. Jest wczesny wieczór. Ulice miasta wypełnia tłum ludzi oczekujących na Jezusa, aby przyprowadzić do niego swych chorych.</p>
 <p class="akapit">Niektórzy z nich są ślepi, kilku kalekich, jeden głuchy, innego, z pianą na ustach, podtrzymuje rodzina. Zatroskana matka trzyma w ramionach małe gorączkujące niemowlę. </p>
@@ -45,6 +45,6 @@ source_verified: true
 <p class="akapit">Trzej uczniowie Jana stali oszołomieni. Po dłuższej chwili wyraźnego zakłopotania odwrócili się i odeszli. Przechodząc przez dziedziniec zauważyli, że był już pusty, podobnie jak pobliskie ulice.</p>
 <p class="akapit">Jutrzejszy dzień miał zastać Jezusa w następnej wiosce. Dla uczniów Jana dzień jutrzejszy miał być dalszym ciągiem tej samej zagadki.</p>
 <p class="akapit">Ale co miał ten dzień przynieść tym, którzy zostali odesłani do domów tego wieczora? Wrócili, nie doznawszy uzdrowienia. A Jan? Jaka będzie jego odpowiedź na dziwne słowa Jezusa?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-13-cee2b0c7a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-11-4432caa72/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

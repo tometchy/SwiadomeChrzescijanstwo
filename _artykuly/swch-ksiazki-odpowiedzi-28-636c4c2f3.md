@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 28<br/>
 GASZENIE DUCHA ŚWIĘTEGO </h1>
 <p><em>"Jeżeli posiadasz pełnię Ducha Bożego to musisz przygotować siebie na to, że będziesz miał wiele opozycji, zarówno w kościele jak i na świecie. Często starsi, a nawet pastorzy będą występować przeciwko tobie, jeżeli będziesz napełniony Duchem Świętym. Musisz oczekiwać bardzo częstych śmiertelnych konfliktów z szatanem. Szatan ma bardzo mało zmartwień z tymi chrześcijanami, którzy nie są duchowi, ale letni i gnuśni oraz myślący jak świat. Tacy nie zrozumieją tego, co powiedziałem o duchowym konflikcie". </em></p>
@@ -22,6 +22,6 @@ GASZENIE DUCHA ŚWIĘTEGO </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy. </strong></p>
 <p>Czy przez moje niewyznane grzechy i różne niechęci, tłumię przebudzenie w kościele i przeszkadzam Bogu, aby dał odpowiedź na moje modlitwy?</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-29-3b885631f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-27-2610fc8b0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

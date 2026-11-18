@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-12-80e0fdb56/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-12-80e0fdb56/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>11. MIESZKAJ W JEZUSIE <br/>
 ukrzyżowanym</h1>
 <p>"<i>Z Chrystusem jestem  ukrzyżowany, a żyję już nie ja, lecz żyje we mnie Chrystus</i>"  Gal.2,20 
@@ -34,6 +34,6 @@ Im mniejsza różnica a większe podobieństwo między zranionym pniem a zranion
 	</p><p>Wiara w moc krwi Jezusa Chrystusa, która odpuszcza nieprawość i oczyszcza od grzechu, przez wiarę w odnawiającą moc życia Jezusa, może być dana i wzrastać tylko wtedy, jeżeli człowiek pozostanie pod krzyżem, w żywej społeczności z Jezusem ukrzyżowanym, i dąży do tego, aby być Mu zupełnie podobny. 
 	</p><p>O Jezu, mój ukrzyżowany Zbawco, naucz nas nie tylko w Ciebie wierzyć, ale także w Tobie pozostawać, a krzyż Twój przyjąć nie tylko jako podstawę naszego przebaczenia, ale także jako wzór naszego życia. O, naucz nas miłować krzyż, nie tylko dlatego, żeś na krzyżu niósł nasze przekleństwo, ale także ponieważ przezeń wstępujemy w najściślejsze połączenie z Tobą, będąc z Tobą ukrzyżowani i dostępując udziału w zupełnym dożywaniu Twej cudownej miłości i Twego uwielbionego życia. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-12-80e0fdb56/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-12-80e0fdb56/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-10-e8ac40c1f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

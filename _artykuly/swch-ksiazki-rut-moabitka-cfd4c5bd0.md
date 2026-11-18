@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Następny rozdział</a> | Poprzedni rozdział | Spis treści]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Następny rozdział</a> | Poprzedni rozdział | Spis treści]</font></p>
 <h1>Rut Moabitka</h1>
 <p><strong>czyli "Część moja przypadła w miejscach uroczych"</strong></p>
 <p><em>Iwan Kargel<br/>
@@ -23,24 +23,24 @@ Z języka rosyjskiego przetłumaczył K. Wojnikiewicz, 1997r.</em></p>
 K. Szimuda</em></p>
 <h3>Spis treści</h3>
 <blockquote>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Rut Moabitka, czyli "Część moja przypadła w miejscach uroczych"</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">O przeprowadzce Elimelecha ze swojej ojczyzny</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-03-042b6749c/">O powrocie wdowy po Elimelechu</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-04-c55e829eb/">Przybycie Noemi i Rut do Betlejemu</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-05-b36060281/">Rut Moabitka zbiera kłosy na polach Betlejemu</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-06-5f90e7f7e/">Co spotkało Rut na polu żniwnym?</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-07-562414784/">Jak Rut powraca z pola żniwnego?</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-08-faf0245d9/">Rada Noemi w tej sprawie</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-09-03b5ef33d/">Wykonanie otrzymanej rady</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-10-2998278c4/">Skutek wypełnienia przez Rut rady Noemi</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-11-00fa824ff/">Jaka była jej sytuacja po oddaniu się?</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-12-ea6f6c85b/">Jak działał w tym czasie Boaz?</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Jak od tej pory zmienił się dział Rut?</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Rozdziały 1-4</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Pierwowzór Izraela podczas chodzenia naszego Pana po ziemi i do Jego powtórnego przyjścia</a>
-<li><a href="/czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Rut jest pierwowzorem Kościoła lub Oblubienicy Chrystusowej</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Rut Moabitka, czyli "Część moja przypadła w miejscach uroczych"</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-02-14ad40092/">O przeprowadzce Elimelecha ze swojej ojczyzny</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-03-042b6749c/">O powrocie wdowy po Elimelechu</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-04-c55e829eb/">Przybycie Noemi i Rut do Betlejemu</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-05-b36060281/">Rut Moabitka zbiera kłosy na polach Betlejemu</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-06-5f90e7f7e/">Co spotkało Rut na polu żniwnym?</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-07-562414784/">Jak Rut powraca z pola żniwnego?</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-08-faf0245d9/">Rada Noemi w tej sprawie</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-09-03b5ef33d/">Wykonanie otrzymanej rady</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-10-2998278c4/">Skutek wypełnienia przez Rut rady Noemi</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-11-00fa824ff/">Jaka była jej sytuacja po oddaniu się?</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-12-ea6f6c85b/">Jak działał w tym czasie Boaz?</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Jak od tej pory zmienił się dział Rut?</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-14-9d308801b/">Rozdziały 1-4</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Pierwowzór Izraela podczas chodzenia naszego Pana po ziemi i do Jego powtórnego przyjścia</a>
+<li><a href="../../czytelnia/swch-ksiazki-rut-moabitka-16-63bfdf25d/">Rut jest pierwowzorem Kościoła lub Oblubienicy Chrystusowej</a>
 </li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></blockquote>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Następny rozdział</a> | Poprzedni rozdział | Spis treści]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-01-f3c2f82bf/">Następny rozdział</a> | Poprzedni rozdział | Spis treści]</font></p>
 <br/>
 <p><font size="-1">(c) 1998 Oficyna Wydawnicza "<a href="http://www.dpz.jezus.net">Droga Prawda Życie</a>" Tekst opracowała <a href="mailto:asia@dpz.jezus.net">Joanna Kaniszczak</a>, wersję HTML przygotował <a href="mailto:wasilewski@Jezus.pl">Piotr Wasilewski</a></font></p>
 

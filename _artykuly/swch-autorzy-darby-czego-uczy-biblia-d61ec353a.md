@@ -14,167 +14,167 @@ source_verified: true
 <h1 align="left"><font color="#000080" face="Tahoma">Czego uczy
 mnie Biblia?</font></h1>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że jest jeden żywy Bóg<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>1</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> całkowicie
-objawiony nam w Chrystusie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>2</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i poznany
-przez Jego pośrednictwo jako Ojciec, Syn i Duch Święty<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>3</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, w spójni
-Boskości<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>4</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> objawiony
-jako posiadający swoją wolę<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>5</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, działający<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>6</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>,
-posyłający, posłany<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>7</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, ten który
-przychodzi<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>8</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, obdarowuje<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>9</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, a także,
+że jest jeden żywy Bóg<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>1</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> całkowicie
+objawiony nam w Chrystusie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>2</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i poznany
+przez Jego pośrednictwo jako Ojciec, Syn i Duch Święty<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>3</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, w spójni
+Boskości<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>4</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> objawiony
+jako posiadający swoją wolę<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>5</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, działający<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>6</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>,
+posyłający, posłany<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>7</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, ten który
+przychodzi<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>8</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, obdarowuje<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>9</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, a także,
 jak mawiają Chrześcijanie: trzy osoby w jedności, albo: w
 Trójcy Jedyny. Bóg jest Stworzycielem wszystkich rzeczy, ale
 sam akt stworzenia jest przypisany Słowu, Synowi i
-działalności Ducha Bożego<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>10</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
+działalności Ducha Bożego<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>10</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Słowo które było u Boga i było Bogiem, stało się
-ciałem i zamieszkało między nami<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>11</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że Ojciec
-posłał Syna aby był Zbawicielem świata<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>12</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dalej, że
-przez moc Ducha Świętego, który zstąpił na Dziewicę Marię<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>13</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> narodził
-się Chrystus<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>14</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, prawdziwy
-człowiek<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>15</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, bez grzechu<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>16</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, w którym
-mieszka cieleśnie cała pełnia Boskości<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>17</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, obiecany dla
-nas potomek Dawida według ciała<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>18</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Syn
-Człowieczy<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>19</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i Syn Boży<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>20</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, który
+ciałem i zamieszkało między nami<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>11</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że Ojciec
+posłał Syna aby był Zbawicielem świata<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>12</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dalej, że
+przez moc Ducha Świętego, który zstąpił na Dziewicę Marię<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>13</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> narodził
+się Chrystus<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>14</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, prawdziwy
+człowiek<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>15</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, bez grzechu<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>16</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, w którym
+mieszka cieleśnie cała pełnia Boskości<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>17</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, obiecany dla
+nas potomek Dawida według ciała<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>18</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Syn
+Człowieczy<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>19</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i Syn Boży<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>20</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, który
 według Ducha uświęcenia ukazał się Synem Bożym w mocy przez
-zmartwychwstanie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>21</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>,
-Błogosławiony Bóg i człowiek<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>22</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Człowiek
-Chrystus Jezus<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>23</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Namaszczony<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>24</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Jahweh
-Zbawiciel<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>25</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
+zmartwychwstanie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>21</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>,
+Błogosławiony Bóg i człowiek<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>22</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Człowiek
+Chrystus Jezus<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>23</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Namaszczony<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>24</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, Jahweh
+Zbawiciel<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK1"><font color="#000000" face="Tahoma" size="2"><sup>25</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że On zmarł za nasze grzechy według Pism<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>26</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, objawiwszy
+że On zmarł za nasze grzechy według Pism<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>26</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, objawiwszy
 się jeden raz u schyłku wieków, przez ofiarowanie samego
-Siebie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>27</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że On nasze
+Siebie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>27</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że On nasze
 grzechy Sam na ciele swoim poniósł na krzyż, cierpiąc za
 grzechy, Sprawiedliwy za niesprawiedliwych, że On może
-przyprowadzić nas do Boga<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>28</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że On Jest
-naszą sprawiedliwością przed Bogiem<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>29</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+przyprowadzić nas do Boga<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>28</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że On Jest
+naszą sprawiedliwością przed Bogiem<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>29</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że Pan powstał z martwych<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>30</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> wzbudzony
-przez Boga, przez chwałę Ojca<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>31</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, został
-wzięty w górę do Nieba<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>32</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dokonawszy
+że Pan powstał z martwych<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>30</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> wzbudzony
+przez Boga, przez chwałę Ojca<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>31</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, został
+wzięty w górę do Nieba<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>32</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dokonawszy
 oczyszczenia z grzechów, zasiadł po prawicy majestatu Boga na
-wysokościach<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>33</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
+wysokościach<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>33</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że po wniebowstąpieniu Chrystusa, Duch Święty został
 posłany na ziemię aby mieszkał pośród ludu Bożego, w
 każdym z osobna i we wszystkich jako całości, bo w jednym i
-drugim znaczeniu ludzie z ludu Bożego są świątynią Bożą<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>34</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Jesteśmy
-zapieczętowani<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>35</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i namaszczeni
-Duchem<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>36</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, miłość
-Boża została rozlana w naszych sercach<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>37</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, jesteśmy
-przez Ducha prowadzeni<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>38</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i On jest
-rękojmią naszego dziedzictwa<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>39</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dlatego
-wołamy: Abba, Ojcze , wiedząc, że jesteśmy synami<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>40</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+drugim znaczeniu ludzie z ludu Bożego są świątynią Bożą<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>34</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Jesteśmy
+zapieczętowani<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>35</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i namaszczeni
+Duchem<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>36</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, miłość
+Boża została rozlana w naszych sercach<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>37</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, jesteśmy
+przez Ducha prowadzeni<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>38</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i On jest
+rękojmią naszego dziedzictwa<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>39</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, dlatego
+wołamy: Abba, Ojcze , wiedząc, że jesteśmy synami<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK2"><font color="#000000" face="Tahoma" size="2"><sup>40</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że Chrystus przyjdzie znów, aby zabrać nas do Siebie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>41</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, wzbudzając
+że Chrystus przyjdzie znów, aby zabrać nas do Siebie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>41</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, wzbudzając
 z martwych tych, którzy są Jego własnością, albo, jeśli
 będą żyć, przemieniając ich ciała na podobieństwo Swego
 chwalebnego ciała, według mocy, którą wszystko sobie poddać
-może<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>42</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i że ci,
-którzy umierają w Panu, od razu do Pana odchodzą<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>43</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+może<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>42</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i że ci,
+którzy umierają w Panu, od razu do Pana odchodzą<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>43</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Bóg wyznaczył dzień, kiedy będzie sądził świat
 sprawiedliwie, przez Męża, którego ustanowił potwierdzając
-to wszystkim przez wskrzeszenie Go z martwych<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>44</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i że na
+to wszystkim przez wskrzeszenie Go z martwych<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>44</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i że na
 koniec zasiądzie On na wielkim białym tronie i będzie sądził
-umarłych, małych i wielkich<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>45</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+umarłych, małych i wielkich<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>45</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że każdy z nas, za samego siebie zda sprawę Bogu<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>46</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i odbierze
-zapłatę za uczynki swoje dokonane w ciele, dobre czy złe<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>47</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i tak jak
-sprawiedliwi otrzymają życie wieczne<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>48</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, tak grzeszni
+że każdy z nas, za samego siebie zda sprawę Bogu<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>46</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i odbierze
+zapłatę za uczynki swoje dokonane w ciele, dobre czy złe<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>47</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i tak jak
+sprawiedliwi otrzymają życie wieczne<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>48</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, tak grzeszni
 zostaną skazani na wieczne zatracenie, oddalenie od oblicza
 Pana, będą wrzuceni do jeziora ognistego przygotowanego diabłu
 i jego aniołom, i że jeśli ktoś nie był zapisany w księdze
-żywota, zostanie wrzucony do jeziora ognistego<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>49</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+żywota, zostanie wrzucony do jeziora ognistego<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>49</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Błogosławiony Pan Jezus Chrystus, siebie samego złożył
 jako okup za wszystkich, aby o tym świadczono we właściwym
-czasie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>50</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że On jest
+czasie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>50</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i że On jest
 ubłaganiem za grzechy nasze, lecz nie tylko nasze, lecz i za
-grzechy całego świata, zatem dokonał On wiecznego odkupienia<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>51</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, jeden raz na
+grzechy całego świata, zatem dokonał On wiecznego odkupienia<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#OLE_LINK3"><font color="#000000" face="Tahoma" size="2"><sup>51</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, jeden raz na
 zawsze, ofiarując samego Siebie za wszystkie grzechy, usunął
-grzechy wszystkich, którzy wierzą<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>52</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, bo przez
-wiarę w Niego, ich sumienie jest oczyszczone<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>53</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i Bóg nie
-wspomni ich grzechów i nieprawości nigdy więcej<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>54</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc
-powołanymi przez Boga, otrzymują obiecane wieczne dziedzictwo<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>55</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc
+grzechy wszystkich, którzy wierzą<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>52</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, bo przez
+wiarę w Niego, ich sumienie jest oczyszczone<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>53</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i Bóg nie
+wspomni ich grzechów i nieprawości nigdy więcej<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>54</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc
+powołanymi przez Boga, otrzymują obiecane wieczne dziedzictwo<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>55</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc
 doskonałymi na wieki mamy więc, przez krew Pana Jezusa
 Chrystusa ufność aby wejść do świątyni drogą nową i
-żywą, która została dla nas otwarta przez Niego<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>56</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
+żywą, która została dla nas otwarta przez Niego<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>56</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że aby wejść do Królestwa Bożego, musimy narodzić się z
-wody i z Ducha, narodzić się na nowo<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>57</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc z
-natury dziećmi gniewu, umarłymi przez grzechy nasze<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>58</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Gdy
-zechciał - zrodził nas przez swoje Słowo<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>59</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Przez wiarę
-stajemy się Jego dziećmi<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>60</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+wody i z Ducha, narodzić się na nowo<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>57</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, będąc z
+natury dziećmi gniewu, umarłymi przez grzechy nasze<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>58</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Gdy
+zechciał - zrodził nas przez swoje Słowo<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>59</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Przez wiarę
+stajemy się Jego dziećmi<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>60</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Bóg tak umiłował świat, że Syna swego dał, aby każdy
-kto w Niego wierzy miał życie wieczne<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>61</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że Święty
+kto w Niego wierzy miał życie wieczne<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>61</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że Święty
 i Sprawiedliwy Bóg umiłowawszy - Umiłował nas do końca, że
-Syn Człowieczy musiał być zawieszony na drzewie krzyża<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>62</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, poniósł na
-ciele swoim nasze grzechy<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>63</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, został
+Syn Człowieczy musiał być zawieszony na drzewie krzyża<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O50"><font color="#000000" face="Tahoma" size="2"><sup>62</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, poniósł na
+ciele swoim nasze grzechy<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>63</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, został
 uczyniony grzechem za nas abyśmy my byli w Nim
-sprawiedliwością Bożą<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>64</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+sprawiedliwością Bożą<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>64</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Bóg umiłował Kościół i dał zań Siebie samego, aby
 Kościół mógł być uświęcony i oczyszczony kąpielą wodną
 przez Słowo, aby Bóg przysposobił sobie Kościół pełen
-chwały, bez skazy, lub zmazy lub czegoś w tym rodzaju<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>65</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Uczę się,
+chwały, bez skazy, lub zmazy lub czegoś w tym rodzaju<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>65</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Uczę się,
 że Bóg i Ojciec naszego Pana Jezusa Chrystusa, wybrał nas w
 Nim, przed założeniem świata, abyśmy byli święci i
-nienaganni przed obliczem Jego w miłości<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>66</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
+nienaganni przed obliczem Jego w miłości<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>66</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. </font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że my, którzy wierzymy jesteśmy zapieczętowani Duchem
 Świętym, który Jest rękojmią dziedzictwa naszego, aż
-nastąpi odkupienie własności Bożej<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>67</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>; Uczę się,
-że miłość Boża rozlana jest w naszych sercach<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>68</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że nie
+nastąpi odkupienie własności Bożej<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>67</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>; Uczę się,
+że miłość Boża rozlana jest w naszych sercach<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>68</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że nie
 otrzymaliśmy Ducha niewoli, by znowu ulegać bojaźni, ale Ducha
-Synostwa, dlatego wołamy: ''Abba Ojcze''<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>69</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>; że ci
+Synostwa, dlatego wołamy: ''Abba Ojcze''<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>69</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>; że ci
 którzy otrzymali tego Ducha wiedzą, że są w Chrystusie, a
 Chrystus w nich, więc nie tylko On staje przed Bogiem dla nich,
 ale oni są w tym, który siedzi po prawicy Boga, oczekując aż
-nieprzyjaciele Jego położeni będą jako podnóżek stóp Jego<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>70</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że oni są
+nieprzyjaciele Jego położeni będą jako podnóżek stóp Jego<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O60"><font color="#000000" face="Tahoma" size="2"><sup>70</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że oni są
 umarli grzechowi w oczach Bożych i za takich mają siebie
 uważać; zewlekłszy starego człowieka, a przyoblókłszy
 nowego - żyją Bogu, przez Jezusa Chrystusa (Chrystus jest ich
-nowym życiem) są ukrzyżowani dla świata, i umarli zakonowi<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>71</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. A zatem
+nowym życiem) są ukrzyżowani dla świata, i umarli zakonowi<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>71</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. A zatem
 jeśli oni są w Chrystusie to Chrystus jest w nich i są oni
 powołani aby życie Chrystusa było widoczne na ich śmiertelnym
-ciele<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>72</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i aby
-wstępować w Jego ślady<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>73</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Bóg
-zostawił ich w świecie, jako Listy Chrystusowe<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>74</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i dosyć
+ciele<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>72</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i aby
+wstępować w Jego ślady<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>73</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Bóg
+zostawił ich w świecie, jako Listy Chrystusowe<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>74</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, i dosyć
 mają w łasce Jego i mocy, która jest doskonała w ich
-słabościach<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>75</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+słabościach<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>75</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że oni nawrócili się aby oczekiwać Syna Bożego z Niebios<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>76</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, mając
+że oni nawrócili się aby oczekiwać Syna Bożego z Niebios<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>76</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, mając
 obietnicę, że nie giną na wieki, i że nikt nie może wyrwać
-ich z rąk Chrystusowych<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>77</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, ale że Bóg
+ich z rąk Chrystusowych<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>77</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, ale że Bóg
 utwierdzi ich aż do końca, aby byli bez nagany w dniu Pana
-Naszego Jezusa Chrystusa<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>78</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+Naszego Jezusa Chrystusa<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>78</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że wierzący mają udział w tych obietnicach, przez wiarę w
 Chrystusa Jezusa, przez cnoty Którego sprawiedliwość jest
-wszczepiona w nas<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>79</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że Chrystus
+wszczepiona w nas<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>79</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że Chrystus
 który był posłuszny aż do śmierci, dokonał doskonałego
-dzieła dla nas na krzyżu<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>80</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, teraz jest
-On naszą sprawiedliwością od Boga<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>81</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, a my
-jesteśmy sprawiedliwością Bożą w Nim<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>82</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że jak Jego
+dzieła dla nas na krzyżu<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>80</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, teraz jest
+On naszą sprawiedliwością od Boga<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>81</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, a my
+jesteśmy sprawiedliwością Bożą w Nim<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>82</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że jak Jego
 drogocenna krew oczyszcza nas od wszelkiego grzechu, tak my,
-jesteśmy każdy z osobna przyjęci w Umiłowanym<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>83</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że jak
+jesteśmy każdy z osobna przyjęci w Umiłowanym<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O70"><font color="#000000" face="Tahoma" size="2"><sup>83</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że jak
 przez nieposłuszeństwo jednego człowieka wielu stało się
 grzesznikami, tak przez posłuszeństwo Jednego, wielu dostąpi
-usprawiedliwienia<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O80"><font color="#000000" face="Tahoma" size="2"><sup>84</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+usprawiedliwienia<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O80"><font color="#000000" face="Tahoma" size="2"><sup>84</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie
 ,że jesteśmy uświęceni, odłączeni dla Boga, w Bogu Ojcu,
 poprzez ofiarowanie Jezusa Chrystusa raz na zawsze, działanie i
 moc Ducha Świętego w prawdzie tak, że wszyscy Chrześcijanie
-są święci<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>85</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i mają
-dążyć do uświęcenia<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>86</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> wzrastać do
+są święci<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>85</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> i mają
+dążyć do uświęcenia<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>86</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup> wzrastać do
 wymiarów pełni Chrystusowej i przemieniać się na Jego obraz,
-do Którego staniemy się w pełni podobni w chwale<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>87</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+do Którego staniemy się w pełni podobni w chwale<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>87</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że Pan pozostawił dwa zarządzenia, i obydwa są związane z
 faktem śmierci Chrystusa. Pierwsze, inicjujące i drugie
-obchodzone stale w Kościele Bożym: chrzest i Wieczerza Pańska<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>88</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup></font></p>
+obchodzone stale w Kościele Bożym: chrzest i Wieczerza Pańska<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>88</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup></font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że kiedy Chrystus wstąpił do Nieba, ludzi darami obdarzył,
 aby przygotować świętych do dzieła posługiwania, do
@@ -182,34 +182,34 @@ budowania ciała Chrystusowego, tak przez Chrystusa, z Którego
 całe ciało spojone i związane przez wszystkie wzajemnie się
 zasilające stawy, według zgodnego z przeznaczeniem działania
 każdego poszczególnego członka, rośnie i buduje siebie samo w
-miłości<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>89</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+miłości<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>89</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że tak jak suwerenna miłość Boża jest źródłem i
-początkiem wszelkich błogosławieństw<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>90</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, tak
+początkiem wszelkich błogosławieństw<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>90</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, tak
 nieustanne i wytrwałe poleganie na łasce jest tym, co sprawia,
 że możemy podążać za Nim, ku Jego Chwale, ku Temu, który
-pozostawił nam przykład, abyśmy wstępowali w Jego ślady<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>91</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Patrząc na
+pozostawił nam przykład, abyśmy wstępowali w Jego ślady<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>91</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Patrząc na
 przykład , autorytet i moc Pana i apostołów, uczę się z
 Biblii, że Pismo Święte Starego i Nowego Testamentu jest
 natchnione przez Boga, i posiada Jego autorytet i ma być
 przyjmowane jako Słowo Boże i że działa ono skutecznie w tych
-którzy wierzą<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>92</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+którzy wierzą<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O85"><font color="#000000" face="Tahoma" size="2"><sup>92</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że świadectwo Pana jest pewne, czyniąc prostaczków -
 roztropnymi, bo Słowo Jego jest zdolne osądzić zamiary i
 myśli serca, można to Słowo posiąść tylko będąc pouczonym
 od Boga, a nie przez własną mądrość; Słowo to podlega
-duchowemu rozsądzaniu, jest objawiane i nauczane przez Ducha<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>93</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+duchowemu rozsądzaniu, jest objawiane i nauczane przez Ducha<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>93</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
-że jedynie Bóg jest nieśmiertelny, przez Samego Siebie<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>94</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że anioły
-nie umierają<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>95</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że śmierć
+że jedynie Bóg jest nieśmiertelny, przez Samego Siebie<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>94</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że anioły
+nie umierają<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>95</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>, że śmierć
 człowieka nie narusza życia jego duszy, niezależnie od tego
 czy jest niegodziwy czy odrodzony, dla Boga żyje zawsze, choć
-umarł<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>96</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Uczę się
-też, że źli powstaną z martwych tak samo jak sprawiedliwi<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>97</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+umarł<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>96</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>. Uczę się
+też, że źli powstaną z martwych tak samo jak sprawiedliwi<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>97</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p><font color="#000000" face="Tahoma" size="2">Biblia uczy mnie,
 że każdy zbór Boży poddany jest dyscyplinie, pod Słowo
-Boże, aby naukę i świadectwo zachować bez skazy<sup>(</sup></font><a href="/czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>98</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
+Boże, aby naukę i świadectwo zachować bez skazy<sup>(</sup></font><a href="../../czytelnia/swch-autorzy-darby-czego-uczy-biblia-d61ec353a/#O90"><font color="#000000" face="Tahoma" size="2"><sup>98</sup></font></a><font color="#000000" face="Tahoma" size="2"><sup>)</sup>.</font></p>
 <p align="left"><font face="Tahoma" size="2"><em>J. N. Darby</em></font></p>
 <p><font color="#000000" face="Tahoma" size="1">(1) 1Tymoteusz
 2:5; 4:10. <br/>

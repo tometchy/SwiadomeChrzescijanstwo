@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>KRZYŻ - BOŻA DROGA</h1>
 <p>To właśnie na krzyżu Golgoty Bóg w Chrystusie rozprawił się cał-kowicie i ostatecznie ze starą naturą, z której wypływa cały nasz grzech. "Wiemy, że nasze stare (nie odrodzone) życie zostało wraz z Nim przybite do krzyża po to, aby (nasze) ciało (które jest narzędziem) grzechu zostało pozbawione mocy i aktywności w kierunku czynienia zła, abyśmy już dłużej nie byli niewolnikami grzechu" (Rz.6,6; wg Amplified Version).
 <p>Nie ma innej drogi zaparcia się samego siebie, swej starej natury; nie ma z tej prostej przyczyny, że Bóg dokonał już dzieła! Oto Jego droga: mamy utożsamiać się z Chrystusem Jezusem w Jego śmierci i zmart-wychwstaniu! To  już  się dokonało! Nam pozostaje tylko uwierzyć w to.
@@ -25,6 +25,6 @@ source_verified: true
 <p>W tekstach tych nasze zjednoczenie (utożsamienie) z Chrystusem, z Ukrzyżowanym, nasze zawieranie się w Nim, będące rezultatem tego zjednoczenia, wyrażone są jako skutek mocy wyzwolonej w nas i nad nami przez krzyż" (Andrew Murray).
 <p>W miarę jak będziemy uczyć się opierania swego życia na dokona-nym dziele Golgoty, Duch Święty wiernie i skutecznie będzie realizował to dzieło w stosunku do "starego człowieka", trzymając go dzięki niemu w stanie śmierci, nieaktywności wyrażającej się w "nie ja, lecz Chrystus". (Gal.2,20).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-13-84f3066ff/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-11-34791b961/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

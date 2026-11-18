@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-12-7ec98b775/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-12-7ec98b775/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 13<br/>
 Misja rozpoczyna istnienie</h2>
 <p>Wang-malarz suwając nogami po podłodze wąskiego ko-rytarza w domu nr 1 przy ulicy Beaumont, w dzielnicy Whitechapel w Londynie, podszedł do bramy wejściowej i otworzył ją. Widok tego młodego Chińczyka, ubranego w luźną suknię, z dosyć cienkim warkoczem wiszącym na plecach i kołyszącym się na wszystkie strony, zrobił duże wrażenie na młodzieńcu, który stał przed drzwiami. Ledwie się powstrzymał od wykrzyknięcia z wielkiego zdziwienia, gdy zobaczył tę postać tak niezwykle odbijającą się na tle dosyć brudnego domu w bocznej ulicy ogromnego miasta. Nie przyszło mu na myśl, że misjonarz z Chin, którego pragnął odwiedzić, mógł przywieźć ze sobą służącego - Chińczyka!...
@@ -35,6 +35,6 @@ Misja rozpoczyna istnienie</h2>
 
 <p>I tak towarzystwo misyjne zaczęło istnieć!
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-12-7ec98b775/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-14-b2fd78a2f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-12-7ec98b775/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

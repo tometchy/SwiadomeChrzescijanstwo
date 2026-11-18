@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 17<br/>
 MODLITWA RODZINNA </h1>
 <p><em>"Prawdziwe chrześcijaństwo nie składa się z posłuszeństwa naszym uczuciom, lecz z nakłaniania naszych serc do przestrzegania biblijnej prawdy. Bóg dał nam poznanie powodu, przyczyn i wymogów, abyśmy zrozumieli w jakim miejscu się znajdujemy i kim jesteśmy" </em></p>
@@ -19,6 +19,6 @@ MODLITWA RODZINNA </h1>
 <br/>
 <p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
 <p>Czy jest jakiś kamień zgorszenia w twoim życiu i w życiu twojej rodziny, którego wpływ powstrzymuje kogoś przed pójściem za Bogiem.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

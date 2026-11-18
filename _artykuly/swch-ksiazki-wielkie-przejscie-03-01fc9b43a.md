@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 <h1>R O Z D Z I A Ł 3<br/>
 POLE BITEWNE DWÓCH CZŁOWIECZEŃSTW</h1>
 <p><em>Panie, Ty wiesz, że ten akt modlitwy jakiego teraz dokonaliśmy jest naszym doznaniem i wyznaniem, że bez Ciebie nie potrafimy iść dalej i też nie potrafimy czynić tego. Panie, aby mówić Twoją prawdę, rozumieć ją, być posłusznymi, potrzebujemy Ciebie. Nic nie możemy uczynić bez Ciebie. Spoczywamy na Twojej wierności, miłosierdziu, łasce i wierzymy, że kiedy ufamy Tobie, Ty nie zawiedziesz nas. Przejdziemy przez to z pomocą Bożą i niech tak się stanie. Niech jedynie Tobie będzie chwała przez naszego Pana Jezusa Chrystusa. Amen.</em></p>
@@ -66,6 +66,6 @@ POLE BITEWNE DWÓCH CZŁOWIECZEŃSTW</h1>
 <p>Niektórzy z nas przeszli przez głębokie, głębokie wody, ciemne wody pod ręką Boga. Wołaliśmy i pytaliśmy "dlaczego to spadło na mnie Panie? Czy to spadło także na innych chrześcijan? Dlaczego?" Dobrze, mam na to jedną odpowiedź: On czyni wszystkie rzeczy z zamysłu swojej własnej woli, czyniąc w nas upodobnienie do Jego Syna. I z tej jednej strony, to znaczy strony krzyża, następuje eliminowanie czegoś, burzenie czegoś, wypróżnianie ciebie z czegoś. Byłeś zbyt pełny, musiałeś być wypróżniony od tej jednej strony. Możesz tego nie widzieć, lecz Niebiosa widzą trochę więcej z Pana Jezusa w twojej łagodności, w twojej cierpliwości, w twoim współczuciu, w twoim zrozumieniu, w wyjściu twojego serca do innych i do samego Pana. Przypuszczam, że powinienem powiedzieć, że najbardziej śmiertelnie niebezpieczną rzeczą, którą Pan dopuszcza na nas i dla nas jest poznanie jak się stajemy dobrzy. Czy to nie jest prawda?</p>
 <p>Będę miał coś więcej do powiedzenia na ten temat później. Zakończymy na dzisiaj.</p>
 <p>Nasz Panie, jest tego tak wiele tutaj. To potrzebuje twojej ochrony, osłony i troski. To będzie potrzebowało łaski w Twoim drogim ludzie, więcej łaski. Daj im tę łaskę, aby przyjęli i zrozumieli to. Chroń nas wszystkich w tej sprawie, jak bardzo to jest Chrystus, nawet nie chrześcijańskie rzeczy. On jest naszym celem i tematem. Niech tak będzie w Twoim imieniu. Amen.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-02-659acf2a3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -449,7 +449,7 @@ prawych podoba mu się" (Przyp. Sal. 15:8). Proś Boga, aby dał w twoje serce
 ci przykazań -- a będziesz się udoskonalał w miłości do <b>Jezusa</b>!
 
 <p> 
-<center><b><font size="-2"><a href="/archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
+<center><b><font size="-2"><a href="../../archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
 <!--- highlighted text example---></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></blockquote>
 </blockquote>
 

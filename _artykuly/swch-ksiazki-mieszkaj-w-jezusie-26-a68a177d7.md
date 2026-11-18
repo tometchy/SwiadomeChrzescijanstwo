@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-27-e69caead0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-27-e69caead0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>26. MIESZKAJ W JEZUSIE  <br/>
 abyś więcej nie grzeszył </h1>
 <p>"<i>...a grzechu w Nim nie masz. Wszelki tedy, kto w Nim mieszka, nie grzeszy...</i>"  1Jn.3,5.6 
@@ -25,6 +25,6 @@ abyś więcej nie grzeszył </h1>
 	</p><p>"Dlaczego jesteśmy tak często przepełnieni obawą i zwątpieniem. Jeżeli mamy Zbawiciela, którego moc i miłość jest nieograniczona? Słabiejemy i więdniemy, ponieważ nie patrzymy wytrwale na Jezusa, wodza i dokończyciela wiary naszej, który siedzi po prawicy Bożej, na Tego którego wszechmoc ogarnia niebo i ziemię, i który okazuje się silny i potężny w swych słabych dzieciach. 
 	</p><p>Gdybyśmy rzeczywiście byli we wszystkich sprawach i we wszystkich chwilach zależni od Jezusa, to odnosilibyśmy we wszystkich sprawach i we wszystkich chwilach zwycięstwo przez Tego, którego moc jest niezmienna, i który został postawiony przez Ojca za wodza naszego zbawienia. Wtedy byłyby wszystkie nasze uczynki wykonane nie tylko przed Bogiem, ale także w Bogu. Wszystko wypełnialibyśmy na chwałę Ojca, we wszechmocnym imieniu Jezusa, który jest naszym poświęceniem. Pamiętajmy o tym, że dana Mu jest wszelka moc na niebie i na ziemi i żyjemy w stałej wierze w tą Jego moc. Bądźmy zawsze o tym przekonani, że niczego nie posiadamy i niczym jesteśmy, że w nas samych nie ma żadnego życia, które mogłoby przynieść owoc, ale że Jezus jest wszystkim, i jeżeli w Nim pozostajemy a Jego słowa w nas, to przyniesiemy owoc ku chwale Ojca.
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-27-e69caead0/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-27-e69caead0/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-25-f90c80f28/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

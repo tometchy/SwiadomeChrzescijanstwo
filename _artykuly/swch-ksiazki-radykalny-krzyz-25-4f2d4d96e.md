@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-24-282347045/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-24-282347045/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Słuchaj człowieka, który słucha Boga</h1>
 <p> Jeśli słuchając kazania zdołamy uchwycić choćby jeden tylko klejnot prawdy, możemy uważać się za wynagrodzonych za czas, jaki przy tym spędziliśmy.
 <p> Jeden z takich klejnotów został odkryty w pewnym kazaniu, którego kiedyś słuchałem. Z kazania tego odniosłem tylko jedno cenne zdanie, ale ono jest tak cenne, że żałuję, iż nie zapamiętałem, kto był wtedy kaznodzieją. Oto, co on powiedział: "Nie słuchajcie żadnego człowieka, który nie słucha Boga".
@@ -22,6 +22,6 @@ source_verified: true
 <p> Zasada słuchania tylko tych, którzy wpierw słuchali Boga, zachowa nas od niejednej pułapki. Wszystkie przedsięwzięcia religijne należy sprawdzać przy pomocy tej zasady. W tym okresie niezwykłej aktywności religijnej musimy zachować spokój i zrównoważenie. Zanim udamy się za jakimś człowiekiem, winniśmy szukać oleju na jego skroniach. Nie mamy żadnego duchowego obowiązku wspomagania w działalności kogokolwiek, kto nie nosi na sobie śladów krzyża. Żadne apele do naszego współczucia, żadne dramatyczne relacje, żadne wstrząsające sceny nie powinny skłaniać nas do oddawania naszych pieniędzy ani naszego czasu na przedsięwzięcia, podejmowane i prowadzone przez ludzi, którzy są zbyt zajęci, żeby móc słyszeć Boga.
 <p> Bóg ciągle ma jeszcze wybranych przez Siebie ludzi, a oni są bez żadnych wyjątków dobrymi słuchaczami. Kiedy Bóg mówi, oni słyszą. Takich ludzi słuchać możemy z pełnym zaufaniem. Ale żadnych innych!
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-24-282347045/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-26-932b99549/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-24-282347045/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p>
 {% endraw %}

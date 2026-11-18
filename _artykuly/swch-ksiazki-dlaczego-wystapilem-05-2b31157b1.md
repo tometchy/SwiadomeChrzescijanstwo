@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 <h1>MARIA - MATKA JEZUSA</h1>
 <p>Po rozważeniu wszystkiego, co było dotychczas powiedziane, następujące zdanie może być niespodzianką dla wielu - powinniśmy kochać i czcić Pannę Marię, matkę Jezusa, szczerym sercem. Kto miłuje Boga, miłuje i tego, kto pochodzi od Boga. Z tego wynika obowiązek miłości bliźniego. Kto miłuje Pana Jezusa Chrystusa, miłuje też wszystko, co jest Jego, podobnie, jak kto miłuje bliźniego, miłuje i tych, którzy należą do niego, jak rodzinę i przyjaciół. Stąd wynika obowiązek miłowania Panny Marii, matki Pana naszego Jezusa Chrystusa. Kto mógł być Mu tak bliski, jak Jego matka? Ona Go otaczała macierzyńską opieką, służyła Mu i kochała Go przez całe Jego życie, spełniając wszystkie Jego pragnienia. Ci z nas więc, którzy miłują Jezusa, muszą też miłować matkę Jego i być jej wdzięczni za wszystko, co uczyniła dla Niego.
 <p>Lecz wszystko ma swoje granice. Nie możemy miłować Panny Marii więcej niż Pana Jezusa, ani też stawiać jej ponad Niego, ani czynić z niej centrum naszego życia chrześcijańskiego.
@@ -30,6 +30,6 @@ source_verified: true
 <p>Nie ma podstawy do zrozumienia słów Jezusa: "Oto matka twoja" w przenośnym znaczeniu. Znalazł się jednak pewien mówca, który stworzył całą poezję z tych słów. Poezja ta stała się dość popularna, tradycja ją przechowała i na niej został oparty katolicki kult Marii.
 <p>Nie zapominajmy tego, co było mówione odnośnie nieomylności papieża i dania kluczy Piotrowi. Pan Jezus wiedział, co i jak po wiedzieć, wyrażał swoje myśli jasno i jednoznacznie.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-06-3ff7d1791/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-04-203476fc5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

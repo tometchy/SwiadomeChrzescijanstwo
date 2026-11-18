@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-04-613d4c3e7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-04-613d4c3e7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>5</h1></div>
 <p class="akapit">Karawany koczowników pierwsze zetknęły się twarzą w twarz z pustynnym prorokiem. Ich oczy z niedowierzaniem spoglądały na tę wychudzoną istotę. Pierwsza myśl była całkiem prosta: "To jakiś szaleniec, który błąka się po pustyni". Lub nieco bardziej miłosierna:</p>
 <p class="akapit">"Upał doprowadził jednego z esseńczyków do szaleństwa".</p>
@@ -33,6 +33,6 @@ source_verified: true
 <p class="akapit">Słuchać Jana znaczyło usłyszeć coś nieoczekiwanego, gdyż każdy dzień był inny. Każdego dnia przemawiał i za każdym razem, gdy mówił, zwracał się do tłumu z czymś, czego nikt dotąd jeszcze nie mówił. Jego odwaga, śmiałość w podejmowaniu każdego tematu przerażała rzesze i jego uczniów.</p>
 <p class="akapit">Pewnego wyjątkowo gorącego dnia, gdy tłumy zdawały się sięgać horyzontu, Jan zawołał: - W dzień po następnym sabacie przyjdę nad Jordan. I tam w wodach Jordanu zanurzę każdego, kto pokutował ze swego życia. Zanurzę wszystkich, którzy przygotowali swe życie na przyjście Pana.</p>
 <p class="akapit">To właśnie tego dnia Jan otrzymał nowe imię, imię, które wkrótce znalazło się na wargach całego Izraela. Od tego dnia stał się znany jako Jan Chrzciciel.</p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-04-613d4c3e7/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-06-d4239a96f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-04-613d4c3e7/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

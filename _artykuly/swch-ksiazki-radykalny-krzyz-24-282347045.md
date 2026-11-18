@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-25-4f2d4d96e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-25-4f2d4d96e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Zaniechajmy defensywy</h1>
 <p> W królestwie Bożym najpewniejszym sposobem, aby coś utracić, są wysiłki zatrzymania tego, a najlepszym sposobem zachowania czegoś jest wyrzeczenie się tego.
 <p> Prawo zatrzymania przez opuszczenie i utraty przez obronę objawił nasz Pan w szanowanym, lecz mało rozumianym stwierdzeniu: "Jeśli kto chce pójść za mną, niech się zaprze samego siebie i weźmie krzyż swój, i niech idzie za mną." (Mat. 16, 24)
@@ -25,6 +25,6 @@ source_verified: true
 <p> Moją poważną radą dla wszystkich takich nerwowych dusz jest, by przekazali wszystko Bogu i odpoczęli. Prawdziwy chrześcijanin nie potrzebuje bronić tego, co posiada, ani tego, kim jest. Bóg postara się o jedno i drugie. Przestań martwić się o swoje skarby, a Pan zachowa je dla ciebie aż do wieczności. Trzymaj je kurczowo, a one będą dla ciebie kłopotem i udręką do końca twoich dni.
 <p> Lepiej jest wyrzucić naszą niewielką posiadłość na cztery wiatry niż postarzeć się i zgorzknieć broniąc jej. Lepiej dać się oszukać kilka razy niż rozwinąć w sobie ustawiczne podejrzenie, że ktoś chce nas oszukać. Lepiej przeżyć włamanie do domu niż spędzić resztę dni i nocy siedząc z nabitą bronią i czekając na to. Wyrzeknij się tego, a zatrzymasz to. Walcz o to, a utracisz to. Takie jest prawo królestwa i odnosi się ono do każdej odrodzonej duszy. Możemy sobie pozwolić na to, by zaufać Bogu. Nie stać nas na to, by Mu nie ufać.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-25-4f2d4d96e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-25-4f2d4d96e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-23-68a262c04/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

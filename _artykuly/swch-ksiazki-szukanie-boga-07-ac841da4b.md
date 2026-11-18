@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 7<br/>
 Spojrzenie duszy</h1>
 <b><p>"Patrzmy  na Jezusa, który nam w wierze przewodzi i ją udoskonala". (Hebr.12.2a)</p></b>
@@ -50,6 +50,6 @@ Spojrzenie duszy</h1>
 <p>Gdy przyzwyczajenie wewnętrznego spoglądania na Boga utwierdzi się w nas, będziemy wprowadzeni na nowy poziom duchowego życia, bardziej zgodny z obietnicami Bożymi i duchem Nowego Testamentu. Trójca Święta będzie naszym mieszkaniem nawet wtedy, gdy nasze stopy będą stąpać nizinnymi drogami zwykłych obowiązków wśród ludzi. Wtedy stwierdzimy, że naprawdę odnaleźliśmy summum bonum (najwyższe dobro) życia. "Jest źródło wszelkich rozkoszy, jakich tylko się pragnie, ani ludzie, ani aniołowie nie mogą wymyślić niczego lepszego, ani też nic lepszego nie może istnieć, w żadnej innej formie życia. ponieważ jest to absolutny szczyt wszystkich pragnień, a większego już być nie może".
 
 <p><i>Panie, usłyszałem dobre słowo zapraszające mnie, aby spojrzeć na Ciebie i znaleźć zaspokojenie. Moje serce pragnie odpowiedzieć, ale grzech tak zasłonił mój wzrok, że widzę Cię jak przez mgłę. Proszę, oczyść mnie w Swej drogocennej Krwi tak, bym z odsłoniętymi oczami mógł patrzeć na Ciebie przez wszystkie dni mej pielgrzymki na ziemi. Wtedy będę gotowy ujrzeć Cię w pełnym blasku w dniu Twego objawienia, abyś był uwielbiony w Swych świętych i podziwiany przez wszystkich, którzy uwierzyli. Amen.</i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-szukanie-boga-08-2b6b78f47/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-06-3f5ff387b/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

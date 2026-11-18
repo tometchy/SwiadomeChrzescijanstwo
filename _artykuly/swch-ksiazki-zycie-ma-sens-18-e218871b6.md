@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 <center><h1>17<br/>
 Owocna praca</h1></center>
 <p>Kiedy Bóg umieścił człowieka na ziemi, zlecił mu pewne określone zadania. Człowiek miał zarządzać powierzonymi mu przez Boga wartościami, lecz nie wywiązał się należycie z tego obowiązku, zawiódł Boże oczekiwania. Kiedy zjawił się na ziemi drugi Człowiek - Jezus Chrystus, przyszedł również w tym celu, aby wykonać zadania zlecone Mu przez Boga. Miał wypełnić wolę Bożą, zrealizować Boży plan.[491] Spełnił On chwalebnie wszystkie Boże polecenia, a owoce Jego dosko-nałego dzieła aż do dziś są dla nas ratunkiem i błogosławieństwem. Chrystus oddał Swoje ciało w służbę Bogu i wykorzystał je optymalnie dla Bożych celów, najpierw głosząc i prezentując światu królestwo Boże, potem zaś składając ofiarę za nasze grzechy. Ponieważ celem Bożym był ratunek i dobro człowieka, więc służąc Bogu Chrystus służył człowiekowi, ofiarując samego Siebie Bogu poświęcił się dla człowieka.[492] Będąc Stwórcą wszystkiego nie przyszedł jednak, by Mu służono, by dążyć do własnych celów, by ubiegać się o własną chwałę, lecz od początku do końca dążeniem Jego był Bóg. Dzięki tej postawie osiągnął szczyty znaczenia, władzy i chwały.[493] W tym wszystkim przejawiły się zasady, prawa i mechanizmy królestwa Bożego, o których już wspominaliśmy. Powinniśmy o tym pamiętać, gdyż jest to ważne ze względu na naszą własną postawę i jej skutki.
@@ -35,6 +35,6 @@ Owocna praca</h1></center>
 Twoje usta dziś wyrzekły me imię. <br/>
 Swoją barkę pozostawiam na brzegu, <br/>
 Razem z Tobą nowy zacznę dziś  łów."</p></i>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-19-a0f5126c2/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-17-c7e425a67/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zycie-ma-sens-e1b91200f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 20<br/>
 MODLITWA PRZEZWYCIĘŻA NIEWIEDZĘ </h1>
 <p><em>"Jest wielu, którzy wierzą w istnienie Boga, lecz nie wierzą w skuteczność modlitwy. Wyznają, że wierzą, lecz odrzucają wpływ modlitwy". </em></p>
@@ -25,6 +25,6 @@ MODLITWA PRZEZWYCIĘŻA NIEWIEDZĘ </h1>
 <li>Czy rozumiem, że wysiłki, które podejmuję dziś mogą przywieść tysiące ludzi w innych krajach do poznania Zbawiciela? <br/>
 <li>Czy chcę te wysiłki uczynić dla Królestwa Bożego? <br/>
 </li></li></li></ol>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-21-96bbd946a/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-19-7aecb9a7f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

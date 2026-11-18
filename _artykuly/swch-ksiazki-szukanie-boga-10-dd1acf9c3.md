@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 10<br/>
 Sakrament życia</h1>
 <p><b>"Przeto czy jecie, czy pijecie, 		czy cokolwiek czynicie, 		na chwałę 		Bożą wszystko czyńcie". (1 Koryntian 10, 31)</b>
@@ -43,6 +43,6 @@ Sakrament życia</h1>
 <p>"Laik" nie musi uważać swego skromnego zadania za niższe, niż praca jego duchownego. Niech każdy człowiek pozostaje wierny powołaniu, do którego został wybrany, a jego praca będzie tak samo święta, jak praca wykonywana przez duchownego. Nie to, co człowiek robi, określa czy jego dzieło jest święte czy świeckie, ale dlaczego to robi. Motyw jest najważniejszy. Jeśli człowiek uświęci Pana Boga w swym sercu, wówczas nie będzie mógł robić podłych rzeczy. Wszystko, co zrobi będzie dobre i miłe w oczach Boga przez Jezusa Chrystusa. Bo człowiek tak żyjący nie tylko sam będzie święty ale i cały świat będzie dla niego świątynią. Jego całe życie będzie kapłańską służbą. W czasie wykonywania swych nawet najprostszych rzeczy usłyszy głos serafina mówiącego: "Święty, Święty, Święty jest Pan Zastępów! Cała ziemia pełna jest Jego chwały!" /Iz.6.3/
 
 <p><i>Panie, chcę zaufać Ci całkowicie. Chcę być cały Twój. Będę wywyższać Cię ponad wszystko, Pragnę nie mieć żadnego poczucia własności z wyjątkiem Ciebie. Chcę być ciągle świadomy Twojej obecności i słyszeć Twój mówiący Głos. Tęsknię do życia w odpocznieniu szczerego serca. Chcę żyć w takiej pełni Ducha Świętego, aby moje myśli były miłym kadzidłem wznoszącym się do Ciebie, a każdy praktyczny czyn aktem chwały. Dlatego modlę się słowami Twego wielkiego sługi z dawnych czasów: "Błagam Cię abyś oczyścił zamiar mego serca Twym niewymownym darem łaski, abym mógł Cię doskonale kochać i godnie czcić" Wierzę, że wszystko mi dasz przez zasługi Jezusa Chrystusa, Twego Syna. Amen.</i>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-09-03c78ed65/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-szukanie-boga-621116ccf/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

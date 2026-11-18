@@ -49,7 +49,7 @@ Mojżesz był w duchu podatny i gotowy do słuchania, dojrzały na tyle, aby Bó
 
 </font></p>
 <p> 
-<center><b><font size="-2"><a href="/archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
+<center><b><font size="-2"><a href="../../archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
 <!--- highlighted text example---></p></blockquote>
 </blockquote>
 

@@ -26,7 +26,7 @@ source_verified: true
 <p>W liście do Rzymian 6, 13 wzywa Paweł do tego, aby nie oddawać swoich członków "na oręż nieprawości", lecz aby oddawać je Bogu "na oręż sprawiedliwości". Twoje oko, twoje ucho, twój język mają być Bożą bronią przy pomocy której rozprzestrzeniane jest na ziemi Jego królestwo sprawiedliwości, a nie bronią, którą przechwytuje Boży nieprzyjaciel i przy pomocy której rozszerza on swoją władzę niesprawiedliwości i zamieszania.
 </p><p>Nie jesteśmy przecież dłużnikami ciała (Rzym. 8, 12), to znaczy, że także i tego, co u naszego brata jest jeszcze cielesnego, nie powinniśmy dotykać, aby się od tego nie zbrudzić, lecz winniśmy zanosić to przed oblicze Boże. Bowiem przez nasz brak miłości nie pomożemy naszemu bratu ku lepszemu, lecz pogrążymy go jeszcze bardziej w jego własnej naturze.
 </p><p><i>Georg Steinberger<br/>
-tłumaczył <a href="/archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
+tłumaczył <a href="../../archiwum/swch/autorzy/kajfosz/index.html">J. Kajfosz</a></i>
 </p>
 <br/><br/>
 <br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">

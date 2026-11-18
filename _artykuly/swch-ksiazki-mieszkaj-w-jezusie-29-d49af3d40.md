@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-30-77430defc/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-28-48268f7e0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-30-77430defc/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-28-48268f7e0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>29. MIESZKAJ W JEZUSIE  <br/>
 Pośredniku nowego przymierza</h1>
 <p>"<i>Jezus jest pośrednikiem lepszego przymierza</i>".  Żyd.8,6
@@ -27,6 +27,6 @@ Pośredniku nowego przymierza</h1>
 	</p><p>Przyjdź, mój bracie i patrz, tu jest zapewniona w Jezusie możliwość pozostania w Nim każdej chwili, gdyż kapłaństwo tego wiecznie żyjącego Pośrednika jest wieczne. Tak jak Jego modlitwa przyczynna wstępuje w każdej chwili, tak też w każdej chwili zstępuje i odpowiedź. A ponieważ Jezus za to ręczy, że twój dział w przymierzu zostanie wypełniony ("Ja im dam Moją bojaźń do serca ich, aby nie odstępowali ode Mnie") - dlatego nie może ani na chwilę pozostawić samego. On nie uczyni tego, gdyż nie wypełniłby Swoich zobowiązań. Może twa niewiara jest winna temu, że nie dostajesz błogosławieństwa, gdyż Pan Jezus zawsze pozostaje wierny. Jeżeli tylko zwrócisz całą uwagę na Niego i na moc żywota wiecznego, dzięki której stał się twym najwyższym kapłanem, to twa wiara wzmocni się tak, że zrozumiesz, że nie czeka ciebie nic mniejszego, jak życie nieustającego, nieprzerwanego i niezmiennego pozostawania w Jezusie! 
 	</p><p>Popatrzmy tylko, Kim jest Jezus i Kim jest dla nas, a mieszkanie w Nim będzie naturalnym, bezpośrednim wynikiem tego poznania. Jeżeli Jego życie w każdej chwili płynie do Ojca i od Ojca na nas spływa, to i pozostanie w Nim jest w każdej chwili łatwą i prostą rzeczą. Każdej chwili świadomego obcowania z Nim mówimy po prostu "Jezusie, Pośredniku, Orędowniku, zawsze żyjący Zbawicielu, przez którego życie i ja żyję, chcę pozostać w Tobie". W każdej chwili trudności, ciemności i obawy mówimy stale: "O, Ty, najwyższy Kapłanie, według mocy wiecznego, niezmiennego życia, ja pozostaję w Tobie". A w chwilach , kiedy zamiast wyraźnego i jasnego stosunku do Niego następują konieczne zajęcia życiowe, możemy się powierzyć Jego urzędowi Pośrednika. Jego wiecznemu kapłaństwu, Jego Bożej mocy, która sprawia nam wieczną błogość przez świadomość, że nas w Sobie trwale zachowa. 
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-30-77430defc/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-28-48268f7e0/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-30-77430defc/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-28-48268f7e0/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -19,14 +19,14 @@ source_verified: true
 <font face="Arial CE, Arial, Helvetica">
 <h6>
 [ 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-72b673441/">Strona główna</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-0-ef8f8ef2b/">Wstęp </a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-1-9e30e24e9/">Bóg i Biblia<a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-2-ebaf325a6/">Chrystus i Biblia</a> : 
 Duch Święty i Biblia : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
-<a href="/czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-4-beabadf90/">Kościół i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-5-1152608ac/">Chrześcijanin i Biblia</a> : 
+<a href="../../czytelnia/swch-ksiazki-biblia-dzis-6-2516dbe49/">Posłowie</a>
 ]
 </a></a></h6>
 </font>
@@ -113,7 +113,7 @@ Na zakończenie dwie proste i krótkie lekcje. Pierwsza dotyczy naszego poglądu
 Po drugie, nasza potrzeba Ducha Świętego. Czy chcesz wzrastać w poznaniu Boga? Oczywiście, że chcesz. Czy chcesz wzrastać w zrozumieniu Bożej mądrości i całości jego planów uczynienia nas pewnego dnia podobnymi do Chrystusa w chwale? Oczywiście, że chcesz. Ja też. W takim razie potrzebujemy Ducha Świętego, Ducha prawdy, aby oświecił nasze umysły. A do tego musimy się narodzić na nowo. Zastanawiam się czasami, czy powodem, dla którego niektórzy współcześni świeccy teolodzy mówią i piszą, że się tak wyrażę, takie głupstwa (odnoszę się tutaj, na przykład, do zaprzeczenia osobowości Boga i boskości Jezusa), nie jest fakt, że nie narodzili się na nowo? Można być teologiem i zarazem człowiekiem nieodrodzonym. Czy dlatego właśnie nie rozpoznają tych cudownych prawd Pisma? Pismo Święte należy rozsądzać duchowo. Dlatego do Pisma musimy podchodzić w pokorze, z szacunkiem i oczekiwaniem. Musimy uznać, że prawdy objawione w Biblii są nadal zamknięte i zapieczętowane, aż do chwili, gdy Duch Święty nam ich nie otworzy i nie otworzy naszych umysłów na nie. Bóg ukrywa je przed mądrymi i sprytnymi, a objawia je tylko "niemowlątkom", tym którzy są pokorni i przychodzą do niego z czcią. Tak więc zanim my, kaznodzieje przygotujemy się, zanim kongregacja wysłucha, zanim jednostka lub grupa zacznie czytać Biblię - w takich sytuacjach musimy modlić się o oświecenie Ducha Świętego: "Otwórz oczy moje, abym oglądał cudowność zakonu twojego" (Ps 119,18). I on to uczyni.<br/>
 <font face="Arial CE, Arial, Helvetica">
 <h6>
-	[ <a href="/czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/#Początek strony">Powrót</a> ]
+	[ <a href="../../czytelnia/swch-ksiazki-biblia-dzis-3-ea86b0f9a/#Początek strony">Powrót</a> ]
 
 <br/><br/>
 <hr/>

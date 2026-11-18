@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-09-ac80644b9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-09-ac80644b9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 <h2>Rozdział 10<br/>
 Opuszczony w Chinach</h2>
 <p>Hudson usiadł ogromnie wyczerpany ma stopniach świą-tyni, postanawiając tam spędzić resztę nocy. Już było po pierwszej, a na próżno szukał miejsca, gdzie by mógł przenocować w nieprzychylnym mieście. Wszystkie drzwi wydawały się przed nim zamykać, a był już zbyt wyczerpany, aby pójść jeszcze gdzieś dalej. Wyciągnął się więc na zimnych, nierównych kamieniach, sakiewkę z pieniędzmi podłożył sobie pod głowę, a potem pomyślał, czy też będzie w stanie spać!...
@@ -45,6 +45,6 @@ Opuszczony w Chinach</h2>
 <p>"Proszę przyjąć to, co jest załączone, jako dowód miłości ode mnie i mojej żony". Coś jest załączone - ale co to jest? Hudson rozwinął mały skrawek papieru, różowego koloru, który był również włożony do koperty i ku swojemu niezmiernemu zdumieniu stwierdził, że był to czek wystawiony na niego, a opiewający na sumę czterdziestu funtów! Hudson przez dłuższą chwilę nie mógł złapać tchu, ani też odwrócić wzroku od tego kawałka papieru!...
 <p>Raz jeszcze danym mu było przeżywać dalszy namacalny dowód, że Bóg wiedział o wszystkich jego sprawach: stracił bagaż wartości 40 funtów - a oto przyszły pieniądze, aby mógł sobie kupić na nowo to, co utracił! A co ciekawsze, pieniądze te zostały wysłane z Anglii co najmniej sześć tygodni zanim mienie jego zostało mu skradzione! (podówczas nie miał też ani pojęcia o tym, że druga taka sama suma była w drodze do niego, wysłana przez jeszcze kogoś innego!) Jakże więc bardzo się cieszył, że nie podjął żadnych kroków w kierunku ukarania swojego służącego za dokonanie kradzieży jego bagażu! Gdy więc raz jeszcze przejeżdżał przez przepiękną prowincję Chekiang, pełną sadów, stromych małych pagórków, wierzb i pól ryżowych,, czuł się jak chłopiec, który zdał jeszcze jeden egzamin i który w głosie swego nauczyciela wyczuł nutę pochwały, gdy ten mu powiedział: "Dobrze!"
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-09-ac80644b9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-taylor-11-6265b2db1/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-09-ac80644b9/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-taylor-e30a2f0fb/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

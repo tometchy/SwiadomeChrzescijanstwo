@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 <h1>KRZYŻ</h1>
 <p>Studium tych prawd jest cienką pracą, prawda? Chociaż duchowy głód i potrzeba serca są podstawowymi wymogami oświecenia i zrozu-mienia, Duch Święty nieprędko i niełatwo daje wgląd w skarby Słowa. "Głębia przyzywa głębię" (Ps.42,8;BT), Pan musi nas przygotować, a nawet wtedy, gdy już zostaniemy przygotowani, trzeba wiele czasu poszukiwań, modlitwy, tęsknoty, wielu przeżyć. Prawdziwa duchowa rzeczywistość nie przychodzi jednak w inny sposób, ale i chwała za to Panu, właśnie w ten!
 <p>Praktyka dowodzi, że okres potrzebny dla zrozumienia i przyswoje-nia sobie faktów dotyczących krzyża jest dla dziecka Bożego najtrud-niejszym i najbardziej bolesnym okresem. Nasz Pan trzyma te najży-wotniejsze i najlepsze rzeczy w zapasie dla tych, którzy poznają ich wielką wartość, dla tych, którzy łakną i pragną tego, co najlepsze, co kryte w Panu naszym, Jezusie Chrystusie. Zrozumienie przez wierzą-cego dwóch aspektów Golgoty stanowi klucz zarówno duchowego wzrostu, jak i służby ogarniającej pełnię życia.
@@ -32,6 +32,6 @@ source_verified: true
 <p>Marcus Rainford nie kończy na stwierdzeniu, co jest Bożą podstawą wolności. Pisze on tak: "Spoleganie na dokonanym dziele krzyża nie ma być przemijającym doznaniem intelektu w chwili, gdy nie atakuje nas pokuszenie; nie ma to być szczęśliwy stan ducha, gdy znajdujemy się chwilowo pod wpływem odświeżającego tchnienia Bożej obecności; nie ma to być pochlebstwo własnego serca wyćwiczonego w dobrych uczynkach - żadna z tych rzeczy nie da wierzącemu mocy nad grzechem. Moc ta wyrasta z gruntu śmierci Chrystusa dla grzechu. Dlatego teraz on, wierzący, żyje dla Boga w Jezusie Chrystusie, Panu naszym".
 <p>"Muszę uznać, że wróg wewnątrz obozu - "ciało", "stara natura", "ego", "Ja", "stary Adam" - jest uzurpatorem. Przez wiarę muszę uważać go za umieszczonego w miejscu, w którym Bóg go umieścił -ukrzyżowanego z Chrystusem. Muszę sobie uświadomić, że teraz moje życie jest ukryte wraz z Chrystusem w Bogu, że teraz On jest moim życiem". (Ian Thomas).
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-14-276e2743c/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-12-76ab100a5/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-zasady-wzrostu-4008fbdd4/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

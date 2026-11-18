@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>13</h1></div>
 <p class="akapit">Trzej uczniowie przykucnęli na dnie oślizgłego lochu, który stał się domem Jana.
 <p class="akapit">- Nauczycielu, widzieliśmy twego kuzyna.
@@ -45,6 +45,6 @@ source_verified: true
 <p class="akapit">Jan patrzył apatycznie w przestrzeń. Czy znalazł wreszcie odpowiedź na trapiące go pytanie o osobę Jezusa? Czy też po prostu dołożył do swego ciężaru jeszcze jedno pytanie?
 <p class="akapit">W tej samej chwili ktoś jeszcze zmagał się z tym samym problemem.
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-14-28f22607e/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-12-8cbf2fff3/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

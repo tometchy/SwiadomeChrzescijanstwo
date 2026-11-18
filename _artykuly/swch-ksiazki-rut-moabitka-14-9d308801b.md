@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 <h2>Rozdziały 1-4</h2>
 <p>"A to wszystko na tamtych przyszło dla przykładu i jest nbapisane ku przestrodze dla nas, którzy znaleźliśmy się u jresu wieków" (1 Kor. 10:11).
 </p><p>Drogocenną historię Rut zakończyliśmy w poprzednim rozdziale. Historia ta, mam nadzieję wiele powiedziała nam o tym, co potrzeba każdemu z nas, osobiście dla siebie, w sensie naszego stosunku do Chrystusa. Ona dała nam też i wskazówki, jaką "dobrą część", przygotowaną dla nas w Nim, powinnśmy wybrać (Łuk. 10:42). Dałby Bóg, abyśmy wzięli teraz w ręce Testament naszego niebiańskiego Testatora, i aby każdy odszukał w nim, w czym zawiera się nasze dziedzictwo. I nie tylko musimy dowiedzieć się o nim, ale i otrzymać je we władanie.
@@ -20,7 +20,7 @@ source_verified: true
 </p><p>Chociaż mam na myśli tylko Izrael i Kościół Boży w Chrystusie Jezusie, to jednak zanim weźmiemy się za to, nie możemy nie wspomnieć jeszcze bardziej chwalebnego pierwowzoru, właśnie typu Pana Jezusa Chrystusa, który mamy tu przed sobą w osobie tego, kto wykupił dziedzictwo Rut, tj. Boaza, jak to zostało napomknięte już wiele razy. W istocie, tutaj, w tej chwalebnej historii, wszystko koncentruje się wokół tego człowieka; pomimo to, on przecież był wcześniej zanim istniała Rut! Później staje się już centralną postacią, wokół której wszyscy się skupiają, kto w jakikolwiek sposób znalazł się w tych wydarzeniach lub chociaż zetknął się z nimi. Przecież właśnie on doprowadza wszywstko do chwalebnego końca. Jak Boaz w historii domu Elimelecha i w ghistorii Rut, był główną osobą, dziedzicem i wykupicielem, tak Syn Boży jest centrum historii Izraela i Kościoła Pańskiego.
 </p><p>Zwróćmy teraz uwagę na te dwa nakreślone wzorce:
 </p>
-<h3><a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Pierwowzór Izraela podczas chodzenia naszego Pana po ziemi i do Jego powtórnego przyjścia</a></h3>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
+<h3><a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Pierwowzór Izraela podczas chodzenia naszego Pana po ziemi i do Jego powtórnego przyjścia</a></h3>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-rut-moabitka-15-47a338452/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-13-eeca98e1f/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-rut-moabitka-cfd4c5bd0/">Spis treści</a> ]</font></p>
 
 {% endraw %}

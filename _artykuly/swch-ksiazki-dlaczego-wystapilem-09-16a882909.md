@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 <h1>Znaczenie i popularność książki w Hiszpanii</h1>
 <p>Dla polskiego czytelnika ciekawe będzie dowiedzieć się, jak Pan pobłogosławił świadectwo eks-ojca Padrosy na terenie Hiszpanii (o czym już było częściowo wspomniane w prologu do hiszpańskiego wydania), gdzie ustne świadczenie o Panu było zakazane.
 <p>Pierwsze kopie tej książki były rozesłane przez byłego jezuitę do niektórych jego poprzednich przyjaciół z własnoręczną dedykacją, co spowodowało wielki popłoch wśród hiszpańskiej hierarchii, tak że biskup z Barcelony natychmiast ogłosił w gazetach i przez radio ostrzeżenie, że każdy, kto będzie czytał, wydawał, tłumaczył lub kto będzie miał u siebie tę książkę zamiast oddać ją do biskupiego cenzora w celu zniszczenia jej, będzie wyklęty. 
@@ -36,6 +36,6 @@ source_verified: true
 <p>Charakterystyczną cechą hiszpańskich chrześcijan jest ich zupełna szczerość i dążenie do prawdziwego ewangelicznego chrześcijaństwa. Bądźmy wytrwali w modlitwach naszych za tych drogich i miłych ludzi, nigdy nie zapominając o pastorach i misjonarzach z Hiszpańskiej Chrześcijańskiej Misji, szczególnie o jej dyrektorze, kaznodziei Samuelu Vila. Bogu niech będzie chwała za moc Ewangelii w Hiszpanii.
 
 <p><i>Norman Porter (Generalny Sekretarz Narodowej Unii w Irlandii i przedstawiciel na Wielką Brytanię i Irlandię Hiszpańskiej Chrześcijańskiej Misji)</i>
-<p><font size="-1">[Następny rozdział | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[Następny rozdział | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-08-fd73cb85d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-dlaczego-wystapilem-5f666a27f/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
 {% endraw %}

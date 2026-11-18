@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-22-d702ea42b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-22-d702ea42b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 <h1>Bojaźń Pańska</h1>
 <p> Prawda nauczana wyraźnie w Piśmie Świętym i potwierdzona osobistym świadectwem niezliczonej liczby świętych mężów i kobiet na przestrzeni wieków może zostać streszczona następującym zdaniem: "Nikt nie może znać prawdziwej łaski Bożej, kto najpierw nie poznał bojaźni Bożej".
 <p> Pierwsza zapowiedź Bożego planu zbawienia ludzkości została uczyniona wobec mężczyzny i kobiety, usiłujących w śmiertelnym strachu ukryć się przed obecnością Pana. Prawo Boże zostało nadane człowiekowi drżącemu ze strachu wśród ognia i dymu, dygoczącemu na odgłos grzmotów i dźwięk Bożej trąby. Kiedy język Zachariasza został rozwiązany w wyniku tajemniczej Bożej operacji, "padł lęk na wszystkich ich sąsiadów". Nawet to słynne poselstwo: "Na ziemi pokój ludziom, w których ma upodobanie" skierowane zostało do pasterzy, których "ogarnęła bojaźń wielka" z powodu nagłej obezwładniającej obecności zastępów niebiańskich.
@@ -23,6 +23,6 @@ source_verified: true
 <p> Skąd wobec tego bierze się prawdziwa bojaźń Boża? Z poznania własnej grzeszności i poczucia obecności Bożej. Izajasz miał mocne przeżycie zarówno swojej własnej nieczystości, jak i potężnej obecności Jahwe. Było to silniejsze, niż był w stanie znieść. Upadłszy na twarz wykrzyknął uznanie swojej własnej grzeszności, która była tym bardziej nieznośna, że jego oczy zobaczyły Króla, Pana Zastępów.
 <p> Zgromadzenie będzie odczuwać tę tajemniczą bojaźń Bożą, gdy kaznodzieje i przywódcy zboru będą napełnieni Duchem. Kiedy Mojżesz zstąpił z góry mając lśniące oblicze, synowie Izraela bali się bojaźnią, pochodzącą z tego nadnaturalnego widoku. Mojżesz nie potrzebował ich straszyć. Wystarczyło, że pojawiał się tylko przed nimi z tym światłem na twarzy.
  
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-22-d702ea42b/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-22-d702ea42b/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-20-4f2698b3d/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
 </p></p></p></p></p></p></p></p></p>
 {% endraw %}

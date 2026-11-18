@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-01-1aca054ae/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-01-1aca054ae/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 <div align="CENTER"><h1>Prolog</h1></div>
 <p class="akapit">- Dowódco, przybył nowy więzień! </p>
 <p class="akapit">- Czy te pogłoski są prawdziwe? - spytał Proteusz.</p>
@@ -31,6 +31,6 @@ source_verified: true
 <p class="akapit">- Nie powiem, żebym się z tobą nie zgadzał - przytaknął Proteusz. </p>
 <p class="akapit">W tej samej chwili drzwi u szczytu schodów otwarły się na oścież. W ich świetle można było zobaczyć sylwetki dwóch żołnierzy i jakiegoś więźnia.</p>
 <p class="akapit">- Ciekawe, jak długo Herod pozwoli mu żyć - pomyślał sobie dowódca. </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wiezien-01-1aca054ae/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wiezien-01-1aca054ae/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wiezien-67afa9d36/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

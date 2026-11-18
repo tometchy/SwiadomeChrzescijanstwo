@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-01-7321368c2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-01-7321368c2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 <h1>2. MIESZKAJ W JEZUSIE <br/>
 a znajdziesz odpocznienie dla duszy twojej </h1>
 <p>"<i>Pójdźcie do Mnie (...) a Ja wam sprawię odpocznienie. Weźcie jarzmo Moje na się, a uczcie się (...) a znajdziecie odpocznienie duszom waszym</i>" Mat.11,28.29
@@ -34,6 +34,6 @@ a znajdziesz odpocznienie dla duszy twojej </h1>
 	</p><p>Błogi pokój! Owoc i przedsmak Bożego pokoju! Znajdują je ci, którzy przychodzą do Jezusa, i pozostają w Nim. To jest pokój Boży, pokój wieczności, który "przewyższa wszelki rozum i strzeże serc i myśli naszych". Jeżeli mamy taki pokój zapewniony, to znajdziemy dosyć sił do wykonania każdego obowiązku, odwagę do każdej walki, pociechę w każdej boleści, i radość wiecznego żywota nawet w "dolinie cienia śmierci". 
 	</p><p>O, mój Zbawicielu, gdyby moje serce miało znów kiedy wątpić lub ulegnąć błędnej myśli, jakoby to szczęście było za wielkie, aby go oczekiwać, za wysokie, aby go móc osiągnąć, to ożyw Panie mą wiarę i posłuszeństwo Twym głosem i słowami: "Pozostań we Mnie, weźmij jarzmo Moje na się i ucz się ode Mnie..., a znajdziesz odpocznienie duszy twojej".
 </p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-01-7321368c2/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-03-8db5c8e58/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-01-7321368c2/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-mieszkaj-w-jezusie-cdbd48452/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

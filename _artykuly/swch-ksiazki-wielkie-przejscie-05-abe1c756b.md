@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 <h1>R O Z D Z I A Ł 5<br/>
 NATURA I DYNAMIKA SŁUŻBY, NATURA I CEL KOŚCIOŁA</h1>
 <p><em>Cóż więcej my możemy powiedzieć i w jakiż lepszy sposób ponad to: więcej z Ciebie samego. O, pokaż mi z godziny na godzinę więcej z Twojej chwały. O mój Boże i Panie, więcej z Ciebie samego w całej Twojej łasce i mocy, więcej z Twojej miłości i prawdy. Wcielone słowo, odpowiedź na tę modlitwę w tej godzinie. My prosimy w imieniu Pana Jezusa. Amen.</em></p>
@@ -86,6 +86,6 @@ NATURA I DYNAMIKA SŁUŻBY, NATURA I CEL KOŚCIOŁA</h1>
 </p><p><em>Spraw, żeby prawda była w nas o Panie. Niech Twoje Boskie rozporządzenie ma miejsce, światło zaświeci w naszych sercach, a oczy naszego zrozumienia zostaną oświecone, żebyśmy mogli zobaczyć światło w Twoim świetle. Z powodu Twego imienia chwały i zadowolenia. Amen.</em>
 </p>
 <p><em>Wydano za zgodą </em></p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-06-c8a878538/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-04-87f14dd53/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-wielkie-przejscie-4713d59db/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

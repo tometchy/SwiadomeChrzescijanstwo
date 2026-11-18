@@ -11,7 +11,7 @@ source_verified: true
 
 {% raw %}
 
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 <h1>Rozdział 25<br/>
 LEKTURY PRZEBUDZENIOWE I MODLITWA </h1>
 <p><em>"Chrześcijanie posiadają naturalną moc do modlitwy. Tak dalece jest im objawiona wola Boga, że mogą to czynić. Nigdy jednak nie mogą się modlić, jeżeli ich do tego nie pobudzi Duch Święty. Duch Święty wspomaga chrześcijan w modlitwie o rzeczy, które są według woli Bożej". </em></p>
@@ -23,6 +23,6 @@ LEKTURY PRZEBUDZENIOWE I MODLITWA </h1>
 <p>Jeżeli Bóg pragnie uczynić wielkie rzeczy dla swojego królestwa na ziemi w odpowiedzi na modlitwy, to dlaczego moje wysiłki podczas tego jak jestem na kolanach są tak marne? </p>
 <p><font size="-1">Przypis <br/>
 Wierzę, że Bóg nawet teraz odpowiada na modlitwy Finney'a ofiarowane tak dawno temu. Jest nadal ciągłe zainteresowanie w studiowaniu "Zasad modlitwy" i przebudzenia. Jonatan Goforth mówi o wpływie Finney'a w duchowym przebudzeniu w Chinach. Fragmenty z Autobiografii Finney'a zostały przesłane do mnie przez mojego przyjaciela z Indii (jesień 1905 rok). W końcu coś w nich zapaliło mnie ...jeżeli Finney ma rację. Przyrzekłem: pójdę i odnajdę te prawa i będę im posłuszny jakikolwiek byłby tego koszt. </font></p>
-<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<p><font size="-1">[<a href="../../czytelnia/swch-ksiazki-odpowiedzi-26-bb2af214f/">Następny rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-24-dc64df842/">Poprzedni rozdział</a> | <a href="../../czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
 
 {% endraw %}

@@ -27,99 +27,99 @@ source_verified: true
 	</h2>
 <ul>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#odautora">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#odautora">
 			Od autora
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#przedmowa">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#przedmowa">
 			Przedmowa
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#1">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#1">
 			Lekcja 1 - Odpowiedzialność kaznodziei
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#2">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#2">
 			Lekcja 2 - Charakterystyka kaznodziei
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#3">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#3">
 			Lekcja 3 - Kwalifikacje kaznodziei
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#4">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#4">
 			Lekcja 4 - Powołanie kaznodziei
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#5">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#5">
 			Lekcja 5 - Konieczność głoszenia Ewangelii
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#6">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#6">
 			Lekcja 6 - Moc do głoszenia Ewangelii
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#7">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#7">
 			Lekcja 7 - Następstwa zwiastowania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#8">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#8">
 			Lekcja 8 - Kaznodzieja jako dłużnik
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#9">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#9">
 			Lekcja 9 - Niebezpieczeństwa grożące kaznodziei
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#10">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#10">
 			Lekcja 10 - Konstrukcja kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#11">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#11">
 			Lekcja 11 - Struktura kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#12">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#12">
 			Lekcja 12 - Metody wygłaszania kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#13">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#13">
 			Lekcja 13 - Typy kazań
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#14">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#14">
 			Lekcja 14 - Przygotowanie kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#15">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#15">
 			Lekcja 15 - Zbieranie materiału do kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#16">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#16">
 			Lekcja 16 - Posługiwanie się Pismem Świętym
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#17">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#17">
 			Lekcja 17 - Wygłaszanie kazania
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#18">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#18">
 			Lekcja 18 - Modlitwa
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#19">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#19">
 			Lekcja 19 - Służba postu z modlitwą
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#20">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#20">
 			Lekcja 20 - Różnorodność służby kaznodziejskiej
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#21">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#21">
 			Lekcja 21 - Jak wykonywać dzieła Boże
 		</a>
 <li>
-<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#rady">
+<a href="../../czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#rady">
 			Praktyczne porady dla kaznodziei
 		</a>
 </li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul>

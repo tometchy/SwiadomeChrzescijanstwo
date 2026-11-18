@@ -33,7 +33,7 @@ jako "świętej Księgi" zawierającej objawienie pochodzące od Jedynego Boga, 
 rzekomo jest tożsamy z Bogiem Biblii. Jak inaczej można zrozumieć gest całowania 
 egzemlarza Koranu w obecności muzułmańskich duchownych i fotoreporterów? 
 </p><br/>
-<center><img border="0" src="/assets/legacy/swch/ostrzezenia/popekiss.jpg"/><br/><font face="Verdana, sans-serif"><font size="2">Papież Jan Paweł II całuje Koran</font>
+<center><img border="0" src="../../assets/legacy/swch/ostrzezenia/popekiss.jpg"/><br/><font face="Verdana, sans-serif"><font size="2">Papież Jan Paweł II całuje Koran</font>
 <p></p></font></center><br/>
 <p>Z kolei Ted Haggard, prezez Narodowego Związku Chrześcijan Ewangelicznych w 
 Stanach Zjednoczonych wzywa do... dialogu z islamem, zamiast do ewangelizacji 

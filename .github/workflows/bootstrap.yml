@@ -51,6 +51,8 @@ jobs:
               assert len(files) == 129, f'Expected 129 files, found {len(files)}'
               seen = set()
               for name, content in files:
+                  if name.startswith('.github/workflows/'):
+                      continue  # Workflow files are installed separately with authorized credentials.
                   path = PurePosixPath(name)
                   if not name or path.is_absolute() or '..' in path.parts or name in seen or not isinstance(content, str):
                       raise ValueError(f'Unsafe path or non-text content: {name}')

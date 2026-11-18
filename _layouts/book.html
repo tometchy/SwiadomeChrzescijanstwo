@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="page-top"><div class="container"><div class="crumbs"><a href="{{ '/' | relative_url }}">Strona główna</a><span>/</span><a href="{% if page.kind == 'broszura' %}{{ '/broszury/' | relative_url }}{% else %}{{ '/ksiazki/' | relative_url }}{% endif %}">{% if page.kind == 'broszura' %}Broszury{% else %}Książki{% endif %}</a><span>/</span>{{ page.title }}</div></div></div>
+<section class="detail-section"><div class="container detail-grid">
+ <div class="detail-media">{% include cover.html item=page %}</div>
+ <div class="detail-copy"><h1>{{ page.title }}</h1><p class="detail-author">{{ page.author }}</p><div class="gold-line"></div>{{ content }}
+  <div class="purchase-panel">
+  {% if page.allegro_url and page.allegro_url != '' %}
+    <a class="btn btn-primary btn-full" href="{{ page.allegro_url }}" target="_blank" rel="noopener noreferrer sponsored">Sprawdź ofertę na Allegro <span aria-hidden="true">↗</span></a>
+
+  {% else %}
+    <a class="btn btn-primary btn-full" href="{{ site.data.site.distributor_profile }}" target="_blank" rel="noopener noreferrer sponsored">Przeglądaj oferty Allegro <span aria-hidden="true">↗</span></a>
+    <small><a href="mailto:{{ site.data.site.distributor_email }}?subject={{ page.title | uri_escape }}">Kontakt</a></small>
+  {% endif %}
+  </div>
+  <dl class="details-list">{% if page.edition_note %}<div><dt>Wydanie</dt><dd>{{ page.edition_note }}</dd></div>{% endif %}{% if page.historical_price %}<div><dt>Koszt</dt><dd>{{ page.historical_price }}</dd></div>{% endif %}{% if page.catalog_status %}<div><dt>Status</dt><dd>{{ page.catalog_status }}</dd></div>{% endif %}{% if page.catalog_number %}<div><dt>Numer w katalogu archiwalnym</dt><dd>{{ page.catalog_number }}</dd></div>{% endif %}</dl>
+ </div>
+</div></section>
+<section class="section section-light"><div class="container"><div class="section-head"><div><h2>Książki</h2></div><a href="{{ '/ksiazki/' | relative_url }}" class="text-link">Cały katalog <span>↗</span></a></div><div class="book-grid related-grid">{% assign related = site.ksiazki | where: 'category', page.category | where_exp: 'b', 'b.url != page.url' | sort: 'sort_order' | reverse %}{% for book in related limit:4 %}{% include book_card.html book=book %}{% endfor %}</div></div></section>

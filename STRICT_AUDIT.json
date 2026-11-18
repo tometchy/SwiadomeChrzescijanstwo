@@ -1,0 +1,11 @@
+{
+  "pass": true,
+  "errors": [],
+  "warnings": [
+    "Brak pełnego pobranego źródła; snapshot katalogu nie jest dowodem 1:1 całych stron"
+  ],
+  "counts": {
+    "books": 41,
+    "brochures": 39
+  }
+}

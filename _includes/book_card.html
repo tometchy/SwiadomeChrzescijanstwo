@@ -1,0 +1,19 @@
+{%- assign book = include.book -%}
+<article class="book-card" data-search="{{ book.title | escape }} {{ book.author | escape }}" data-category="{{ book.category | escape }}" data-kind="{{ book.kind }}" data-order="{{ book.sort_order | default: 0 }}">
+  <a class="book-card__image" href="{{ book.url | relative_url }}" aria-label="Zobacz: {{ book.title | escape }}">
+    {% include cover.html item=book %}
+
+  </a>
+  <div class="book-card__details">
+    
+    <h3><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h3>
+    <p class="book-author">{{ book.author }}</p>
+    <div class="book-actions">
+      {% if book.allegro_url and book.allegro_url != '' %}
+      <a class="link-strong" target="_blank" rel="noopener noreferrer sponsored" href="{{ book.allegro_url }}">Zobacz na Allegro <span aria-hidden="true">↗</span></a>
+      {% else %}
+      <a class="link-strong" href="{{ book.url | relative_url }}">Szczegóły <span aria-hidden="true">→</span></a>
+      {% endif %}
+    </div>
+  </div>
+</article>

@@ -1,0 +1,571 @@
+{
+  "source": "https://www.wswch.pl/",
+  "retrieved": "2026-11-17",
+  "verification": "Manual transcription of browser-rendered listing; not byte-exact HTML source; verify against downloaded HTML in CI",
+  "books": [
+    {
+      "number": 1,
+      "author": "John Owen",
+      "title": "\"O umartwianiu grzechu\"",
+      "edition": "drugie wydanie",
+      "price": "39 zł",
+      "status": ""
+    },
+    {
+      "number": 2,
+      "author": "John Owen",
+      "title": "\"Życie przez Jego śmierć\"",
+      "edition": "trzecie wydanie",
+      "price": "32 zł",
+      "status": "brak"
+    },
+    {
+      "number": 3,
+      "author": "A. W. Tozer",
+      "title": "\"Niezwykły chrześcijanin\"",
+      "edition": "drugie wydanie",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 4,
+      "author": "Charles Haddon Spurgeon",
+      "title": "\"Wszystko z łaski\"",
+      "edition": "trzecie wydanie",
+      "price": "38 zł",
+      "status": ""
+    },
+    {
+      "number": 5,
+      "author": "E. i L. Harvey",
+      "title": "\"Klęcząc zwyciężamy T I\"",
+      "edition": "drugie wydanie",
+      "price": "32 zł",
+      "status": "brak"
+    },
+    {
+      "number": 6,
+      "author": "A. W. Pink",
+      "title": "\"Atrybuty Boga\"",
+      "edition": "drugie wydanie",
+      "price": "37 zł",
+      "status": ""
+    },
+    {
+      "number": 7,
+      "author": "E. i L. Harvey",
+      "title": "\"Klęcząc zwyciężamy T II\"",
+      "edition": "drugie wydanie",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 8,
+      "author": "A. Murray",
+      "title": "\"Całkowite poddanie i inne kazania\"",
+      "edition": "wydanie rozszerzone",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 9,
+      "author": "Oswald J. Smith",
+      "title": "\"Przebudzenie którego potrzebujemy\"",
+      "edition": "",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 10,
+      "author": "Zac Poonen",
+      "title": "\"Duchowe Prawdy Nowego Przymierza + Pięćdziesiąt cech faryzeuszów\"",
+      "edition": "oprawa twarda",
+      "price": "49 zł",
+      "status": "brak"
+    },
+    {
+      "number": 11,
+      "author": "Charles Haddon Spurgeon",
+      "title": "\"Klejnoty Bożych obietnic\"",
+      "edition": "drugie wydanie",
+      "price": "50 zł",
+      "status": "brak"
+    },
+    {
+      "number": 12,
+      "author": "Jan Kalwin",
+      "title": "\"O najważniejszym ćwiczeniu wiary, czyli modlitwie. Podstawowe nauki religii chrześcijańskiej\"",
+      "edition": "",
+      "price": "32 zł",
+      "status": "brak"
+    },
+    {
+      "number": 13,
+      "author": "A. W. Tozer",
+      "title": "\"Radykalny krzyż oraz Uwielbienie - utracony klejnot ewangelicznego chrześcijaństwa\"",
+      "edition": "wydanie rozszerzone",
+      "price": "39 zł",
+      "status": ""
+    },
+    {
+      "number": 14,
+      "author": "J. Bunyan",
+      "title": "\"Dzieła wybrane: Nadzieja - klejnot Boży; Życie chrześcijańskie\"",
+      "edition": "Dodruk",
+      "price": "41 zł",
+      "status": ""
+    },
+    {
+      "number": 15,
+      "author": "-",
+      "title": "\"Przekład toruński Nowego Przymierza i Księga Psalmów (format B5)\"",
+      "edition": "trzecie wydanie",
+      "price": "32 zł",
+      "status": "brak"
+    },
+    {
+      "number": 16,
+      "author": "Elisabeth Elliot",
+      "title": "\"W cieniu Wszechmogącego\"",
+      "edition": "",
+      "price": "35 zł",
+      "status": "brak"
+    },
+    {
+      "number": 17,
+      "author": "A. Murray",
+      "title": "\"Dziieła wybrane: Mieszkaj w Chrystusie; Pokora - klejnot świętych\"",
+      "edition": "Dodruk",
+      "price": "41 zł",
+      "status": ""
+    },
+    {
+      "number": 18,
+      "author": "J. I. Packer",
+      "title": "\"Zwiastowanie ewangelii a suwerenność Boga\"",
+      "edition": "",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 19,
+      "author": "John G.Resinger",
+      "title": "\"Łaska naszego suwerennego Boga\"",
+      "edition": "nowość",
+      "price": "53 zł",
+      "status": ""
+    },
+    {
+      "number": 20,
+      "author": "J. Edwards",
+      "title": "\"Istotne doznania i inne kazania\"",
+      "edition": "",
+      "price": "32 zł",
+      "status": ""
+    },
+    {
+      "number": 21,
+      "author": "-",
+      "title": "\"PISMO ŚWIĘTE Przekład toruński NOWEGO PRZYMIERZA ORAZ KSIĘGI MĄDROŚCIOWE,KSIĘGIi PIĘCIU MEGILOT i PROROKÓW MNIEJSZYCH (format A4)\"",
+      "edition": "nowość",
+      "price": "115 zł",
+      "status": "brak"
+    },
+    {
+      "number": 22,
+      "author": "-",
+      "title": "\"PISMO ŚWIĘTE Przekład toruński NOWEGO PRZYMIERZA ORAZ KSIĘGI MĄDROŚCIOWE,KSIĘGIi PIĘCIU MEGILOT i PROROKÓW MNIEJSZYCH (format B5)\"",
+      "edition": "nowość",
+      "price": "110 zł",
+      "status": "brak"
+    },
+    {
+      "number": 23,
+      "author": "Elisabeth Elliot",
+      "title": "\"Namiętność i czystość\"",
+      "edition": "nowość",
+      "price": "48 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 24,
+      "author": "John Flavel",
+      "title": "\"Tajemnice Opatrzności\"",
+      "edition": "",
+      "price": "38 zł",
+      "status": ""
+    },
+    {
+      "number": 25,
+      "author": "Paul B. Smith",
+      "title": "\"Kościół w płomieniach\"",
+      "edition": "",
+      "price": "36 zł",
+      "status": ""
+    },
+    {
+      "number": 26,
+      "author": "Józef Alleine",
+      "title": "\"Alarm dla nienawróconych grzeszników\"",
+      "edition": "wznowienie",
+      "price": "38 zł",
+      "status": ""
+    },
+    {
+      "number": 27,
+      "author": "J. Edwards",
+      "title": "\"Życie i Pamiętnik Dawida Brainerda\"",
+      "edition": "nowość",
+      "price": "46 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 28,
+      "author": "Dave Hunt T.A. McMahon",
+      "title": "\"Psychologia i kościół\"",
+      "edition": "nowość",
+      "price": "56 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 29,
+      "author": "Eileen Fraser Crossman",
+      "title": "\"Górski deszcz\"",
+      "edition": "Nowość",
+      "price": "42 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 30,
+      "author": "Dave Hunt",
+      "title": "\"Kobieta jadąca na bestii\"",
+      "edition": "NOWOŚĆ",
+      "price": "60 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 31,
+      "author": "John Wesley",
+      "title": "\"Duch Święty i moc\"",
+      "edition": "NOWOŚĆ",
+      "price": "42 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 32,
+      "author": "A. Murray",
+      "title": "\"Oczekiwanie na Boga\"",
+      "edition": "Nowość",
+      "price": "45 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 33,
+      "author": "R. Baxter",
+      "title": "\"Depresja, lęk i życie chrześcijańskie\"",
+      "edition": "nowość",
+      "price": "50 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 34,
+      "author": "A. W. Tozer",
+      "title": "\"Głos proroka\"",
+      "edition": "nowość",
+      "price": "45 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 35,
+      "author": "-",
+      "title": "\"„Pismo Święte. Przekład Toruński Nowego Przymierza oraz Księgi Tory, Księgi Mądrościowe, Księgi Pięciu Megilot i Proroków Mniejszych” wyd. 8, format A4\"",
+      "edition": "",
+      "price": "145 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 36,
+      "author": "-",
+      "title": "\"„Pismo Święte. Przekład Toruński Nowego Przymierza oraz Księgi Tory, Księgi Mądrościowe, Księgi Pięciu Megilot i Proroków Mniejszych” wyd. 8, format B5\"",
+      "edition": "",
+      "price": "120 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 37,
+      "author": "Leonard Ravenhill",
+      "title": "\"Dlaczego przebudzenie się opóźnia?\"",
+      "edition": "Nowość",
+      "price": "38 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 38,
+      "author": "A. Murray",
+      "title": "\"DWA PRZYMIERZA i drugie BŁOGOSŁAWIEŃSTWO\"",
+      "edition": "Nowość",
+      "price": "37 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 39,
+      "author": "A. Murray",
+      "title": "\"Życie modlitwy\"",
+      "edition": "NOWOŚĆ",
+      "price": "34 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 40,
+      "author": "Oswald J. Smith",
+      "title": "\"TRYLOGIA. Życie w duchowym zwycięstwie\"",
+      "edition": "Nowość",
+      "price": "50 zł",
+      "status": "nowość"
+    },
+    {
+      "number": 41,
+      "author": "Zac Poonen",
+      "title": "\"Pięćdziesiąt cech faryzeuszów\"",
+      "edition": "drugie wydanie",
+      "price": "32 zł",
+      "status": ""
+    }
+  ],
+  "brochures": [
+    {
+      "number": 1,
+      "author": "-",
+      "title": "Wybór artykułów różnych autorów",
+      "status": "brak"
+    },
+    {
+      "number": 2,
+      "author": "-",
+      "title": "Wybór artykułów różnych autorów",
+      "status": "brak"
+    },
+    {
+      "number": 3,
+      "author": "Thomas Watson",
+      "title": "Pokuta, posłuszeństwo..",
+      "status": ""
+    },
+    {
+      "number": 4,
+      "author": "Jan Kalwin",
+      "title": "O konieczności odnowy Kościoła",
+      "status": ""
+    },
+    {
+      "number": 5,
+      "author": "William Gurnall",
+      "title": "Chrześcijanin w pełnej zbroi",
+      "status": "brak"
+    },
+    {
+      "number": 6,
+      "author": "Thomas Watson",
+      "title": "Mistyczny związek",
+      "status": ""
+    },
+    {
+      "number": 7,
+      "author": "Charles Haddon Spurgeon",
+      "title": "Człowiek - Chrystus Jezus",
+      "status": ""
+    },
+    {
+      "number": 8,
+      "author": "John Charles Ryle",
+      "title": "Obowiązki rodziców",
+      "status": ""
+    },
+    {
+      "number": 9,
+      "author": "-",
+      "title": "Kim jesteś: Katolikiem czy Protestantem",
+      "status": ""
+    },
+    {
+      "number": 10,
+      "author": "E. M. Bounds",
+      "title": "Moc przez modlitwę",
+      "status": ""
+    },
+    {
+      "number": 11,
+      "author": "John Owen",
+      "title": "O pokuszeniu",
+      "status": ""
+    },
+    {
+      "number": 12,
+      "author": "T. Austin-Sparks",
+      "title": "Duchowy konflikt",
+      "status": "brak"
+    },
+    {
+      "number": 13,
+      "author": "Thomas Watson",
+      "title": "Zdobywanie Niebios szturmem",
+      "status": "brak"
+    },
+    {
+      "number": 14,
+      "author": "Leonard Ravenhill",
+      "title": "Gdzie są Eliasze Boży",
+      "status": "brak"
+    },
+    {
+      "number": 15,
+      "author": "Dave Hunt",
+      "title": "Psychologia i Kościół",
+      "status": "brak"
+    },
+    {
+      "number": 16,
+      "author": "Thomas Watson",
+      "title": "Natura prawdziwej pokut",
+      "status": ""
+    },
+    {
+      "number": 17,
+      "author": "F. Schaeffer",
+      "title": "O prawdziwym uduchowieniu",
+      "status": ""
+    },
+    {
+      "number": 18,
+      "author": "Zac Poonen",
+      "title": "Pięć zagrożeń dla chrześcijańskich pracowników",
+      "status": ""
+    },
+    {
+      "number": 19,
+      "author": "William Gurnall",
+      "title": "Korzenie prawdziwej wiary",
+      "status": "brak"
+    },
+    {
+      "number": 20,
+      "author": "A. W. Pink",
+      "title": "Boskość Boga",
+      "status": "brak"
+    },
+    {
+      "number": 21,
+      "author": "A. W. Tozer",
+      "title": "Uwielbienie - utracony klejnot",
+      "status": "brak"
+    },
+    {
+      "number": 22,
+      "author": "R. Baxter",
+      "title": "Obowiązki mężów i żon wobec siebie",
+      "status": ""
+    },
+    {
+      "number": 23,
+      "author": "J. Edwards",
+      "title": "Nieuczciwość albo grzech kradzieży i niesprawiedliwości",
+      "status": ""
+    },
+    {
+      "number": 24,
+      "author": "T. Goodwin",
+      "title": "Marność myśli",
+      "status": ""
+    },
+    {
+      "number": 25,
+      "author": "E. i L. Harvey",
+      "title": "Sądzić, czy nie sądzić",
+      "status": ""
+    },
+    {
+      "number": 26,
+      "author": "C. A. Coates",
+      "title": "Śluby nazaretu",
+      "status": ""
+    },
+    {
+      "number": 27,
+      "author": "Charles Haddon Spurgeon",
+      "title": "Słodycz używa przeciwności",
+      "status": ""
+    },
+    {
+      "number": 28,
+      "author": "R. Baxter",
+      "title": "Grzech cielesności",
+      "status": ""
+    },
+    {
+      "number": 29,
+      "author": "J. Bunyan",
+      "title": "Ciasna Brama",
+      "status": ""
+    },
+    {
+      "number": 30,
+      "author": "J. Edwards",
+      "title": "Jezus Chrystus wczoraj i dziś, ten sam i na wieki",
+      "status": ""
+    },
+    {
+      "number": 31,
+      "author": "Stanley Jobb",
+      "title": "Nie do śmiechu",
+      "status": ""
+    },
+    {
+      "number": 32,
+      "author": "Arthur Bennett",
+      "title": "Modlitwy purytan",
+      "status": ""
+    },
+    {
+      "number": 33,
+      "author": "George Cutting",
+      "title": "Bezpieczeństwo, pewność i radość zbawienia",
+      "status": ""
+    },
+    {
+      "number": 34,
+      "author": "C. T. Studd",
+      "title": "Czekoladowy żołnierz",
+      "status": ""
+    },
+    {
+      "number": 35,
+      "author": "Duncan Campbell",
+      "title": "Istota danego przez Boga przebudzenia",
+      "status": ""
+    },
+    {
+      "number": 36,
+      "author": "Thomas Watson",
+      "title": "Zdobywanie Niebios szturmem",
+      "status": ""
+    },
+    {
+      "number": 37,
+      "author": "William Gurnall",
+      "title": "Chrześcijanin w pełnej zbroi",
+      "status": ""
+    },
+    {
+      "number": 38,
+      "author": "J. Edwards",
+      "title": "Życie i pamiętniki Dawida Brainerda",
+      "status": ""
+    },
+    {
+      "number": 39,
+      "author": "Marian Możucha",
+      "title": "Ryzyka i zagrożenia dla chrześcijan związane ze sztuczną inteligencją",
+      "status": ""
+    }
+  ]
+}

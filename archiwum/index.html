@@ -1,0 +1,5 @@
+---
+title: Archiwum stron
+permalink: /archiwum/
+---
+<section class="section"><div class="container"><h1>Archiwum</h1><div class="article-cards">{% for page in site.data.legacy_pages %}<a class="article-card" href="{{ page.url | relative_url }}"><h3>{{ page.title | escape }}</h3></a>{% endfor %}</div></div></section>

@@ -1,0 +1,8 @@
+---
+layout: default
+title: Katalog książek — Świadome Chrześcijaństwo
+description: Książki i Biblie wydawane przez Świadome Chrześcijaństwo. Poznaj autorów i przejdź do ofert na Allegro.
+permalink: /ksiazki/
+---
+<section class="listing-hero"><div class="container"><h1>KATALOG WYDAWNICZY</h1></div></section>
+<section class="section catalog-section"><div class="container"><div class="catalog-toolbar"><div class="catalog-search-wrap"><label class="sr-only" for="book-search">Szukaj książki lub autora</label><input id="book-search" class="catalog-search" type="search" placeholder="Szukaj tytułu lub autora…" autocomplete="off"></div><div class="catalog-sort"><label for="book-sort">Sortuj:</label> <select id="book-sort" aria-label="Sortuj książki"><option value="latest">Najnowsze w katalogu</option><option value="title">Tytuł A–Z</option><option value="author">Autor A–Z</option></select></div></div><p class="results-count" aria-live="polite"><span id="visible-count">{{ site.ksiazki.size }}</span> publikacji w katalogu</p><div class="book-grid catalog-grid" id="book-grid">{% assign all = site.ksiazki | sort: 'sort_order' | reverse %}{% for book in all %}{% include book_card.html book=book %}{% endfor %}</div><p class="no-results" id="no-results" hidden>Nie znaleziono książek spełniających kryteria. <button class="reset-filters" type="button">Wyczyść filtry</button>.</p></div></section>

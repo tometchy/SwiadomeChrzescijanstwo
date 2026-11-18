@@ -1,0 +1,7 @@
+---
+layout: default
+title: Broszury — Świadome Chrześcijaństwo
+permalink: /broszury/
+---
+<section class="listing-hero"><div class="container"><h1>Broszury</h1></div></section>
+<section class="section"><div class="container"><div class="book-grid">{% assign brochures = site.broszury | sort: 'sort_order' | reverse %}{% for book in brochures %}{% include book_card.html book=book %}{% endfor %}</div></div></section>

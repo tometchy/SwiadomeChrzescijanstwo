@@ -1,0 +1,36 @@
+- id: opowiadania
+  title: Opowiadania
+  url: https://swch.pl/opowiadania/index.html
+  symbol: ✶
+- id: ostrzezenia
+  title: Ostrzeżenia
+  url: https://swch.pl/ostrzezenia/index.html
+  symbol: ◈
+- id: biografie
+  title: Biografie
+  url: https://swch.pl/biografie/index.html
+  symbol: ✧
+- id: autorzy
+  title: Znani pisarze
+  url: https://swch.pl/autorzy/index.html
+  symbol: ✒
+- id: polemiki
+  title: Dyskusje, polemiki
+  url: https://swch.pl/polemiki/index.html
+  symbol: ◇
+- id: ksiazki
+  title: Książki
+  url: https://swch.pl/ksiazki/index.html
+  symbol: ▣
+- id: traktaty
+  title: Traktaty ewangelizacyjne
+  url: https://swch.pl/traktaty/index.html
+  symbol: ✷
+- id: historia
+  title: Historia Kościoła
+  url: https://swch.pl/historia/index.html
+  symbol: ⌘
+- id: teologia
+  title: Teologia
+  url: https://swch.pl/teologia/index.html
+  symbol: ✣

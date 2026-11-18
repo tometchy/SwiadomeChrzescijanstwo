@@ -26,3 +26,11 @@ Po zakupie: ustaw `url: https://swiadomechrzescijanstwo.pl`, `baseurl: ''` w `_c
 ## Ograniczenia audytu
 
 Aktualne dane książek i broszur zostały porównane z zapisanym snapshotem katalogu, a nie z pełnym, fizycznie pobranym backupem dawnych serwerów. Crawl nie gwarantuje, że znalazł osierocone pliki. Nawet pomyślne zakończenie pipeline'u wymaga ręcznego porównania z backupem przy deklarowaniu 100% kompletności.
+
+## Dawna wersja i uprawnienia
+
+Dawny projekt graficzny w szablonie Kaira zachowano w gałęzi `backup/legacy-kaira-2025`. Wdrożony szablon nie zawiera demonstracyjnych tekstów e-commerce.
+
+Pierwsza próba instalacji zgłosiła brak uprawnienia `workflows` dla tokenu GitHub Actions; poprawiono to przez oddzielne zapisanie trzech workflow z uprawnionego połączenia GitHub, przed automatycznym odtworzeniem pozostałych plików. Ponowny bootstrap zakończył się sukcesem.
+
+`GitHub Pages` nie opublikuje serwisu, dopóki `migration-report.json` nie potwierdzi zaimportowania treści i nie przejdzie `scripts/strict_audit.py --require-import`. To celowe zabezpieczenie przed częściową migracją.

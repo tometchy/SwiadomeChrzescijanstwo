@@ -1,0 +1,184 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; CHARSET=ISO-8859-2">
+<TITLE>Czytelnia Chrześcijanina - Informacje techniczne</TITLE>
+<META HTTP-EQUIV="reply-to" CONTENT="wasilewski@Jezus.pl">
+<META HTTP-EQUIV="Author" CONTENT="Piotr Wasilewski">
+<LINK REL="stylesheet" HREF="../czytelnia.css" TYPE="text/css">
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+    //--------------------------------------------------------------------
+	// msg(msgText)
+	//	msgText -- string:	text to display on browser Status line
+	//				null string to clear Status
+	//
+	// Usage:
+	// 	onMouseOver='msg("Hit me!"); return true;'
+	//	onMouseOut='msg("Maybe next time?"); return true;'
+	//	onClick='msg("Ouch!"); return true;'
+	//
+	//
+	function msg(msgText) {
+		window.status = msgText;
+	}
+
+
+    //
+    // inneserwisySelect ( url_serwisu )
+    //
+    function inneserwisyselect( serwis )
+    {
+      if ( serwis.options[serwis.selectedIndex].value == "none" )
+        return 0;     
+      var gourl=serwis.options[serwis.selectedIndex].value;
+      window.top.location.href=gourl;
+    }
+  
+// -->    
+</SCRIPT>
+
+</HEAD>
+<BODY BGCOLOR="#FFFFFF" TEXT="#000000" LINK="#000080" ALINK="#FF0000" VLINK="#000080">
+
+<DIV ALIGN="CENTER"><TABLE WIDTH="100%" BORDER="0">
+<TR>
+     <TD><DIV ALIGN="CENTER"><IMG SRC="../images/lampa.gif" WIDTH="75" HEIGHT="51" BORDER="0" ALT=""></DIV></TD>
+     <TD><DIV ALIGN="CENTER"><IMG SRC="../images/czytelnia_tytul.bmp" BORDER="0" ALT="Czytelnia Chrześcijanina"></DIV></TD>
+     <TD><FORM><IMG SRC="../images/polecamy.gif" WIDTH="69" HEIGHT="21" BORDER="0" ALT="Polecamy"><BR>         
+         <SMALL><SELECT name=inneserwisy 
+         onchange=inneserwisyselect(this) 
+         style="BACKGROUND: #ffffff; COLOR: #08108c; FONT-FAMILY: verdana,tahoma,arial,helvetica,san-serif; FONT-SIZE: 7pt; TEXT-DECORATION: none; WIDTH: 115px"> 
+         <OPTION value="none">wybierz:</OPTION>
+<OPTION value="http://Jezus.pl">Jezus.pl</OPTION>
+         <OPTION value="http://Biblia.Jezus.pl">Biblia 2000</OPTION> 
+         <OPTION value="http://www.Film.Jezus.pl">Film Jezus</OPTION>
+         <OPTION value="http://www.chsp.Jezus.pl">Serwis Promocyjny</OPTION>
+         <OPTION value="http://www.docelu.Jezus.pl">Do Celu</OPTION>
+         <OPTION value="http://www.Eliasz.Jezus.pl">Dzisiejszy Eliasz</OPTION>         
+         <OPTION value="http://www.Gedeon.Jezus.pl">Gedeon</OPTION>
+         <OPTION value="http://www.spiewnik.Jezus.pl">Śpiewnik</OPTION>         
+         <OPTION value="http://kawiarenka.Jezus.pl">Kawiarenka</OPTION>
+         </SELECT></FORM></SMALL>
+     </TD>
+</TR>
+</TABLE></DIV>
+
+<BR>
+
+<!-- tablica główna, początek -->
+<TABLE VALIGN="TOP" BORDER="0">
+<TR>
+<TD VALIGN="TOP">
+
+<!-- menu -->
+<TABLE WIDTH="150" CELLSPACING="0" CELLPADDING="0" BORDER="0" BGCOLOR="#FFFFFF">
+<TR>
+     <TD COLSPAN="2">
+     <IMG SRC="../images/czytelnia_menu.gif" WIDTH="81" HEIGHT="24" VSPACE="7" BORDER="0" ALT="M E N U">
+     </TD>
+</TR>
+<TR>
+	<TD VALIGN="TOP" BGCOLOR=#F5F5F5><IMG SRC="../images/teczka.gif" WIDTH="16" HEIGHT="16" VSPACE="5" BORDER="0" ALIGN="ABSMIDDLE" ALT=""></TD>
+    <TD BGCOLOR=#F5F5F5 CLASS="menu">
+      <A HREF="../index.html">Strona główna</A>    
+    </TD>
+</TR>
+<TR>
+	<TD VALIGN="TOP" BGCOLOR=#F3F0E0><IMG SRC="../images/teczka.gif" WIDTH="16" HEIGHT="16" VSPACE="5" BORDER="0" ALIGN="ABSMIDDLE" ALT=""></TD>
+    <TD BGCOLOR=#F3F0E0 CLASS="menu">
+     <A HREF="index.html">Archiwa</A>
+    </TD>
+</TR>
+<TR>
+	<TD VALIGN="TOP" BGCOLOR=#F5F5F5><IMG SRC="../images/teczka.gif" WIDTH="16" HEIGHT="16" VSPACE="5" BORDER="0" ALIGN="ABSMIDDLE" ALT=""></TD>
+    <TD BGCOLOR=#F5F5F5 CLASS="menu">
+     <A HREF="../indeks.html">Indeks publikacji</A><BR>
+    </TD>
+</TR>
+</TABLE>
+
+<BR>
+<TABLE WIDTH="150" CELLSPACING="0" CELLPADDING="0" BORDER="0" BGCOLOR="#FFFFFF">
+<TR>
+<TD><P class="standard"><FONT SIZE="-1">Od 4-go maja '99 oferowane przez nas archiwa mają nowy, uniwersalny format. Dzięki temu można je z łatwością rozpakować w <B>każym</B> popularnym systemie operacyjnym (DOS, Windows, OS/2, Linux i inne Unix'y). </FONT></P>
+</TD>
+</TR>
+</TABLE>
+
+<BR>
+<TABLE WIDTH="150" CELLSPACING="0" CELLPADDING="0" BORDER="0" BGCOLOR="#FFFFFF">
+<TR>
+<TD><P class="mala"><A HREF="http://www.rarsoft.com"><IMG SRC="../images/winrar.gif" WIDTH="56" HEIGHT="58" BORDER="0" ALIGN="LEFT" ALT="WinRAR"></A><FONT SIZE="-2">Polską wersję programu RAR możesz pobrać bezpłatnie ze strony <A  HREF="http://www.rarsoft.com">http://www.rarsoft.com</A></FONT></P>
+</TD>
+</TR>
+</TABLE>
+
+<IMG SRC="../images/nic.gif" WIDTH="150" HEIGHT="1" BORDER="0" ALT="">
+<!-- lewe menu, koniec -->
+
+</TD>
+
+<TD VALIGN="TOP">
+
+<!-- główny tekst -->
+
+     <!-- archiwa, wstęp -->
+      <TABLE WIDTH="99%" CELLSPACING="0" CELLPADDING="0" BORDER="0">
+        <TR>
+          <TD COLSPAN="2">&nbsp;</TD>
+          <TD WIDTH="300" ROWSPAN="3" BGCOLOR="#F3F0E0">&nbsp;<B><FONT SIZE="-1" FACE="Veranda,Tahoma,Helvetica,Arial" COLOR="#000080"> Informacje techniczne </FONT></B>
+          </TD>
+          <TD COLSPAN="2">&nbsp;</TD></TR>
+        <TR>
+          <TD COLSPAN="2" BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD>
+          <TD COLSPAN="2" BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD>
+        </TR>
+        <TR>
+          <TD BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD>
+          <TD WIDTH="25">&nbsp;</TD>
+          <TD WIDTH="350">&nbsp;</TD>
+          <TD BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD></TR>
+        <TR>
+          <TD BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD>
+          <TD COLSPAN="3">
+
+            <CENTER>
+            <TABLE WIDTH="95%" CELLSPACING="5" BORDER="0">
+              <TBODY>
+              <TR>
+                <TD class="standard"><FONT FACE="Veranda,Tahoma,Helvetica,Arial">
+                  <P class="standard" align="justify">Wszystkie nasze archiwa spakowane są w formacie RAR. W systemach Windows 95/98/NT rozpakowują się automatycznie, wystarczy kliknąć na nie myszką. W pozostałych systemach operacyjnych należy rozpakować archiwum podając odpowiednie polecenie dla programu RAR. Program RAR dla swojego systemu operacyjnego możesz pobrać bezpłatnie ze strony <A HREF="http://www.rarsoft.com">http://www.rarsoft.com</A></P>              
+
+			      <P class="standard" align="justify">Po uruchomieniu archiwum pojawi się następujące okno:</P> 
+
+<P><IMG SRC="../images/archiwum.gif" WIDTH="357" HEIGHT="251" BORDER="0" ALT="Widok okna przykładowego archiwum"><BR>
+<P class="standard" align="justify"><I>Widok okna przykładowego archiwum</I></P>
+
+<P class="standard" align="justify">Naciśnij przycisk "Rozpakuj" aby rozpocząć rozpakowywanie. Przycisk "Przeglądaj" umożliwia wybranie foldera docelowego z drzewa folderów. Folder docelowy może też być wprowadzony ręcznie w polu "Rozpakuj do". Jeśli folder docelowy nie istnieje, zostanie utworzony przed rozpoczęciem rozpakowywania archiwum.</P>
+
+                  </FONT>
+                </TD>
+              </TR>
+            </TBODY>
+            </TABLE>
+
+          <TD BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD></TR>
+        <TR>
+          <TD COLSPAN="5" BGCOLOR="#000000"><IMG SRC="../images/nic.gif" WIDTH="1" HEIGHT="1" BORDER="0" ALT=""></TD>
+        </TR>
+      </TBODY>
+      </TABLE>            
+      <!-- inf. techniczne, koniec -->
+            
+<!-- koniec tabelki prawej -->
+</TD>
+
+</TR>
+</TABLE>
+
+</BODY>
+</HTML>
+
+

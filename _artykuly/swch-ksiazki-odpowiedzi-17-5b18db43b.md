@@ -1,0 +1,24 @@
+---
+title: Rozdział 17 MODLITWA RODZINNA
+category: Książki
+permalink: /czytelnia/swch-ksiazki-odpowiedzi-17-5b18db43b/
+source_url: https://swch.pl/ksiazki/odpowiedzi_17.html
+imported_from_legacy: true
+source_text_sha256: 24e86058584a0bfb98fc1addd67205562e09f874ca91a42f1bfb671f47fe0378
+source_char_count: 4042
+source_verified: true
+---
+
+{% raw %}
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<h1>Rozdział 17<br/>
+MODLITWA RODZINNA </h1>
+<p><em>"Prawdziwe chrześcijaństwo nie składa się z posłuszeństwa naszym uczuciom, lecz z nakłaniania naszych serc do przestrzegania biblijnej prawdy. Bóg dał nam poznanie powodu, przyczyn i wymogów, abyśmy zrozumieli w jakim miejscu się znajdujemy i kim jesteśmy" </em></p>
+<p>Pamiętam sytuację pewnej młodej kobiety, mieszkającej poza miastem która prawie codziennie przychodziła na spotkanie do centrum. Rozmawiałem z nią kilka razy i odkryłem, że jest ona głęboko przekonana o swej grzeszności i naprawdę bliska rozpaczy. Dzień po dniu oczekiwałem, że usłyszę o jej nawróceniu, lecz ona pozostawała ciągle niezmieniona z wyjątkiem rozpaczy, która wzrastała. To sprawiło, że zacząłem podejrzewać, że u niej w domu jest coś nie w porządku. Zapytałem, czy jej rodzice są Chrześcijanami. Odpowiedziała, że są członkami kościoła, więc spytałem ją czy uczęszczają na zgromadzenia. Odpowiedziała: "Tak, w niedzielę". "Czy w inne dni twoi rodzice też uczęszczają na zgromadzenia" - spytałem. "Nie" - brzmiała odpowiedź. "Czy macie rodzinne spotkania modlitewne w domu". "Nie proszę pana" - powiedziała - "kiedyś były, lecz od długiego czasu nie mamy rodzinnych modlitw". To natychmiast pokazało mi w czym tkwi problem. Zapytałem, kiedy mogę spotkać jej ojca, lub matkę w domu. Odpowiedziała, że prawie zawsze, gdyż bardzo mało wychodzą z domu. Czułem, że ogromnie niebezpieczną rzeczą było zostawić ten przypadek takim, jakim jest. Następnego ranka poszedłem odwiedzić jej rodzinę. Myślę, że była ona jedyną córką w domu. Znalazłem ją przygnębioną i pogrążoną w rozpaczy. Powiedziałem do jej matki: "Duch Pana stara się przemóc waszą córkę". "Tak" - powiedziała - "nie wiem nic oprócz tego, że to jest Bóg". Zapytałem, czy modliła się o swoją córkę. Dała mi odpowiedź, przez którą mogłem zrozumieć, że ona nie wie, co to znaczy modlić się o nią. Zapytałem o jej męża. Powiedziała mi, że jest w polu i pracuje. Poprosiłem, aby go zawołała. Kiedy przyszedł powiedziałem do niego: "Czy nie jest pan tym zaniepokojony, czy modlił się pan za nią?" Jego odpowiedź objawiła mi fakt, że był on kiedyś nawrócony, jednak teraz był nieszczęśliwym odstępcą i nie polegał na Bogu. "Czy jest u was modlitwa rodzinna?" "Nie proszę pana" - odpowiedział. "A teraz" - powiedziałem - widzę pańską córkę dzień po dniu padającą na kolana z powodu przekonania o swej grzeszności i stwierdziłem, że problem tkwi w domu. Pan zamknął Królestwo Niebios przed swoją córką, sam pan nie wchodzi i jej nie pozwala wejść. Pańska niewiara i świecki sposób życia przeszkadza w nawróceniu pańskiej córki i rujnuje pańską duszę. Musi pan teraz pokutować. Nie mam zamiaru opuścić tego domu, dopóki pan i pańska żona nie będziecie pokutować i nie otworzycie drogi dla waszej córki. Teraz musi pan wprowadzić rodzinną modlitwę i odbudować ołtarz, który upadł. Teraz mój drogi panie, czy nie skłoni pan swoich kolan oraz pańska żona i nie oddacie się modlitwie? Czy obieca pan, że od tego czasu wykona pan swój obowiązek, ustawi rodzinny ołtarz i wróci do Boga?" Byłem bardzo poruszony, kiedy oboje zaczęli płakać. Moja wiara była tak silna, że nie przejąłem się tym, co powiedziałem o nieopuszczeniu tego domu, dopóki nie będą pokutować i nie wprowadzą modlitwy rodzinnej. Czułem, że praca musi być dokonana i dokonałem jej. Rzuciłem się na kolana i zacząłem się modlić. Oni również uklękli i gorzko płakali. Wyspowiadałem ich tak dobrze, jak mogłem i spróbowałem przyprowadzić ich do Boga i zwyciężyć przed Bogiem w ich sprawie. To była poruszająca scena. Oboje się ukorzyli wyznając swoje grzechy. Zanim powstaliśmy z kolan ich córka całkowicie się nawróciła. Powstała z kolan radując się w Chrystusie. To przebudzenie sprawiło, że wiele było odpowiedzi na modlitwę i wspaniałych wydarzeń. </p>
+<br/>
+<p><strong>Pytanie do przemyślenia i modlitwy </strong></p>
+<p>Czy jest jakiś kamień zgorszenia w twoim życiu i w życiu twojej rodziny, którego wpływ powstrzymuje kogoś przed pójściem za Bogiem.</p>
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-18-ed1106b6e/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-16-fc9b1fa06/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+
+{% endraw %}

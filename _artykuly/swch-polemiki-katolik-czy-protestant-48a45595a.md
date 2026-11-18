@@ -1,0 +1,2677 @@
+---
+title: ANKIETA
+category: Dyskusje, polemiki
+permalink: /czytelnia/swch-polemiki-katolik-czy-protestant-48a45595a/
+source_url: https://swch.pl/polemiki/katolik_czy_protestant.html
+imported_from_legacy: true
+source_text_sha256: 403164a31a64f2bf529f7115655026780acd1e9d2eda4e21349852ad390ce905
+source_char_count: 117594
+source_verified: true
+---
+
+{% raw %}
+
+<div class="Section1">
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">KIM JESTEŚ:KATOLIKIEM CZY PROTESTANTEM?<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h1 style="line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">ANKIETA<o:p></o:p></span></b></h1>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Przed rozpoczęciem lektury wykładów na temat usprawiedliwienia przez
+wiarę, zawartych w tym numerze „Reformacji”, chcielibyśmy polecić uważne
+przeczytanie zestawu dziesięciu różnorodnych pytań. Są to proste sformułowania
+temat usprawiedliwienia przez wiarę.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Badania statystyczne, przeprowadzone
+przy pomocy tej ankiety wykazały, że większość protestantów jest bardziej
+katolicka niż protestancka, jeśli chodzi o sprawę usprawiedliwienia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prosimy zanotować swoje odpowiedzi na te
+dziesięć pytań, a następnie przeczytać studium pt. „Podstawowa doktryna
+katolicka o usprawiedliwieniu przez wiarę”. Potem prosimy raz jeszcze sprawdzić
+odpowiedzi i porównać je<span style="text-transform:uppercase"> </span>z
+odpowiedziami na stronie 10.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W każdej z podanych dziesięciu par zdań
+należy zaznaczyć odpowiedź <b>a/</b> lub <b>b/</b>, czyli to zdanie, które
+według was jest poprawne.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">1<span style="mso-bidi-font-style:italic">.a</span><i style="mso-bidi-font-style:normal">/</i> Bóg obdarza człowieka sprawiedliwością
+przez łaskawe uznanie go<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt"><span style="mso-spacerun: yes">       </span>za niewinnego i zacnego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Bóg obdarza człowieka sprawiedliwością przez rzeczywiste uczynienie
+go <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">      
+</span>niewinnym i zacnym.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">2.a/ Bóg obdarza człowieka
+sprawiedliwością, przez zaliczenie zasług i zalet <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>Chrystusa na jego korzyść.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Bóg obdarza człowieka sprawiedliwością przez wlanie zasług i za­let<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>Chrystusa w jego serce.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">3.a/ Bóg przyjmuje człowieka wierzącego
+dzięki doskonałości moralnej, jaka <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>znajduję się w Chrystusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Bóg czyni człowieka wierzącego godnym przyjęcia poprzez wlanie, <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>doskonałości moralnej Chrystusa w jego życie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.2pt;text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">4.a/ Chrześcijanin,
+który „narodził się na nowo” (czyli dozna odnowy i <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.2pt;text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">          </span>przekształcenia charakteru), uzyska
+sprawiedliwość przed Bogiem. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       </span>b/ Grzesznik, który przez wiarę
+przyjmie sprawiedliwość Bożą, dozna <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">              </span>przekształcenia charakteru.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:14.2pt;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">5.a/
+Sprawiedliwość przed Bogiem otrzymujemy jedynie przez wiarę.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Sprawiedliwość przed Bogiem otrzymujemy przez wiarę działającą i <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>objawiającą się w miłości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">    </span>6.a/ Sprawiedliwość przed Bogiem
+uzyskujemy dzięki Chrystusowi, który<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">      </span><span style="mso-spacerun:
+yes">      </span>prowadzi w nas posłuszne życie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> 
+</span>b/ Sprawiedliwość przed Bogiem uzyskujemy przez przyjęcie faktu, że
+Chrystus<span style="mso-spacerun: yes">    </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">     
+</span>doskonale wypełnił za nas prawo.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">   </span>7.a/ Sprawiedliwość przed Bogiem zdobywamy
+przez naśladowanie przy­kładu<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">          </span>Chrystusa z pomocą Jego
+uzdalniającej łaski.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       </span>b/ Naśladujemy Chrystusa, ponieważ Jego
+życie darowało nam sprawiedliwość<span style="mso-spacerun: yes">  </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">           </span>przed Bogiem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">    </span>8.a/ Bóg najpierw uznaje nas za dobrych, a
+następnie przez swego Du­cha czyni <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">            </span>nas dobrymi .<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  </span><span style="mso-spacerun:
+yes">     </span>b/ Bóg najpierw przez swego Ducha czyni nas dobrymi, a
+następnie uznaje nas <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">            </span>za dobrych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">    </span>9.a/ Wstawiennictwo Chrystusowe po prawicy
+Bożej obdarza nas łaską<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>wobec Boga. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Przebywanie Chrystusa w nas obdarza nas łaską wobec Boga.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  </span>10.a/ Jedynie przez wiarę w dzieło i śmierć
+Chrystusa możemy w pełni<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">       
+</span>zadośćuczynić wymaganiom Dekalogu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">  
+</span>b/ Dzięki mocy, mieszkającego w nas Ducha Świętego, możemy w pełni <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">      
+</span>zadośćuczynić wymaganiom Dekalogu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">PODSTAWOWA
+DOKTRYNA KATOLICKA <o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">O
+USPRAWIEDLIWIENIUPRZEZ WIARĘ.</span></b><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Katolicyzm rzymski jest religią natury
+ludzkiej. Teologia katolicka opiera się na klasycznej logice greckiej -
+najlepszej logice, na jaką zdobył się umysł ludzki. Jeżeli odczuwamy, że nasze
+rozumienie Ewangelii jest wytworem ludzkich spekulacji, to z pewnością zawiera
+ono elementy bardzo charakterystyczne dla katolicyzmu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeśli „oczy umysłu naszego” nie zostały
+namaszczone balsamem niebiańskim, to nie powinniśmy być zaskoczeni odkryciem,
+że nasze myślenie znajduje swoje odbicie u najwyższych rzeczników katolickich.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h5><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">KATOLICYZM
+POTWIERDZA ZASADĘ „JEDYNIE Z ŁASKI”<o:p></o:p></span></h5>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Pisarze nowotestamentowi podkreślają z
+naciskiem, że zbawienie możliwe jest jedynie z łaski (Rzym 3,24.28; 4,5; 11,6;
+Gal 2,16-21;Ef 2,8-10; Tyt. 3,5-8). Tym, który po raz pierwszy w Kościele
+otwarcie zakwestionował zasadę zbawienia z łaski był Pelagiusz (ok. 400 r.
+n.e.). Według niego człowiek, dzięki przyrodzonym siłom danym mu przez Boga,
+zdolny jest prowadzić święte życie i w ten sposób uzyskać zbawienie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Pelagianizm potępił Augustyn, który
+wyłożył szczegółowo ortodoksyjny pogląd o deprawacji i zepsuciu człowieka oraz
+o potrzebie łaski Bożej.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Kościół katolicki na kilku synodach
+opowiedział się po stronie Augustyna. Pamiętać należy, iż Augustyn był wielkim
+szermierzem nauki o usprawiedliwieniu jedynie z łaski.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wielu protestantów ze zdumieniem
+stwierdza, z jaka swobodą autorzy katoliccy cytują zawarte w Biblii wypowiedzi
+dotyczące usprawiedliwienia z łaski. Okazuje się, że autorzy rzymsko-katoliccy
+mogą całkiem spokojnie pogodzić się z tymi fragmentami Pisma Św. A oto kilka
+wypowiedzi zaczerpniętych z czołowej księgi katolicyzmu pt. „Teologia łaski” <b>1/</b>:<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">„.... Św. Paweł powiada, że „... jesteśmy usprawiedliwieni darmo z
+łaski jego...” (Rzym 3,24) i że jesteśmy zbawieni”... według wyboru łaski, a
+jeżeli z łaski, to już nie z uczynków, bo inaczej łaska nie byłaby już łaską”
+(Rzym.11,5.6). Do Koryntian pisze on: „Ale z łaski Boga jestem tym, czym
+jestem...” (Kor.15,10); a do Efezjan mówi, że przez łaskę Chrystusa są
+zbawieni: „Albowiem łaską zbawieni jesteście przez wiarę, i to nie z was: Boży
+to dar” (Efez.2,5-8). Przypomina on Tymoteuszowi, że Bóg „... nas wybawił i
+powołał powołaniem świętym, nie na podstawie uczynków naszych, lecz według
+postępowania swojego i łaski...” (2Tym.1,9). I znowu: „A każdemu z nas dana
+została łaska według miary daru Chrystusowego” (Efez.4,7). Ten sam Apostoł
+pisze do Tytusa: „Abyśmy, usprawiedliwieni łaską jego, stali się dziedzicami
+żywota wiecznego, którego nadzieja nam przyświeca” (Tyt.3,7); a Efezjanom
+powtarza raz jeszcze, że Bóg „przeznaczył nas dla siebie do synostwa przez
+Jezusa Chrystusa według upodobania woli swojej, ku uwielbieniu chwalebnej łaski
+swojej, którą nas obdarzył w Umiłowanym” (Efez.1,5-6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Przytaczaliśmy już słowa św. Pawła z
+listu do Rzymian: Miłość Boża rozlana jest w sercach naszych przez Ducha
+Świętego, który jest nam dany. Miłość jest życiem Chrystusa, obecnego w nas za
+pośrednictwem Ducha Świętego. To właśnie Jezus, mieszkający w nas przez dar
+Ducha Świętego, w sposób doskonały miłuje Boga w nas poprzez tegoż Ducha, który
+nas ożywia i rozwija. Dlatego Św. Teresa z Lisieux mogła napisać: „Kiedy
+okazuję dobroczynność, to jest to tylko nasz Pan, działający we mnie”. Sami z
+siebie nie jesteśmy zdolni do najmniejszego uniesienia miłości, chyba że
+zostanie dane nam z łaski Chrystusa, przebywającego w nas przez Ducha
+Świętego”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Sami w sobie nie posiadamy i nie możemy
+posiadać jakiejś zasługi, cnoty czy świętości. Jezus, który żyje w nas i
+zastępuje nasze przyrodzone, grzeszne życie swoim życiem łaski, jest nasza
+zasługą i świętością.. Tylko wtedy, jesteśmy zdolni do świętego, bezgrzesznego
+życia, kiedy odrzuciliśmy odziedziczone po Adamie grzeszne przyrodzone życie,
+nasze czysto zmysłowe pożądania i popędy a także nasze własne mniemanie po to,
+aby żyć odtąd „życiem Chrystusa”, które musi przeniknąć wszystko to, co jest w
+nas...”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Gregory Stevens w swojej książce pt.
+„Życie łaski” <b>2/</b> pisze:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Sytuację człowieka bez Chrystusa i bez
+Jego łaski podsumował św. Paweł jednym zdaniem: „Albowiem gdyśmy byli w ciele,
+grzeszne namiętności rozbudzane przez zakon, były czynne w członkach naszych,
+aby rodzić owoce śmierci” (Rzym.7,5). Człowiek bez Chrystusa skazany jest na
+śmierć, ponieważ podlega grzesznym podszeptom ciała, których nie potrafi
+opanować, co z kolei jest główną cechą buntu przeciwko Bogu. Prawo, czyniąc
+człowieka bardziej świadomym grzechu, zwiększa jego odpowiedzialność, ale nie
+dostarcza siły do sprostania swoim własnym wymaganiom. Nawet ci spośród Żydów,
+którzy podobnie jak faryzeusze szczycili się własną zdolnością wypełniania
+prawa zostali w końcu potępieni przez to prawo, ponieważ łaska przychodzi tylko
+przez Chrystusa. Jedynie przez nią człowiek może oswobodzić się z niewoli
+szatana, która prowadzi na śmierć. Ojciec, w swojej miłosiernej łasce, posłał
+Syna swego, aby uczynić człowieka wolnym, połączyć go z żywą Trójcą i
+doprowadzić go do pełni jego przeznaczenia w łasce Chrystusowej (drugi rozdział
+listu do Efezjan może być potraktowany jako podsumowanie całej tej nauki w sło­wach
+i wyrażeniach samego Pawła). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... Nie ma bowiem różnicy, gdyż wszyscy
+zgrzeszyli i brak im chwały Bożej, i są usprawiedliwieni darmo z łaski jego,
+przez odkupienie w Chrystusie Jezusie...” (Rzym.3,22-24).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Pisząc w ten sposób, Paweł przeciwstawia
+się tym Żydom i chrześcijanom, którzy rozumieli usprawiedliwienie jako coś, co
+może być osiągnięte na podstawie własnych dobrych uczynków. Na ludzki błędny
+sposób rozumiano, że człowiek uzyskuje łaskę jako nagrodę, lub na­wet więcej,
+jako zapłatę otrzymywaną od Boga za dokonane dobre uczy­nki. Paweł ostro
+sprzeciwia się takiej religii samowystarczalności człowieka, odmawiając mu -
+jak mogliśmy zauważyć - siły do wypełnienia wymaganych przez prawo dobrych
+uczynków i stanowczo stwier­dza, że usprawiedliwienie jest dziełem Boga,
+dobrowolnym darem udzielanym człowiekowi wierzącemu. Apostoł zdecydowanie
+przeciwstawia się religii opartej na zapatrzeniu w siebie, na samowystarczal­nym
+bycie wobec Boga. Taka religia jest obrazą dobroci Bożej ponie­waż opiera się
+na mylnej ocenie możliwości ludzkich”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Dzieło zbawienia, od samych zalążków
+życia ludzkiego aż do jego wy­pełnienia przy końcu, jest nierozdzielnym
+połączeniem niezasłużonego daru Bożego ze współdziałaniem wolnej woli
+człowieka”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wypada tu przytoczyć orzeczenie Soboru
+Trydenckiego z roku 1547, współzawodniczące z teologią Reformacji co do nauki o
+usprawiedliwieniu. W kanonie pierwszym Sobór Powszechny stwierdza:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jeżeli ktoś mówiłby, że człowiek może
+być usprawiedliwiony przed Bogiem na podstawie własnych uczynków, dokonanych
+czy to dzięki swoim siłom czy nauce prawa bez łaski Bożej przez Jezusa Chrystu­sa,
+niech będzie wyklęty”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wydaje się, że również zawiera w sobie
+myśl prawdziwej ewangelii:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jeżeli ktoś mówiłby, że człowiek, bez
+uzdalniającego wpływu Ducha .Świętego i bez jego pomocy, może wierzyć, mieć
+nadzieję, miłować i pokutować tak jak należy i w ten sposób otrzymać łaskę
+usprawiedli­wienia, niech będzie wyklęty”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Stephen Keenan w swoim „Katechiźmie
+Doktrynalnym” <b>3/</b> zamieszcza oto zdumiewający wykład:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Pyt.: Co to jest usprawiedliwienie?<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Odp.: Jest to łaska, która czyni nas
+przyjaciółmi Bożymi.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Pyt.: Czy grzesznik może zasłużyć sobie
+na tę usprawiedliwiającą łaskę?<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent3" style="text-indent:-1.0cm"><span style="font-size:
+11.0pt;mso-bidi-font-size:10.0pt">Odp.: Nie, nie może, ponieważ wszystkie dobre
+uczynki, jakich doko­nuje grzesznik znajdujący się w stanie grzechu
+śmiertelnego, są uczynkami martwymi i nie mogą być zasługą wystarczającą do
+usprawiedliwienia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:35.45pt;text-indent:-21.25pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>Pyt.: Czy artykułem wiary katolickiej jest
+to, że grzesznik w sta­nie grzechu śmiertelnego nie może zasłużyć na
+usprawiedliwiającą łaskę? Odp. : Tak, w rozdziale siódmym szóstej sesji Soboru
+Trydenckiego stwierdzono, że ani wiara, ani dobre uczynki poprzedzające,
+usprawiedliwienie nie mogą zyskać łaski usprawiedliwiającej.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Pyt.: W jaki więc sposób grzesznik
+zostaje usprawiedliwiony?<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:35.45pt;text-indent:-21.25pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Odp.:
+Jest on usprawiedliwiony darmo, jedynie z łaski Bożej. Nie na podstawie swojego
+własnego lub w ogóle jakiegokolwiek lu­dzkiego działania, lecz wyłącznie dzięki
+zasługom Jezusa Chry­stusa, ponieważ Jezus Chrystus jest naszym jedynym
+pośredni­kiem odkupienia, tym, który sam, przez swoją śmierć i cier­pienia,
+pojednał nas ze swym Ojcem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:35.45pt;text-indent:-21.25pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Pyt.:
+Dlaczego więc protestanci zarzucają nam, że wierzymy, iż grzesznik może sam
+zasłużyć sobie na odpuszczenie grzechów? <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:35.45pt;text-indent:-21.25pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Odp.:
+Przyczyną tego, jak i innych błędnych zarzutów, jest nieznajomość doktryny
+katolickiej.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">KATOLICKA<span style="mso-spacerun: yes">  </span>NAUKA<span style="mso-spacerun: yes"> 
+</span>O<span style="mso-spacerun: yes">  </span>USPRAWIEDLIWIENIU<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Przyjrzyjmy się teraz
+rzymsko-katolickiej doktrynie o usprawiedli­wieniu. Zgodnie ze słowami jej
+apologetów, doktryna rzymska o uspra­wiedliwieniu jest „jądrem nauki
+katolickiej”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Niewątpliwie, Kościół naucza, że
+usprawiedliwienie jest dziełem ła­ski Bożej. Stephen Keenan na poniekąd rację
+mówiąc, że protestanci często wykazują nieznajomość nauki katolickiej. Kościół
+nie uczy i ni­gdy oficjalnie nie uczył, że usprawiedliwienie mogłoby być czymś
+innym, niż łaskawym dziełem Boga. Ci, którzy sądzą, że katoliccy teolodzy
+głoszą uzyskanie sprawiedliwości na podstawie uczynków ludzkich, nie są w
+stanie ani rozpoznać ani ustosunkować się do nauk tajemnicy nie­prawości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Krótko mówiąc, katolicyzm naucza, że
+usprawiedliwienie jest odnawiającym człowieka czynem Bożym. Bez aktu
+nowonarodzenia, czyli odra­dzającego działania Ducha Świętego - oświadcza
+Kościół - grzesznik ni­gdy nie noże być usprawiedliwiony.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sobór Trydencki orzekł:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... jeżeli ludzie nie narodzą się w
+Chrystusie na nowo, nie zosta­ną nigdy usprawiedliwieni, ponieważ w
+nowonarodzeniu, dzięki zasłu­dze Jego cierpień, obdarowani bywają łaską, przez
+którą stają się sprawiedliwymi...”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wydawcy rzymsko-katolickiej wersji
+przekładu Biblii <b>4/</b> opatrują 3 i 4 rozdział listu do Rzymian
+następującym komentarzem: <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Usprawiedliwienie, o jakim mówi tutaj
+św. Paweł, jest wlaniem łas­ki uświęcającej, która w nadprzyrodzony sposób
+sprawia, że człowiek może przypodobać się Bogu”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ale na usprawiedliwienie, czyli wlanie
+łaski uświęcającej, nie mo­żemy sobie czymkolwiek zasłużyć; jest ono całkowicie
+dobrowolnym darem Bożym”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">P. Gregory Stevens we wspomnianej już
+książce pt. "Życie Łaski" – pisze: „Czym jest w istocie
+usprawiedliwienie, jakiego udziela Bóg współdziałającemu z Nim przez wiarę
+człowiekowi? Czy jest ono jedynie czymś w rodzaju stwierdzenia, że grzesznik
+jest już sprawiedliwy czy też jest to czyn Boży, przez który grzesznik zostaje
+wewnętrz­nie przekształcony i staje się nowym istnieniem w oczach Boga? Myśl
+katolicka zawsze reprezentowała pogląd,<b style="mso-bidi-font-weight:normal"> </b>że
+udzielona człowiekowi sprawiedliwość jest dobrowolnym darem Bożym (Gal.3,6nn) i
+praw­dziwą sprawiedliwością, która rzeczywiście przekształca człowieka w istotę
+miłowaną przez Boga”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Doktrynę katolicką, w tych kwestiach
+sformułowaną w opozycji do luteranizmu, przedłożono w całości na Soborze
+Trydenckim w takiej postaci, w jakiej została ona ujęta wcześniej przez papieża
+Leona X w bulli Wxsurge Domine z 15 lipca 1520r. Nauka Trydencka koncentruje
+się na dwóch zagadnieniach, które posiadają fundamentalne znaczenie dla
+zrozumienia katolickiej doktryny łaski. Przede wszystkim, usprawiedliwienie
+jest rzeczywistą i globalną przemianą czło­wieka, prawdziwym darem uświęcenia.
+Nie może być ono w żaden sposób ograniczone do czegoś wyłącznie zewnętrznego”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jasnym stwierdzeniem określa Sobór
+wewnętrzną istotę i strukturę usprawiedliwienia. Czyni to w bezpośredniej
+opozycji do obiektywnego stanowiska teologii reformacyjnej. W ustępie tym
+zawiera się samo sedno nauki katolickiej: „usprawiedliwienie jest nie tylko od­puszczeniem
+grzechów, ale także uświęceniem i odnowieniem duszy lu­dzkiej na skutek
+dobrowolnego przyjęcia łaski i innych darów, przez co człowiek niesprawiedliwy
+staje się sprawiedliwym, a wróg zmienia się w przyjaciela tak, iż może dostąpić
+nadziei życia wiecz­nego”. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Następnie Sobór wyszczególnia przyczyny
+tej przemiany wewnętrznej: ce­lem jej jest chwała Boża; dokonuje się ona dzięki
+Bogu, a ściślej - dzięki zasługom naszego Zbawiciela i bywa udzielana
+człowiekowi przez wiarę i chrzest.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">PODSUMOWANIE
+I WNIOSKI<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Całą doktrynę katolicką o
+usprawiedliwieniu można zawrzeć w następujących punktach:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l10 level1 lfo2;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">1.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Usprawiedliwienie
+jest wewnętrzną restauracją i odnową człowieka, tj. ludzkim uświęceniem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l10 level1 lfo2;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">2.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Usprawiedliwienie
+dokonuję się poprzez wlanie łaski Bożej. Człowiek zostaje usprawiedliwiony na
+podstawie tego, czego dokonał w nim Duch Święty.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l10 level1 lfo2;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">3.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Usprawiedliwienie
+oznacza, że człowiek sam w sobie uczyniony jest sprawiedliwy i jest we własnej
+osobie miłym dla Boga.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Innymi słowy katolickie pojęcie
+usprawiedliwienia może być również przedstawione następująco: jest nędzny i zły
+grzesznik. Działająca w nim łaska Boża zmienia go w istotę miłą Bogu. Dzięki
+tej łasce jest on przed Bogiem usprawiedliwiony.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wierny katolik mógłby po prostu
+powiedzieć: „sprawiedliwość przez wiarę oznacza, że sam nie mogę siebie zbawić.
+Ale przez wiarę mogę uzyskać Bożą łaskę przekształcającą. Jego łaska może
+zmienić moje serce; dzięki tej łasce mogę stać się godnym w oczach Bożych”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Tę samą myśl wyraża Jean Daujat <b>5/</b>:<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">„Człowiek grzeszny nie może sam w sobie podobać się Bogu. Aby tak było
+musi otrzymać dar Boży, który przekształca go wewnętrznie, oczyszcza i uświęca,
+przyozdabiając cechami, które czynią go miłym wobec jego Stwórcy”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Powyższe wywody są wiernym
+odzwierciedleniem idei rzymskiego kato­licyzmu. Zostały one zebrane i wyłożone
+na podstawie dokładnego stu­dium literatury katolickiej oraz potwierdzone
+osobistym autorytetem teologów tego Kościoła. Jeżeli, Drogi Czytelniku,
+naprawdę nie możesz dopatrzyć się niczego złego w doktrynie przedstawionej
+wyżej, to jest tak tylko dlatego, że jesteś dobrym katolikiem, wcale nie zdając
+so­bie z tego sprawy. Nie mówimy tego po to, aby kogokolwiek urazić. Ka­tolicyzm
+rzymski jest religią natury ludzkiej, a przecież wszyscy je­steśmy ludźmi.
+Dopóki nie zostaniemy namaszczeni Duchem boskiego oświecenia, dopóty jesteśmy
+narażeni na niebezpieczeństwo niezrozumienia nauk „tajemnicy nieprawości”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">l/.<span style="mso-tab-count:1">     </span>Jean Daujat: The Theology
+of Grace, Burns and Gates, London 1959.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">2/.<span style="mso-tab-count:1">            </span>P.Gregory Stevens:
+The Life of Grace.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">3/.<span style="mso-tab-count:1">    </span>Stephen Keenan: Doctrinal
+Catechism.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">4/.<span style="mso-tab-count:1">    </span>Roman Catholic Douay
+Version.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">5/.<span style="mso-tab-count:1">    </span>Jean Daujat: The Theology of
+Grace.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">WYNIKI<span style="mso-spacerun: yes">  </span>ANKIETY<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Oto poprawne odpowiedzi na pytania
+ankiety ze strony 3:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><b><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">l</span></b><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black;mso-ansi-language:EN-US"> - /a/; <b>2</b> - /a/; <b>3</b> -
+/a/; <b>4</b> - /b/; <b>5</b> - /a<i style="mso-bidi-font-style:normal">/;</i> <b>6</b>
+- /b/; <b>7</b> - /b/; <b>8 </b>- /a/; <b>9</b> - /a/; <b>10</b> - /a/. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">USPRAWIEDLIWIENIEPRZEZ WIARĘ<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black"><span style="mso-spacerun: yes"> </span>W UJĘCIU REFORMACYJNYM<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Zarówno teolodzy Kościoła rzymsko-katolickiego jak i reformatorzy byli
+zdania, że człowiek bywa usprawiedliwiony dzięki łasce Bożej. Dlatego jest to
+bardzo ważne, abyśmy zauważyli istotną różnicę pomiędzy katolickim a reformacyjnym
+wyznaniem wiary:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Kościół rzymsko-katolicki: -
+usprawiedliwienie jest dziełem łaski Bożej w człowieku.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformacja: - usprawiedliwienie jest
+dziełem łaski Bożej w Chrys­tusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wskazana wyżej różnica pomiędzy rzymskim
+katolicyzmem a reformacją posiada znaczenie fundamentalne. Katolicyzm jest
+zdecydowanie subiek­tywny, skoncentrowany na człowieku i ludzkim doświadczeniu.
+Wiara reformacyjna jest obiektywna, skoncentrowana na Chrystusie. Cen­tralnym
+punktem teologii katolickiej jest dzieło łaski Bożej w obrę­bie doświadczenia
+ludzkiego. Dlatego jest to tak druzgocące wolność chrześcijańską. Człowiek
+staje się więźniem, ponieważ ośrodkiem jego niepokoju jest jego własne
+doświadczenie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Doktryna katolicka, uzależniając postawę
+człowieka wobec Boga od tego, czego dokonuje w nim łaska, powiększa tylko jego
+zgryzotę i rozpacz.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeżeli akceptacja i sprawiedliwość
+człowieka przed Bogiem zależy od łaski Bożej w sercu tego człowieka, to musi on
+postawić sobie pyta­nie: „Jak wielka musi być ta działająca we mnie łaska abym
+mógł okazać się sprawiedliwym wobec Boga? Wiele muszę - za sprawą tej łaski -
+mo­dlić się i pokutować, jak bardzo muszę kochać i być posłusznym, aby Bóg mnie
+przyjął?”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">To był właśnie ten problem przed którym
+stanął ów pobożny mnich -Marcin Luter. Tak długo jak opierał on swoją
+sprawiedliwość wobec Boga na dziele łaski Bożej w jego sercu, nie mógł nigdy
+być pewien, czy posiadał tej łaski wystarczająco dosyć. W rzeczy samej, im
+głębiej wni­kał w swoje własne doświadczenie, aby doszukać się powodów, na podsta­wie
+których mógłby oczekiwać akceptacji Bożej, tym bardziej był udrę­czony
+świadomością swej grzeszności.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">I wtedy dotarło do niego światło
+ewangelii w postaci Pawłowej dok­tryny o usprawiedliwieniu. Apostoł powiada:
+„... usprawiedliwieni dar­mo z łaski jego przez odkupienie, które jest w
+Chrystusie Jezusie” (Rzym 3,24). Tłumaczenie Nowej Biblii Angielskiej oddaje
+fragment ten następująco: „... wszyscy usprawiedliwieni są darmo, jedynie z
+łaski Bożej, poprzez jego wyzwalający czyn w osobie Chrystusa Jezusa”. To
+wyjaśnia nam, że nie jesteśmy usprawiedliwieni w wyniku tego, czego dokonuje
+Bóg wewnątrz nas, usprawiedliwieni jesteśmy raczej przez to, czego Bóg dokonał
+całkowicie poza nami. Aktu wyswobodzenia wszystkich ludzi dokonał Bóg w Jezusie
+Chrystusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Tutaj rozchodzą się drogi Rzymu i
+Reformacji. Rzym oświadcza, że człowiek bywa usprawiedliwiony przez dzieło
+łaski Bożej wewnątrz jego serca, a Reformacja za<i style="mso-bidi-font-style:
+normal">ś -</i> że jest usprawiedliwiony przez dzieło łaski Bożej w Jezusie
+Chrystusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h5><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">CHRYSTUS - NASZ
+WIECZNY OJCIEC<o:p></o:p></span></b></h5>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W jaki sposób staliśmy się grzesznikami
+wobec Boga? Odpowiedź na to pytanie w znacznym stopniu rozjaśni nam ten
+zasadniczy problem: w jaki sposób stajemy się sprawiedliwymi przed Bogiem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Nauka Apostoła Pawła przedstawia się
+następująco: grzesznikami wo­bec Boga staliśmy się nie przez naszą wewnętrzną,
+osobistą decyzję. Staliśmy się grzeszni na skutek czynu, dokonanego poza nami,
+przez in­ną osobę, bez naszego udziału „... Przez nieposłuszeństwo jednego
+człowieka wielu stało się grzesznikami...” (Rzym.5,19). Naszym pierw­szym
+rodzicem był Adam, wspólna „głowa” wszystkich. On reprezentował całą rodzinę
+ludzką. Jego upadek był równoznaczny z upadkiem każdego pojedynczego człowieka.
+Taki jest argument Apostoła Pawła w liście do Rzym.5,15-19; Przestępstwo
+jednego człowieka przyniosło śmierć i potępienie na wielu. Inne tłumaczenie
+zamiast „wielu” podaje wyrażenie „cała rasa”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Tragedia upadku i potępienia całego
+rodzaju ludzkiego w Adamie zna­lazła się u podstaw praw ojcostwa. Dzieci dzielą
+los ojca. I tak dzie­ci Kanaanitów zostały wytracone razem z rodzicami. Rodzina
+Achana musiała umrzeć z powodu chciwości ojca. Podobne prawo funkcjonuje w
+sprawach majątkowych: jeżeli bogaty ojciec na skutek złego obrotu interesów
+bankrutuje i traci swoje posiadłości, jego dzieci stają się biedne i dzielą
+ubóstwo swego ojca.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Szatan cieszył się z upadku Adama -
+cieszył się, ponieważ pokonał w nim cały rodzaj ludzki.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Otóż jeżeli szatan mógł przez jednego
+człowieka spowodować potępienie wszystkich ludzi, to czyż Bóg nie mógłby
+usprawiedliwić cały ro­dzaj ludzki w jednym Człowieku? I tak w istocie uczynił,
+co stało się tajemnicą ewangelii, która zaskoczyła szatana.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg odwrócił upadek Adama przez danie
+rodzajowi ludzkiemu drugiego Ojca, jak jest napisane: „Ponieważ Dziecię narodziło
+się nam, a Syn jest nam dany; władza będzie na jego ramieniu; będzie nazywał
+się Cu­downy Radca, Potężny Bóg, Wieczny Ojciec, Książę Pokoju” (Iż.9,6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Na ogół nie myślimy o Chrystusie, jako
+naszym Ojcu, ale właśnie tak przedstawia Go apostoł Paweł, jako Tego, który
+stał się „drugim Adamem”. Bóg dał swego jednorodzonego Syna, ażeby był on
+naszym wiecznym Ojcem.'<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg złożył całą odpowiedzialność za
+ludzkość na swojego Syna podobnie, jak grzech Adama był znamiennym w skutkach
+dla całego rodzaju lu­dzkiego. Jezus stał się nową Głową, Przedstawicielem i
+Ojcem upadłego rodu ludzkiego.<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">ZWYCIĘSTWO CHRYSTUSA <o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">– ZWYCIĘSTWEM KAŻDEGO CZŁOWIEKA</span></b><span style="font-size:
+11.0pt;mso-bidi-font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prawo ojcostwa, oprócz swoich
+negatywnych cech, posiada także pozytywna strony. Dzieci dozorcy więziennego w
+Filippi zostały uznane za ochrzczone wraz z chrztem ich ojca (Dz.Ap.16.30-33).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Dzięki wierzącym rodzicom, dzieci
+uważane są za czyste (lKor.7,14). Podobnie jest i dzisiaj w sprawach
+majątkowych: dzieci uczestniczą w dobrobycie ojca. Jeżeli stanie się on
+posiadaczem dużej posiadłości, dzieci cieszą się i wołają: „Jesteśmy bogaci!”.
+Jeżeli kupi nowy, lśnią­cy samochód, mówią: „Mamy nowy samochód!” Mówią one
+tak, jakby miały pełne prawo do tego (tak w istocie jest), aczkolwiek stały się
+posiadaczami samochodu zupełnie bez ich udziału w wyniku pracy ojca. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Odkąd Jezus stał się naszym nowym Ojcem,
+przejął na siebie odpowiedzialność doskonałego wypełnienia za nas prawa Bożego.
+Jako nasza „Głowa” i przedstawiciel, okazał wobec prawa posłuszeństwo, które w
+każdym calu odpowiadało wysokim wymaganiom Bożym..<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Musimy zdawać sobie sprawę, że Chrystus
+wobec Boga i trybunału wiecznej sprawiedliwości stanął tak jak gdyby był każdym
+poszczególnym człowiekiem. Na Nim spoczywały losy całej ludzkości. W ten sposób
+Jego posłuszeństwo stało się posłuszeństwem każdego człowieka. Jest to
+równoznaczne z tym, jak gdyby każdy człowiek osobiście wypełnił prawo Boże, z
+tą samą, co Jezus Chrystus nieskończoną doskonałością. Paweł powiada: „Bo jak
+przez nieposłuszeństwo jednego człowieka, wielu (tzn. cała rasa ludzka) stało
+się (lub uznanych zostało) grzesznikami, tak też przez posłuszeństwo jednego,
+wielu dostąpi usprawiedliwienia” (Rzym.5,19).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W ten sposób zostało na zawsze ustalone,
+że tylko posłuszeństwo okazane osobiście przez Jezusa Chrystusa, czyni nas
+sprawiedliwymi w oczach Bożych. Tak, jak przez akt nieposłuszeństwa dokonany
+poza nami staliśmy się grzesznikami, tak przez posłuszeństwo okazane poza nami
+– mianowicie przez osobiste dzieło Jezusa Chrystusa - obdarowani zostaliśmy
+sprawiedliwością przed Bogiem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Posłuszeństwo Chrystusa było czymś
+więcej niż świętym życiem. Było posłuszeństwem aż do śmierci, i to do śmierci
+na krzyżu (Fil.2,8). Chrystus, godząc się być naszym Ojcem, przejął na siebie
+winę za wszystkie nasze przestępstwa. Jeżeli na przykład jakieś dzieci wyrządzą
+szkodę w obcej posiadłości, właściciel domaga się odszkodowania od ich ojca. I
+ma ku temu pełne prawo.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jakaż musiała to być miłość, która
+skłoniła Chrystusa, do tego, by stał się naszym Ojcem i w ten sposób przejął na
+siebie nasz dług w całej jego rozciągłości! Jak to wyraził Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Nasz najlitościwszy Ojciec widząc, że
+jesteśmy przytłoczeni i zni­szczeni przekleństwem prawa, zniewoleni nim tak
+bardzo, że nigdy nie moglibyśmy uwolnić się o własnych siłach, posłał na świat
+swego Syna i złożył nań wszystkie grzechy ludzkie, mówiąc: Ty będziesz tym
+Piotrem, który się zaparł; Pawłem, tym prześladowcą i okrutnym ciemięzcą,
+cudzołożnikiem Dawidem; grzesznikiem, który zjadł owoc w raju; tym złoczyńcą,
+który zawisł na krzyżu; krótko mówiąc, Ty bę­dziesz tym, który dokonał grzechów
+wszystkich ludzi; dlatego więc uważaj, ażebyś zapłacił za nie i zadośćuczynił.
+W tym momencie wkra­cza prawo, które powiada: uznaję go za grzesznika, i to za
+takiego, który wziął na siebie grzechy wszystkich ludzi, i tylko w nim dopa­truję
+się grzechów. Dlatego niech umrze na krzyżu... W ten sposób cały świat, został
+uleczony i oczyszczony od wszystkich grzechów, a przez to uwolniony od śmierci
+i wszelkiego zła. Teraz, wobec faktu obalenia grzechu i śmierci przez tegoż
+jednego człowieka, Bóg nie może widzieć w każdym pojedynczym człowieku na
+świecie, jeżeli ten uwierzył, nic innego, jak tylko oczyszczenie i
+sprawiedliwość” <b>l/</b>.<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Apostoł Paweł oświadcza: „Bo miłość Chrystusowa ogarnia nas, którzyśmy
+doszli do tego przekonania, że jeden za wszystkich umarł; a za­tem wszyscy
+umarli” (2Kor.5,l4). Apostoł chce przez to drogocenne stwierdzenie powiedzieć,
+że śmierć Chrystusowa oznacza to samo, co gdyby wszyscy ludzie ponieśli śmierć
+za swoje grzechy.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zwycięstwo Chrystusa jest zwycięstwem
+każdego człowieka, jeżeli tylko uwierzy i przyjmie je. Chrystus zwyciężył. Jest
+to radosna nowina. Nasz wieczny Ojciec przywrócił wszystko to, co utracił Adam.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">USPRAWIEDLIWENIE
+AKTEM OBIEKTYWNYM<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ewangelia jest dobrą nowiną o tym, czego
+Bóg dokonał dla wszystkich ludzi w Jezusie Chrystusie. Dopełnił On aktu naszego
+wyzwolenia w osobie swego Syna. Gdy jeszcze naszymi złymi uczynkami
+objawialiśmy bez­bożność naszych umysłów, bezsilność i nieprzyjaźń wobec Boga,
+Bóg wy­pracował całkowite zbawienie dla nas w naszej wielkiej „Głowie”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Grzechy nasze złożył na Chrystusa,
+wymierzył karę za nie w Chrystu­sie i oddalił je od nas przez Chrystusa. Tak
+więc Paweł oświadcza: „... On został wydany za grzechy nasze i został wzbudzony
+z martwych dla usprawiedliwienia naszego” (Rzym.4,25). Niektóre tłumaczenia uży­wają
+tu wyrażenia: „z powodu naszego usprawiedliwienia (because of our
+jaustification). Może to oznaczać, że zmartwychwstanie Jezusa było Bożym
+świadectwem, iż w Jezusie Chrystusie przebaczył On wszystkim lu­dziom. Jeżeli
+pozostałby choć jeden nieodpokutowany grzech, jedno prze­stępstwo, za które
+Chrystus nie dałby pełnego zadośćuczynienia, byłby, On nadal „więźniem” w
+grobowcu Józefa. Ale Ewangelia głosi: Chrystus zmartwychwstał! Grób jest pusty!
+Bóg w Chrystusie uwolnił cię od wszy­stkich grzechów! Oto przyczyna, dla której
+zmartwychwstanie było siłą apostolskiego zwiastowania.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W 5 rozdz. Listu do Rzymian, Paweł
+kontynuuje: „A zatem, jak przez upadek jednego człowieka przyszło potępienie na
+wszystkich ludzi, tak też przez dzieło usprawiedliwienia jednego przyszło dla
+wszystkich lu­dzi usprawiedliwienie ku żywotowi” (Rzym.5,l8).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zmartwychwstanie jest dowodem tego, że w
+Chrystusie Jezusie usprawiedliwiony został cały rodzaj ludzki. Wyzwolenie,
+przebaczenie i odkupienie - oto fakty, które spełniły się w Jezusie Chrystusie.
+.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeżeli uznajemy, że staliśmy się
+grzesznikami na skutek nieposłuszeństwa naszego praojca, to „o ileż bardziej” -
+żeby posłużyć się słowami Pawła - powinniśmy uznać teraz, iż Bóg w Umiłowanym
+przyjął i nas i uczynił sprawiedliwym. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jezus wstępując do nieba, wstąpił tam
+jako nasz Przedstawiciel. Jest to równoznaczne z tym, jak gdybyśmy sami poszli
+do nieba. Czy Bóg przyjął Jezusa? Przyjął Go z wielką radością i otoczył
+chwałą, której nie da się opisać. Posadził Go po prawicy i wyniósł ponad
+aniołów. Powinniśmy jednak wiedzieć, że wszystko to dokonane zostało dla
+ludzkości. Jest to równoznaczne z tym, jak gdyby Bóg uczynił to dla nas
+wszystkich. W Chrystusie ludzkość nie tylko dostąpiła odpuszczenia, ale także
+podniesiona została wyżej, nie tylko została usprawiedliwiona, ale także
+uwieńczona chwałą (Efez 2,4-9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">I to jest dobra nowina ewangelii. Dobra
+nowina dla biednych, znękanych grzeszników. Nie muszą już dłużej poszukiwać w
+obrębie swego własnego doświadczenia czegoś, na czym mogliby oprzeć swoją
+nadzieję, że zostaną przyjęci przez Boga. Bóg, przez śmierć Jezusa .Chrystusa,
+już pojednał z sobą cały zbuntowany świat. Podobnie jak fakt, że Jezus darowany
+został każdemu zgubionemu grzesznikowi, pewne jest i to, że wszyscy ludzie
+przez łaskawy dar Boży zostali obdarzeni przebaczeniem i usprawiedliwieniem.
+Każdy grzesznik może odpowiedzieć na głos ewangelii: „... w Panu mam
+sprawiedliwość i siłę" (Iz 45,24). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zapewnienie o tym, czego dokonał Bóg w
+wywyższonym Chrystusie, budzi wiarę w sercu grzesznika. I właśnie przez wiarę
+każdy grzesznik może uznać swój stan posiadania, poznać pokój i pewność,
+płynące z niezachwianego przekonania o sprawiedliwości wobec Boga na podstawie
+tego, czego dokonała już dla wszystkich ludzi łaska w Jezusie Chrystu­sie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ponieważ Dziecię narodziło się nam, a
+Syn jest nam dany; władza, będzie na jego ramieniu; będzie nazywał się Cudowny
+Radca, Potężny Bóg Wieczny Ojciec, Książę Pokoju” (Iz.9,6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„A zatem jak przez upadek jednego
+człowieka przyszło potępienie na wszystkich ludzi, tak też przez dzieło
+usprawiedliwienia jednego przy­szło dla wszystkich ludzi usprawiedliwienie ku
+żywotowi” (Rzym.6,18 ).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">l/. Martin Luter: Commentary on Galatian, s. 272<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;
+text-transform:uppercase;mso-ansi-language:EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;text-transform:uppercase"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;text-transform:uppercase">PODSUMOWANIE<span style="mso-spacerun:
+yes">  </span></span></b><b><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">REFORMACYJNEJ <o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">NAUKI<span style="mso-spacerun: yes">  </span>O<span style="mso-spacerun: yes"> 
+</span>USPRAWIEDLIWIENIU<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Poniżej przedstawiany zestawione w
+czterech punktach podstawowe różnice pomiędzy rzymsko-katolicką a reformacyjną
+nauką o usprawiedliwieniu:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+</div>
+<span style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";color:black;mso-ansi-language:PL;
+mso-fareast-language:PL;mso-bidi-language:AR-SA;layout-grid-mode:line'><br clear="all" style="page-break-before:auto;mso-break-type:section-break"/>
+</span>
+<div class="Section2">
+<p align="center" class="MsoNormal" style="margin-left:14.0pt;text-align:center;
+text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">KOŚCIÓŁ<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-left:14.0pt;text-align:center;
+text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">RZYMSKO-KATOLICKI<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l1 level1 lfo3;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">1.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony dzięki dziełu łaski Bożej w człowieku.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l1 level1 lfo3;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">2.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony przez wiarę aktywną w miłości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l1 level1 lfo3;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">3.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony poprzez wlanie sprawiedliwości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l1 level1 lfo3;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">4.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwienie oznacza, uczynienie człowieka sprawiedliwym w
+jego własnej osobie. <o:p></o:p></span></p>
+<h2 style="line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></h2>
+<h2 style="line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">REFORMACJA<o:p></o:p></span></h2>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l13 level1 lfo4;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">1.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony dzięki dziełu łaski Bożej w Chrystusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l13 level1 lfo4;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">2.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony jedynie przez wiarę.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l13 level1 lfo4;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">3.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwiony przez przpisanie sprawiedliwości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:45.5pt;text-indent:-31.5pt;line-height:
+normal;mso-list:l13 level1 lfo4;tab-stops:list 45.5pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:green">4.<span style='font:7.0pt "Times New Roman"'>               
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Usprawiedliwienie oznacza, że człowiek jest uznany za
+sprawiedliwego<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+</div>
+<span style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";color:black;mso-ansi-language:PL;
+mso-fareast-language:PL;mso-bidi-language:AR-SA;layout-grid-mode:line'><br clear="all" style="page-break-before:auto;mso-break-type:section-break"/>
+</span>
+<div class="Section3">
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><u><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">1.
+Usprawiedliwiony dzięki dziełu łaski Bożej w Chrystusie</span></u><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>Chrześcijańska nauka o usprawiedliwieniu
+posiada dwa bieguny: <b>/l/</b> „w Chrystusie”, <b>/2/</b> „Chrystus w nas”, co
+możemy wyrazić jeszcze ina­czej: <b>/1/</b> Dzieło Chrystusa dla nas, <b>/2/</b>
+Dzieło Chrystusa w nas.<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Nie wolno nam pomieszać tych dwóch aspektów odkupienia, gdy chodzi o
+usprawiedliwienie. Przez aspekt pierwszy rozumiemy dzieło i śmierć Chrystusa.
+Drugi aspekt obejmuje dzieło, jakiego dokonuje Duch Święty w sercu wierzącego
+człowieka. Reformatorzy zajęli pozycję paulinistyczną, głosząc, że
+usprawiedliwieni jesteśmy jedynie ze względu na dzieło Chrystusa dla nas.<o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">2. <u>Usprawiedliwiony
+jedynie przez wiarę<o:p></o:p></u></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Boży akt zbawczy dla wszystkich ludzi
+dokonał się na krzyżu w osobie Chrystusa. Przypieczętowaniem i potwierdzeniem
+doskonałego zadośćuczynienia Chrystusowego za wszystkie grzechy jest pusty
+grób. Ludzkość ostała już usprawiedliwiona w swojej wielkiej „Głowie”
+(usprawiedliwienie jako akt obiektywny). Oznacza to, że aby otrzymać
+błogosławieństwo usprawiedliwienia (usprawiedliwienie jako akt subiektywny)
+-człowiek potrzebuje tylko zaufać temu, co Bóg orzekł o nim w osobie Chrystusa.
+„Uważany bowiem, że człowiek bywa usprawiedliwiony przez wiarę, niezależnie od
+uczynków zakonu” (Rzym.3,28). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sola fide – „Jedynie przez wiarę” stało
+się hasłem i wyzwaniem Reformacji. Reformatorzy rozumieli, że nic innego nie
+było potrzebne do usprawiedliwienia jak tylko wiara człowieka w to, co Bóg dlań
+dokonał. W tym kontekście, widzieli oni wiarę nie jako akt zapoczątkowujący
+usprawiedliwienie człowieka, ale jako uświadomienie sobie czegoś już
+istniejącego. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Katolicy skłonni byli przyznać, że
+człowiek mógłby być usprawiedliwiony przez wiarę, jeżeli wiara ta byłaby
+przyodziana miłością. Ale ponieważ miłość jest wypełnieniem prawa, Reformatorzy
+rozpoznali, że pogląd papieski w gruncie rzeczy to zamaskowany wysiłek poparcia
+sprawie­dliwości uzyskanej poprzez zadośćuczynienie prawu. Stąd protestanci
+mocno pozostawali przy sola fide, ponieważ uważali, że miłość powinna być
+owocem doznanego przez człowieka uświęcenia. Zgodnie z listem do Rzymian 5,l-5;
+miłość jest owocem usprawiedliwienia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">3. <u>Usprawiedliwiony przez przypisanie
+sprawiedliwości</u><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy jedynie na nowo położyli
+nacisk na jasną naukę Apostoła Pawła, szczególnie wyłożoną w 4 rozdziale listu
+do Rzymian. Użyte w tym rozdziale słowa „poczytać”, „zaliczyć”, „przypisać”
+(według tłumaczenia angielskiego) pochodzą od tego samego czasownika greckiego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Bo co mówi Pismo? Uwierzył Abraham Bogu
+i poczytano mu to zostało za sprawiedliwość" (w.3).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Gdy zaś kto nie spełnia uczynków, ale
+wierzy w Tego, który usprawiedliwia bezbożnego, wiarę jego poczytuje mu się za
+sprawiedliwość, jak i Dawid nazywa błogosławionym człowieka, któremu Bóg
+udziela uspra­wiedliwienia, niezależnie od uczynków... Czy więc to
+błogosławieństwo odnosi się tylko do obrzezanych, czy też i do nieobrzezanych?
+Mówimy bowiem: Wiara została poczytana Abrahamowi za sprawiedliwość"
+(w.5.6.9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... Abraham mając zupełną pewność, że
+cokolwiek On obiecał, mocen, jest i uczynić. I dlatego poczytane mu to zostano
+za sprawiedliwość. A nie napisano tego, że mu poczytano, tylko ze względu na
+niego, ale ze względu na nas, którym na to być poczytane i którzy wierzymy w
+Tego, który wzbudził Jezusa, Pana naszego, z martwych" (w. 21-24).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Słowo „przypisać” oznacza, że
+sprawiedliwość, przez którą jesteśmy usprawiedliwieni nie znajduje się w nas. W
+rzeczywistości my nie jesteśmy sprawiedliwi. Zamiast być - jak uczą katolicy,
+„wlaną w nas” jest ona przypisana albo zaliczona wierzącym w Jezusa. Słownik
+Oksfordzki <b>l/</b>, podaje zarówno protestancką, jak i katolicką definicję
+usprawiedliwienia: „usprawiedliwić... (teol.) ogłosić kogoś wolnym od kary za
+grzech na podstawie sprawiedliwości Chrystusa, lub (rzym.-kat.) wla­nia
+łaski...”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sobór Trydencki wyklął każdego kto
+uczyłby że usprawiedliwienie dokonuje się „jedynie przez przypisanie
+sprawiedliwości Chrystusowej”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W prawdzie znajduje się zupełna pewność
+i wolność. Usprawiedliwie­nie dzięki sprawiedliwości będącej całkowicie poza
+nami oznacza, ze nie potrzebujemy spoglądać na własne serca, aby dostrzec tam
+pewną dozę wlanej sprawiedliwości. Idziemy raczej, takimi właśnie jak jesteśmy,
+do Chrystusa zdając sobie sprawę,<b style="mso-bidi-font-weight:normal"> </b>że
+w naszym Zastępcy jest wystarczająco dosyć sprawiedliwości, żeby obdarzyć nas
+łaską i prawością wobec Boga.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><u><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">4.Usprawiedliwienie – uznanie i
+ogłoszenie sprawiedliwym.<o:p></o:p></span></u></p>
+<p class="MsoNormal" style="line-height:normal"><u><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></u></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Słowo „usprawiedliwić”" w języku
+łacińskim znaczy „uczynić sprawiedliwym”. Kościół rzymsko-katolicki poprzestaje
+na tym, że „usprawiedliwienie” oznacza uczynienie człowieka w jego własnej
+osobie sprawiedli­wym. Katolik rozumuje: „W jaki sposób może ogłosić Bóg
+człowieka sprawiedliwym, jeżeli nie jest on rzeczywiście sprawiedliwym?”
+Dlatego my­śli on, że zanim człowiek może uzyskać sprawiedliwość przed Bogiem,
+musi narodzić się na nowo i zostać przekształconym. Myśląc w ten spo­sób
+człowiek nie może mieć prawdziwej pewności usprawiedliwienia, po­nieważ nigdy
+nie może być pewnym, czy Duch Święty uczynił go na tyle sprawiedliwym, aby
+został przyjęty przez Boga.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W przeciwieństwie do tego, teologia
+reformacyjna powiada razem z Pawłem: „Gdy zaś kto nie spełnia uczynków, ale
+wierzy w tego, który usprawiedliwia bezbożnego wiarę jego poczytuje mu się za
+sprawiedliwość” (Rzym.4,5). Bóg usprawiedliwia grzeszników, i to grzeszników
+wszelkiego rodzaju, nie pod warunkiem jakiejś poprzedzającej sprawie­dliwości,
+ale dlatego, że wierzą całym sercem w to, co Bóg dla nich uczynił - że już
+pojednał ich i przyjął w Chrystusie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy podkreślali to, że słowa
+„usprawiedliwić” i „usprawiedliwienie” są terminami prawno-sądowymi,
+powiązanymi ściśle z ideą procesu sądowego (5Mojż.25,1; lKról.8,32; lKor.4,3.4;
+Mat.12,37; Rzym.3,4). Słowa te oznaczają oświadczenie i orzeczenie sądu Bożego
+o prawnej postawie wobec Boga człowieka wierzącego. „Usprawiedliwienie” samo w
+sobie nie oznacza zmiany w człowieku, lecz Boże oświadczenie o nim.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Boże „usprawiedliwienie” nie oznacza
+faktycznego uczynienia wierzącego człowieka sprawiedliwym w jego empirycznej
+rzeczywistości, ale znaczy uznanie go za sprawiedliwego. I Bóg czyni to dla
+wierzącego grzesznika jeszcze zanim zostanie on uświęcony przez Ducha Świętego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Paweł ilustruje to na przykładzie
+Abrahama:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... Jak napisano: Ustanowiłem cię ojcem
+wielu narodów, obietnica zapewniona przed Bogiem, któremu zaufał, który ożywia
+umarłych i który to, czego nie ma, powołuje do bytu" (Rzym.4,17).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg nie nazwał Abrahama ojcem po
+urodzeniu się Izaaka, ale jeszcze wówczas, gdy Sara była niepłodna. Abraham na
+podstawie wiary, a nie empirycznej rzeczywistości, przyjął to, że został ojcem,
+gdyż tak było powiedziane w Słowie Bożym. . W ten sam sposób i my mamy wierzyć,
+gdy ewangelia zwiastuje nam, ze staliśmy się sprawiedliwymi w Chrystusie.. Gdy
+będziemy zastanawiać się jakimi jesteśmy, wiara nasza zacznie się chwiać,
+podobnie jak chwiałaby się wiara Abrahama, gdyby rozmyślał o obumarłym ciele
+swoim i swojej żony. Dlatego w usprawiedliwieniu Bóg „to, czego nie ma,
+powołuje do bytu”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W ten sposób wierzący może spolegać
+tylko na łaskawym orzeczeniu Bożym. Według Bożego uznania człowiek wierzący
+przedstawia moralnie wyższą wartość niż istoty anielskie, które nigdy nie
+zgrzeszyły. Ale zdaje on sobie sprawę, że sam w sobie nie jest takim, jakim
+ukazuje się przed Bogiem w swoim wywyższonym Zastępcy. W rzeczywistości jego
+natura jest ciągle grzeszna i im bliżej przychodzi on do Chrystusa, tym
+bardziej widzi się grzesznym. To czyni go pokornym i w zupełności za­leżnym od
+swego Zastępcy, w którym jest on całkowicie sprawiedliwy i godny przyjęcia w
+oczach Bożych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">l/. Die Concise Oxford Dictionary<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;text-transform:
+uppercase;mso-ansi-language:EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">SPRAWIEDLIWOŚĆ,KTÓRA
+JEST Z WIARY<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Największym spośród nauczycieli, jakich
+wydała ludzkość był Apostoł Paweł. Jemu to powierzył Bóg naukę o
+sprawiedliwości. Zrozumieniem tej ewangelicznej prawdy uprzedzał on wszystkich
+pozostałych apostołów. Gdy Reformatorzy usiłowali wyzwolić się z rzymskich
+ciemności, jedynie pisma Pawła mogły przynieść pożądane wybawienie.. To właśnie
+jego jasne wypowiedzi na temat sprawiedliwości, która jest z wiary, dały
+początek Reformacji: <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„I otrzymał Abraham znak obrzezania,
+jako pieczęć usprawiedliwiania z wiary...” (Rzym.4,11).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ale nie na podstawie zakonu była dana
+obietnica Abrahamowi bądź jego potomstwu, że ma być dziedzicem świata, lecz na
+podstawie usprawiedliwienia z wiary” (Rzym.4,13).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... poganie, którzy nie dążyli do
+sprawiedliwości, sprawiedliwości dostąpili; sprawiedliwości, która jest z
+wiary” (Rzym.9,30).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„A usprawiedliwienie, które jest z
+wiary, tak mówi...” (Rzym.10,6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Albowiem my w Duchu oczekujemy
+spełnienia się nadziei usprawiedliwienia z wiary” (Gal.5,5). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... sprawiedliwość z Boga, na podstawie
+wiary” (Fil.3,9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... Noe...odziedziczył
+usprawiedliwienie, które jest z wiary” (Hbr.11,7).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">CO TO JEST
+SPRAWIEDLIWOŚĆ?<o:p></o:p></span></h6>
+<p class="MsoNormal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W liście do Rzymian, bardziej niż w
+którymkolwiek z pozostałych listów, wyjaśnia Paweł w najpełniejszy sposób
+prawdę o sprawiedliwości, która jest z wiary. Przede wszystkim musimy ustalić,
+co Apostoł rozu­mie przez „sprawiedliwość”. Nie mówi on o sprawiedliwym
+postępowaniu świętych, ani o jakichś cechach świętości, objawianych w ich
+życiu, nawet jeżeli żyją oni sprawiedliwie w tym obecnym, złym świecie. Kiedy
+Paweł mówi o tej zbawczej, usprawiedliwiającej sprawiedliwości, ma na myśli nic
+innego, jak tylko sprawiedliwość samego Boga:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ale teraz niezależnie od zakonu
+objawiona została sprawiedliwość Boża... i to sprawiedliwość Boża przez wiarę w
+Jezusa Chrystusa dla wszystkich wierzących” (Rzym.3,21.22).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sprawiedliwość Boża jest do tego stopnia
+nieskończona i niepojęta i tak dalece poza anielskimi możliwościami pojmowania,
+że żaden język niebieski ani ziemski nie może jej opisać. Jednak Bóg objawił ją
+i przedstawił w Ewangelii – w swoim ukrzyżowanym Synu:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Albowiem nie wstydzę się ewangelii
+Chrystusowej, jest ona bowiem mocą Bożą ku zbawieniu każdego, kto wierzy,
+Żydowi najpierw, potem i Grekowi. Bo usprawiedliwienie Boże w niej bywa
+objawione" (Rzym 1,16.17).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„I są usprawiedliwieni darmo z łaski
+jego, przez odkupienie w Chrystusie Jezusie, którego Bóg ustanowił jako ofiarę
+przebłagalną przez krew jego, skuteczną przez wiarę, dla okazania
+sprawiedliwości swojej przez to, że w cierpliwości Bożej przepuścił przedtem
+popełnione grzechy, dla okazania sprawiedliwości swojej w teraźniejszym czasie,
+aby On sam był sprawiedliwym i usprawiedliwiającym tego, który wierzy w
+Jezusa”(Rzym 3,24-26).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Chrystus, wisząc na krzyżu za
+grzeszników, jest Ewangelią. Przez ten akt Bóg objawił aniołom i ludziom swoją
+sprawiedliwość.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">SPRAWIEDLIWOŚĆ
+BOŻA<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg, ofiarowując swego Syna aby umarł za
+grzesznych ludzi, ofiarował dla ich usprawiedliwienia swoje własne życie i
+sprawiedliwość. A to dlatego, ponieważ w Jezusie zawierało się życie Ojca, co
+więcej pełnia życia Ojca. Jezus mógł powiedzieć:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Wszystko, co ma Ojciec, moje jest” (Jan
+16,l5). A Paweł oświadczył: „Ponieważ upodobał sobie Bóg, żeby w nim
+zamieszkała cała pełnia boskości... W którym ukryte są wszystkie skarby
+mądrości i poznania...Gdyż w nim mieszka cieleśnie cała pełnia boskości...”
+(Kol.1,19; 2,3.9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jezus Chrystus był doskonały, i to
+nieskończenie doskonały. Życie jego przedstawiało nieskończoną wartość,
+ponieważ był On ucieleśnieniem boskiego życia i Sprawiedliwości. Poszedł On na
+krzyż i dobrowolnie oddał swoje życie o nieskończonej wartości za
+bezwartościowe życie grzesznych ludzi. Jezus był klejnotem niebiańskiego
+skarbca, nagromadzoną miłością i bogactwem wieczności, pełnią sprawiedliwości
+Bożej. Usiłując zrozumieć ewangelie przy pomocy naszych ograniczonych umysłów,
+przypatrujemy się największej we wszechświecie rzeczy – sprawiedliwości samego
+Boga. I to właśnie dzięki Jego sprawiedliwości, pełni Jego sprawiedliwości,
+grzesznicy bywają usprawiedliwieni.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Raz jeszcze postawmy pytanie: Dzięki
+czyjej sprawiedliwości są grzesznicy usprawiedliwieni? Jedynie dzięki
+sprawiedliwości Bożej. A ile sprawiedliwości Bożej potrzeba, żeby
+usprawiedliwić grzeszników? Potrzeba całej! Taka jest wartość ofiary dokonanej
+na Golgocie. Jeżeli można byłoby zebrać całą sprawiedliwość wszystkich aniołów
+i świętych i zsumować ją, to byłaby ona niczym w porównaniu z niepojętą i
+nieskończoną sprawiedliwością, jaka okazana została dla zbawienia niegodnych
+grzeszników. I to jest sprawiedliwość dla wszystkich tych, którzy wierzą w
+Jezusa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">USPRAWIEDLIWIONY
+PRZEZ PRZYPISANIE SPRAWIEDLIWOŚCI<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Skoro już rozumiemy prawdę, iż
+usprawiedliwienie dokonuje się dzię­ki sprawiedliwości Bożej i że wymaga ono
+jej zupełności, możemy doce­nić Pawiową naukę o usprawiedliwieniu przez przypisanie
+sprawiedliwości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wielki błąd rzymskiego katolicyzmu
+polega na zrozumieniu, że grzesznik może zostać usprawiedliwiony dzięki
+posiadanej, wlanej weń sprawiedliwości. Tak jak gdyby cała chwała i ogrom
+sprawiedliwości Bożej mogły być sprowadzone do jakiegoś wewnętrznego
+doświadczenia ludz­kiego. W jaki sposób mogłaby mała świątynia ludzka pomieścić
+ogólną sumę nagromadzonych skarbów wieczności? Duch antychrysta usiłuje w ten
+sposób sprowadzić niewysłowiony dar Boży (2Kor.9,15) do czegoś, co nie jest większe
+niż małe doświadczenie ludzkie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Spróbujmy wyobrazić sobie, że
+znaleźliśmy się nad brzegiem potężnej Amazonki, oszołomieni bezmiernym ogromem
+jej nieustającego nurtu. Spra­gnieni, schodzimy w dół, by małym naczyniem
+zaczerpnąć trochę wody. Czy bylibyśmy na tyle nierozsądni, aby myśleć, iż
+potrafimy wypić całą rzekę? A przecież Amazonka jest tylko czymś maleńkim na
+tym punkciku świata, który jest zaledwie kropeczką, w naszym układzie
+słonecznym; a z kolei nasz układ słoneczny jest tylko plamką, pośród wielu
+galak­tyk wszechświata. Ale ponad tym wszystkim jest potężny, większy niż
+wszystko Bóg i jego sprawiedliwość. I nawet dziesięć tysięcy rzek, ta­kich jak
+Amazonka, może tylko słabo i niewyraźnie ukazać potęgę Jego sprawiedliwości.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">A jednak cała jej pełnia, niby potężny
+strumień łaski, wylana zos­tała dla naszego usprawiedliwienia. I potrzeba było
+bez reszty jej pełni, żeby mnie, grzesznika, usprawiedliwić. Gdybym miał zostać
+uspra­wiedliwiony poprzez wlanie sprawiedliwości, stanął bym wobec czegoś o wiele
+bardziej niemożliwego, niż wypicie całego miliona podobnych do Amazonki rzek.
+Pamiętać należy, że obdarowanie mnie sprawiedliwością wobec Boga wymaga całego
+strumienia łaski Bożej. To też nigdy nie byłbym zdolny pomieścić go w obrębie
+własnego doświadczenia wystarczająco tyle, aby zostać usprawiedliwionym. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Powiedzmy, że dowiedzieliśmy się o
+odziedziczeniu spadku w postaci 30 bilionów dolarów. Czy pobieglibyśmy z dwiema
+walizkami, aby podjąć te pieniądze? Nie, gdyż byłoby tego tak dużo, że
+moglibyśmy je tylko złożyć na swoim koncie w banku. Podobnie Boży dar
+sprawiedliwości w Jezusie Chrystusie jest tak niemożliwy do pojęcia i tak
+ogromny, że Bóg zalicza go na korzyść tego, kto wierzy i przyjmuje Jezusa jako
+osobistego Zbawiciela. Świątynia ludzka jest o wiele za mała, za bardzo
+ograniczona, żeby mogła pomieścić całe bezmierne bogactwo łaski Bożej, którą
+jednak Bóg darmo i w całości przypisuje dla usprawiedliwienia wierzącego
+człowieka:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Gdy zaś kto nie spełnia uczynków, ale
+wierzy w Tego, który usprawiedliwia bezbożnego, wiarę jego poczytuje mu się za
+sprawiedliwość, jak i Dawid nazywa błogosławionym człowieka, któremu Bóg
+udziela usprawiedliwienia, niezależnie od uczynków...” (Rzym.4,5.6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">SPRAWIEDLIWOŚĆ
+WIERZĄCEGO JEST W NIEBIE<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ponieważ mała świątynia ludzka nie może
+pomieścić całej sprawiedliwości Bożej, zupełnie niemożliwe jest, ażeby być
+usprawiedliwionym przez sprawiedliwość „wewnętrzną”. Tylko jedna świątynia jest
+wystar­czająco duża, aby pomieścić tą zbawiającą sprawiedliwość. Jest to świą­tynia
+w niebie (Obj.11,l9). I jest coś jeszcze bardziej wspaniałego - w świątyni tej
+znajduje się Człowiek, w którym zawiera się całość sprawiedliwości Bożej. To
+jest tajemnicą ucieleśnienia. Człowiek ten, to jest Bóg-Człowiek, i „w nim
+mieszka cieleśnie cała pełnia boskości” (Kol.2,9). Dlatego nasza sprawiedliwość
+może znajdować się tylko w Nim (zob. Iz.45,24).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sprawiedliwość, przez którą człowiek
+wierzący może być usprawiedliwiony wobec Boga, jest rzeczą najpewniejszą,
+dzięki temu, że znajduje się w niebie i tylko w jednym Człowieku.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Istotnie, Chrystus sam jest
+usprawiedliwieniem świętych, jak oświa­dcza prorok Jeremiasz: „... a on nazwany
+będzie: Pan jest sprawiedli­wością naszą” (Jer.23,6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sprawiedliwość, która usprawiedliwia nie
+znajduje się na ziemi, lecz miliony lat świetlnych stąd. Nie znajdziemy jej
+nigdy w człowieku wierzącym, ale zawsze pozostaje ona na zewnątrz, poza nim.
+Sprawiedliwość która jest<i style="mso-bidi-font-style:normal"> z</i> wiary,
+nie usiłuje sprowadzić sprawiedliwości tej na ziemię (Rzym.10,6), ale słowo
+wiary, zwiastowane przez Ewangelię, czy­ni człowieka zdolnym, żeby uwierzył „ku
+usprawiedliwieniu” (Rzym 10,10). Wiara wznosi się ponad tę ziemię, wchodzi do
+samego nieba i - chwyta­jąc się owego Człowieka po prawicy Bożej - oświadcza:
+„Oto moja spra­wiedliwość”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg złożył łaskawie skarb naszej
+sprawiedliwości w niebie. Jest to skarb, którego ani mól ani rdza nie mogą
+naruszyć, którego nie może ukraść złodziej. Sprawiedliwość ta jest wypróbowana
+i doświadczona. Nie może ona nigdy wygasnąć, gdyż jest wieczna. Jedynie co nam potrze­ba,
+to wierzyć w nią. Jeżeli wiarą uchwycimy się tego niebiańskiego skarbu,
+przyjdzie dzień, kiedy Bóg zabierze nas tam, gdzie znajduje się nasza
+sprawiedliwość. Tymczasem musimy zadowolić się posiadaniem jej tylko przez
+wiarę. Jeżeli zaś przeciwnie, podążymy za myśleniem antychrysta, usiłując
+sprowadzić tę sprawiedliwość na ziemię, Bóg po­zostawi nas na tej ziemi,
+żebyśmy zginęli razem z człowiekiem grzechu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">REFORMACYJNA
+KONCEPCJA USPRAWIEDLIWIENIA PRZEZ WIARĘ<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Naukę Pawła o usprawiedliwieniu przez wiarę
+objawił Bóg Marcinowi Lutrowi, znacząc w ten sposób ścieżkę, prowadzącą z
+rzymskich ciemności. Jego to głos odnośnie usprawiedliwienia przez wiarę okazał
+się najwyraźniejszym w chrześcijaństwie, od czasów Apostoła Pawła. Luter
+powiedział:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Taka jest zatem cudowna definicja
+sprawiedliwości chrześcijańskiej: jest to boskie przypisanie, lub zaliczenie
+sprawiedliwości, albo do sprawiedliwości z powodu wiary w Chrystusa, lub ze
+względu na Chrystusa. U sofistów definicja ta wzbudza śmiech, gdyż wyobrażają sobie,
+że sprawiedliwość jest czymś w rodzaju pewnej cechy, która bywa, wlana w duszę,
+a następnie rozprzestrzeniona na wszystkie pozos­tałe części człowieka...
+Dlatego ów niewysłowiony dar przewyższa wszelkie zrozumienie: Bóg poczytuje i
+uznaje sprawiedliwym bez żad­nych uczynków, tego kto jedynie wiarą przyjmuje
+jego Syna”. <b>1/</b><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Kiedy strwożona dusza Bunyan'a usłyszała głos: „Sprawiedliwość twoja
+jest w niebie”, został on uwolniony z ciemności i wstąpił w światłość
+usprawiedliwienia przez wiarę. Dusza ta, która w Bedfordzkim wiezieniu
+oddychała atmosferą samego nieba, wyraziła te same myśli, co Marcin Luter. A
+oto co napisał Bunyan:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jest to naprawdę tajemnicą jedną z
+największych na świecie, że sprawiedliwość znajdująca się osobiście w niebie,
+ma usprawiedli­wić mnie grzesznika na ziemi.” <b>2/</b><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">„Oczywiste jest, że sprawiedliwość te, nawet wówczas gdy stajemy
+sprawiedliwymi przed Bogiem, znajduje się w osobie Chrystusa i przy Chrystusie,
+gdyż powiedziane jest, że będąc usprawiedliwionymi, je­steśmy usprawiedliwieni
+„w Nim”: „W Panu usprawiedliwione będzie... całe potomstwo Izraela” oraz:
+„Zaprawdę, w Panu mam sprawiedliwość” oraz: „Ale wy dzięki Niemu jesteście w
+Chrystusie Jezusie, który stał się dla nas mądrością od Boga i
+sprawiedliwością...” (Iz.45,24 25; 1Kor.1,30).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Zauważ, że sprawiedliwość jest stale „w
+Nim”, a nie „w nas”; nawet wówczas, gdy staliśmy się uczestnikami wypływającego
+z niej dobra. W tym samym czasie, gdy kurczęta kryją się i czują ciepło pod
+skrzyd­łami matki, to sama skrzydła i pióra wciąż są własnością kwoki...”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Bezwzględnie konieczne jest, abyśmy
+wiedzieli o tym, ponieważ jeżeli zrozumienie tej kwestii jest mętne, silna
+wiara staje się nie­możliwością; również w czasie pokusy człowiek taki znajduje
+się w kłopocie, jako że będzie szukał sprawiedliwości potrzebnej do us­prawiedliwienia
+w samym sobie, podczas gdy nie można jej znaleźć nigdzie indziej, lecz tylko w
+Jezusie Chrystusie.” <b>3/</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... Ludzie, będąc grzesznikami sami w
+sobie, nie mogą być usprawiedliwieni przed Bogiem z przekleństwa na podstawie
+żadnej innej sprawiedliwości niż ta, która dawno temu dokonana została przez
+Chrystusa i pozostaje ścisłe związana z Jego osobą... Sprawiedli­wość, dzięki
+której wolni jesteśmy wobec Boga od przekleństwa, do­konana została w osobie
+Jezusa Chrystusa... Sprawiedliwość ta znaj­duje się tylko w Nim...” <b>4/</b><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">„Mając na uwadze to, że będziesz musiał stanąć sprawiedliwy przed
+Bogiem, spójrz na Chrystusa jako człowieka, pośrednika, inicjatora i wykonawcę
+sprawiedliwości w samym sobie; On jest gwarancją i warunkiem ludzi objętych
+Boską opatrznością, gdyż zawsze posiada w sobie sprawiedliwość, która doskonale
+zadośćuczyni prawu i okazuje się zawsze przed Bogiem jako nasza jedyna
+sprawiedliwość”. <b>5/</b><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Sprawiedliwość w Jezusie zaliczona człowiekowi wierzącemu, obdarza go
+doskonalszą postawą wobec Boga niż ta, którą cieszył się Adam w swoim stanie
+bezgrzeszności. Obdarza go postawą wyższą od aniołów, pod­nosi i na szali
+wartości moralnej stawia go na równi z Jezusem Chrystu­sem. Taki jest dar
+usprawiedliwiającej Bożej sprawiedliwości, która przychodzi przez wiarę w
+Jezusa Chrystusa. Znajduje się ona jednak w niebie, nie na ziemi; na zewnątrz
+nas, nigdy wewnątrz, nawet u najbar­dziej świętego; w Jezusie Chrystusie, i w
+nikim innym, tylko w Nim.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">DAR
+DUCHA ŚWIĘTEGO<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ale ktoś mógłby powiedzieć: „Czy nie
+należy wierzyć, że sprawiedliwość powinna być uwidoczniona w charakterze
+ludzkim? Co z uświęceniem wierzącego człowieka?” Oczywiście, wierzymy w
+konieczność wewnętrznej odnowy moralnej człowieka. Chrześcijanie żyją sprawiedliwie
+w tym złym doczesnym świecie. Ale najdoskonalsze cnoty wewnętrzne świętych nie
+mają nic wspólnego z ich usprawiedliwieniem przed Bogiem. Prawo wymaga
+sprawiedliwości o wiele doskonalszej niż ta, jaką znaleźć można w obrę­bie
+wszelkiego doświadczenia ludzkiego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Należy zauważyć, co jest bardzo ważne,
+że Paweł nie miesza nigdy zbawczej sprawiedliwości Bożej z dziełem łaski w
+sercach ludzkich. Paweł mówi o dwojakim darze: darze usprawiedliwienia
+(Rzym.5,17) oraz darze Ducha (Rzym.5,5). W liście do Rzymian Paweł wykazuje, że
+dar sprawiedliwości bywa przypisany (zaliczony) a Duch udzielony(wlany). Dar
+usprawiedliwienia stawia wierzącego człowieka w tak korzystnym miejscu, że
+otrzymuje dostęp do daru Ducha Świętego. List do Rzymian 5,1-5 pokazuje, że
+wlanie Ducha w serce jest następstwem usprawiedliwienia, czyli - jak mówi Paweł
+w 8 rozdziale, 10 wierszu - Duch przynosi życie, „ponieważ zostaliście
+usprawiedliwieni” (według tłumacze­nia Nowej Biblii Angielskiej).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Duch bywa zesłany na wierzących jedynie
+na podstawie sprawiedliwości Chrystusa. Darowany jest nie z powodu ludzkich
+zasług, ale z powodu zasługi Chrystusa. Nic, oprócz dzieła i śmierci Chrystusa,
+nie może upoważnić do otrzymywania daru Ducha Świętego. I kiedy grzesznik uchwy­ci
+się wiarą złożonej dlań ofiary Chrystusa, spoczywa na nim sprawie­dliwość Boża.
+Nie tylko ukazuje się on przed Bogiem tak, jak gdyby nigdy nie zgrzeszył, ale
+jest przyodziany w większą doskonałość moral­ną niż anioł Gabriel.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W życiu wierzącego, człowieka Duch
+odtwarza cechy charakteru Chrystusowego. Pobudza go On do wszelkiego rodzaju
+pilności, czyniąc go ochotnym żyć i umrzeć dla swego Mistrza. Ale żadna z tych
+cnót, choćby nawet była doskonała, nie usprawiedliwia człowieka. Są one owocem
+sprawiedliwości wobec Boga, a nie jej przyczyną.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Duch Święty nie przychodzi, aby mówić o
+sobie samym (Jn.16, l3). Dlatego nie znany jego imienia. Przychodzi tylko po
+to, aby wysławiać Chrystusa. Jego sprawą jest budzić wiarę w Jezusa i prowadzić
+wierzącego od jednego stopnia wiary do drugiego (Rzym.l,l7).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Sprawiedliwy żyje przez wiarę w
+sprawiedliwość, która jest w górze, w niebie, a dziełem Ducha jest wiarę tę
+stwarzać, podtrzymywać i wzmacniać. Im więcej działa Duch wewnątrz wierzącego
+człowieka, tym bardziej prowadzi go do spolegania na tej sprawiedliwości, która
+jest na zewnątrz; poza i ponad nim. Duch nigdy nie prowadzi człowieka do
+spoglądania w kierunku swego własnego doświadczenia. Tak, jak poświa­dcza John
+Bunyan:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jeżeli mówisz, że zbawienie polega na
+posiadaniu Chrystusa w sercu, i jeżeli rozumiesz je inaczej niż jako istniejące
+obiektywnie w Chrystusie, to zamiast stać po Jego stronie, będziesz przeciw
+Niemu; ponieważ Chrystus, Bóg-Człowiek, obiektywnie przyniósł na krzyżu
+zbawienie dla grzeszników i prawdziwa wiara w to, usprawie­dliwi duszę. Dlatego
+ani Chrystus ani Duch Święty będący wewnątrz istoty ludzkiej, nie wypracowuje
+usprawiedliwienia dla duszy w jej wnętrzu, ale wyprowadza ją na zewnątrz niej
+samej, od tego, co może być dokonane wewnątrz jej, i prowadzi do szukania
+zbawienia u tego Człowieka, który obecnie nie przebywa razem ze swymi świętymi
+na ziemi...”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„I rzeczywiście, ci, którzy chcą
+prawdziwie naśladować Chrystusa, muszą naśladować Go, wychodząc poza siebie, do
+krzyża, do usprawiedliwienia na Golgocie. Oznacza to, że muszą szukać
+usprawiedliwienia poprzez Jego całkowite, dokonane obiektywnie i poza nimi
+posłuszeństwo - udając się na zewnątrz, do grobu, do jego zmartwychwstania i
+wniebowstąpienia. A musi się to dokonać dzięki działaniu Jego świętego Ducha,
+danego po to, aby według obietnicy Jezu­sa ukazać im te rzeczy. A więc Duch
+Chrystusowy także prowadzi. Ale dokąd? Prowadzi On - poza nas na zewnątrz - do
+Chrystusa.” <b>6/</b> (Jn.16,13)<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... jeżeli nie uczynisz różnicy
+pomiędzy usprawiedliwieniem dokonanym na zewnątrz przez Człowieka-Chrystusa, a
+uświęceniem powodo­wanym wewnątrz, przez Ducha Chrystusowego... nie będziesz w
+stanie należycie rozumieć Słowa Bożego; wprost przeciwnie, będziesz wypaczał
+Słowo Boże i rzucał przed ludzi kamienie obrazy, i kiedyś, jeżeli się nie
+opamiętasz, cięższą, poniesiesz karę za .swoje nierozsądne<b style="mso-bidi-font-weight:
+normal"> </b>postępowanie.” <b>7/</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prawdziwe uświęcenie, jako akt
+wewnętrzny, jest dla przeżywającego je człowieka w dużym, stopniu niewidoczne i
+niedostrzegalne, Można zilustrować to przykładem ze świata zjawisk: widzimy
+drugich, ale nie możemy zobaczyć samych siebie. Tak też dzieje się w sferze
+ducha .Do nas należy przyglądać się Chrystusowi, cieszyć się, że On jest naszą
+sprawiedliwością i poprzestawać na tym, iż jego sprawiedliwość jest całkowicie
+wystarczająca.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><i style="mso-bidi-font-style:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">„Jest
+to naprawdę tajemnicą jedną z największych na świecie,</span></i><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"> że s<i style="mso-bidi-font-style:normal">prawiedliwość, znajdująca się osobiście w
+niebie, ma usprawiedliwić mnie grzesznika na ziemi.” <o:p></o:p></i></span></p>
+<p class="MsoNormal" style="line-height:normal"><i style="mso-bidi-font-style:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US"><span style="mso-spacerun:
+yes">                                                     </span><span style="mso-tab-count:2">                        </span><span style="mso-tab-count:
+2">                        </span><span style="mso-tab-count:1">            </span>JOHN
+BUNYAN</span></i><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black;mso-ansi-language:EN-US">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">l/. What Luther says, compiled by Ewald M.Plass,t.III, s.1229-1230 <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:1.0cm;text-indent:-14.15pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">2/. Justification by an imputed
+righteousness, Reiner Publications, Swengel, Penn. l967 <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">3/. tamże<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">4/. tamże, s. 60<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">5/. tamże, s. 70<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:1.0cm;text-indent:-14.35pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">6/. The Riches of Bunyan, The American
+Tract Society, New York 1850, s. 142-143 <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">7<b style="mso-bidi-font-weight:normal">/</b>.
+tamże, s. 140<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">USPRAWIEDLIWIENIE
+GRZESZNIKÓW<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Głównym punktem spornym pomiędzy
+teologami rzymsko-katolickimi a reformatorami był wzajemny stosunek
+usprawiedliwienia i odrodzenia. Katolicy mówili, że odrodzenie jest nieodzownym
+warunkiem usprawiedli­wienia. Reformatorzy nauczali, że odrodzenie jest
+bezpośrednim następ­stwem i owocem usprawiedliwienia.<o:p></o:p></span></p>
+</div>
+<span style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";color:black;text-transform:uppercase;
+mso-ansi-language:PL;mso-fareast-language:PL;mso-bidi-language:AR-SA;
+layout-grid-mode:line'><br clear="all" style="page-break-before:auto;mso-break-type:
+section-break"/>
+</span>
+<div class="Section4">
+<p class="MsoBodyTextIndent" style="line-height:normal"><span style="font-size:
+11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent" style="line-height:normal"><span style="font-size:
+11.0pt;mso-bidi-font-size:10.0pt;color:black">KOŚCIÓŁ RZYMSKO-KATOLICKI<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:18.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l0 level1 lfo6;tab-stops:list 18.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">-<span style='font:7.0pt "Times New Roman"'>         
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Odrodzenie jako nieodzowny warunek usprawiedliwienia. <o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h3 style="line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">REFORMACJA<o:p></o:p></span></h3>
+<p class="MsoNormal" style="margin-left:21.75pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l6 level1 lfo9;tab-stops:list 21.75pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">-<span style='font:7.0pt "Times New Roman"'>         
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Odrodzenie jako bezpośrednie następstwo i owoc usprawiedliwienia<o:p></o:p></span></p>
+</div>
+<span style='font-size:11.0pt;mso-bidi-font-size:10.0pt;font-family:"Times New Roman";
+mso-fareast-font-family:"Times New Roman";color:black;mso-ansi-language:PL;
+mso-fareast-language:PL;mso-bidi-language:AR-SA;layout-grid-mode:line'><br clear="all" style="page-break-before:always;mso-break-type:section-break"/>
+</span>
+<div class="Section5">
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Wielu ludzi
+obecnie nie ma wystarczająco jasnego pojęcia o potężnych zdobyczach Reformacji.
+Nie tylko, że mieszają oni usprawiedliwienie nie z odrodzeniem, ale niektórzy
+wyobrażają sobie nawet, że zanim Bóg będzie mógł usprawiedliwić wierzącego w
+Jezusa, musi nastąpić odrodzenie serca i przekształcenie charakteru.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeżeli chrześcijanin nie zdaje sobie z
+tego jasno sprawy, jego wia­ra nie może być zdrową. Dlatego powinniśmy
+przeanalizować dowody ze Słowa Bożego - dowody, które wykażą jasno, że Bóg
+usprawiedliwia lu­dzi wtedy, gdy sami w sobie są (oni), jeszcze grzesznikami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">APOSTOŁ
+PAWEŁ<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">List do Rzymian jest natchnioną rozprawą
+na temat usprawiedliwie­nia. Tutaj ten problem wyłożony jest w
+najdokładniejszym i logicznym porządku. W pięciu punktach wykazuje Paweł, że
+ludzie bywają usprawiedliwieni wówczas, gdy są jeszcze sami w sobie
+grzesznikami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l11 level1 lfo10;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">1.<span style='font:7.0pt "Times New Roman"'>      
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">Bóg usprawiedliwia bezbożnego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Na samym
+początku Paweł przedstawia prawdę, że wszyscy ludzie są grzesznikami. W
+rozdziale 3 listu do Rzymian oświadcza,, że wiara jest jedynym warunkiem
+uzyskania usprawiedliwienia. Następnie w rozdziale 4 powiada: „Gdy zaś kto nie
+spełnia uczynków, ale wierzy w tego, który usprawiedliwia bezbożnego, wiarę
+jego poczytuje mu się za sprawiedliwość.” (w.5). Słowo „bezbożny”, użyte w oryginale
+jest jednym z najmocniejszych wyrażeń dla określenia grzesznika. Pismo Św.
+oczywiście przeczy poglądowi, jakoby Bóg usprawiedliwiał tylko odrodzonych
+świętych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">2. Bóg
+usprawiedliwia nieobrzezanych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Aby zilustrować to, że usprawiedliwienie
+staje się udziałem bezboż­nego, który uwierzy Paweł posługuje się przykładem
+Abrahama. Ojciec wierzących usprawiedliwiony został będąc nieobrzezanym.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Czy więc to błogosławieństwo odnosi się
+tylko do obrzezanych, czy też do nieobrzezanych? Mówimy bowiem: Wiara została
+poczytana Abrahamowi za sprawiedliwość. W jakich tedy okolicznościach została
+poczytana? Było to, po obrzezaniu, czy przed obrzezaniem? Nie po obrzezaniu<sup>
+</sup>lecz przed obrzezaniem. I otrzymał znak obrzezania jako pieczęć
+usprawiedliwienia z wiary, którą miał przed obrzezaniem, aby był ojcem
+wszystkich wierzących nieobrzezanych i aby im to zostało poczytane za
+sprawiedliwość.”(Rzym.4,9-11).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W umysłach Żydów nieobrzezanie oznaczało
+stan nieczysty i niepoświęcony. Obrzezanie było symbolem nowego serca (5Mojż.30,6;
+Kol.2,11-13). Tak więc nowe życie jest znakiem i świadectwem błogosławieństw
+wypływających z usprawiedliwienia, a nie przyczyną czy choćby warunkiem tegoż.
+Ewangelia Pawłowa oświadcza, że Bóg usprawiedliwia bezbożnych, nieobrzezanych i
+pogan poprzez wiarę i tylko przez wiarę (Rzym.4,5.10; Gal 3,8).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">3. Bóg to, czego
+nie ma, powołuje do bytu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Mądrość ludzka może postawić pytanie: „w
+jaki sposób może Bóg uznać człowieka za sprawiedliwego, zanim Duch Św. uczyni
+go sprawiedliwym? W taki sposób rozumuje katolik. Paweł wyprzedza te obiekcje i
+ponownie przytacza doświadczenie Abrahama, jako ilustrację Bożej drogi
+usprawiedliwienia: „...Jako napisano: Ustanowiłem cię ojcem wielu narodów,
+obietnica zapewniona przed Bogiem, któremu zaufał, który ożywia umarłych i
+który, to, czego nie ma, powołuje do bytu.” (Rzym.4,17).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg nie dał najpierw Abrahamowi syna, a
+potem ogłosił go ojcem. Uznał go za ojca jeszcze wtedy, gdy jego własne ciało
+oraz żywot Sary były ciągle obumarłe (zob. w.19). Bóg w ten sam sposób uznaje
+wierzącego grzesznika za sprawiedliwego, zanim jeszcze widoczne są owoce nowego
+życia. On „to, czego nie ma, powołuje do bytu”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.2pt;text-indent:-14.2pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">4.
+Nowe serce przepełnione pokojem, radością i miłością jest następstwem
+usprawiedliwienia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.2pt;text-indent:-14.2pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Trudno byłoby wyobrazić sobie coś,
+jaśniejszego niż 5 rozdział lis­tu do Rzymian: <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Usprawiedliwieni tedy z wiary, pokój
+mamy z Bogiem przez Pana naszego, Jezusa Chrystusa, dzięki któremu też mamy
+dostęp przez wiarę do tej łaski, w której stoimy i chlubimy się nadzieją chwały
+Bożej... A nadzieja nie zawodzi, bo miłość Boża rozlana jest w sercach naszych
+przez Ducha Św., który nam jest dany.” (w.1.2.5).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W ten sposób 5 rozdział listu do Rzymian
+zaczyna wyliczać owoce usprawiedliwienia przez wiarę. Nic tak nie powoduję
+odnowy moralnej, jak odczucie przebaczającej miłości Bożej. Jak powiedział
+Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„... kiedy dowiedziałem się, że
+usprawiedliwienie grzesznika wy­pływa jedynie z łaski Bożej, za pośrednictwem
+wiary, to poczułem się jak ożywiony, nowy człowiek i przekroczyłem otwarte
+drzwi samego raju Bożego.” <b>l/</b> <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.2pt;text-indent:-14.2pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">5.
+Dar napełnienia Duchem Świętym może otrzymać jedynie człowiek usprawiedliwiony.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.0pt;text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Paweł mówi o dwojakim darze - darze
+usprawiedliwienia i darze Du­cha (Rzym.5,5.17). Sprawiedliwość bywa zaliczona,
+aby obdarzyć wie­rzącego właściwą postawą wobec Boga: Duch bywa udzielony, aby
+doko­nać w wierzącym odnowy i uświęcenia serca. Jak dowiedzieliśmy się z listu
+do Rzymian 5,1.5; daru Ducha dostępują ci, którzy zostali usprawiedliwieni
+przez wiarę. Dopiero po dokładnym przedstawieniu usprawiedliwienia poprzez
+przypisanie sprawiedliwości Bożej, omawia Paweł w rozdziale 3 szczegółowo
+dzieło Ducha. Duch poświadcza, że usprawie­dliwieni są dziećmi Bożymi
+(Rzym.8,16; por.Ef. 1,13.14). W liście do Galacjan Apostoł oświadcza:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„A Pismo, które przewidziało, że Bóg z
+wiary usprawiedliwia pogan, uprzednio zapowiedziało Abrahamowi: W tobie będą
+błogosławione wszystkie narody. Tak więc ci, którzy są ludźmi wiary, dostępują
+błogosławieństwa z wierzącym Abrahamem.... Chrystus wykupił nas od przekle­ństwa.
+zakonu, stawszy się za nas przekleństwem, gdyż napisano: Prze­klęty każdy,
+który zawisł na drzewie; aby błogosławieństwo Abrahamowe przeszło na pogan w
+Jezusie Chrystusie, my zaś abyśmy obiecanego Ducha otrzymali przez wiarę.”
+(Gal.3,8.9.13.14).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Podobnie apostoł Piotr potwierdza, że
+dar Ducha udzielany bywa ludziom usprawiedliwionym, kiedy mówi: „Upamiętajcie
+się i niechaj się każdy z was da ochrzcić w imię Jezusa Chrystusa na
+odpuszczenie grzechów waszych, a otrzymacie dar Ducha Świętego.” (Dz.Ap.2,38).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prawdą jest, że dopóki Jezus oręduje za
+grzesznikami w świątyni niebieskiej, Duch działa w sercach wszystkich ludzi.
+Tych, którzy odpowiedzą na Jego wezwanie, obdarza Duch wiarą i skruchą. W
+teologii nazywa się to „łaską uprzedzającą” i nie powinno być mieszane z darem
+napełnienia Duchem, co staje się udziałem usprawiedliwionych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ludzie są usprawiedliwieni przez wiarę,
+będąc wciąż jeszcze sami w sobie grzesznikami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">PROROK<span style="mso-spacerun: yes">  </span>EZECHIEL<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„.... Tak mówi Pan, Jahwe do Jerozolimy:
+Z pochodzenia i urodzenia wywodzisz się z Kanaanu - ojciec twój był Amorytą, a
+matka Chetytką. Gdy urodziłaś się, nie ucięto ci pępowiny, nie umyto cię wodą,
+aby cię oczyścić, solą cię nie natarto, ani owinięto cię w pieluchy. Ża­dne oko
+nie użaliło się nad tobą, aby spełnić przez litość do ciebie jedną z tych
+posług. Kiedy urodziłaś się, zostawiono cię porzuconą, na polu przez niechęć do
+ciebie. Kiedy przechodziłem obok ciebie i zobaczyłem cię powalaną we krwi,
+powiedziałem do ciebie, całej we krwi: „Żyj, żyj!”... Wtedy, przechodząc obok
+ciebie, zobaczyłem cię, był to twój czas, czas miłości. Rozciągnąłem więc połę
+mego płaszcza nad tobą i przykryłem nagość twoją. Związałem się z tobą
+przysięgą i zawarłem z tobą przymierze, stałaś się moją, mówi Pan. Obmyłem cię
+wodą, zmyłem z ciebie krew i namaściłem olejkiem.” (Ezech.16,3-6.8.9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jakiż to wspaniały obraz
+usprawiedliwienia grzeszników jedynie z łaski Bożej. Należy zauważyć, jak Bóg
+obmywa grzesznika i namaszcza olejem (Duch Święty), po okryciu go swoją
+sprawiedliwością. Komentując ten fragment Pisma Św. John Bunyan powiada:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Pytanie: Ale jak Święty Bóg mógł
+powiedzieć „żyj” do tak grzesznego ludu?<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Odpowiedź: Chociaż nie mieli oni niczego
+oprócz grzechów, to jednak On miał miłość i sprawiedliwość. Po pierwsze miał
+miłość, aby zlitować się nad nimi, po drugie sprawiedliwość, aby okryć nią ich.
+„Wtedy przechodząc obok ciebie, zobaczyłem cię, był to twój czas, czas
+miłości.” (Ezech.16,8). Co dzieje się potem? <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l9 level1 lfo14;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">1.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">„Rozciągnąłem
+połę mego płaszcza nad tobą”, i <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l9 level1 lfo14;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">2.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>„przykryłem nagość twoją”, tak <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l9 level1 lfo14;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">3.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>„związałem się z tobą przysięgą” oraz <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:32.0pt;text-indent:-18.0pt;line-height:
+normal;mso-list:l9 level1 lfo14;tab-stops:list 32.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">4.<span style='font:7.0pt "Times New Roman"'>       </span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>„zawarłem z tobą przymierze” i <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.0pt;text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">5.<span style="mso-spacerun: yes">      </span>„stałaś się moją”. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.0pt;text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:14.0pt;text-indent:14.35pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Moja
+miłość zlitowała się nad tobą; mój płaszcz okrył cię. Bóg uwolnił ich od
+przekleństwa w swoich oczach. Następnie „obmyłem cię wodą” (potem jak zostałeś
+usprawiedliwiony); tak, dokładnie „zmyłem z ciebie krew i namaściłem cię
+olejkiem” (w.9). Tak więc uświęcenie jest następstwem, poprzedza je
+usprawiedliwienie - przez ten fragment Pisma Duch Św. zwiastuje synom ludzkim
+życie i niezasłużoną łaskę, podczas gdy są oni sami w sobie grzesznikami. To
+znaczy wtedy, gdy są oni nie obmytymi, nie okrytymi, nie natartymi solą,
+powalanymi krwią grzesznikami; ponieważ słowa: „nie obmyty, nie natarty solą,
+nie owinięty”" oznajmiają ich niepoświęcony stan. Tak, byli oni nie tylko
+niepoświęconymi, ale także odrzuconymi, gdyż nie doznali litości dla swoich
+odrażających istot; naprawdę „żadne oko nie użaliło się, nad nimi, aby spełnić
+dla nich, którąś z tych przysług”, niczyje oko oprócz oka Tego, którego
+wspaniała łaska jest niezbadaną; niczyje oko, oprócz oka Tego, który mógł
+patrzeć i kochać; wszyscy inni patrzeli i czuli odrazę, ale błogosławiony Bóg,
+który tego dnia, gdy tarzaliśmy się we własnej krwi, przeszedł obok nas. Niech
+będzie błogosławiony Bóg za szatę jego cudownej sprawiedliwości, którą okrył
+nas, gdy leżeliśmy przed nim nadzy i we krwi. On umiłował nas wówczas, gdy
+byliśmy zbroczeni własną krwią; gdy broczyliśmy krwią, powiedział: „Żyj!”.
+Dlatego „ludzie bywają usprawiedliwieni w oczach Bożych, będąc sami w sobie
+grzesznikami.” <b>2/</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">DROGA BOSKIEGO
+PRZEBACZENIA<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Bóg, zgodnie z ewangelicznym
+zwiastowaniem o zbawiającej łasce, przebacza raczej grzesznikom niż
+przekształconym, odrodzonym świętym. Jednak według nauki rzymsko-katolickiej,
+grzesznik nie może uzyskać przebaczenia, dopóki nie stanie się nowym
+stworzeniem. W ten sposób biedny grzesznik nie może uchwycić się niezasłużonego
+daru boskie­go, przebaczenia, ponieważ przyglądając się sobie, nigdy nie może
+być pewny czy został przekształcony na tyle, żeby mógł zostać przyjęty przez
+Boga. Tego rodzaju walka miała miejsce w sercu Lutra, który skarżył się: „Skąd
+mogę wiedzieć, że Bóg przebacza mi, skoro w moim sercu nie ma niczego, co
+przypominałoby prawdziwe nawrócenie?” Ale gdy tylko pojął łaskawe przebaczenie
+Boże, darowane niegodnemu grzesznikowi, doznał pokoju, radości i miłości
+odrodzonego życia. Wielkim złem „tajemnicy nieprawości” jest to, że przedstawia
+owoce i następstwa usprawiedliwienia jako środki do uzyskania tegoż.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Piękną ilustracją wzajemnego stosunku
+usprawiedliwienia i odnowionego życia jest odpuszczenie grzechów i uzdrowienie
+sparaliżowanego dokonane przez Jezusa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„A Jezus, ujrzawszy wiarę ich, rzekł
+paralitykowi: Synu, odpuszczone są grzechy twoje. A byli tam niektórzy z
+uczonych w Piśmie; ci siedzieli i rozważali w sercach swoich: Czemuż ten tak
+mówi? On bluźni. Któż może grzechy odpuszczać oprócz jednego, Boga? A Jezus
+zaraz poznał w duchu swoim, że tak myślą w sobie i rzekł im: Czemuż tak
+myślicie w sercach swoich? Cóż jest łatwiej, rzec paralitykowi: odpuszczone są
+ci grzechy, czy rzec: wstań, weź łoże swoje i chodź? Lecz abyście wiedzieli, że
+Syn Człowieczy ma moc odpuszczać grzechy na ziemi, rzekł paralitykowi: Tobie
+mówię; wstań ,weź łoże swoje i idź do domu swego. I wstał, i zaraz wziął łoże i
+wyszedł wobec wszystkich, tak iż się wszyscy zdumiewali i chwalili Boga, i
+mówili: nigdyśmy nic podobnego nie widzieli.” (Mk.2,5-12).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Przywrócenie do zdrowia chorego
+człowieka było znakiem albo pieczęcią usprawiedliwienia, które otrzymał on
+przez wiarę (por. Rzym.4,10.11). Ten cud był manifestacją mocy Jezusa, zdolnej
+przywrócić duszom sparaliżowanym przez grzech, odrodzenie i odnowę życia.
+Ukazuje on, że przebaczenie i odrodzenie nie mogą nigdy być rozdzielone, ale
+też nie wolno ich ze sobą mieszać. Sparaliżowany człowiek dostąpił najpierw
+odpuszczenia grzechów, a następnie przywrócony został do tężyzny nowego życia.
+Mamy tu zobrazowaną ewangelię: dusza sparaliżowana przez grzech dostępuje,
+najpierw przebaczenia, a potem przywrócona bywa do duchowego zdrowia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">NAUKA
+PŁYNĄCA ZE SŁUŻBY W ŚWIĄTYNI<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Skoro tylko pokutujący Izraelita
+przekroczył „drzwi dziedzińca” i wszedł na teren świątyni, otoczony był ze
+wszystkich stron przez białe tkaniny zewnętrznego ogrodzenia podwórza. Było to
+obrazowym przedstawieniem zaliczonej sprawiedliwości Jezusowej. Grzesznik, z
+chwilą przestąpienia drzwi wiary i skruchy, zostaje usprawiedliwiony przez
+sprawiedliwość Bożą. Znamiennym jest fakt, że ołtarz dla ofiar całopalnych oraz
+umywalnia znajdowały się w obrębie dziedzińca. To poucza nas, że błogosławieństwa
+wypływające z przymierza mogą być znalezione tylko w Chrystusie. Poza nim nie
+można znaleźć niczego. Grzesznicy, zanim uczynią cokolwiek innego, muszą
+natknąć się na Chrystusa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Gdyby Bóg chciał pokazać nam, że zanim
+będziemy mogli spotkać Chrystusa, musimy pozbyć się grzechu, poleciłby
+Mojżeszowi umieścić, ołtarz i umywalnię na zewnątrz dziedzińca. Tak właśnie
+czynią ci, którzy uczą, że zanim Bóg będzie mógł okryć ludzi swoją
+sprawiedliwością, muszą oni doznać odrodzenia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">REFORMATORZY<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy nie byli pozbawieni błędów
+przy ich pojmowaniu prawdy. Bóg jednak udzielił im światła, co do
+usprawiedliwienia przez wiarę, i chociaż różnili się w pewnych punktach,
+wszyscy oni byli zgodni, gdy chodziło o naukę o usprawiedliwieniu - ten punkt oparcia
+dla Reformacji protestanckiej. Poświadczyli oni zgodnie prawdę, że Bóg usprawie­dliwia
+ludzi wówczas, gdy są oni jeszcze sami w sobie grzesznikami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Andreas Osiander odszedł od Lutra i
+postawy reformacyjnej względem usprawiedliwienia. Pomieszał on usprawiedliwienie
+z odrodzeniem i utrzymywał, że ludzie stają się sprawiedliwymi przez
+zamieszkanie w nich Chrystusa z jego zupełną sprawiedliwością.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy rozpoznali, że nauka
+Osiandra stanowi w zasadzie nawrót do doktryny rzymsko-katolickiej. Jan Kalwin
+w swoich „Zasadach re­ligii chrześcijańskiej” <b>3/</b> poświęca jeden ustęp na
+obalenie teologicznych poglądów Osiandra, gdzie między innymi pisze:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„6. Osiander błędnie miesza przebaczenie
+grzechów z odrodzeniem. Aby udowodnić pierwszy punkt - że Bóg usprawiedliwia
+nie tylko na podstawie przebaczenia, ale także i odrodzenia - zapytuje on, czy
+Bóg pozostawia tych, których usprawiedliwił, takimi jakimi byli z natury, nie
+zmieniając żadnej z ich wad. Odpowiedź na to jest niezmiernie łatwa: jak
+Chrystus nie może być podzielony na części, tak samo nierozdzielne są te dwie
+rzeczy które w nim razem połączone otrzy­mujemy - a mianowicie: sprawiedliwość
+i uświęcenie. Dlatego kogo­kolwiek Bóg z łaski przyjmuje tego równocześnie
+obdarowuje du­chem synostwa, przez moc którego przekształca go na swoje
+podobień­stwo. Czy dlatego, że jasności słonecznej nie da się oddzielić od jego
+gorąca będziemy twierdzić, iż ziemia jest ogrzewana jego światłem, lub
+oświecana przez jego żar? Czy może być jeszcze jakieś lepsze porównanie? Słonce
+ożywia ziemię swoim ciepłem i czyni ją urodzajną, swoimi promieniami rozjaśnia
+ją i oświeca. Mamy tu. do czy­nienia z wzajemnym i nierozdzielnym powiązaniem.
+Nawet sam rozum nie pozwala nam przenosić tych jakości jednej nad drugą.
+Podobny absurd zawiera się w pomieszaniu dwóch rodzajów łaski, jakie narzuca
+nam Osiander. Tak więc, ponieważ Bóg dla zachowania sprawiedliwości od­nawia
+tych, których darmo uznaje za sprawiedliwych, Osiander miesza ów dar odrodzenia
+z łaskawym przyjęciem i utrzymuje, że są one jed­nym i tym samym. A jednak
+Pismo Św., nawet jeżeli je łączy z sobą, zawsze wymienia je oddzielnie, aby
+ukazać nam lepiej wieloraką łas­kę Bożą. Nie bezcelowe bowiem jest stwierdzenie
+Pawła, że Chrystus ofiarowany został dla naszego usprawiedliwienia i uświęcenia
+(lKor.1,30). I wielokroć wnioskuje on na podstawie zjednanego dla nas zba­wienia,
+na podstawie Bożej miłości ojcowskiej oraz łaski Chrystusa, że wezwani jesteśmy
+do świętości i czystości, dowodzi jasno, że być usprawiedliwionym znaczy coś
+innego, niż zostać uczynionym nowym stworzeniem.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jan Wesley, który kładł duży nacisk na
+świętość życia, stał jednak razem z Reformatorami na gruncie właściwego
+stosunku usprawiedliwie­nia i odrodzenia:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Jeżeli którekolwiek z wszystkich
+doktryn chrześcijańskich można by słusznie nazwać fundamentalnymi, byłyby nimi
+bez wątpienia dwie: nauka o usprawiedliwieniu oraz nauka o odrodzeniu; pierwsza
+odnosi się do wielkiego dzieła Bożego dla nas, w przebaczeniu grzechów; druga -
+do wielkiego dzieła Bożego w nas, przez odnowienie naszej upadłej natury. Co do
+czasu, żadna z nich nie wyprzedza drugiej - z chwilą usprawiedliwienia z łaski
+Bożej, przez odkupienie, które jest w Jezusie, jesteśmy również „narodzeni z
+Ducha”, ale gdy chodzi o myślenie i sposób definiowania, usprawiedliwienie
+poprzedza odrodzenie. Najpierw pojmujemy Jego gniew i odwracamy się od złego, a
+następnie otrzymujemy Jego Ducha, aby oddziaływał na nasze serca.” <b>4/</b><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Gdyby Wesley nie posiadał jasnego zrozumienia kwestii
+usprawiedliwienia, nie mógłby kazać ku nawracaniu się tysięcy grzeszników. Zoba­czmy
+w jaki sposób kończy on wspaniałe kazanie na temat usprawiedli­wienia:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Bezbożny, nędzny, bezsilny i
+nieszczęsny grzeszniku, który słu­chasz tych słów, lub je czytasz, wzywam cię w
+obecności Boga, Sę­dziego wszystkich, abyś udał się z całą twą bezbożnością
+prosto do niego. Uważaj abyś nie zniszczył swojej duszy przez powoływanie się w
+większym lub mniejszym stopniu na swoją sprawiedliwość. Idź, jako całkowicie
+bezbożny, obarczony winą, zgubiony, zrujnowany, za­sługujący na piekło i
+nieuchronnie zdążający tam; i wówczas znaj­dziesz łaskę w jego oczach i dowiesz
+się, że On usprawiedliwia bez­bożnego. Jako taki - jako zrujnowany, bezsilny i
+potępiony grzesz­nik - dostąpisz pokropienia krwią. Spojrzyj na Jezusa! Oto
+Baranek Boży, który gładzi twoje grzechy! Nie odwołuj się do żadnych uczyn­ków,
+ani własnej sprawiedliwości! Ani do pokory, ni do skruchy czy szczerości! Pod
+żadnym pozorem! Nie, odwołaj się jedynie do krwi przymierza, jako okupu
+złożonego za twoją dumną, upartą, grzeszną duszę. Kim jesteś ty, który siedzisz
+teraz i czujesz zarówno swoją wewnętrzną jak i zewnętrzną bezbożność? Jesteś
+człowiekiem! Chce ciebie dla mojego Pana! Wzywam cię, abyś przez wiarę stał się
+dzie­cięciem Bożym! Pan potrzebuje ciebie. Ty, który czujesz, że nada­jesz się
+prosto do piekła, możesz pomnożyć jego chwałę, chwałę jego łaski,
+usprawiedliwiającej bezbożnego i tego, który nie spełnia uczynków. O, przyjdź
+prędko! Wierz <span style="mso-bidi-font-style:italic">w</span> Pana Jezusa; i
+ty, nawet ty, jesteś pojednany z Bogiem.” <b>5/</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">ZAKOŃCZENIE<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W prawdzie zawiera się wolność i siła,
+jak i bogactwo i pociecha. Musimy wiedzieć, że Bóg usprawiedliwia grzeszników,
+którzy uwierzą w zwiastowanie ewangeliczne. Ale jeżeli tylko raz przyjmiemy
+założenie diabła, że Bóg usprawiedliwia nas na podstawie jakiejś
+sprawiedliwości wewnętrznej, wiara nasza zaczyna się chwiać i dusza popada w
+zwątpienie i rozpacz. Ci, którzy uczą, że usprawiedliwienie musi być poprze­dzone
+przez odrodzenie, kopią rowy na ścieżce prowadzącej do Chrystu­sa, przez które
+nie mogą przebrnąć ani oni sami, ani pozostali biedni grzesznicy.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jednakże, w świetle Ewangelii,
+świadomość naszej całkowitej grzeszności nie powinna doprowadzać nas do
+rozpaczy. W rzeczywistości świa­domość ta przygotowuje nas na odebranie
+pociechy płynącej z Ewangelii. To, że jesteśmy grzesznikami, upoważnia nas do
+pójścia do Chrystusa. Możemy przyjść tacy właśnie, jacy jesteśmy i - spolegając
+w całej na­szej niegodności na Jego łasce - chwycić się obietnicy: „Gdy zaś kto
+nie spełnia uczynków, ale wierzy w tego, który usprawiedliwia bezboż­nego,
+wiarę jego poczytuje mu się za sprawiedliwość.” </span><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">(Rzym.4,5).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.3pt;text-indent:-7.1pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">l/. J.H.Merle D'Aubigne: History of the
+Reformation in the Sixteenth Century, vol, s.73. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.3pt;text-indent:-7.1pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">2/. Justification by an imputed
+righteousness, Reiner Publications, Swengel, Penn. 1967, s.31-32.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.3pt;text-indent:-7.1pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">3/. Jan Kalwin: Institutio Christianae
+Religionis<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:1.0cm;text-indent:-14.15pt;line-height:
+normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;mso-ansi-language:EN-US">4/. John Wesley: Sermons on Several
+Occasions, Kazanie XIV –„Nowo-narodzenie”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">5/. Tamże, Kazanie V –
+„Usprawiedliwienie przez wiarę”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black;text-transform:uppercase"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;text-transform:uppercase">ZASŁUGA CHRYSTUSA </span></b><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">I<span style="mso-spacerun: yes">  </span>DZIEŁO DUCHA ŚWIĘTEGO.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Wokół łoża umierającego Jana Knox'a
+zebrało się kilku przyjaciół. Reformator opowiedział im w jaki sposób szatan
+usiłował po raz ostatni pozbawić go nadziei zbawienia, próbował najpierw
+zachwiać jego wiarę, wskazując na popełnione w życiu grzechy, na głupstwa
+młodości i niedociągnięcia w jego pracy duszpasterskiej. Lecz kiedy Knox
+potężnym argumentem krwi Chrystusowej pokonał przeciwnika, ten podsunął swoją
+ostatnią pokusę, podszeptując Reformatorowi: „Bóg z pewnością zlituje się nad
+tobą. Nie potrzebujesz się obawiać, skoro widzisz jak Duch Święty sprawił, że
+przyniosłeś do Szkocji wiarę ewangeliczną.” Ale Jan Knox wiedział, że jego
+zbawienie i sprawiedliwość przed Bogiem, nie opierają się nawet na dziele Ducha
+Świętego w nim, a są ugruntowane jedynie na tym, co uczynił dlań Jezus
+Chrystus.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Katolicyzm rzymski naucza, że dzieło
+Ducha Świętego w sercu ludz­kim posiada swoją zbawiającą zasługę. Ale obecnie
+także wielu protestantów popada w ten błąd, rozumując: „Czy Duch Święty nie
+jest osobą bóstwa? Czy jego dzieło nie jest w takim samym stopniu zasługujące,
+jak dzieło Jezusa? Czy udzielona sprawiedliwość nie posiada w sobie zbawiającej
+zasługi? Wiem, że nie mogę pokładać zaufania we własnych uczynkach, gdy chodzi
+o zbawienie, ale na pewno mogę polegać z moim zbawieniem na tym, czego dokonuje
+we mnie Duch Święty”. Jak słabo zdają oni sobie sprawę z tego, że wyrażają
+intencje papiestwa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Najwyższy czas, aby lud Boży poważnie
+modlił się o moc .Ducha Świętego, ale dla właściwego powodu. Jeżeli nie
+zrozumiemy jasno zasady usprawiedliwienia przez wiarę, nie będziemy poznawać
+znamiennych wydarzeń wokół nas. Żyjemy w czasie „charyzmatycznym”. Wśród
+ugrupowań religijnych wzrasta zainteresowanie przeżyciem zielonoświątkowym.
+Wszędzie powstają grupy, które - według ich własnego określenia - doznają mocy
+Ducha Świętego. I właśnie to zainteresowanie Duchem Świętym, bardziej niż
+cokolwiek innego zmierza w kierunku połączenia katolików i protestantów.
+Jakkolwiek nie nawraca to katolików na protestantyzm, ale sprawia, że protestanci
+spoglądają życzliwiej w stronę Rzymu. Dzieję się tak dlatego, że podstawowa
+filozofia tych przebudzeń o typie zielonoświątkowym jest rzymsko-katolicka. To
+powszechne zaślepienie, zamiast prowadzić ludzi do spoglądania całkowicie na
+zewnątrz, na czyn, śmierć i orędownictwo Jezusa w niebie, kieruje liczne rzesze
+ludzkie ku uwielbianiu „Ducha” wewnątrz nich samych i spoleganiu, gdy chodzi o
+zbawienie, na wewnętrznym dziele Ducha. Takie jest właśnie zwiedzenie przez
+tajemnicę nieprawości. To zjawisko duchowe osiągnie wkrótce swój punkt
+kulminacyjny, gdy odstępczy protestantyzm będzie sprowadzał „ogień” z nieba na
+ziemię i sprawi, że świat odda cześć papiestwu. (Obj.13,11-14). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">DUCH
+WSKAZUJE NA ZASŁUGI CHRYSTUSA<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeżeli nie będziemy w pełni doceniać zasad
+ugruntowanych przez Reformację, nie możemy czuć się bezpieczni. Lud Boży w
+ostatnim czasie powinien budować na tych zasadach. Jeżeli tak się nie dzieję,
+to lepiej byłoby nie oglądać w Kościele żadnych przebudzeń. Na pewno nie
+podobają się nam mało wartościowe przebudzenia młodzieżowe. Nie są one oparte
+na Słowie Bożym i nie prowadzą do niczego, co wychodziłoby poza uwielbienie
+ludzkiego przeżycia. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W czasach Lutra przywódcą „napełnionego
+Duchem” ruchu przebudzeniowego był Markus Stubner. Ów „napełniony Duchem”
+kaznodzieja przebudze­nia spotkał się z wielkim Reformatorem. Stubner oraz jego
+zwolennicy wołali: „Duch, Duch!”. Na co Luter odparł: „Waszego ducha trzaskam
+po pysku!” (Luter potrafił czasami być bardzo bezpośredni).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy, w przeciwieństwie do Rzymu
+uczyli, że zasługa zbaw­cza znajduje się jedynie w Chrystusie. Zasługi tej nie
+da się oddzielić od Jego boskiej osoby. Podobnie jak sprawiedliwość
+chrześcijanina, może i zasługa znajduje się tylko w niebie, wyłącznie w jednym
+Człowieku, a nigdy na ziemi, nigdy u świętych. Zasługa bywa wierzącemu
+przypisana, ale nigdy wlana. W ten sposób „zasługa Chrystusa” nie może stać się
+nigdy „moją zasługą”, gdyż jest ona zawsze dla wierzącego czymś zewnętrznym.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Duch Święty nie przychodzi po to, aby
+przyciągać naszą wagę do swoich zasług. Nie znamy nawet jego imienia. Jego
+natura jest tajemnicą. Nie mówi On o sobie samym (Jan 16,13.14). Duch wysławia
+Chrystusa. Wskazuję duszy na zasługi Zbawiciela. Duch nigdy nie będzie uczył
+człowieka, że dzieło jakiego dokonuje w duszy posiada zasługę zbawczą, gdyż
+jego zadaniem jest wyłącznie prowadzić duszę na zewnątrz, do spoglądania
+całkowicie na zasługi Tego, który stoi po prawicy Bo­żej, jako przedstawiciel
+człowieka.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Apostoł Paweł powiada: „Owocem Ducha zaś
+są: miłość, radość, pokój, cierpliwość, uprzejmość, dobroć, wierność,
+łagodność, wstrzemięźliwość. Przeciwko takim nie ma zakonu.” (Gal.5,22.23).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">A Piotr Apostoł napomina: <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes"> </span>„I właśnie dlatego dołóżcie wszelkich starań
+i okażcie w wierze swojej cnotę, w cnocie poznanie, w poznaniu powściągliwość,
+w powścią­gliwości wytrwanie, w wytrwaniu pobożność, w pobożności braterstwo, w
+braterstwie miłość. Jeżeli je bowiem posiadacie i one się pomnażają, to nie
+dopuszczą do tego, abyście byli bezczynni i bezużyteczni w poznaniu Pana
+naszego Jezusa Chrystusa. Kto ich bowiem nie ma, ten jest ślepy, krótkowzroczny
+i zapomniał, że został oczyszczony z dawniej­szych grzechów swoich.”
+(2Ptr.1,5-9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Owoce Ducha, w które obfitował będzie
+każdy prawdziwie wierzący, nie stanowią podstawy przyjęcia go przez Boga, ale
+są następstwem tegoż. Prawo domaga się oceny o wiele doskonalszej niż mogą ją
+przedstawiać cnoty objawione w życiu „największych świętych”. Dlatego Paweł
+oświadcza: „... On umiłował mnie i wydał samego siebie za mnie.” (Gal.2,20).
+Kiedy chociaż po części zdajemy sobie sprawę z tej nieskończenie wiel­kiej
+ofiary, z ceny jakiej wymagało wykupienie duszy ludzkiej od śmie­rci, będziemy
+wiedzieć, że naszą jedyną nadzieją są zasługi Chrystusa. Wiara opierać się
+będzie na tym, co On uczynił dla nas.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Chrystian Dawid w jednym ze swoich kazań
+z roku 1738 wyraził tę prawdę w taki jasny sposób:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Słowo pojednania, zwiastowane przez
+apostołów, jako podstawa ich nauki, głosiło, że jesteśmy pojednani z Bogiem nie
+dzięki własnym uczynkom, nie przez nasza własną sprawiedliwość, ale w
+zupełności i jedynie poprzez krew Chrystusa. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Ale ktoś powie:
+Czy nie muszę żałować za grzech i boleć nad nim? Czy nie muszę upokorzyć się
+przed Bogiem? Czy nie jest to słuszne i właściwe? I czy nie powinienem uczynić
+tego, zanim będę mógł oczekiwać pojednania z Bogiem? Odpowiadam: To jest
+właściwe i słuszne. Powinieneś upokorzyć się przed Bogiem, powinieneś mieć
+złamane i skruszone serce. Ale z drugiej strony zauważ, że to nie jest twoim
+dziełem. Czy żałujesz, że jesteś grzesznikiem? Jest to dzie­łem Ducha Świętego.
+Czy jesteś skruszony i upokorzony przed Bogiem? Czy bolejesz naprawdę i
+posiadasz złamane serce? Wszystko to spra­wia ten sam Duch.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:14.2pt;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Zauważ znowu, że
+to nie stanowi podstawy. To nie jest tym, dzięki czemu jesteś usprawiedliwiony.
+Nie jest to sprawiedliwością, ani nie stanowi żadnej cząstki tej
+sprawiedliwości, przez którą jesteś pojednany z Bogiem. Żałujesz za. grzechy.
+Jesteś upokorzony do głębi. Posiadasz złamane serce. To dobrze. Ale to nie ma
+nic wspólnego z twoim usprawiedliwieniem. Odpuszczenie twoich grzechów, czy to
+w całości, czy po części, nie jest spowodowane tym. Owszem, zauważ dalej, że to
+może być nawet przeszkodą dla twego usprawiedliwienia: to znaczy, jeżeli
+cokolwiek na tym budujesz. Jeżeli myślisz: powinienem być skruszony do takiego
+lub takiego stopnia, powinienem bardziej żałować, zanim zostanę
+usprawiedliwiony. Zrozum to dobrze. Myśleć, że zanim będziesz mógł być
+usprawiedliwiony, potrzebujesz więcej skruchy, więcej pokory, więcej żalu i lepszego
+uświadomie­nia sobie ciężaru grzechu, znaczy kłaść swoją skruchę, żal i pokorę
+za podstawę usprawiedliwienia. Prawdziwej podstawy tegoż nie stanowi twoja
+skrucha (aczkolwiek nie pochodzi ona od ciebie samego), ani twoja
+sprawiedliwość; nic, co należy do ciebie, ani to, co<i style="mso-bidi-font-style:
+normal"><sup> </sup></i>zdziałał w tobie Duch Święty; jest nią coś, co znajduje
+się pozą tobą - sprawiedliwość i krew Chrystusa.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;text-indent:0cm;
+line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black;text-transform:uppercase">USPRAWIEDLIWIENIE </span></b><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">WOBEC BOGA I
+LUDZI<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Istnieje pewna różnica pomiędzy naszym
+usprawiedliwieniem przed Bogiem i wobec bliźnich. Przed Bogiem usprawiedliwieni
+jesteśmy przez wiarę, bez uczynków (Rzym.3,28; 4,5.6). Wobec ludzi jesteśmy
+usprawiedliwieni na podstawie uczynków, a nie jedynie na podstawie wiary
+(Jak.2,24). Z chwilą, gdy grzesznik przyjmie wiarą Chrystusa, jego imię zostaje
+wpisane do Barankowej księgi żywota - zostaje on zarejestrowa­ny jako członek
+Kościoła powszechnego. Ale gdy chodzi o przyłączenie do Kościoła na ziemi,
+wymaga się jeszcze czegoś oprócz wiary. Tu wiara musi być ukazana przez
+uczynki. Wobec niebios grzesznik usprawiedliwio­ny jest na podstawie wiary,
+wobec ludzi zaś – na podstawie uczynków.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Brak zrozumienia różnicy pomiędzy
+usprawiedliwieniem wobec Boga a usprawiedliwieniem wobec ludzi był przyczyną
+wielu nieporozumień przy interpretacji apostołów - Pawła i Jakuba. Paweł
+oświadcza, że człowiek usprawiedliwiony jest przez wiarę. Jakub mówi, że przez
+uczynki. O ile nie zrozumiemy, że jeden z nich mówi o usprawiedliwieniu wobec
+Boga a drugi o usprawiedliwieniu przed ludźmi, wydawać się nam będzie, że Jakub
+zdecydowanie przeczy temu, co mówi Paweł. Tymczasem piszą oni o dwóch różnych
+sprawach. Paweł zajmuje się zagadnieniem - w jaki sposób człowiek może być
+sprawiedliwym wobec Boga. W rozdz. 3 listu do Rzymian powiada on, że cały świat
+jest winny „wobec Boga” i że nikt poprzez uczynki nie może być
+„usprawiedliwiony przed nim” (w.19.20). W następ­nym rozdziale kontynuuje: „Bo
+jeśli Abraham z uczynków został usprawie­dliwiony, ma się z czego chlubić, ale
+nie przed Bogiem.” (Rzym.4,2). Jest przeto jasne, że Paweł zajmuje się
+usprawiedliwieniem „przed Bo­giem” - sprawiedliwą postawą człowieka „w Jego
+oczach”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jakub podejmuje inny problem. Mamy tu
+rzekomych wierzących, którzy, słuchają Słowa, ale nie czynią go. Nie przynoszą
+owoców praktycznej pobożności. Objawiało się to w ich stosunku do bliźnich.
+Apostoł oświadcza więc: <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Cóż to pomoże bracia moi, jeśli ktoś
+mówi, że ma wiarę, a nie ma uczynków? Czy wiara może go zbawić? Jeśli brat albo
+siostra nie mają się w co przyodziać i brakuje im powszedniego chleba, a ktoś z
+was powiedziałby im: Idźcie w pokoju, ogrzejcie się i nasyćcie, a nie
+dalibyście im tego, czego ciało potrzebuje, cóż to pomoże? Tak i wiara, jeżeli
+nie ma uczynków, martwa jest sama w sobie. Lecz powie ktoś: Ty masz wiarę, a ja
+mam uczynki; pokaż mi wiarę swoją bez uczynków, a ja ci pokażę wiarę z uczynków
+moich.” (Jak 2,14-l8).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zauważmy, że Jakub traktuje tu o sprawie
+ukazania wiary: „... po­każę ci wiarę z uczynków moich”. Jeżeli „wiara” nie
+przynosi owoców, właściwie nie jest wiarą w ogóle, a tylko fałszerstwem. A
+zatem Jakub idzie dalej:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ty wierzysz, że Bóg jest jeden? Dobrze
+czynisz; demony również wierzą i drżą. Chcesz przeto poznać nędzny człowieku,
+że wiara bez uczynków jest martwa? Czyż Abraham, praojciec nasz, nie został
+usprawiedliwiony z uczynków, gdy ofiarował na ołtarzu Izaaka, syna swego?
+Widzisz, że wiara współdziałała z uczynkami jego i że przez uczyn­ki stała się
+doskonała. I wypełniło się Pismo, które mówi: I uwierzył Abraham Bogu i
+poczytane mu to zostało za sprawiedliwość, i nazwany został przyjacielem Boga.
+Widzicie, że człowiek bywa usprawiedliwiony z uczynków, a nie jedynie z wiary.”
+(Jak.2,l9-24).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Abraham, co do swego usprawiedliwienia
+wobec Boga, uwierzył Bogu i zostało mu poczytane za sprawiedliwość. Lecz skąd
+możemy wiedzieć, że jego wiara była prawdziwa? W jaki sposób możemy rozpoznać,
+że dro­ga Boża, na jakiej czyni On człowieka sprawiedliwym wobec siebie jest
+prawdziwa? Dowodzi tego całkowite posłuszeństwo w życiu Abrahama. Wymaga to
+wiary posłusznej Bogu we wszystkim.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zajmując się sprawą apostołów - Pawła i
+Jakuba, Luter pisze:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Trzeba położyć nacisk na to, że
+człowiek wewnętrznie, w duchu, przed Bogiem usprawiedliwiony bywa jedynie przez
+wiarę, bez żadnych uczynków; ale zewnętrznie i publicznie, przed ludźmi i samym
+sobą jest on usprawiedliwiony poprzez uczynki; to znaczy staje się w ten sposób
+świadomy i pewny, że wierzy prawdziwie i że jest pobożny. Dlatego jedno można
+nazwać usprawiedliwieniem publicznym, a drugie usprawiedliwieniem wewnętrznym,
+ale w takim sensie, że usprawiedliwienie publiczne jest tylko owocem, wynikiem
+i dowodem usprawiedliwienia w sercu. Wobec czego człowiek nie bywa przez nie
+usprawiedliwiony, ale już wcześniej musi być usprawiedliwiony przed Nim. Tak
+jak owoce nazwać można oczywistą wartością drzewa, które zeń wypływa i dowodzi
+jego wewnętrznej, przyrodzonej wartości. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:14.2pt;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">To ma na myśli
+Św. Jakub, kiedy powiada w swoim liście (2,26): „Wiara bez uczynków jest
+martwa”, to znaczy, że fakt niewystępowania uczynków jest oczywistym dowodem,
+iż wiary nie ma, a jest tylko martwa myśl i urojenie, które ludzie błędnie
+nazywają wiarą.” <b>l/</b><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">PAWEŁ
+USPRAWIEDLIWIONY WOBEC LUDZI<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">NA PODSTAWIE
+UCZYNKÓW<o:p></o:p></span></b></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoBodyTextIndent2"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt">Także Apostoł Paweł zdawał sobie sprawę, że wobec ludzi był
+usprawiedliwiony na podstawie swoich uczynków. Często, wyliczając swoje
+uczynki, usprawiedliwiał się wobec zborów. W odpowiedzi tym, którzy go
+krytykowali, sławił swój apostolski urząd i bronił swego postępowania. Przy
+tego rodzaju usprawiedliwieniu Paweł nie mówi o swojej wierze, lecz o
+uczynkach. Do wierzących w Tesalonikach pisał:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Albowiem kazanie nasze nie wywodzi się
+z błędu ani z nieczystych pobudek i nie kryje w sobie podstępu, lecz jak
+zostaliśmy przez Boga uznani za godnych, aby nam została powierzona ewangelia,
+tak mówimy, nie aby podobać się ludziom, lecz Bogu, który bada serca nasze.
+Albowiem nigdy nie posługiwaliśmy się pochlebstwami, jak wiecie, ani też nie
+kierowaliśmy się pod jakimkolwiek pozorem chciwością. Bóg tego świadkiem, nie
+szukaliśmy też chwały u ludzi, ani u was, ani u innych; chociaż jako apostołowie
+Chrystusa mogliśmy być w wielkim poważaniu; przeciwnie, byliśmy pośród was
+łagodni jak żywicielka, otaczająca troskliwą opieką dziatki swoje. Żywiliśmy
+dla was taką życzliwość, iż gotowi byliśmy nie tylko użyczać wam ewangelii
+Bożej, ale i dusze swoje oddać, ponieważ umiłowaliśmy was. Wszak pamiętacie
+bracia, trud nasz i mozół; pracując nocą i dniem, aby, dla nikogo z was nie być
+ciężarem, głosiliśmy wam ewangelię Bożą. Wyście świadkami i Bóg, jak
+świętobliwe i sprawiedliwe było postępowanie nasze między wami, wierzącymi.”
+(1Tes.2,3-10).<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:14.2pt;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">W ten sposób
+usprawiedliwił się Apostoł, dzięki swoim uczynkom, wobec Tesaloniczan.
+Następnie, odpowiadając tym, którzy go krytykowali w Koryncie, napisał:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Skoro wielu się przechwala według
+ciała, i ja będę się przechwalał. Chętnie bowiem znosicie głupców, wy,
+którzyście mądrzy? Znosicie, bowiem, gdy was ktoś niewolnikami robi, gdy was
+ktoś wyzyskuje, gdy was ktoś łupi, gdy się kto wynosi, gdy was ktoś po twarzy
+bije. Ku własnej hańbie to mówię, żeśmy w tym byli słabi; bo jeśli ktoś w czymś
+jest śmiały, mówię to w przystępie głupoty, i ja jestem śmiały. Hebraj­czykami
+są? Ja także. Izraelitami są? Ja także. Potomkami Abrahama są? Ja także.
+Sługami Chrystusa są? Jako niespełna rozumu to mówię: daleko więcej ja, więcej
+pracowałem, częściej byłem w więzieniach, nad miarę byłem chłostany, często
+znajdowałem się w niebezpieczeństwie śmierci: od Żydów otrzymałem pięć razy po
+czterdzieści uderzeń bez jednego, trzy razy byłem chłostany, raz ukamienowany,
+trzy razy rozbił się ze mną okręt, dzień i noc spędziłem w głębinie morskiej.
+Byłem często w podróżach, w niebezpieczeństwach na rzekach, w
+niebezpieczeństwach od zbójców, w niebezpieczeństwach od rodaków, w
+niebezpieczeństwach od pogan, w niebezpieczeństwach w mieście, w niebezpieczeństwach
+na pustyni, w niebezpieczeństwach na morzu, w niebezpieczeństwach między
+fałszywymi braćmi. W trudzie i znoju, w niedosypianiu często, w gło­dzie i
+pragnieniu, w postach często, w zimnie i nagości. Pomijając te sprawy
+zewnętrzne, pozostaje codzienne nachodzenie mnie, troska o wszystkie zbory.”
+(2Kor.11.18-26).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Tak został usprawiedliwiony Paweł przez
+uczynki wobec Koryntian. Podobnie na wielu innych miejscach i wobec wielu
+innych ludzi udowadniał Paweł swoje usprawiedliwienie na podstawie uczynków.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">UCZYNKI
+NIEMOGĄ USPRAWIEDLIWIĆ CZŁOWIEKA<span style="mso-spacerun: yes">  </span>WOBEC
+BOGA<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Paweł, będąc pozwany przed .sędziów i
+oskarżycieli, protestował i dowodził, że nie popełnił niczego, co zasługiwałoby
+na śmierć. Jego sumienie, jak mówił, było czyste wobec Boga i ludzi (Dz.Ap.24,16;
+25,11). Ale to nigdy nie było jego argumentem wobec Boga. Nienaganne ży­cie
+oraz święta służba nie stanowiły podstawy dla jego usprawiedliwienia przed
+Bogiem, tak jak sam oświadczył: „Albowiem do niczego się nie poczuwam, lecz to
+mnie jeszcze nie usprawiedliwia...”(1Kor.4,4). Wiedział on dobrze, że swoje
+usprawiedliwienie wobec Boga zawdzięczał jedynie łasce, jedynie krwi
+Chrystusowej. Nie opierało się ono nigdy na tym, czego dokonał w nim Duch
+Święty, ale tylko na Bożym czynie wyzwolenia, spełnionym na krzyżu w osobie
+Chrystusa (zob. Rzym.3,24).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zanim niebo będzie mogło zesłać „późny
+deszcz”, lud Boży powinien być mocno ugruntowany na Ewangelii
+usprawiedliwienia, ponieważ na sku­tek obfitego wylania Ducha Bożego,
+zwiastowaniu prawdy, w mocy tegoż Ducha, towarzyszyć będą znaki i cuda. Wciąż
+jednak wierzący będą wyznawać razem z Pawłem: „... to mnie jeszcze nie
+usprawiedliwia.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Przyjęcie człowieka przez Boga wymaga
+sprawiedliwości Bożej w jej całkowitej pełni, tak jak może być ona znaleziona
+jedynie w Człowieku Jezusie Chrystusie. Nasze zbawienie możemy oprzeć na Jego
+upokorzeniu, cierpieniach i śmierci. Upokorzenie to było nie tylko upokorzeniem
+ludzkim, ale co więcej, Bożym. Doskonałość charakteru Chrystusa była czymś
+nieskończonym, ponieważ Jego ziemskie życie stanowiło ucieleśnienie boskiej
+doskonałości. Jego cierpienia były czymś nieskończonym, śmierć Jego posiadała
+nieskończenie wielką wartość. Ofiara Chrystusa zadziwiła aniołów. Dla
+odkupionych będzie ona przedmiotem rozmyślań, tematem pieśni i rozważań przez
+całą wieczność. Na tym wspaniałym da­rze, teraz i w wieczności, musi opierać
+się nasze usprawiedliwienie wobec Boga. Chwała niech będzie Bogu, że jest taka
+pewna podstawa na­dziei! Co za pociecha wypływa ze świadomości, że nie
+potrzebujemy opierać naszego zbawienia na czymś, co znajduje się wewnątrz nas.
+Bóg aby pouczyć nas o tym, udziela Ducha Świętego. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US">1/. What Luther Says, t. III, s. 1231-1232<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span lang="EN-US" style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black;mso-ansi-language:
+EN-US"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">PRAWO<span style="mso-spacerun: yes">  </span>I<span style="mso-spacerun: yes"> 
+</span>EWANGELIA<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Nauka rzymsko-katolicka jest wynikiem
+pomieszania prawa i ewangelii. Według Lutra Reformacja narodziła się wówczas,
+kiedy znaleźli się ludzie, którzy potrafili we właściwy sposób odróżnić prawo
+od ewangelii. W ten sposób właściwe rozróżnienie pomiędzy prawem a ewangelią
+stało się wielkim wkładem Reformacji szesnastego wieku.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Reformatorzy słusznie nazwali prawem
+każde przykazanie, polecenie, napomnienie, które określa obowiązek, tj. co
+powinniśmy czynić, jak żyć i jakimi być. „Miłuj bliźniego”, „Bądźcie
+doskonali”, „Oczyszczaj­cie swoje myśli”, „Przyjmujcie obcych” - oto przykłady
+prawa. Ewange­lia jest dobrą nowiną o tym, jak Bóg w Chrystusie Jezusie
+zadośćuczy­nił wymaganiom prawa w stosunku do wszystkich ludzi. I tak na
+przykład wypowiedzi: „Chrystus umarł za grzechy nasze”, „Drogo jesteście kupie­ni",
+„Chrystus odkupił nas z przekleństwa zakonu”, są czystą ewangelią. Prawo mówi:
+„czyń”; ewangelia powiada: „uczyniono”. Prawo nakazuje, ewangelia zapewnia.
+Prawo zabija, ewangelia obdarza życiem. Prawo po­tępia, ewangelia
+usprawiedliwia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jednak walka reformacyjna nie została
+zakończona z chwilą, gdy Bóg wybawił Kościół z tego strasznego błędu
+pomieszania prawa i ewangelii. Istnieje także błąd przeciwległy; polegający na
+rozdzieleniu prawa i ewangelii. Podczas gdy kościół rzymski doznał poważnej
+szkody przez pomieszanie prawa i ewangelii, kościół protestancki stoi w obliczu
+niebezpieczeństwa odłączenia prawa od ewangelii. Pierwszy błąd sprawia, że
+ludzie stara ją się uzyskać zbawienie poprzez uczynki. Drugi nato­miast
+prowadzi do rozumowania, iż można być zbawionym w swoich grze­chach.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ewangelia traktuje prawo poważnie.
+Grzesznik nie może być usprawiedliwiony na innej podstawie, jak tylko przez
+doskonałe posłuszeństwo prawu (Rzym.2,13). Sam Prawodawca przyszedł na ten
+świat, aby na ko­rzyść człowieka okazać doskonałe posłuszeństwo. Przez doskonałe
+życie w ciele ludzkim podkreślił On znaczenie prawa i uczcił je (Iz 42,21).
+Chrystus przez swoją śmierć, która była karą wymaganą przez prawo, wy­kazał, że
+jest ono święte, sprawiedliwe, dobre, niezmienne i wieczne (Rzym.7,12;
+Ps.19.7-9).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ewangelia posiada wyższy i szerszy cel,
+aniżeli tylko zbawienie człowieka. To jest, żeby zarówno Bóg sam był
+sprawiedliwym, jak i usprawiedliwiającym tego, który wierzy w Jezusa
+(Rzym.3,26). Celem pojednania jest potwierdzenie prawa i panowania Bożego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Takie spojrzenie na pojednanie wykracza
+poza wszelkie subiektywne dobro. Poprzez krzyż zbawił Bóg nie tylko człowieka,
+ale zabezpieczył także cały wszechświat. Usprawiedliwił On nie tylko
+grzeszników lecz również swoje prawo i panowanie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Weźmy grzesznika zbuntowanego przeciw
+prawu Bożemu. Pragnie on być zbawionym. Tym, co musi on zaraz dostrzec jest
+fakt, że jego zbawienie zależy od rehabilitacji tego samego prawa, którym
+wzgardził. Rehabili­tację prawa Bożego stanowi, bardziej niż wszystko inne,
+krzyż. Chrys­tus uszanował wymogi prawa, ponosząc jego sprawiedliwą karę na
+rzecz grzeszników. Jeżeli grzesznik naprawdę zrozumie znaczenie krzyża, bę­dzie
+odczuwał skruchę wobec Boga za przekroczenie Jego prawa i wierzył w Pana
+Jezusa, który wypełnił na jego korzyść wszystkie żądania prawa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prawo Boże można porównać do drzewa, a
+Ewangelię do jego owocu. Wo­kół tego „drzewa” wyniknął spór w niebie. Lucyfer
+utrzymywał, że powin­no być ono wyrwane – na jego miejsce chciał zasadzić
+lepsze. Nawet aniołowie nie rozumieli całego zasięgu miłości, mądrości i
+świętości prawa. Ale wraz z zaistnieniem grzechu nadszedł czas, aby „drzewo” to
+wydało „owoc” i ukazało swoją wartość.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Życie i śmierć Jezusa były objawieniem
+prawa Bożego dla aniołów i ludzi. Chrystus, zawisłszy na krzyżu, stał się Ewangelią
+- owocem te­goż drzewa. Cóż za wspaniałym drzewem okazało się na Kalwarii prawo
+Boże! Kiedy zastępy anielskie ujrzały Syna Bożego oddającego swoje bezcenne
+życie, zaczęły wysławiać jednogłośnie wielkość prawa Bożego. Każda dusza, która
+spogląda na Golgotę jako na odsłonięcie prawa Bożego, powtórzy razem z
+Psalmistą: „O, jakże miłuję prawo Twoje! Cały dzień rozmyślam o nim”
+(Ps.119,97). <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Zbuntowawszy się przeciw prawu Bożemu,
+utracił człowiek dostęp do drzewa życia. Ale to nie dotyczy grzesznika, który
+spoglądając na krzyż dostrzega okropne rezultaty łamania tak dobrego i świętego
+pra­wa. Kiedy widzi on swego Zastępcę, który poniósł na drzewo przekleń­stwo
+jego przestępstwa (Gal.3,13), wówczas to drzewo hańby staje się, dlań drzewem
+życia. Drzewo to wydało tak drogocenny owoc, że jeżeli pokutujący grzesznik
+spożyje go, zostaje uzdrowiony od grzechu i może żyć wiecznie. Owocem tym jest
+Syn Boży. „Kto spożywa ciało moje i pije krew moją, ten ma żywot
+wieczny...”(Jn.6,54).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Prawo jest drzewem, Ewangelia owocem.
+Ci, którzy spożywają ten owoc, przyswajają sobie życie drzewa. Kto prawdziwie
+wierzy w ewangelię, przyswaja sobie życie i charakter prawa Bożego (zob.
+Rzym.8,4).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">DAR
+DOSKONAŁEGO POSŁUSZEŃSTWA WOBEC PRAWA<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„...Przez posłuszeństwo jednego wielu
+dostąpi usprawiedliwienia” (Rzym.5,l9). Jezus ukazał nam wyraźnie naturę swego
+posłuszeństwa: „... Ja przestrzegam przykazań Ojca mego i trwam w miłości
+Jego.” (Jn.5,10). Sprawiedliwość Chrystusowa stanowi doskonałe posłuszeństwo
+prawu Jahwe. Prawo jest doskonałe i jako takie obejmuje doskonałą
+sprawiedliwość (Ps.119,96.144). Jezus, objawiając nieskończenie doskonały
+charakter, okazał posłuszeństwo, które odpowiadało największym wymogom prawa
+Bożego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ewangelia ofiarowując ludziom
+sprawiedliwość Chrystusową, ofiaruje im niesplamione życie, posłuszne prawu
+Bożemu. Gdy Chrystus umarł na krzyżu, przekazał uczniom w ofierze swojego życia
+najkosztowniejsze dziedzictwo - nienaruszone i nieskażone prawo Boże.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Każdy stara się zachować drogocenny dar.
+Prawo Boże zostało przekazane nam w niesplamionym charakterze Jezusa Chrystusa.
+Był to dar za cenę życia Syna Bożego, który opuszczając niebo, zawarł w sobie
+nagro­madzone bogactwa wieczności. Człowiek wierzący na pewno nie potrafiłby
+wzgardzić i zlekceważyć takiego daru. Jezus kierując ostatnie słowa do uczniów,
+powiedział: „Jeśli mnie miłujecie, przykazań moich przestrze­gać będziecie.”
+(Jn.14,15).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Tylko ci, którzy wierzą w Syna Bożego
+mogą przestrzegać przykazań, ponieważ prawo darowane jest naśladowcom
+Chrystusa. Psalmista oświadczył: „Na zawsze przyswoiłem sobie prawa Twoje, gdyż
+są radością mego serca.” (Ps.119,111). Spróbujmy wyobrazić sobie, w jaki sposób
+doskonałe posłuszeństwo prawu jest darem w Jezusie Chrystusie, aby zobaczyć jak
+człowiek wierzący będzie przestrzegał prawa, dlatego że otrzymał je jako
+kosztowne dziedzictwo. <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Weźmy chrześcijanina, który w świetle
+prawa widzi, że jest w służbie Bożej złym i gnuśnym sługą. Zdaje on sobie
+sprawę z tego, że może być albo próżniakiem, albo chrześcijaninem, ale nie noże
+być równocześnie jednym i drugim. Jeśli nie będzie „całym sercem przy sprawie”,<sup>
+</sup>usłyszy w końcu wyrok: „Sługo zły i gnuśny”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jedyną właściwą drogą uaktywnienia i
+pozytywnego zaangażowania człowieka jest Ewangelia. Grzesznik, przekonany o
+winie, spogląda na działalność i zaangażowanie swojego Zastępcy. W Jego życiu
+nie było ani chwili bezczynności. Zawsze był zajęty sprawami Ojca i
+niestrudzenie służył potrzebom ludzkim. Żaden niedbały, bezmyślny czyn nie spla­mił
+Jego życia. Nie załamał się ani nie uległ zniechęceniu, ale był zdecydowany na
+wszystko, tak że mógł w końcu powiedzieć: „....dokonałem dzieła, któreś mi
+zlecił, abym je wykonał”. Przyglądanie się życiu Chrystusa prowadzi nie tylko
+do uświadomienia sobie grzechu i pokuty, ale także rozbudza wiarę. Historia
+grzesznika przypisana została Chrys­tusowi po to, ażeby Jego historia mogła
+stać się historią grzesznika. Przez wiarę pojmuje grzesznik historię Jezusa
+jako swoją własną. Staje on przed Bogiem i jego prawem nie mając na swoją
+obronę nic, za wyjątkiem tego, co dokonał Jezus Chrystus. Ojciec z radością
+przyjmuje za­sługi Syna przekazane na korzyść przestępcy, zwołuje aniołów i
+ogłasza wobec całego wszechświata: Spójrzcie na tego pokutującego grzesznika.
+Oto mój prawowity Syn, którego sobie upodobałem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Człowiek wierzący w czyn i działanie
+Chrystusa przedstawia się jako czynny w oczach Bożych. Ale co staje się teraz,
+po uznaniu i przyjęciu tego doskonałego i wypełnionego działaniem życia,
+największym dążeniem człowieka? Pragnie on działać. Chce być takim, jakim uznał
+go Bóg w Je­zusie Chrystusie. To stanowcze postanowienie działania nie pochodzi
+z jakiegoś zewnętrznego nakazu czy przymusu, ale wypływa z konieczności
+wewnętrznej. Duch Święty wpisuje prawo działania w serce człowieka i pomaga mu
+kroczyć drogą przykazań Bożych.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Droga Ewangelii różni się krańcowo od
+drogi sprawiedliwości na podstawie prawa. Bóg, ogłaszając człowieka aktywnym,
+pobudza go w ten sposób do działania. Ta sama zasada obowiązuje w każdej
+dziedzinie ży­cia chrześcijańskiego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jeżeli jednak człowiek usiłuje być
+aktywnym w tym celu, żeby Bóg mógł go za takiego ogłosić, pozostaje zawsze pod
+prawem, i jest pod przekleństwem, gdyż nigdy nie może osiągnąć boskiego ideału.
+Ktoś, kto uwierzył Ewangelii, może także nie osiągnąć ideału Bożego w sobie
+samym, ale ponieważ nie spolega na swoim działaniu, lecz na Chrystusie, za­sługa
+jego Zastępcy stale uzupełnia jego braki. .<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Życie w doskonałym posłuszeństwie prawu
+jest według zwiastowania ewangelicznego wolnym darem w Chrystusie. Człowiek
+wierzący w Jezusa zachowuje prawo nie po to, żeby stać się sprawiedliwym w
+oczach Bożych, ale czyni to dlatego, że został usprawiedliwiony przez Boga.
+Stara się on zachować to, co dał mu Bóg w Chrystusie. Prawo jest wyrażeniem
+idei Bożej. Kiedy w Chrystusie przyjmujemy je, staje się ono naszą ideą.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">PRAWO
+I RADOŚĆ<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Czy zastanawialiśmy się kiedykolwiek
+dlaczego psalmista zdaje się prawie skakać z radości i rozkoszy, jakie znalazł
+w prawie Bożym? Nastroju takiego nie mógłby objawiać ktoś, kto odczuwa
+przykazania jedy­nie jako groźby, rozkazy czy instrukcje. Bóg zalicza
+wierzącemu dosko­nałą sprawiedliwość według prawa. Oznacza to, że może on
+traktować prawo jako dziedzictwo, jako wielkie bogactwo, które doń należy.
+Pląsa on radośnie wokoło prawa, jak człowiek spodziewający się wspaniałego
+spadku. Dlaczego? Ponieważ przypatruje się danej mu w Jezusie sprawiedliwości w
+całej jej rozciągłości! Im bardziej odkrywa i poznaję sze­rokość, wysokość i
+głębokość prawa, tym bardziej podziwia i docenia bogactwo, które w Jezusie
+Chrystusie stało się jego własnością. Nie zdawałem sobie sprawy - woła on
+wówczas - jak wiele mi zaliczono! Prawo to jest nie tylko prawem jego Ojca, ale
+teraz, skoro został synem stało się także jego prawem. Jest on do głębi
+przejęty nim;<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Ogarnął mnie gniew z powodu bezbożnych,
+którzy porzucają Twoje prawo.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Łzy jak strumienie popłynęły z moich
+oczu z powodu tych, co nie przestrzegają prawa Twego.” (Ps 119,53.136).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Ponieważ lekceważenie prawa Bożego staje
+się coraz powszechniejsze, ludzie wierzący powinni przestrzegać je coraz
+lepiej. Wszyscy oni modlić się będą gorąco: „Czas abyś działał, Jahwe, gdyż
+naruszono prawo Twoje.” (Ps.119,126). Jako odpowiedź na te modlitwy, Kościół
+otrzyma Ducha Św. z jego mocą i poselstwo o usprawiedliwieniu przez wiarę,
+która przejawia się w posłuszeństwie wobec wszystkich przykazań Bożych, oświeci
+cały świat.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">DWA<span style="mso-spacerun: yes">  </span>ASPEKTY ODKUPIENIA<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">1. Dzieło Boże w Chrystusie, albo dzieło
+Chrystusa dla nas. Reprezentuje ono sprawiedliwość na zewnątrz nas, ponad nami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">2. Dzieło Boże w nas poprzez Ducha
+Świętego. Przedstawia to sprawiedliwość działającą w nas.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">PRAWO I EWANGELIA
+II<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„...Nie jesteście pod zakonem, lecz pod
+łaską.” (Rzym.6,l4).<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.3pt;text-indent:-7.3pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">„Powiedzcie
+mi wy, którzy chcecie być pod zakonem, czy nie słyszy­cie, co zakon mówi?”
+(Gal.4,21).<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:21.3pt;text-indent:-7.3pt;line-height:
+normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Znajdować się pod zakonem znaczy być pod
+starym przymierzem. Zgod­nie z warunkami tego przymierza ludzie zobowiązali się
+wobec Boga, że będą spełniać wszystkie wymagania, jakie nakłada na nich
+prawo(2Mojż.19,8). W ten sposób przyjęli na siebie odpowiedzialność prowadzenia
+życia, które odpowiadałoby najszerszym wymogom prawa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">W takim przymierzu nie może być mowy o
+zbawieniu, ponieważ nikt z upadłego rodu ludzkiego nie może sam z siebie
+dostosować się do żądań prawa. Apostoł Paweł w liście do Rzymian 7,1-8
+porównuje stan znajdowania się pod prawem do związku małżeńskiego kobiety z
+mężczyzną, któ­ry łączy w sobie same złe cechy. Wyobraźmy sobie sytuację
+kobiety, której najlepsze wysiłki i próby zadowolenia męża spotykają się zawsze
+z jego krytyką. Obojętnie jak bardzo starałaby się usłużyć mu, on ciąg­le
+doszuka się jakiegoś niedociągnięcia. W takim związku, naturalnie, nie ma
+miejsca na miłość. Może on jedynie być siedliskiem zła. Podo­bnie dzieje się,
+gdy człowiek bierze na siebie odpowiedzialność zadość­uczynienia prawu poprzez
+swoje posłuszeństwo. Prawo zawsze odnajdzie błąd. Zawsze potępi. Serce ludzkie
+pod wpływem tego gorzkiego doświad­czenia z nieudanymi próbami sprostania
+żądaniom prawa, zacznie buntować się przeciw Bogu i odczuwać niechęć do służby,
+która wydaje się być nie do zniesienia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Oczywiście, Paweł nie omieszka wyjaśnić,
+iż nie potępiamy prawa dlatego, że znajduje ono błędy u grzeszników. Wysławiamy
+je raczej jako „święte, sprawiedliwe i dobre” dla tej przyczyny, że nie zniża
+się do poziomu upadłego człowieka.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Niektórzy mówią: Tak, wiemy, że o
+własnych siłach nie mogę okazać posłuszeństwa, które mogłoby zadośćuczynić
+wymaganiom prawa Bożego. Ale mogę uczynić to z Bożą pomocą, poprzez Ducha
+Świętego. Nie biorą oni pod uwagę tego, że nawet faryzeusz modlił się: „Boże,
+dziękuję ci, że nie jestem jak inni ludzie...” Każdy, kto znajduje się pod
+prawem, powiada, że chce spełniać jego polecenia przy pomocy Bożej.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Chcielibyśmy postawić to bardzo jasno,
+że Bóg nie pomaga nikomu spełniać warunków swojego przymierza. Wierzymy w
+udzieloną sprawiedliwość, ale nie w celu dopomożenia człowiekowi spełnić
+żądania prawa Bożego. Wielu ludzi myśli, że sprawiedliwość udzielona, jest
+środkiem na drodze do wypełnienia warunków starego przymierza. Przenigdy! <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Nowe przymierze oparte jest na lepszych
+obietnicach. (Hebr.8.6). Podczas gdy stare przymierze zawarte zostało pomiędzy
+Bogiem i ludźmi, nowe dokonało się pomiędzy Bogiem i Chrystusem (Zach.6,13). W
+nowej umowie miejsce ludzi zajął Chrystus. Przyrzeka On jako ich Zastępca, wypełnić
+za nich każde żądanie prawa. Podczas gdy w starym przymierzu człowiek nie
+potrafił spełnić wymagań prawa, Człowiek w nowym przymierzu spełnił każdą
+obietnice, aby zadośćuczynić najszerszym żądaniom prawa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Chrystus, jako zastępca człowieka,
+okazał posłuszeństwo, które odpowiadało prawu w każdym jego aspekcie. Jezus
+objawił nieskończenie doskonały charakter (Kol.1,19; 2,9). Nikt inny, oprócz
+Syna nieskończonego Boga, nie mógł okazać posłuszeństwa równoważącego prawo.
+Ale prawo domagało się także śmierci człowieka za jego przestępstwa. Zamiast
+niego stracony został Chrystus. Poprzez bezgraniczne upokorzenie i
+niewysłowione cierpienia, spełnił, On to żądanie prawa. Syn Boży, umie­rając na
+krzyżu, wypełnił wymagania prawa do końca. Wypełnił wszelką sprawiedliwość
+(Mt.3,15), wypełnił prawo co do najmniejszej kreski i joty (Mt.5.17.18). Mógł
+więc słusznie powiedzieć: „Spełniłem wszystko, co powiedział Pan”. Wypełnił On
+wszystkie warunki przymierza, które potwierdzone i przypieczętowane zostało
+Jego krwią.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Od czasu, kiedy Chrystus na rzecz całego
+rodzaju ludzkiego wypełnił, wszystkie warunki przymierza, nie wymaga się nigdy
+od wierzącego człowieka zadośćuczynienia żądaniom prawa Bożego. Ci jednakże, co
+obstają przy tym, będą z pewnością postępować według swego wyboru. Prawo, ska­zując
+ich na śmierć, złoży swe żądania na ich nieosłonięte głowy.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Powtarzamy: Chrystus nie przyszedł po
+to, aby obdarzyć nas siłą, do pozostania pod prawem i wypełnienia jego żądań.
+Przenigdy! Apostoł Paweł oświadcza z naciskiem:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Lecz gdy nadeszło wypełnienie czasu,
+zesłał Pan Syna swego, który narodził się z niewiasty i podlegał zakonowi, aby
+wykupił tych, którzy byli pod zakonem, abyśmy usynowienia dostąpili.”
+(Gal.4,4.5)<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jedynie doskonałe życie mogło
+zadośćuczynić prawu na rzecz ludzkości. Jedynie doskonała ofiara zrównoważyć
+mogła istniejący dług. Można naśladować życie Jezusa, ale niepodobna powtórzyć
+go. W ten sposób staje się oczywiste, że Jezus nie przyszedł w tym celu, żeby
+darować nam siłę do wypełnienia warunków przymierza. Wypełnił je sam. A skoro
+uczynił to On, jako następca i przedstawiciel rodu ludzkiego, stało się to
+jednoznaczne z tym, jak gdyby każdy człowiek żył i umarł tak jak Jezus
+(2Kor.5,14). Chrystus sam stanowi „przymierze ludzi” (Iz.42,6) - co oznacza, że
+każdy, kto przyjmuje Chrystusa jest uznany jako ten, który spełnił wszystkie
+warunki przymierza.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h6><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">KOŃCEM ZAKONU -
+CHRYSTUS<o:p></o:p></span></h6>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Albowiem końcem zakonu jest Chrystus,
+aby był usprawiedliwiony każdy, kto wierzy.” (Rzym.10,4).Oznacza to, że ten,
+kto przez wiarę przyjął Chrystusa, wypełnił wszystkie wymogi i żądania prawa.
+Dlatego też człowiek wierzący nie znajduje się pod prawem, lecz pod łaską - w
+tym sensie, że nie wymaga się już od niego zadośćuczynienia wymaganiom prawa.
+Dług został spłacony w całości przez Jezusa Chrystusa.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Chrystus stanowi zakończenie dla
+najszerszych żądań prawa. Gdy grzesznik ucieka się do Jezusa jako swego
+ratunku, zadaniom prawa staje się w pełni zadość.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Na każde „czyń” stawiane przez prawo,
+człowiek wierzący w Jezusa odpowiedzieć może ewangelicznym „wykonano”. Prawo
+powiada: „Bądźcie wy tedy doskonali” (Mt.5.48). Ewangelia zaś: „I macie pełnię
+w Nim” (Kol.2,10). W ten sposób Chrystus jest wypełnieniem prawa, którego
+zadanie brzmi: „Bądźcie doskonali”. I temu wypełnieniu prawa niczego nie brak.<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoHeading7"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt">NOWA
+SŁUŻBA W MIŁOŚCI<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jak pamiętamy, znajdowanie się pod
+prawem przyrównał Paweł do związku małżeńskiego, gdzie prawo porównane jest do
+pierwszego męża (analogia Pawła z rozdz. 7 do Rzymian). Następnie Apostoł
+oświadcza:<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">„Przeto, bracia moi, i wy umarliście dla
+zakonu przez ciało Chrystusowe, by należeć do innego, do tego, który został
+wzbudzony z martwych, abyśmy owoc wydawali dla Boga ... Lecz teraz zostaliśmy
+uwolnie­ni od zakonu, umarłszy temu, przez co byliśmy opanowani, tak iż słu­żymy
+w nowości ducha, a nie według przestarzałej litery” (Rzym.7,4.6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Uwolnienie od zakonu nie oznacza
+lekceważenia jego słusznych i świętych zasad. Oznacza to koniec poprzedniego
+ustosunkowania się do prawa. Jako wierzący w Jezusa nie jesteśmy już więcej
+potępionymi dłużnikami, ani niewolnikami pognębionymi przez wysiłki sprostania
+niemożliwemu do wykonania zadania - zadośćuczynieniu zadaniom prawa. Wolność, o
+której mówi Paweł, jest wolnością synowską ludzi, którzy „słu­żą w nowości
+ducha”. ,,... Przetoż tedy ja sam umysłem służę zakonowi Bożemu...” (Rzym.7,25;
+por Gal.4,1-6).<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">Jest to służba dobrowolna. Nie wykonują
+jej niewolnicy, lecz synowie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:14.2pt;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Celem tej służby
+nie jest zadośćuczynienie nieskończonymi wymaganiom prawa, ale wyrażenie
+wdzięczności za<b style="mso-bidi-font-weight:normal"> </b>przyjęcie... Jedynie
+w Chrystusie znajduje się posłuszeństwo zdolne doskonale wypełnić prawo. I
+tylko u tych, którzy przez wiarę trwają w Chrystusie znaleźć można
+posłuszeństwo, które sprostać może najwyższym żądaniom prawa. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">„......... A On nazwany będzie: PAN JEST SPRAWIEDLIWOŚCIĄ
+NASZĄ"</span></i><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black"><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun:
+yes"> </span>SPIS TREŚCI <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">1. Kim jesteś: katolikiem czy
+protestantem? Ankieta <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">2. Podstawowa doktryna katolicka o
+usprawiedliwieniu przez wiarę<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">3. Wyniki Ankiety<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">4. Usprawiedliwienie przez wiarę w
+ujęciu Reformacyjnym <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">    </span>5. Podsumowanie reformacyjnej nauki o
+usprawiedliwieniu <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-indent:0cm;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><span style="mso-spacerun: yes">    </span>6. Sprawiedliwość, która jest z wiary <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">7. Usprawiedliwienie grzeszników <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">8. Zasługa Chrystusa i dzieło Ducha
+Świętego <o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">9. Usprawiedliwienie wobec Boga i ludzi<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">10. Prawo i Ewangelia I<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black">11. Prawo i Ewangelia II<o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="line-height:normal"><span style="font-size:11.0pt;
+mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">Jeśli po
+przeczytaniu tej lektury nasunęły Ci się<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">jakieś pytania,
+czy refleksje<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="margin-left:18.0pt;text-align:center;
+text-indent:-18.0pt;line-height:normal;mso-list:l6 level1 lfo9;tab-stops:list 18.0pt"><?if !supportLists?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black">-<span style='font:7.0pt "Times New Roman"'>         
+</span></span><?endif?><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;
+color:black">napisz!<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:10.0pt;color:black"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h4 style="line-height:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">Andrzej Wojtkowski<o:p></o:p></span></h4>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">ul. Piastowska 18/10<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;line-height:normal"><b style="mso-bidi-font-weight:normal"><span style="font-size:11.0pt;mso-bidi-font-size:
+10.0pt;color:black">43-300 Bielsko-Biała<o:p></o:p></span></b></p>
+</div>
+<br/><br/>
+<br/><br/><form action="http://www.czytelnia.jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+Chciał(a)bym przesłać ten artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/>
+<input name="filename" type="hidden" value="polemiki/katolik_czy_protestant.html"/>
+<br/><input type="submit" value="  Wyślij  "/>
+</form><br/>
+<br/>
+<b><font color="#808080">Wersja HTML Copyright by Czytelnia Chrześcijanina, 2001</font></b>
+<br/>
+<!-- Znacznik kończący HTML -->
+
+{% endraw %}

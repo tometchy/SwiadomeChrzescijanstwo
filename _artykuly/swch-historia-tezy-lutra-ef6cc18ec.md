@@ -1,0 +1,494 @@
+---
+title: WAŻNIEJSZE TEZY LUTRA I JEGO PRZECIWNIKÓW
+category: Historia Kościoła
+permalink: /czytelnia/swch-historia-tezy-lutra-ef6cc18ec/
+source_url: https://swch.pl/historia/tezy_lutra.html
+imported_from_legacy: true
+source_text_sha256: 423b0d5b800d3d18f1c2939eac4fe1d1a821e5f113d1e8673ff16df3c2162071
+source_char_count: 19673
+source_verified: true
+---
+
+{% raw %}
+
+<div class="Section1">
+<h3><span style="font-size:10.0pt;mso-bidi-font-size:13.5pt;font-family:Tahoma">Póki
+Luter zapomniane nauki odgrzewał, dopóty milczeli wszyscy; cały świat zaś
+zwrócił swą uwagę gdy Luter dotknął nadużyć sprawiających powszechne
+zgorszenie.<o:p></o:p></span></h3>
+<h1 align="center" style="text-align:center"><span style="color:navy">WAŻNIEJSZE
+TEZY LUTRA I JEGO PRZECIWNIKÓW<o:p></o:p></span></h1>
+<p class="MsoNormal"><?if !supportEmptyParas?> <?endif?><o:p></o:p></p>
+<table border="1" cellpadding="0" cellspacing="1" style="width:95.0%;
+ mso-cellspacing:.7pt;mso-padding-alt:3.0pt 3.0pt 3.0pt 3.0pt" width="95%">
+<tr>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p class="MsoNormal"><b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+  font-family:Tahoma">TEZY LUTRA - 31 października 1517 r.</span></b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p align="center" style="text-align:center"><b><span style="font-size:10.0pt;
+  mso-bidi-font-size:12.0pt;font-family:Tahoma">TEZY PRZECIWNIKÓW LUTRA </span></b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">TETZEL
+  - 20 stycznia 1518 r.<o:p></o:p></span></p>
+<p align="center" style="text-align:center"><b><i><span style="font-size:10.0pt;
+  mso-bidi-font-size:12.0pt;font-family:Tahoma">PRIERIAS cenzor rzymski i
+  generał zakonu dominikanów - 1518 r. </span></i></b><span style="font-size:
+  10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">27.
+  Ludzkie wyłącznie wymysły głoszą ci, którzy nauczają, że skoro pieniądz w
+  skrzyni brzęknie, to w tej samej chwili dusza z czyśćca do nieba się
+  przenosi. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">28.
+  To zaś jest pewne, że skoro pieniądz brzęknie w skrzyni, przychodzi
+  pożądliwość i chciwość zysku, która wzrasta i staje się wielką. Pomoc zaś i przyczynienie
+  Kościoła za nami zależy jedynie od woli i upodobania Bożego. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">36.
+  Każdy chrześcijanin, który grzechów swych prawdziwie i ze skruszonym sercem
+  żałuje, dostępuje i bez listów odpustowych zupełnego odpuszczenia kary i winy
+  swojej. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">37.
+  Każdy prawdziwy chrześcijanin, czy to żyjący jeszcze, czy już umarły, jest
+  uczestnikiem wszelkiej łaski Chrystusa i Kościoła, którą daje mu Bóg bez
+  nabycia listu odpustowego. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">43.
+  Powinniśmy nauczać chrześcijan, że kto biednemu pomocy udziela, lub pożycza
+  potrzebującemu, czyni przez to lepiej niż gdy sobie kupuje list odpustowy. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">44.
+  Gdyż przez czyny miłości rośnie chrześcijańska miłość, i człowiek staje się
+  pobożniejszym; jednak przez nabycie listu odpustowego człowiek nie staje się
+  lepszym, lecz czuje się bezpieczniejszym i wolniejszym od kary za grzech.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">45.
+  Powinniśmy nauczać chrześcijan, że taki człowiek, który widzi brata w
+  potrzebie, a mimo to wyda pieniądze na zakupienie odpustu, nie kupuje sobie
+  odpustu papieża, ale ściąga na siebie niełaskę Boga.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">6.
+  Papież nie może odpuścić żadnej winy, chyba jedynie w tej myśli, iż ogłasza i
+  potwierdza, że człowiekowi odpuścił grzechy Bóg; lub też gdy czyni to w
+  takich wypadkach, których rozstrzygnięcie władzy swojej zastrzegł. Gdyby kto
+  o te rzeczy nie dbał, to wina jego pozostałaby zupełnie nie zmazaną ani
+  odpuszczoną.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">21.
+  Błądzą kaznodzieje odpustowi, którzy powiadają, że przez odpust papieża
+  człowiek zostaje wybawiony z wszelkiego potępienia i niechybnie bywa
+  zbawiony. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">32.
+  Ci, którzy uważają, że przez odpusty mają pewne zbawienia wieczne, wpadną
+  razem ze swymi mistrzami w sidła diabła.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">35.
+  Sprzeciwiają się nauce chrześcijańskiej ci, którzy utrzymują, że ludziom
+  mającym zamiar wybawienia duszy z czyśćca, czyli odkupienia sobie listu
+  odpustowego, nie potrzeba już skruchy ani żalu serca za ich grzechy. <o:p></o:p></span></p>
+</td>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">56.
+  Kto twierdzi, że dusza nie może od razu opuścić czyśćca gdy tylko pieniądz
+  brzęknie na dnie skrzyni, ten błądzi.<o:p></o:p></span></p>
+<p><b><i><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Tahoma">Mój kochany Lutrze, gdyby papież, pan nasz, dał ci jakie tłuste
+  biskupstwo i zupełny odpust celem poprawienia twego kościoła, to z pewnością
+  wystąpiłbyś łagodniej i wspierałbyś sprawę odpustów, którą teraz potępiasz!
+  [...] <o:p></o:p></span></i></b></p>
+<p><b><i><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Tahoma">Kościół rzymski ma w osobie papieża ramię najwyższej swej duchowej i
+  świeckiej władzy; ma tedy moc zmusić odszczepieńców do posłuszeństwa za
+  pomocą świeckiego ramienia i nie potrzebuje odpowiadać szaleńcowi dowodami. <o:p></o:p></span></i></b></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">3.
+  Powinniśmy nauczać chrześcijan, że papież według wysokości władzy swojej stoi
+  ponad całym powszechnym Kościołem i soborami, tudzież że postanowień jego
+  ludzie powinni słuchać z wszelką pokorą. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">4.
+  Powinniśmy uczyć chrześcijan, że papież sam jeden ma moc wyjaśniać i
+  załatwiać sprawy dotyczące wiary chrześcijańskiej, a zatem on jeden, a oprócz
+  jego nikt inny więcej, ma moc myśli Pisma Świętego według własnego umysłu
+  swego tłumaczyć, tudzież wszystkie słowa i czyny innych ludzi albo
+  zatwierdzać albo potępiać. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><b><i><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Tahoma"> <o:p></o:p></span></i></b></p>
+<p><b><i><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Tahoma"> <o:p></o:p></span></i></b></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">5.
+  Powinniśmy nauczać chrześcijan, ze wyroki papieża wydane w sprawie wiary
+  chrześcijańskiej są nieomylne i do zbawienia rodzaju ludzkiego potrzebne.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">6.
+  Należy nauczać chrześcijan, iż w sprawach wiary powinniśmy daleko więcej
+  zaufać zdaniom papieża, tak jak są one wyrażone w <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">jego
+  ustanowieniach, bardziej niż zdaniom wszystkich uczonych na świecie,
+  chociażby ci nauki swe z Pisma Świętego wywodzili<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+</td>
+</tr>
+<tr>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">46.
+  Trzeba nauczać chrześcijan, że jeśli nie są zbyt bogatymi, powinni lepiej
+  swoje pieniądze wydać na potrzeby swego domu, a nie marnować takowych na
+  nabywanie odpustów. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">47.
+  Powinniśmy nauczać chrześcijan, że nabywanie odpustów jest rzeczą dobrowolną,
+  a nie powinniśmy kupowania ich usilnie nakazywać.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">50.
+  Trzeba nauczać chrześcijan, że gdyby papież wiedział jakich okrucieństw
+  dopuszczają się ci, którzy odpusty sprzedają, to wolałby widzieć kościół św.
+  Piotra zamieniony w popioły, aniżeli budować go kosztem skóry, ciała i kości
+  swych owieczek. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">53.
+  Nieprzyjaciółmi Chrystusa i papieża są ci, którzy przez wzgląd na zachwalanie
+  odpustów Słowo Boże po innych kościołach głosić zabraniają. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">76.
+  My przeciwko temu powiadamy, że co do zgładzenia winy, to odpust papieża ani
+  najmniejszego powszedniego grzechu zmazać nie może. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">79.
+  Kto powiada, że krzyż godłem papieskim ozdobiony i w ziemię zatknięty czyni
+  te same skutki co krzyż Chrystusa, ten bluźni Bogu. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">80.
+  Biskupi, duszpasterze i teolodzy, którzy mniemają, że rzeczy takie można
+  ogłaszać zwykłym ludziom, ciężko kiedyś za to przed Bogiem odpowiadać będą. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">81.
+  Takie sromotne i bezwstydne kazanie i zachwalanie odpustów sprawia, że nawet
+  uczonemu człowiekowi nie jest łatwo bronić czci i powagi papieża przed
+  oszczercami, a nawet przed przebiegłymi i ostrymi uwagami jakie przeciwko
+  niej wypowiada pospolity człowiek. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">86.
+  Do nich należą takie pytania, jak np.: Dlaczegóż to papież lepiej nie zbuduje
+  bazyliki św. Piotra za swe własne pieniądze tylko zdziera z ubogiego
+  chrześcijańskiego ludu, gdy każdy człowiek wie, że dobra i najbogatszego
+  krezusa nie dorównują nawet majątkowi papieża? <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+</td>
+<td style="width:50.0%;padding:3.0pt 3.0pt 3.0pt 3.0pt" valign="top" width="50%">
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">17.
+  Powinniśmy nauczać chrześcijan, że wszystkie ustanowienia stolicy
+  apostolskiej dotyczące spraw wiary, zaliczać należy do liczby artykułów wiary
+  chrześcijańskiej, chociażby takowe ani w Piśmie Świętym ani w pismach dawnych
+  doktorów zawarte nie były. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p><b><i><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:
+  Tahoma">Psy kąsają, ojciec twój z pewnością był psem.</span></i></b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+</td>
+</tr>
+</table>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Lutrowi
+nakazano stawić się przed legatem papieskim w Augsburgu. 11 października 1518
+r. stawił się Luter przed legatem papieskim de Vio, dominikaninem. Oto
+fragmenty rozmów, jakie się toczyły między nimi (fragmenty z J. H. Merle
+d’Aubigne Historia Reformacji XVI w. tom 1 ss. 314 – 322)<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Najprzewielebniejszy Ojcze! Na
+wezwanie Jego Papieskiej Świątobliwości i według życzenia najmiłościwszego pana
+mojego, księcia elektora, stawiam się przed Wami jako poddany i posłuszny syn
+świętego chrześcijańskiego Kościoła, i wyznaję, że to ja przedmiotowe
+propozycje i tezy napisałem. Ze wszelkim posłuszeństwem gotów jestem dowiedzieć
+się, o co mnie obwiniają, tudzież jeślim się pomylił, dać się według prawdy
+pouczyć.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">DeVio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kochany synu, twoimi rozprawami o
+odpustach wzburzyłeś całe Niemcy. Jak słyszę, ponoć to ty jesteś tym doktorem
+znającym się na Piśmie Świętym i mającym dużo słuchaczy. Dlatego posłuchaj słów
+moich, jeżeli chcesz być członkiem Kościoła i w papieżu uznać swego łaskawego
+pana. Oto są trzy artykuły, które ja z nakazu Najświętszego Ojca, papieża Leona
+X mam tobie przedstawić. Po pierwsze, powinieneś, wszedłszy w siebie, upamiętać
+się i odwołać swe błędy. Po drugie, powinieneś uroczyście ślubować, że w
+przyszłości powyższych błędów wystrzegać się będziesz. Po trzecie, powinieneś
+miarkować się we wszystkim i unikać wszystkiego, co by się do zasmucenia i
+rozerwania Kościoła przyczynić mogło. <span style="mso-tab-count:3">                        </span>[...]
+<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Proszę wiec o określenie tego, w
+czym się pomylić miałem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kochany synu; dwa wypowiedziałeś zdania,
+które cofnąć powinieneś. Po pierwsze, ze zasługa i męka Chrystusa nie stanowi
+skarbu do odpustów. Po drugie, że człowiek idąc do spożywania świętego
+sakramentu musi wierzyć, że dostąpi łaski, która mu w sakramencie podawana
+bywa. Celem wykazania błędów tej nauki nie chcę się już powoływać na powagę św.
+Tomasza i innych scholastyków, lecz oprę się jedynie na wyrokach pisma i
+postąpię z obie z tobą uprzejmie.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Ledwie
+jednak wziął się Vio do wyłuszczania swych dowodów, to od razu zaczął oddalać
+się od powyższej zasady. Pierwszą propozycję Lutra usiłował obalić
+ekstrawagantą papieża Klemensa VI, drugą znowu cytatami przytoczonymi z dzieł
+scholastyków. Oburzyło to Lutra, że jakiemuś tam dekretowi kurii rzymskiej
+legat przypisuje tak wielkie znaczenie, i dlatego tak się odezwał:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Podobne ustanowienia nie są w tak
+ważnych sprawach dostatecznymi dowodami. One przekręcają myśli Pisma Świętego i
+nie cytują wyroków jego nigdy prawdziwie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Papież ma moc i władzę nad
+wszystkimi rzeczami.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ale nie ma jej nad Pismem
+Świętym.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Nad Pismem mocy nie ma? A czy ty
+nie wiesz, że papież jest ponad soborami? Czyż niedawno nie potępił i nie
+skarcił soboru odbytego w Bazylei?<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Uniwersytet Paryża złożył
+przeciwko temu apelację!<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Tahoma">Paryżanie poniosą jeszcze zasłużoną karę. [ ...] <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jeśli się co do odpustu mylę, to
+gotów jestem dać się w sprawie tej pouczyć. Można być dobrym chrześcijaninem,
+nie poruszywszy artykułu tego. Lecz gdybym co do artykułu o wierze ustąpił, to
+bym się zaparł samego Chrystusa. W punkcie tym nie chcę i nie mogę ustąpić, ani
+też z pomocą Bożą nigdy tego nie uczynię. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Czy chcesz, czy nie chcesz, dziś
+jeszcze artykuł musisz odwołać, inaczej bowiem z powodu tego jednego artykułu
+potępię i przeklnę całą twoją naukę. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ja nie mam innej woli jako
+jedynie wolę Bożą. On niech ze mną postąpi jak się jemu podoba. Gdybym nawet
+miał czterysta głów, to wolałbym je wszystkie utracić, aniżeli świadectwo moje
+za świętą, chrześcijańską wiarę miał odwołać. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ja tu nie przyszedłem kłócić się
+z tobą. Albo odwołaj, albo przygotuj się, by zasłużoną odbyć karę. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Luter
+poprosił, by pozwolono mu odejść i przygotować odpowiedź na piśmie. <o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Fragmenty
+rozmów z 12 października:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter [odczytuje]:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Oświadczam uroczyście, iż święty
+Kościół rzymski szanuję i nadal szanować będę. W dyskusjach publicznych
+szukałem tylko prawdy i teraz jeszcze uważam wszystko co powiedziałem, za prawą
+i chrześcijańską prawdę. Ale ja jestem człowiekiem i mogę się pomylić. Dlatego
+też oświadczam, że gotów jestem dać się pouczyć i przekonać o tych rzeczach, w
+których się pomylić mogłem. Gotów też jestem, czy to ustnie czy też pisemnie,
+odpowiedzieć na wszystkie uwagi i zarzuty, jakie Przewielebny legat poczynić mi
+zechce. Mam również zamiar przedłożyć tezy moje czterem uniwersytetom, a
+mianowicie uniwersytetowi w Bazylei, Freiburgu, Lowanium i Paryża, i co one za
+fałszywe uznają, to ja wszystko odwołam. Słowem, ja wszystko uczynię, czego w
+ogóle od chrześcijanina żądać można. Ale uroczyście protestuję przeciwko
+sposobowi, jakiego dotąd używano, tudzież przeciwko temu szczególnemu wymaganiu
+abym odwołał, mimo iż mi nie dowiedziono, iż nauka moja jest fałszywa. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">DeVio [z uśmiechem]:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Toż przecież nie potrzeba takiego
+protestu. Ja nie będę z tobą dyskutował ani publicznie ani potajemnie. Ja chcę
+sprawę tę w dobroci i po ojcowsku załagodzić! Kochany przyjacielu, zaniechaj
+wszelkiej bezskutecznej próby, wejrzyj w siebie, poznaj prawdę, a ja cię
+pojednam z Kościołem i papieżem. Odwołaj, mój przyjacielu, odwołaj! Tego bowiem
+żąda od ciebie papież. Czy ty chcesz, czy nie chcesz, to jest rzeczą obojętną.
+Trudno ci będzie przeciwko ościeniowi wierzgać.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ja odwołać nie mogę, ale odpowiem
+na piśmie. Jużeśmy się wczoraj wystarczająco długo spierali.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Czuł
+jednak de Vio, że w obecności tak poważnych osób będących świadkami rozprawy,
+wypada koniecznie przynajmniej pozór zachować, jakoby Lutra chciał przekonać
+dowodami. Z tego też powodu podjął on na nowo rozprawę o dwóch powyższych
+zdaniach Lutra, które poprzedniego dnia określił jako największe błędy, ale
+uczynił to z takim zamiarem, aby, na ile można, nie dopuścić Lutra do słowa.
+Odznaczając się wrodzoną Włochom biegłością słowa, nacierał kardynał na Lutra
+zarzutami, nie pozwalając mu na nie odpowiedzieć. Uciekał się to do gróźb, to
+do żartów, to znowu przechodził do gwałtownego krzyku umiał kardynał mieszać ze
+sobą najróżniejsze rzeczy. Raz przytaczał kardynał wyroki św. Tomasza, to znowu
+gromił przeciwko przeciwko inaczej myślącym i znowu zwracał się do Lutra. Ten
+chciał więcej niż dziesięć razy zagrać głos, ale legat do tego nie dopuścił,
+albo od razu przerywał groźbami: "Odwołaj! Odwołaj!". Żądał, gromił i
+nawoływał Lutra bez ustanku do posłuszeństwa tylko po to, aby sam mógł mówić.
+Wreszcie wystąpił Staupitz z prośbą, aby także Doktorowi Marcinowi wolno było
+powiedzieć słowo. Lecz legat, nie zważając na to, znowu sam mówił, cytując
+dalej ekstrawaganty papieży i wyroki św. Tomasza. [...] Nie mogąc ustnie
+odpowiedzieć, poprosił Luter o pozwolenie wręczenia kardynałowi pisemnej
+odpowiedzi. Prośbę tę usilnie popierał Staupitz, a także wielu innych
+przemawiała za nią, tak iż kardynał czuł się zmuszony by na to zezwolić,
+chociaż skądinąd podobnych pisemnych rozpraw nienawidził z głębi duszy, gdyż
+słowo napisane pozostaje. Rozstano się na razie. [...]<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">A
+oto, co powiedziano 14 października 1518 roku:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter: <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Przewielebność Wasza zrobiła mi
+przedstawienie co do dwóch artykułów. Przytoczyła najpierw ekstrawagantę
+papieża Klemensa Vi, która ma dowodzić, że skarb odpustów stanowią zasługi Pana
+naszego Jezusa Chrystusa, a także zasługi świętych Pańskich, czemu ja zaprzeczyłem.<br/>
+Panormitanus (Luter ma tu na myśli Ivona, autora słynnego zbioru ustaw
+kościelnych znanych pod tytułem "Panormia"; Ivon był pod koniec XI w.
+biskupem miasta Chartres), powiada w pierwszej księdze dekretałów, że w
+sprawach dotyczących wiary wyżej od papieża stoi nie tylko sobór powszechny,
+ale każdy wierzący chrześcijanin, jeśli ma za sobą lepsze wyroki, lepsze zdania
+i lepsze dowody niż papież. Głos miłego Pana naszego Jezusa Chrystusa znaczy
+daleko więcej od głosu wszystkich innych ludzi, bez względu na to, czym oni są
+lub jak się nazywają. <br/>
+To mnie niepokoi, najbardziej zaś martwi mnie ta okoliczność, iż częściej
+wspomniana już ekstrawaganta zawiera w sobie niektóre fałszywe nauki. Najpierw
+uczy nas ona, że zasługi świętych stanowią skarb, mimo iż całe Pismo Święte
+poświadcza, iż obfitszą od Boga bierzemy zapłatę niż to, na co zasłużyliśmy.
+Prorok mówi w psalmie 143 tak: Panie! Nie wchodź w spór ze sługą swoim; gdyż
+żaden żyjący nie będzie usprawiedliwiony przed twym obliczem. Św. Augustyn zaś mówi
+w księdze 9 swych Wyznań: Biada życiu człowieka! I najwznioślejszemu i
+najchwalebniejszemu biada, jeśliby zostało ono osądzone z wykluczeniem
+miłosierdzia! A zatem ani święci nie dostępują zbawienia z powodu swych
+własnych zasług, ale jedynie przez zmiłowanie Boże, jako i ja wykazałem. Przy
+tym ja mocno obstaję i nie dam się zachwiać, albowiem powinniśmy daleko więcej
+słuchać słowa Pisma Świętego, które uczy, że zasługi świętych są za małe i
+niedostateczne, aniżeli słów ludzkich, które powiadają, że święci mieli zasług
+aż zanadto, więcej nawet niż potrzebowali. Papież bowiem nie stoi ponad Słowem
+Bożym, ale poniżej Słowa Bożego. Zasługa Chrystusowa nie jest skarbem odpustów,
+przez które wykonywanie tego co dobre staje się rzeczą zbyteczną; owszem, zasługa
+Chrystusa jest skarbem łaski, która serce człowieka przywraca do życia. Zasługa
+Chrystusa udziela się właściwie człowiekowi sama z siebie, bynajmniej nie przez
+papieża, lecz za pośrednictwem Ducha Świętego, który do tego nie potrzebuje ani
+środków zewnętrznych, ani odpustów, ani nawet władzy kluczy. Kto zna lepszą
+naukę, to niech mówi, a ja chętnie swoją odwołam. Ja powiedziałem, że żaden
+człowiek nie może zostać usprawiedliwiony przed Bogiem, jak tylko przez wiarę;
+a zatem musi człowiek mocno wierzyć w to, że zostaje usprawiedliwionym. Jeśli
+zaś o tym wątpi, to wzbrania łasce przystępu do siebie. Wiara staje się
+sprawiedliwością i życiem człowieka usprawiedliwionego.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Dla
+udowodnienia powyższych prawd przytoczył Luter dużą ilość wersetów z Pisma
+Świętego. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Niechaj tedy Wasza
+Najprzewielebniejsza Ojcowska Miłość zechce wstawić się za mną u Najświętszego
+pana naszego Leona X, aby tak wielkiej i surowej niełaski raczył nie okazywać
+przeciwko mnie. Dusza moja szuka jedynie światłości prawdy. Ja bynajmniej nie jestem
+tak zarozumiały ani próżnej chwały chciwym, iżbym się wstydził odwołać to, co
+może w nauce mojej nie zgadza się z prawdą; owszem, z jak największą uczynię to
+radością, byle tylko prawda zwyciężyła. Lecz niechaj na mnie nie nalegają, abym
+wbrew przekonaniu sumienia mego coś miał uczynić. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio (wziąwszy oświadczenie z
+ręki Lutra, przejrzał je pobieżnie i odparł):<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Wszystko, coś tutaj napisał to
+tylko daremna gadanina; wiele słów spisałeś, na te dwa artykuły głupią dałeś
+odpowiedź, i zabazgrałeś swój papier wieloma wyrokami Pisma Świętego, które się
+do tego nie odnoszą. Odwołaj! (de Vio wskazywał przy tym na ustawę papieską).<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">To niech i tak będzie. Jeśli ta
+ustawa dowodzi, że zasługi Chrystusa stanowią skarb dla odpustów, to ja według
+woli i upodobania Waszej Przewielebności odwołam.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">[..]
+Wreszcie gdy kardynał zaczął czytać ono rozstrzygające zdanie, w którym stoi
+napisane, że Chrystus Pan przez swą mękę zjednał skarb, to Luter naraz,
+przerywając mu, odpowiedział:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Najprzewielebniejszy Ojcze, niech
+Wasza Przewielebność zastanowi się nad tym wyrazem "zjednał"
+(acquisivit), i niech nad nim pilnie rozważa. Chrystus zasługami swymi zjednał
+skarb, a zatem nie zasługi jego są tym skarbem; albowiem używając wyrazu
+filozofów, co innego jest rzecz jakaś, a co innego skutek tejże rzeczy. Zasługi
+Chrystusowe udzieliły papieżowi moc dawać ludowi takie odpusty; ale ręka
+papieża nie rozdaje zasług Chrystusa jako takich. A zatem mój wniosek jest
+prawdziwy i ustawa, na którą się Wasza Przewielebność tak stanowczo powoływała,
+wydaje świadectwo za prawdę wypowiedzianą przeze mnie. [...]<br/>
+Niech Wasza Przewielebność nie myśli, że my Niemcy nie mamy albo nie znamy
+gramatyki. Inna jest rzecz, że skarb w ogóle istnieje, a inna zaś, że go ktoś
+nabędzie. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">de Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Odwołaj, odwołaj! Jeśli tego nie
+uczynisz, to cię do Rzymu wyślę; tam przed innymi staniesz sędziami, którzy są
+powołani wydać o tobie wyrok. Ja zaś rzucę klątwę na ciebie i na twoich
+zwolenników, i na wszystkich, którzy ci sprzyjają lub też sprzyjać będą. Ja wyklnę
+ich ze społeczności Kościoła. Święta stolica apostolska upoważniła mnie do
+tego. Czy myślisz, że obrońcy twoi powstrzymają mnie przed tym? Papież ma
+więcej siły w małym palcu niż wszyscy książęta niemieccy razem.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">Luter:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Niech Wasza Przewielebność zechce
+mą na piśmie ułożoną odpowiedź i najuniżeńsze prośby moje przesłać na ręce
+papieża Leona X. <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:5.65pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:13.5pt;font-family:Tahoma">De Vio:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Odwołaj, albo mi się więcej na
+oczy nie pokazuj.<o:p></o:p></span></p>
+<p><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma">Słowo
+to mocne wywarło na Lutrze wrażenie. Nie odpowiedziawszy już ani słowa więcej,
+ukłonił się i odszedł, radcy elektorscy poszli za nim. [...] Luter i de Vio nie
+spotkali się już więcej w tym życiu, lecz wrażenie, jakie reformator wywarł na
+kardynała, wywarło w duszy jego niezatarte ślady. Co Luter o wierze powiedział,
+a także co de Vio w późniejszych jego dziełach przeczytał, zmieniło w niejednym
+względzie przekonania kardynała. W jego komentarzu napisanym o Liście do
+Rzymian znaleźli później teolodzy rzymscy takie nauki co do artykułu o
+usprawiedliwieniu grzesznika, które ich zdumieniem i niepokojem napawały.
+Reformator ustąpił z miejsca, ale nie odwołał; sędzia jednak, domagając się
+nieustannie odwołania, zmienił powoli swe zdanie, i tym sposobem cofnął
+pośrednio swe błędy. Taka była nagroda niezachwianej pewności reformatora.<o:p></o:p></span></p>
+</div>
+<br/><form name="Historia">
+<input type="BUTTON" value="Strona główna"/>
+</form>
+<br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" enctype="application/x-www-form-urlencoded" method="POST">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:1.0cm;margin-bottom:0cm;
+margin-left:1.0cm;margin-bottom:.0001pt;mso-layout-grid-align:auto;punctuation-wrap:
+hanging;text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:12.0pt;font-family:Tahoma"><span style="display:none;
+mso-hide:all"><input name="filename" type="hidden" value="historia/tezy_lutra.html"/></span></span><span lang="EN-US" style="mso-bidi-font-size:12.0pt;font-family:Tahoma;mso-ansi-language:
+EN-US"><o:p></o:p></span></p>
+<p style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Chciał(a)bym przesłać ten artykuł
+pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/><br/>
+<input action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST" type="submit" value="  Wyślij  "/><o:p></o:p></span></p>
+</form>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;
+margin-left:1.0cm;mso-layout-grid-align:auto;punctuation-wrap:hanging;
+text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:
+12.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h4 style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma;color:gray">Wersja HTML, Copyright
+© 1999 <a href="http://www.czytelnia.Jezus.pl"><span style="color:gray">Czytelnia
+Chrześcijanina </span></a></span></h4>
+
+{% endraw %}

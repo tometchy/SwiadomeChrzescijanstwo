@@ -1,0 +1,332 @@
+/*
+w komentarzach przyk³adowe miejsca u¿ycia stylu
+*/
+
+
+body
+	{
+		margin: 0 4% 0 4%;
+		background-color: white;
+	}
+
+
+a
+	{
+		color:		black;
+	}
+
+
+p.nawigacja
+	{
+		margin-top:	10pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	right;
+	}
+
+p.przedtytul
+	{
+		margin-top:	72pt;
+		font-family:	arial;
+		font-size:	24pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.tytul
+	{
+		margin-top:	72pt;
+		font-family:	arial;
+		font-size:	36pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.tytul_druga_linia
+	{
+		font-family:	arial;
+		font-size:	36pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.autor
+	{
+		font-family:	arial;
+		font-size:	20pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.komentarz_w_tytule
+	{
+		font-family:	arial;
+		font-size:	8pt;
+		font-weight:	normal;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.cytat_referencje_w_tytule
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.cytat_w_tytule
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+
+
+p.rozdzial
+	{
+		margin-top:	60pt;
+		font-family:	arial;
+		font-size:	24pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.podrozdzial1
+	{
+		margin-top:	32pt;
+		font-family:	arial;
+		font-size:	18pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.podrozdzial2
+	{
+		margin-top:	18pt;
+		font-family:	arial;
+		font-size:	14pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.cytat
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	8%;
+	}
+
+
+
+p.wstep
+	{
+		margin-top:	72pt;
+		margin-bottom:	48pt;
+		font-family:	arial;
+		font-size:	10pt;
+		font-style:	normal;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+
+p.tekst_biblijny
+/* 
+nasze uwspó³czeœnione t³umaczenie - podstawowy paragraf
+*/
+
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0%;
+	}
+
+p.przytaczam_goradol
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-top:	36pt;
+		margin-bottom:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.przytaczam_gora
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-top:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.przytaczam_srodek
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+p.przytaczam_dol
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-bottom:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+
+p.przypisek
+/*
+nazwa stylu myl¹ca
+uwagi o t³umaczu (np. J.Sa³acki, Ÿródle artuku³u itp. 
+Watsona "Cz³owiek pobo¿ny mi³uje S³owo Bo¿e
+apologetyka - Sadoleto
+*/
+	{
+		margin-top:	30pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+p.przypiski
+/*
+wyjaœnienia do odsy³aczy
+apologetyka - Sadolet
+*/
+	{
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+p.stopka
+	{
+		margin-top:	120pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+ol.poziom1
+	{
+		margin-left:	6%;
+		list-style-position: outside;
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

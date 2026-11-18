@@ -1,0 +1,456 @@
+---
+title: Miłość, bojaźń i posłuszeństwo (Love, Fear And Obedience)
+category: Znani pisarze
+permalink: /czytelnia/swch-autorzy-wilkerson-milosc-bojazn-posluszenstwo-c9d5bb4a8/
+source_url: https://swch.pl/autorzy/wilkerson/milosc_bojazn_posluszenstwo.html
+imported_from_legacy: true
+source_text_sha256: 13ad11aa91452a91866c9ab237048d74e9224980bc65608b5726c987d7a0401f
+source_char_count: 23338
+source_verified: true
+---
+
+{% raw %}
+
+<center>
+<h3>
+Miłość, bojaźń i posłuszeństwo <br/>
+<font size="-1">(Love, Fear And Obedience)</font></h3></center>
+<h4>
+     <font color="#FFFFFF">David</font> Wilkerson<br/>
+     <font color="#FFFFFF">1992, <br/>
+</font>   <font color="#FFFFFF">  _____</font>_____</h4>
+<blockquote>
+<blockquote>"<b>Dzięki</b> bojaźni Pana stronimy od złego" (Przyp. Sal.
+16:6)
+
+<p>"Bać się Pana - znaczy nienawidzić zła" (Przyp. Sal. 8:13)
+
+<p>"Kto ma przykazania moje i przestrzega ich, ten mnie miłuje" (Jan 14:21)
+
+<p>"A to jest miłość, abyśmy postępowali według przykazań jego" (2 Jana
+6)
+
+<p>Miłość, bojaźń i posłuszeństwo - znaczą to samo, jeżeli chodzi o nasze
+życie z Bogiem. W przeszłości zwiastowałem na temat miłości Bożej, bojaźni
+Bożej i posłuszeństwa Bogu tak, jakby były to trzy różne aspekty naszej
+relacji z Panem. Ale teraz uczę się, że te trzy są nierozłączne nie można
+praktykować jednej bez pozostałych dwóch ; nie można miłować Boga bez posiadania
+bojaźni Bożej. Nie można Go miłować nie będąc Mu posłusznym. Nie można
+mieć prawdziwej bojaźni Bożej, jeżeli nie jesteś Mu posłuszny.
+
+<p>Zadaj sobie pytanie: jaka jest twoja motywacja dla odnoszenia zwycięstwa
+nad pożądliwościami, pragnieniami i grzechami? do zdobywania świętości,
+pobożności i czystości serca?
+
+<p>Niektórzy nauczają, że tylko bojaźń Boża powoduje, iż wierzący uciekają
+przed pożądliwościami. Cytują następujące fragmenty Słowa Bożego: "Spustoszenie
+i nędza na ich drogach, a drogi pokoju nie poznali. Nie ma bojaźni Bożej
+przed ich oczami" (Rzym. 3:16-18). "Bój się Pana i unikaj złego" (Przyp.
+Sal. 3:7). "Bojaźń Pana jest krynicą życia, dzięki niej można uniknąć sideł
+śmierci" (Przyp. Sal. 14:27).
+
+<p>Słowo Boże mówi, że pierwszy kościół był budowany poprzez "chodzenie
+w bojaźni Pańskiej i pociechę Ducha Świętego" (Dz. Ap. 9:31). Jeremiasz
+mówi, że grzeszny Izrael nie naśladował Boga z całego serca, ponieważ nie
+bali się Go: "Nie ma u ciebie bojaźni przede mną" (Jeremiasz 2:19).
+
+<p>Natomiast inni kaznodzieje nauczają, że jedyną właściwą motywacją przeciwko
+grzechowi jest miłość. Niedawno słyszałem, jak pewien kaznodzieja grzmiał
+przez radio: 'Bojaźń nie jest dla chrześcijanina - to jest udręka! Nie
+możesz chodzić z Bogiem, jeżeli się Go boisz. Miłość jest jedyną reakcją
+na łaskę, jakiej kiedykolwiek będziesz potrzebował. Jeżeli miłujesz Boga,
+to będziesz mu posłuszny.'
+
+<p>Ten pastor absolutnie odrzucił bojaźń Bożą, jako motywację dla posłuszeństwa
+Panu! Sam pomysł uczenia ludzi świętej bojaźni Bożej dla niego wydawał
+się czymś odrażającym. Rzeczywiście, obecnie z kazalnic słyszymy w większości
+poselstwa o miłości. Bardzo mało słyszymy o bojaźni Bożej -- prawie żadnych
+proroczych kazań, które powodują przekonanie o grzechu.
+
+<p>Zamiast tego duchowni nauczają: "tylko kochaj Jezusa z całego serca,
+a wszystko będzie dobrze. Nie jesteśmy pod zakonem -- jesteśmy powołani
+do wolności! Wszyscy upadamy, ale miłość przykrywa każdy grzech. Naucz
+się więc kochać. Kochaj Jezusa i braci, a masz zagwarantowane niebo."
+
+<p>To dobrze brzmi -- ale to nie to, co mówi Słowo Boże! Może powiesz:
+'ale czy Jezus nie powiedział, że dwa największe przykazania opierają się
+na miłości -- że mamy miłować Boga i bliźniego?' Tak, to prawda! Ja nie
+mam argumentów przeciwko tym, którzy nauczają, że miłość powinna być naszą
+główną motywacją. Moim problemem jest różnica pomiędzy nowoczesną definicją
+miłości przedstawianą przez kościół, a tym, co Jezus nazywa miłością! Miłość
+nie jest tylko emocją, czy uczuciem, które żywimy do Chrystusa. Nie może
+ona być w pełni pokazana tylko poprzez uwielbianie i kazanie.
+<br/>Nie może ona również być zmierzona emocjami.
+
+<p>Wielu chrześcijan potrafi siedzieć w kościele i przeżywać wielkie emocje,
+wołać do Boga i płakać -- a potem wyjść z kościoła i być nieposłusznym
+Bogu. Jezus powiedział, że to nie jest miłość do niego! Nie można tego
+chyba przedstawić jaśniej: miłość oznacza posłuszeństwo przykazaniom Pana
+Jezusa Chrystusa!
+
+<p>Jezus powiedział, że jedynym rodzajem miłości, jaką on przyjmuje jest
+posłuszeństwo każdemu jego przykazaniu -- posłuszeństwo jego słowu we wszystkim
+i zawsze!
+<br/>"Jeśli mnie miłujecie, przykazań moich przestrzegać będziecie" (Jan
+14:15).
+<br/>"Jeśli przykazań moich przestrzegać będziecie, trwać będziecie w miłości
+mojej, jak i ja przestrzegałem przykazań Ojca mojego i trwam w miłości
+Jego" (Jan 15:10).
+<br/>"Na tym bowiem polega miłość ku Bogu, że się przestrzega przykazań
+jego, a przykazania jego nie są uciążliwe" (1 Jana 5:3). Chyba Chrystus
+nie mógł tego już jaśniej powiedzieć:
+
+<p><b> </b>
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<center><font color="#0000FF"><b>miłość do niego oznacza posłuszeństwo
+każdemu jego przykazaniu</b>!</font></center>
+<hr align="center" noshade="" width="55%"/>
+<br/> 
+
+<p>Ale co wytwarza stałe i trwałe posłuszeństwo? Jestem przekonany, że
+pobożne, ochotne posłuszeństwo wytryska z jednego źródła: bojaźni żywego
+Boga! Posłuszeństwo zrodzone poprzez prawdziwą i nabożną bojaźń Bożą, jest
+udoskonaloną miłością.
+
+<p>Na poparcie tego proponuję następujące miejsca Słowa Bożego: "A z tego
+wiemy, że go znamy, jeśli przykazania jego zachowujemy. Kto mówi: znam
+go, a przykazań jego nie zachowuje, kłamcą jest i prawdy w nim nie ma.
+Lecz kto zachowuje Słowo Jego, w tym prawdziwie dopełniła się miłość Boża.
+Po tym poznajemy, że w nim jesteśmy. Kto mówi, że w nim mieszka, powinien
+sam tak postępować, jak on postępował" (1 Jana 2:3-6). "Przeto okażmy się
+wdzięcznymi my, którzy otrzymujemy królestwo niewzruszone i oddawajmy cześć
+Bogu tak, jak mu to jest miłe: z nabożnym szacunkiem i bojaźnią. Albowiem
+Bóg nasz jest ogniem trawiącym" (Hebr. 12:28-29).
+
+<p>Teraz nieczęsto słyszymy to słowo zwiastowane z wielu kazalnic. Zamiast
+tego Jezus jest przedstawiany jako zdziecinniały dziadek, który przymyka
+oko na grzech! Oczywiście, On wie, że jesteśmy słabi i że czasami upadamy.
+Ale tu Słowo Boże mówi o czymś innym: mówi, że posłuszeństwo jego przykazaniom
+jest udoskonaloną miłością -- a bojaźń Boża jest naszą motywacją do posłuszeństwa!
+
+<p>W prosty sposób można to powiedzieć tak:
+
+<p> 
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<p><b><font color="#0000FF">Jeżeli naprawdę masz w sobie bojaźń Bożą, to
+będziesz posłuszny każdemu Jego Słowu</font>.</b>
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<p>Czyniąc to, będziesz Go kochał tak, jak to jest Jemu przyjemne. Jeżeli
+boisz się Pana i jesteś mu posłuszny we wszystkim, to nie będziesz musiał
+sprawdzać swojego serca, aby się upewnić, czy naprawdę Go miłujesz. Nie
+będziesz musiał próbować mierzyć swojej miłości przez pryzmat swoich łez
+lub braku łez. Możesz po prostu odpocząć w Jego Słowie -- słowie Chrystusa
+-- że twoje posłuszeństwo względem Niego jest miłością!
+
+<p>Jednak po drugiej stronie monety są wszystkie drogi, co do których my
+myślimy, że wyrażamy w ten sposób miłość do Jezusa. Na przykład możemy
+siadać w jego świętej obecności i śpiewać ze łzami: 'Sercem kocham Jezusa...'
+Ty jesteś moją miłością...' 'Jezu, Ty jesteś moją radością...'. Ale jeżeli
+nie jesteśmy posłuszni Bożemu Słowu w naszym codziennym życiu, to całe
+nasze mówienie, zwiastowanie i śpiewanie o tym, że kochamy Jezusa jest
+tylko naszą sentymentalną duszewnością. Jest to tylko udawanie!
+
+<p>Bóg polecił nam, abyśmy odrzucili ten świat, oddzielili się od złych
+przyjaciół i ukrzyżowali swoje ciało wraz z jego namiętnościami i pożądliwościami.
+Czy jesteś Mu posłuszny w tym? Jeżeli nie -- jeżeli stale jesteś nieposłuszny
+jego Słowu, to twoje uwielbianie jest dla niego nie do przyjęcia.
+
+<p>Jest to jak miedź brzęcząca, czy cymbał brzmiący --hałas bez znaczenia!
+Wielu chrześcijan nie traktuje poważnie Słowa Bożego -- nie wierzą, że
+Bóg naprawdę tak myśli! Czy Jezus naprawdę miał na myśli to, co powiedział
+do swoich przyjaciół? Powiedział do uczniów tak: "Nie bójcie się tych,
+którzy zabijają ciało, a potem nie mają już nic do zrobienia. Ale wskażę
+wam, kogo się bać macie. Bójcie się tego, który, gdy zabija, ma moc wrzucić
+do piekła. Zaiste powiadam wam, tego się bójcie" (Łukasz 12:4-5).
+
+<p>Czy Bóg naprawdę tak myśli, kiedy powiedział: "Jeśli ktoś miłuje świat,
+nie ma w nim miłości Ojca" (1 Jana 2:15)?. Albo: "Pożądliwość począwszy
+rodzi grzech, a grzech będąc wykonany, rodzi śmierć" (Jakuba 1:15)? Niedawno
+słyszałem, jak pewien kaznodzieja powiedział: 'Nie można być posłusznym
+wszystkim przykazaniom w Biblii.
+<br/>A nawet gdybyś był im posłuszny, to i tak by cię to nie zbawiło. To
+byłby legalizm!'
+
+<p>Nie! Wręcz przeciwnie, myśmy się starali zniszczyć przykazania Chrystusa,
+nazywając je zakonem! Wspaniałe przykazania, które On nam dał, były dla
+naszego dobra, aby nas zbawić od samych siebie i od naszych grzechów! On
+nam nakazał pokutę. On nakazał, abyśmy wierzyli w Niego i w niebiańskiego
+Ojca. On nam również nakazał, abyśmy miłowali naszego bliźniego tak, jak
+siebie samego -- abyśmy przebaczali innym, a wtedy On nam przebaczy.
+
+<p>Jeżeli jesteś posłuszny tylko tym przykazaniom -- aby pokutować z grzechów,
+wierzyć, że Ojciec posłał Jezusa, kochać i przebaczać swojemu bliźniemu
+-- to jesteś zbawiony. Chodzisz w światłości, ponieważ ją otrzymałeś. Kiedy
+Jezus mówi, że nie jesteśmy zbawieni z uczynków zakonu, to mówi o czymś
+zupełnie innym. Mówi o naszych wysiłkach, aby 'zasłużyć' sobie na zbawienie
+-- tak, jak liderzy Żydów starali się zasłużyć na zbawienie poprzez przestrzeganie
+zwyczajów religijnych; obmywania naczyń, dokładnego obliczania dziesięciny
+i całej reszty 660 uczynków ciała. Nikt nie może być zbawiony z uczynków.
+
+<p>Ale mam pytanie: Które z Dziesięciu Przykazań możesz złamać i pójść
+do nieba? Cudzołóstwo? Kłamstwo? Nowy Testament mówi: "Bóg będzie sądził
+cudzołożników" (Hebr. 13:4) i "wszyscy kłamcy będą wrzuceni do jeziora
+ognistego. To jest druga śmierć" (Obj. Jana 21:8).
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<center><font color="#0000FF"><b>Umiłowani,</b> <b>nie mamy prawa łamać
+żadnego z tych przykazań!</b></font></center>
+<hr align="center" noshade="" width="55%"/>
+<p>Jezus powiedział, że nie przyszedł zniszczyć zakonu, ale go wypełnić
+-- i że jeżeli ktoś naucza inaczej, to należy mu przywiązać do szyi kamień
+młyński i wrzucić do morza!
+
+<p>Podam teraz bardzo odważne stwierdzenie: Uważam, że nie jest możliwe
+ustawiczne chodzenie w posłuszeństwie i świętości, jeżeli nie masz w sercu
+bojaźni Bożej. Jeżeli nie masz bojaźni Bożej, to zaczniesz wierzyć, że
+Bóg przymyka oko na grzech. Będziesz myślał, że ponieważ jest twoim kochającym
+Ojcem, to nigdy cię nie odrzuci -- że możesz grzeszyć ile chcesz i na nowo
+wstawać. Będziesz się bawił z grzechem i ciągle go wyznawał -- i powiesz
+sobie 'mogę robić, co chcę. Kiedy zechcę, pobiegnę do Jezusa i wyrównam
+wszystko. On mi przebaczy w każdej chwili.'
+
+<p>Nie! Prawda, że złoczyńca, który wisiał na krzyżu obok Jezusa został
+zbawiony w godzinie swojej śmierci --ale w nim już nastąpiła prawdziwa
+pokuta! Dzisiaj wielu uważa, że będą mogli zawołać do Boga przed samą śmiercią
+-- ale prawda jest taka, że będą oni wtedy zbyt zatwardzeni przez swój
+grzech!
+
+<p>Może teraz zadajesz sobie pytanie: 'Jak mogę zdobyć tę bojaźń Bożą?
+Jeżeli bojaźń Pańska jest fundamentem posłuszeństwa, a posłuszeństwo jest
+udoskonaloną miłością -- to pokaż mi jak zdobyć tę świętą bojaźń'.
+
+<p>Bojaźń Bożą zdobywasz tak samo, jak to robił Izrael: uczysz się jej!
+Pan jest gotowy nauczyć swojej bojaźni wszystkich, którzy pragną: "Pójdźcie
+synowie, słuchajcie mnie, nauczę was bojaźni Pańskiej" (Psalm 34:10).
+
+<p>Bóg uczy nas swojej bojaźni poprzez swoje Słowo! Użył Mojżesza, aby
+nam dać dwa przykłady na to, jak mamy się Go bać: <font color="#0000FF">1</font>.
+Mojżesz przed śmiercią dał przepis dla królów Izraela jak mają chodzić
+w posłuszeństwie. Mojżesz widział proroczo, że naród Izraelski powoła sobie
+królów według swoich pożądliwości. Dlatego prorokował do tych przyszłych
+królów: "A gdy zasiądzie na swoim królewskim tronie, niech sporządzi sobie
+na zwoju odpis tego Prawa... I będzie go miał u siebie i będzie go czytał
+przez wszystkie dni swojego życia, aby nauczyć się bojaźni Pańskiej, przestrzegania
+wszystkich słów tego Prawa i spełniania tych wszystkich przepisów." (5
+Mojżeszowa 17:18-19).
+
+<p>Każdy król miał ustawicznie karmić swoją duszę Bożym zapisem tego, co
+czynił w przeszłości dla Izraela. Miał się uczyć bać Boga widząc, jak Pan
+Jahwe błogosławił posłusznym -- i jak całkowicie wygubił i przeklął tych,
+którzy byli nieposłuszni Jego Słowu.
+
+<p>Umiłowani, w taki sposób ja się nauczyłem bojaźni Bożej! Badałem ciągle
+na nowo I i II Księgę Samuela, księgi Królewskie i Kronik -- i za każdym
+razem Boże postępowanie było jasne: "A król czynił to, co było dobre przed
+Panem, tak, jak jego ojciec i chodził w bojaźni Bożej. I Pan był z nim
+i błogosławił mu i dawał powodzenie i włożył strach przed nim na jego wrogów..."
+
+<p>Jednak ciągle na nowo ten sam zapis biblijny mówi o innych królach:
+"A król ten czynił to, co było złe w oczach Pana, opuścił drogi Boże i
+chodził według zamysłu serca swego.
+<br/>I Pan odstąpił od niego i był głód i ruiny i zniszczenie..." Było to
+bardzo proste: Bóg błogosławił tych, którzy czynili dobrze, a odrzucił
+tych, którzy czynili źle.
+
+<p>Bóg mówi w Swoim Słowie, "Ja nigdy nie przymykałem oka na grzech i nigdy
+nie będę.
+<br/>A jeżeli ty będziesz nadal szedł na kompromis i flirtował z grzechem,
+to postąpię z tobą tak, jak postąpiłem z Dawidem! Ja nie mam ulubieńców.
+Czy wydaje ci się, że ja w jakiś sposób przeoczę twoje bezbożne uczynki,
+jeżeli osądziłem tego, który był mężem według serca mojego?"
+
+<p><font color="#0000FF">2</font>. Mojżesz również polecił Izraelowi, aby
+czytali na nowo przykazania Pana każdemu pokoleniu. Ludzie byli wzywani
+na specjalne zgromadzenie co siedem lat, aby sobie przypomnieć wszystkie
+sprawiedliwe działania Boże względem ich ojców. Mojżesz prorokował im tak:
+"...aby usłyszeli i aby nauczyli się bojaźni Pana, Boga waszego i pilnie
+spełniali wszystkie słowa tego zakonu. Ich synowie zaś, którzy go jeszcze
+nie znają, niech go wysłuchają i nauczą się bojaźni Pana, Boga waszego
+po wszystkie dni waszego życia na ziemi, do której przeprawicie się przez
+Jordan, aby ją objąć w posiadanie" (5 Mojżeszowa 31:12-13).
+
+<p>Mojżesz prorokował: "Powstaną nowe pokolenia dzieci, które nie wiedzą
+nic o bojaźni Bożej! Nie będą mieli żadnej motywacji, aby być Mu posłusznymi
+i chodzić w uświęceniu. Mężowie i niewiasty Boże muszą ich uczyć Bożych
+dróg opisanych w Jego Słowie -- jak błogosławił tych, którzy byli mu posłuszni,
+a przeklął tych, którzy byli nieposłuszni!" Umiłowani, Mojżesz mówił o
+naszych czasach! Czy tak się nie dzieje w teraz w naszym kraju?
+
+<p>Przyszło nowe pokolenie młodzieży, które nie wie nic o odpowiedzialności
+i moralności. Posłuchajcie rozmowy nastolatków na ulicy -- usłyszycie najbardziej
+wulgarny i najbardziej brudny język na ziemi! To pochodzi prosto z piekła
+-- a nasze dzieci zostały w tym ochrzczone poprzez muzykę, filmy i telewizję!
+
+<p>To pokolenie jest zgubione -- nie wiedzą nic o Bogu! Jeżeli kościoły
+i szkoły niedzielne nie będą wołały i napominały młodych ludzi z powodu
+grzechów, to kto to zrobi? Nie zrobią tego pedagodzy! Dzieci w wieku szkolnym
+uczą się teraz na temat AIDS - co w praktyce oznacza, że uczą się jak zakładać
+prezerwatywy i uprawiać seks!
+
+<p>Akurat teraz jest rozpowszechniany traktat wśród uczniów klas siódmych
+(13 lat) w Nowym Jorku, pod nazwą 'Twoje prawa'. Mówi on: 'Masz prawo uprawiać
+seks z każdym, bez względu na płeć i kiedy tylko zechcesz.' Traktat ten
+jest sponsorowany przez organizacje związane ze szkołą -- a ich celem jest
+rozprowadzenie pół miliona takich broszur we wszystkich szkołach w mieście!
+
+<p>Bóg mówi do kościoła: "Wasze dzieci nie będą wiedziały nic o Mnie i
+mojej świętości. Wy ich musicie uczyć bojaźni Bożej -- uczcie ich tego,
+co jest zapisane o moim postępowaniu!" Jeżeli nie chce ci się szukać w
+Bożym Słowie, aby się dowiedzieć, jak On traktuje grzech i nieposłuszeństwo,
+to po prostu zwróć uwagę na to, jak On osądzał grzech w domu Bożym przez
+ostatnie pięć lat: -Podciął całą służbę PTL.
+
+<p>Cały świat zobaczył kaznodzieję ewangelii związanego jak zwykły przestępca
+z ulicy -- prowadzonego do więzienia na wiele lat! Bóg potrząsnął swoim
+kościołem, pozwalając, aby zostały ujawnione wszystkie brudne szczegóły.
+
+<p>Kiedy zobaczyłem zdjęcie na pierwszej stronie gazety, powiedziałem sobie:
+'Panie, jeżeli nic z tego, co powiedziałeś poprzez całą historię nie wlało
+bojaźni w serce każdego kaznodziei w Ameryce, to niech przynajmniej to
+wydarzenie to sprawi!' - Bóg zburzył najchętniej oglądane programy telewizji
+chrześcijańskiej na ziemi! Hańba i wstyd powaliły najbardziej znanego kaznodzieję
+amerykańskiego, który występował w telewizji więcej, niż ktokolwiek w historii.
+A to wszystko upadło z powodu grzechu!
+
+<p>Bóg pokazał swojemu kościołowi, że człowiek może stać za kazalnicą i
+mówić o miłości do Jezusa -- ale jeżeli nie żyje tym słowem, to nie kocha
+Chrystusa. Może płakać i błagać ile tylko chce! Ja kocham obu tych ludzi
+-- i nie stawiam się ponad nimi, czy kimkolwiek. Wiem, że jeżeli nie będę
+chodził w bojaźni Bożej, to również upadnę!
+
+<p>Czy jesteś kimś tak szczególnym lub ważnym, że Bóg przeoczy twój grzech,
+twoją skrywaną pożądliwość, twoje nieposłuszeństwo? Nie -- możesz być pewny,
+że twój grzech znajdzie cię! Jeżeli byłeś świadkiem tego publicznego działania
+Bożego przeciwko ukrytemu grzechowi w kościele, a pomimo tego nie nauczyłeś
+się bojaźni Bożej -- to jesteś związany poprzez swoją bezbożność i zmierzasz
+do tego samego celu!
+
+<p>Drogi przyjacielu. musisz chcieć bojaźni Bożej -- musisz jej szukać
+z całego serca! Bóg nie daje swojej bojaźni tym, którzy są leniwi duchowo:
+"Jeżeli szukać jej będziesz jak srebra i poszukiwać jej jak skarbów ukrytych,
+wtedy zrozumiesz bojaźń Pana i uzyskasz poznanie Boga" (Przyp. Sal. 2:3-4).
+
+<p>Ale otrzymanie bojaźni Bożej jest właściwie bardzo proste -- rozpoczyna
+się od posłuszeństwa Jemu w tym, co już wiesz. Kiedy mówię o posłuszeństwie
+Bogu, to nie mam na myśli uczenia się na pamięć wszystkich słów napisanych
+czerwonymi literami w Ewangeliach, aby je wszystkie spełniać. Jeżeli jesteś
+po prostu wierny i posłuszny temu światłu, jakie już masz -- posłuszny
+tym przykazaniom, które już znasz -- Bóg ciebie poprowadzi krok po kroku
+do dalszego posłuszeństwa i do jego świętej bojaźni. Nie będziesz musiał
+wymyślać jakichś legalistycznych sposobów posłuszeństwa.
+
+<p>Posłuszeństwo będzie dla ciebie czymś ukochanym i naturalnym! Chcę się
+podzielić z wami kilkoma chwalebnymi korzyściami wynikającymi z posłuszeństwa!
+Jezus obiecał niewymowne błogosławieństwa dla tych, którzy "dopełniają
+świątobliwości swojej w bojaźni Bożej" (2 Kor. 7:1).
+
+<p>Jest wiele takich korzyści, ale ja wymienię tylko trzy:
+<br/>1. Będziesz ubłogosławiony manifestacją samego Jezusa w tobie. "Kto
+ma przykazania moje i przestrzega ich, ten mnie miłuje; a kto mnie miłuje,
+tego też będzie miłował Ojciec i ja miłować go będę i objawię mu samego
+siebie" (Jan 14:21).
+
+<p>Jest to jedna z najwspanialszych obietnic w Słowie Bożym! Najpierw Jezus
+mówi: "Kto mnie miłuje, tego też miłował będzie Ojciec mój." Inaczej mówiąc:
+"Bóg obdarzy cię szczególną miłością dlatego, że ty mnie miłujesz!" Wiemy,
+że Bóg miłuje wszystkich ludzi na tym świecie. Ale Jezus mówi o czymś więcej
+: mówi, że Ojciec ma szczególną miłość w swoim sercu dla ciebie, kiedy
+chodzisz w posłuszeństwie jego Synowi.
+
+<p>Zaczyna ciebie kochać w szczególny sposób! "I ja miłować go będę i objawię
+mu samego siebie (Jan 14:21). Jezus mówi również, że jeżeli jesteś mu posłuszny,
+to On objawi ci samego siebie! Jest to tak niesamowite, że ja tego nie
+mogę pojąć. Kiedy przygotowywałem to kazanie, poświęciłem cały tydzień
+temu tematowi: "Panie, co masz na myśli -- jeżeli będę tobie posłuszny,
+to Ty objawisz mi samego siebie?" Nadal nie wiem, jak On to zrobi.
+
+<p>Ale mogę pójść do niego w modlitwie i powiedzieć: 'Jezu ty sprawiłeś,
+że mogę zaufać twojej obietnicy. Powiedziałeś, że nie znam jedynie historycznego
+Jezusa -- ale, że każdego dnia mojego życia, bez względu na to jak stary
+będę, będziesz się stawał dla mnie bardziej realny, aż do ostatniego dnia!"
+
+<p>I wreszcie Jezus powiedział: "Jeśli kto mnie miłuje, Słowa mojego przestrzegać
+będzie i Ojciec mój umiłuje go i do niego przyjdziemy i u niego zamieszkamy"
+(Jan 14:23). Wyobraź to sobie: Jezus dał ci osobistą obietnicę. Jeżeli
+go kochasz poprzez swoje posłuszeństwo jemu, to on weźmie na siebie obowiązek,
+aby to wszystko dla ciebie spełnić! Pokaże ci szczególną miłość, jaką Ojciec
+ma dla ciebie; objawi ci samego siebie ; i on i Ojciec przyjdą i zamieszkają
+w tobie -- biorąc ciebie w całkowite posiadanie, otwierając twoje zrozumienie
+tego, kim jest Bóg i wypełniając twoje ciało, duszę i ducha chwałą swojej
+obecności!
+
+<p><font color="#0000FF">2</font>. Będziesz ubłogosławiony szczególnym
+pomazaniem, abyś mógł słyszeć Jego głos.
+<br/>A to namaszczenie, które od niego otrzymaliście, pozostaje w was i
+nie potrzebujecie, aby was ktoś uczył, lecz to namaszczenie jego poucza
+was o wszystkim i jest prawdziwe i nie jest kłamstwem i jak was nauczyło,
+tak w nim trwajcie" (1 Jana 2:27). Kiedy bojaźń Boża zaleje twoją duszę
+-- kiedy jesteś Mu posłuszny i dajesz odpór diabłu, uciekasz przed pożądliwością
+i odrzucasz grzech, który tak łatwo cię pociąga -- wtedy zaczynasz otrzymywać
+namaszczenie słuchu i poznawać jego głos. Będziesz miał duchowy słuch!
+
+<p>Nie będziesz potrzebował, aby jakiś prorok, czy nauczyciel 'przekazał
+ci słowo' od Boga. Będzie cię uczył Duch Boży, który będzie mieszkał w
+tobie! Każdy chrześcijanin, który żyje w grzechu, pożądliwości, cudzołóstwie,
+zazdrości lub nieposłuszeństwie, nie może słyszeć prawdziwego głosu Bożego.
+Właściwie nic z tego, co słyszy, nie pochodzi od Boga -- ale albo z ciała
+albo od szatana!
+
+<p>Znałem takich chrześcijan, włączając w to kaznodziejów, którzy żyli
+w grzechu -- pożądliwości, zmysłowości i byli związani jakąś bezbożnością.
+Zaczęli słyszeć jakieś delikatne głosy -- piękne głosy, które kierowały
+nimi i obiecywały im dobre rzeczy. Te głosy mówiły: 'Moje drogie, kochane
+dziecko -- Bóg jest z tobą! Będziesz oglądał cuda, znaki i błogosławieństwa
+ze wszystkich stron.' Ale to się nigdy nie spełnia -- ponieważ te głosy
+nie były od Boga! Były to albo ich własne cielesne pragnienia, albo moce
+ciemności, które ich oszukiwały!
+
+<p>Pożądliwość ma moc wiążącą. Jezus powiedział do Żydów, którzy szli za
+nim: "Dlaczego mowy mojej nie pojmujecie? Dlatego, że nie potraficie słuchać
+słowa mojego.
+<br/>"Ojcem waszym jest diabeł i chcecie postępować według pożądliwości
+ojca waszego" Jan 8:43-44).
+
+<p>Jezus mówił im: "Ja mówię jasno, ale wy nie słyszycie tego, co ja mówię.
+Jest tak dlatego, ponieważ wasze serce jest wypełnione pożądliwością i
+nie jesteście w stanie słyszeć prawdy!" Czy chcesz słyszeć Boży głos? To
+bądź przed nim szczery na temat twojego grzechu! Odrzuć swoje pożądliwości
+i pozwól, aby Bóg mógł w tobie działać -- a wtedy zostanie zburzona ta
+dźwiękoszczelna ściana, która uniemożliwia ci słuchanie jego głosu.
+
+<p>3. Będziesz ubłogosławiony wysłuchanymi modlitwami i pełnią radości!
+"Jeśli we mnie trwać będziecie i słowa moje w was trwać będą, proście o
+cokolwiek byście chcieli, stanie się wam. ...To wam powiedziałem, aby radość
+moja była w was i aby radość wasza była zupełna"
+<br/>(Jan 15:7,11).
+
+<p>Umiłowani, pełnia radości pochodzi z wyraźnego słyszenia jego głosu!
+Nic mi nie daje większej radości niż to, kiedy wiem, że naprawdę Pan do
+mnie mówi. Kiedy jestem posłuszny i czynię to, co On mi polecił, to wchodzę
+do miejsca osobistej społeczności z nim -- i On zaczyna do mnie mówić.
+
+<p>To jest taka bliskość nieba na ziemi, jaka jest tutaj możliwa!
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<p><b><font color="#3333FF">Jeżeli powiesz Jezusowi: 'Panie, chcę chodzić
+w twojej sprawiedliwości i prawdziwie ciebie kochać przez posłuszeństwo',
+to Bóg obiecuje: "Zanim zawołają, odpowiem im i podczas, gdy jeszcze mówić
+będą, ja już ich wysłucham"</font></b><font color="#FF0000"> </font>(Izajasz
+65:24).
+<br/>
+<hr align="center" noshade="" width="55%"/>
+<p>"Pan jest daleki od bezbożnych, lecz wysłuchuje modlitwy sprawiedliwych"
+(Przyp. Sal 15:29). "Ofiara bezbożnych jest ohydą dla Pana. lecz modlitwa
+prawych podoba mu się" (Przyp. Sal. 15:8). Proś Boga, aby dał w twoje serce
+świętą bojaźń; zacznij chodzić w pełnym posłuszeństwie, według znanych
+ci przykazań -- a będziesz się udoskonalał w miłości do <b>Jezusa</b>!
+
+<p> 
+<center><b><font size="-2"><a href="/archiwum/swch/autorzy/wilkerson/index.html">STRONA GŁÓWNA</a></font></b></center>
+<!--- highlighted text example---></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></blockquote>
+</blockquote>
+
+{% endraw %}

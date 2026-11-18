@@ -6,8 +6,8 @@ sort_order: 11
 kind: ksiazka
 catalog_status: brak
 source_url: https://www.wswch.pl/
-source_provenance: web-catalog-snapshot-2026-11-17
-source_text_verified: false
+source_provenance: original-downloaded-html
+source_text_verified: true
 edition_note: drugie wydanie
 historical_price: 50 zł
 ---

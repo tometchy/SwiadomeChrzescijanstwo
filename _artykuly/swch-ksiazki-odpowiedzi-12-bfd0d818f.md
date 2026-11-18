@@ -1,0 +1,27 @@
+---
+title: Rozdział 12 BOŻA SZKOŁA MODLITWY
+category: Książki
+permalink: /czytelnia/swch-ksiazki-odpowiedzi-12-bfd0d818f/
+source_url: https://swch.pl/ksiazki/odpowiedzi_12.html
+imported_from_legacy: true
+source_text_sha256: ea4582e58ffe3a09d6e4f3877929e3201b79f8a09d7d7ab57c275c5e728c009a
+source_char_count: 4416
+source_verified: true
+---
+
+{% raw %}
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font></p>
+<h1>Rozdział 12<br/>
+BOŻA SZKOŁA MODLITWY</h1>
+<p><em>"Całkowite poświęcenie się Bogu jest niezbędne do tego, aby modlić się z wiarą. Musisz żyć świętym życiem i wszystko poświęcić Bogu - twój czas, talenty, wszystkie wpływy jakie posiadasz. Wszystko co masz, wszystko czym jesteś musi całkowicie należeć do Niego". </em></p>
+<p>Zostałem wezwany do Adams w celu przeegzaminowania mnie, aby stwierdzić, czy mogę głosić ewangelię. Był marzec 1824 rok. Jednomyślnie przegłosowali zgodę. Na tym spotkaniu prezbiterów po raz pierwszy zobaczyłem wielebnego Daniela Nash, który był powszechnie znany jako "Ojciec Nash". Był on członkiem kolegium prezbiterów. Duże zgromadzenie zebrało się, aby przesłuchiwać się moim egzaminom. Przyszedłem trochę później i zobaczyłem, że za kazalnicą stał człowiek i jak przypuszczałem mówił do ludzi. Zobaczyłem, że spojrzał na mnie kiedy przyszedłem. Potem spoglądał na innych, jak przechodzili do bocznych naw. Tak szybko jak mogłem zająłem swoje miejsce i słuchałem. Zauważyłem, że się modlił. Byłem zdziwiony, widząc go, rozglądającego się po całym domu tak, jakby mówił do ludzi, kiedy naprawdę modlił się do Boga. Oczywiście nie brzmiało to dla mnie jak modlitwa. Jego stan w tym czasie wskazywał, że był on bardzo zimny i odstępczy. Później ponownie spotkałem ojca Nash, człowieka, który modlił się z otwartymi oczami na spotkaniu kolegium prezbiterów, kiedy ubiegałem się o pozwolenie na głoszenie Ewangelii. Po tym spotkaniu zachorował na zapalenie oczu i na kilka tygodni zamknął się w ciemnym pokoju. Nie mógł ani czytać, ani pisać i jak się dowiedziałem oddał się całkowicie modlitwie. Jego życie zostało radykalnie odnowione i tak szybko, jak tylko mógł widzieć z podwójną czarną zasłoną na oczach wyruszył w podróż ewangelizacyjną. </p>
+<p>Kiedy przybył do Evans Mills, był pełen mocy modlitwy. Był zupełnie innym człowiekiem w porównaniu do wcześniejszego okresu jego chrześcijańskiego życia. Odkryłem, że miał on listę z imionami osób, za które się modlił codziennie, a czasami wiele razy na dzień. Modliłem się z nim i słuchałem jego modlitw na zgromadzeniach. Stwierdziłem, że jego dar modlitwy był cudowny, a jego wiara czyniła prawie cuda. Był tam człowiek, którego imię zaczynało się na literę D, prowadzący skromną tawernę, którą często odwiedzali przeciwnicy przebudzenia. Pomieszczenie było miejscem bluźnierstw, a sam właściciel był najbardziej bezbożnym i niegodziwym człowiekiem. Chodził on po całym miasteczku kpiąc z przebudzenia. Szczególnych starań dokładał w bluźnieniu i wyzywaniu, jeżeli gdziekolwiek zobaczył Chrześcijan. Ojciec Nash słyszał nas rozmawiających o panu D, jako o ciężkim przypadku. Natychmiast umieścił jego imię na swojej modlitewnej liście. Pozostał on w miasteczku dzień, albo dwa i wyruszył dalej w swoją drogę mając na uwadze inną okolicę. Kilka dni potem, kiedy mieliśmy spotkanie w bardzo zatłoczonym domu, każdego można było się na nim spodziewać, tylko nie powszechnie znanego pana D. Jego wejście uczyniło znaczne poruszenie w zgromadzeniu. Ludzie obawiali się, że przyszedł robić bałagan. Obawa przed nim i obrzydzenie było bardzo powszechne między Chrześcijanami. Kiedy on wszedł, niektórzy powstali i wyszli. Znałem jego pewność siebie i zatrzymałem swój wzrok na nim. Bardzo szybko stwierdziłem z zadowoleniem, że nie przyszedł on, aby się sprzeciwiać, ale pod ciężarem przekonania o swoich grzechach. Usiadł szlochając. Wkrótce powstał i z drżeniem spytał, czy może powiedzieć kila słów. Powiedziałem, że może. Wtedy zaczął składać jedno z najbardziej rozdzielających serce wyznań jakie kiedykolwiek słyszałem. Wydawało się, że jego wyznanie zawarło w sobie całe jego podłoże traktowania przez niego Boga, Chrześcijan, przebudzenia i wszystkiego, co było dobre. Wyznanie to całkowicie skruszyło twardy grunt w wielu sercach. Był to najpotężniejszy sposób, jaki mógł zostać użyty właśnie wtedy, aby nadać impetu pracy. Pan D. wkrótce wyszedł i zaczął świadczyć obalając wszystkie biesiady i niegodziwości w swoim barze. Od tego czasu, tak długo jak tam byłem i nie wiem jak długo potem spotkania modlitewne odbywały się w barze niemal co wieczór. </p>
+<br/>
+<p><strong>Pytania do przemyślenia i modlitwy</strong></p>
+<ol>
+<li>Czy potrzebuję uczęszczać do Bożej szkoły modlitwy?
+<li>Czy jestem gotów modlić się w wierze z poświęconego serca o zbawienie tych, którzy wydają się być najdalej od Boga?
+</li></li></ol><font size="-1">[<a href="/czytelnia/swch-ksiazki-odpowiedzi-13-1466d3c6a/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-11-543f965d9/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-odpowiedzi-e23266083/#spis">Spis treści</a>]</font>
+
+{% endraw %}

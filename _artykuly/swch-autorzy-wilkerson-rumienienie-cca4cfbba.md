@@ -1,0 +1,564 @@
+---
+title: Zapomnieliśmy jak się rumienić ze wstydu! (We Have Forgotten How To Blush!)
+category: Znani pisarze
+permalink: /czytelnia/swch-autorzy-wilkerson-rumienienie-cca4cfbba/
+source_url: https://swch.pl/autorzy/wilkerson/rumienienie.html
+imported_from_legacy: true
+source_text_sha256: 197f30a4f5152633930826ea488c3fcdcce77d943214be20efb354847301a9f0
+source_char_count: 25201
+source_verified: true
+---
+
+{% raw %}
+
+<div class="Section1">
+<h1 style="margin-top:12.0pt;margin-right:21.0pt;margin-bottom:3.0pt;
+margin-left:27.0pt"><span style="font-size:18.0pt;mso-bidi-font-size:16.0pt;
+font-family:Tahoma;color:navy">Zapomnieliśmy jak się rumienić ze wstydu! <br/>
+</span><span style="font-size:10.0pt;font-family:Tahoma;color:navy">(We Have
+Forgotten How To Blush!)</span><span style="font-size:18.0pt;mso-bidi-font-size:
+16.0pt;font-family:Tahoma;color:navy"><o:p></o:p></span></h1>
+<h4 style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">David Wilkerson<br/>
+21 sierpnia 1989<br style="mso-special-character:line-break"/>
+<?if !supportLineBreakNewLine?><br style="mso-special-character:line-break"/>
+<?endif?><o:p></o:p></span></h4>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"<strong>Albowiem</strong>
+od najmniejszego do największego wszystkich ogarnęła żądza zysku: od proroka do
+kapłana - wszyscy popełniają oszustwa" (Jeremiasza 6,13 BT). "Czy się
+wstydzą, że popełnili obrzydliwość? Oni nie potrafią się wstydzić, nie umieją
+także się rumienić. Dlatego padną wśród poległych, runą, gdy ich nawiedzę -
+mówi Pan" (Jeremiasza 6,15).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Prorok Jeremiasz widział straszny
+stan ogarniający lud Boży. Dla ukrycia swoich grzechów zaczęli żyć za fasadą
+powierzchownego pokoju i bezpieczeństwa. Żądza i chciwość tak bardzo pochłonęły
+ich serca, że kamuflowali swoje zranienia przy pomocy fałszywego skruszenia
+przed Panem. Całe ich życie stało się powierzchowne: powierzchowne łzy,
+powierzchowne upamiętanie, a nawet powierzchowne uzdrowienie.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Lud Boży zatracił swoje poczucie
+wstydu i żalu z powodu grzechu - grzechu w społeczeństwie, grzechu w kościele,
+grzechu w ich własnym życiu. Nie odczuwali już więcej Bożej nienawiści i gniewu
+w stosunku do grzechu. Grzech stał się "po prostu jedną z tych
+rzeczy".<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jeremiasz wołał: "Czy się
+wstydzą, że popełnili obrzydliwość? Oni nie potrafią się wstydzić, nie umieją
+także się rumienić..." (Jeremiasza 6,15).<o:p></o:p></span></p>
+<h2 style="margin-top:12.0pt;margin-right:21.0pt;margin-bottom:3.0pt;
+margin-left:27.0pt"><span style="font-family:Tahoma;color:navy;font-style:normal">Czym
+jest rumienienie się od Ducha Świętego?<o:p></o:p></span></h2>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Rumienienie się od Ducha Świętego
+to nie tylko czerwone policzki ze zwykłej skromności. Jest to odczuwanie, że
+jest się zranionym, zawstydzonym, zrujnowanym - zrozpaczonym z powodu tego, że
+imię i czystość Jezusa, naszego Pana, zostały podeptane, że Jego reputacja
+została splamiona.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jeremiasz daje nam obraz
+strasznego moralnego upadku, jaki pojawił się w Izraelu oraz domu Judy:<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Przebiegnijcie ulice
+Jeruzalemu, rozejrzyjcie się i przekonajcie się, i poszukajcie na jego placach,
+czy znajdziecie takiego, czy jest ktoś taki, kto przestrzega prawa, kto szuka
+prawdy - a przebaczę mu! A gdy mówią: "Żyje Pan" - przysięgają
+fałszywie. Panie, czy twoje oczy nie są nakierowane na prawdę? Ty ich smagasz,
+lecz oni nie czują bólu, Ty ich wytracasz, lecz oni nie przyjmują karcenia;
+uczynili swoje oblicze twardsze niż skała, nie chcą się nawrócić"
+(Jeremiasza 5,1-3).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Lud Boży słuchał przesłania
+pełnego ognistej prawdy - jednak odwrócili się od niego. Oni buntowali się
+przeciwko temu! Przeczytaj to jeszcze raz: "... uczynili swoje oblicze
+twardsze niż skała, nie chcą się nawrócić" (Jeremiasza 5,3). Oni
+popełniali cudzołóstwo przez baraszkowanie z nierządnicami oraz pożądanie żon
+swoich bliźnich. W 11 wersecie Jeremiasz nazwał to zupełnym sprzeniewierzeniem
+się Panu!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pomimo tych wszystkich proroczych
+ostrzeżeń Jeremiasza, ci ludzie szli swoją drogą wesela, mówiąc: "... nie
+przyjdzie na nas nic złego, a miecza i głodu nie zobaczymy" (Jeremiasza
+5,12). "Sąd nie jest Bożym przesłaniem dla nas" - mówili.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ich bojaźń Boża zanikała. W
+sercach całych mas ludu Bożego narastał oporny, buntowniczy duch: " Naród
+ten ma serce oporne i buntownicze... I nie pomyśleli w swoim sercu: Bójmy się
+Pana, naszego Boga..." (Jeremiasza 5,25-26 BT)<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Oni cieszyli się wielkim
+dobrobytem, ale stał się on sidłem. Ta pułapka doprowadziła do oszustwa i w
+końcu ich domy stały się jaskiniami niegodziwości. Oni przymykali oczy na
+grzech - grzech, który powinien był ich głęboko zasmucić.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Jako klatka pełna ptaków,
+tak domy ich pełne są zdrady; przetoż się wzmogli i zbogacili. Roztyli, lśnią
+się, i innych w złościach przewyższają; sprawy nie sądzą, ani sprawy sierotki;
+wszakże się im szczęści, chociaż sprawy ubogiego nie rozsądzili."
+(Jeremiasza 5,27-28 BG).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Bóg ostrzegał Swój lud, aby
+zważali na polecenia Słowa, które było im przynoszone, w przeciwnym wypadku Bóg
+ich opuści. "Pozwól się ostrzec, Jeruzalemie, aby moja dusza nie odwróciła
+się od ciebie..." (Jeremiasza 6,8). Jeszcze raz Bóg powiedział:
+"Mówię bardzo jasno! Ostrzegam! Ale kto tego słucha?"<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Do kogo mam przemówić, kogo
+mam przestrzec, aby słuchali? Oto ich ucho jest nieobrzezane, więc nie mogą
+słyszeć. Oto słowo Pana stało się dla nich przedmiotem drwiny, nie mają w nim
+upodobania" (Jeremiasza 6,10).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">W oryginale hebrajskim napisane
+jest, że ludzie stali się znużeni napominaniem. Zmęczyło ich bycie
+zdemaskowanym i chłostanym przez Słowo Boże. Kiedyś mieli upodobanie w Jego
+Słowie. Było ono dla nich taką radością, jaką jest miód dla duszy. Jednak teraz
+nie znajdowali w nim przyjemności. Dlaczego?<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Zdobyli warowne grody i
+żyzną ziemię! I wzięli w posiadanie domy pełne wszelkiego dobra, drążone
+cysterny, winnice, gaje oliwne i drzewa owocowe w obfitości. Jedli tedy i byli
+syci, utyli i opływali w dostatki dzięki wielkiej twojej dobroci. Wtedy stali
+się oporni i zbuntowali się przeciwko tobie, i odrzucili od siebie twój zakon,
+zabili twoich proroków, którzy ich ostrzegali, aby ich nawrócić do ciebie, i
+popełnili wielkie bluźnierstwa" (Nehemiasza 9,25-26).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Dlaczego odwrócili się od ostrych
+ostrzeżeń udzielanych przez stróżów? Ponieważ dotknięty został sam korzeń
+[nerw]. Ich bałwochwalstwo, pożądanie i chciwość były demaskowane. Popełniali
+ukryty grzech. "Albowiem od najmniejszego do największego wszystkich
+ogarnęła żądza zysku: od proroka do kapłana..." (Jeremiasza 6,13 BT).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Zarówno za kazalnicą, jak i wśród
+słuchających, serca ludu Bożego były wiedzione na manowce przez pożądliwość i
+chciwość. Ale oni znajdowali sobie wytłumaczenia i usprawiedliwienia na to
+wszystko! Nie mieli poczucia wstydu! Nie czerwienili się! Nikt nie był w stanie
+uwierzyć w to, że prorok mówił osobiście do niego.<o:p></o:p></span></p>
+<h2 style="margin-top:12.0pt;margin-right:21.0pt;margin-bottom:3.0pt;
+margin-left:27.0pt"><span style="font-family:Tahoma;color:navy;font-style:normal">Bóg
+ustanawia stróżów nad Swoim ludem<o:p></o:p></span></h2>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pan powiedział: "Postawiłem
+też nad wami stróżów, aby wołali: Uważajcie na głos trąby! Lecz oni odpowiedzieli:
+Nie będziemy uważali" (Jeremiasza 6,17).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Lud boży odwrócił się od
+ostrzeżeń swoich proroków i strażników posłanych przez Boga i zaczął chodzić za
+pragnieniami oraz wyobrażeniami własnego serca.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Dlaczego lud Boży odmawiał
+posłuchu prorokom, jeżeli wiedział, że to sam Bóg ustanowił tych ludzi nad
+nimi? Oni nie spierali się co do tego, że to Bóg namaścił i posłał ich.
+Dlaczego więc nie dawali im posłuchu? Dlaczego realizowali własne plany i
+zajmowali się własnymi sprawami?<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Odpowiedź na to można znaleźć w
+16 rozdziale IV Księdze Mojżeszowej, gdzie opisany jest bunt Koracha, Datana,
+Abirama i Ona. Tych czterech ludzi powstało wraz z 250 innymi szanowanymi
+spośród zgromadzenia, aby kwestionować zwierzchność Mojżesza.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Połączyli się, by wystąpić
+przeciwko Mojżeszowi i Aaronowi, i rzekli do nich: Dość tego! Cały bowiem zbór,
+wszyscy w nim są święci, i Pan jest wśród nich; dlaczego więc wynosicie się
+ponad zgromadzenie Pańskie? Gdy to Mojżesz usłyszał, padł na oblicze
+swoje" (4 Mojżeszowa 16,3-4).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">To jest duch stojący za wszelkim
+buntem oraz odrzuceniem prawdziwych ostrzeżeń zza kazalnicy. Buntownicza osoba
+mówi w swoim sercu: "Pastorze, - proroku, - stróżu - nie jesteście
+jedynymi, do których mówi Bóg. My także słyszymy Boga. My też jesteśmy święci.
+Myśli Boże są nam objawiane. Bierzecie zbyt wiele na siebie. Wywyższacie siebie
+ponad zgromadzenie."<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy Mojżesz to usłyszał, upadł
+na swoją twarz przytłoczony żalem. Jego duszę ogarnął święty gniew. Nie był zły
+z powodu tego, że jego słowo, czy zwierzchność były kwestionowane. On nie
+zabiegał o posiadanie zwierzchności. Wiedział, że oni nie odrzucali jego
+osobiście czy też jego słowa, ponieważ został wybrany i postawiony przez samego
+Boga. Mojżesz ubolewał, ponieważ oni odrzucili Boga! "Ty i cały twój zastęp
+zgromadziliście się przeciwko Panu" (4 Mojżeszowa 16,16 KJV).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Mojżesz mógł powiedzieć: "O
+Boże, ci ludzie nie są moim ludem. To nie jest moje dzieło. Postawiłeś mnie
+tutaj i powiedziałeś mi, co mam mówić. Wszystkie te moje słowa i te wszystkie
+czyny - nie uczyniłem ich na podstawie własnego zamysłu (werset 28). Ja
+wypowiedziałem zamysł Boga."<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pan zawsze stoi na straży tych,
+którzy są prawdziwie namaszczeni, a wszystko co jest z ciała szybko doprowadza
+do upadku. "Ziemia rozwarła swoją czeluść i pochłonęła ich oraz ich
+domy... Oni zaś wpadli ze wszystkim, co mieli, żywcem do podziemi... Ogień też
+wyszedł od Pana i pochłonął owych dwustu pięćdziesięciu mężów, którzy
+ofiarowali kadzidło" (4 Mojżeszowa 16,32-35).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Nie pragnę wcale sprawować
+jakiegokolwiek rodzaju zwierzchności nad ludem Bożym. Mogę powiedzieć za
+Mojżeszem: "Nie wziąłem od nich [niczego], ani też nikogo z nich nie
+skrzywdziłem" (4 Mojżeszowa 16,15).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jednak jedną rzeczą, co do której
+jestem pewien jest: Bóg przysłał mnie tutaj do Nowego Jorku. On przysłał mnie
+jako stróża, abym ostrzegał, wołał głośno i nie szczędził. Nie troszczę się o
+to, czy kogoś wystraszyłem, ani tez nie usiłuję sprowadzić na kogoś lęku przed
+moim namaszczeniem.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Niemniej jednak ja i inni
+pastorzy kościoła Times Square Church - zarówno jak i inni stróże - zostaliśmy
+postawieni na to miejsce przez Pana. Razem ze mną są oni odpowiedzialni za
+wasze dusze.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Wasza odpowiedź posłuszeństwa
+Panu nie jest kwestią udawania się do waszej komory modlitewnej, a później
+przychodzenia do domu Bożego dla wysłuchania Jego słowa, tak abyście mogli
+porównać je z tym, co sami słyszycie od Pana - wyszukując i wybierając sobie
+tak, jak to odpowiada waszemu nastawieniu umysłu. Słuchałem innych prawdziwie
+namaszczonych proroków i stróżów, a Słowo które oni przynosili nie tylko mnie
+ubłogosławia - ono wzbudza terror w mojej duszy! Nie osądzam ich słów na
+podstawie tego, co ja uznaję za słuszne. Przyjmuję je, kiedy wiem, że jest ono
+ugruntowane na fundamencie świętego słowa Bożego i jest przyniesione w
+świętości.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Dlaczego jesteśmy tutaj w Nowym
+Jorku? Dlaczego kościół Times Square Church został wzbudzony w tym czasie i na
+tym miejscu? Jesteśmy tu po to, aby rozbudować ciało do prawdziwego obrazu
+Chrystusa. Jesteśmy tu po to, aby rozbijać każdego bałwana, który chciałby
+spróbować zmieszać nas ze światem. Jesteśmy tu po to, aby płakać nad wami, aby
+strzec waszej duszy oraz wywoływać was z tego świata. Jesteśmy tu po to, aby
+podtrzymywać powagę krzyża!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jest pewne dostojeństwo w
+chodzeniu w świętości i czystości. Kościół zwyciężający świat ma takie
+dostojeństwo. Jesteśmy tu po to, aby włożyć na wasze twarze rumieńce Ducha
+Świętego, z powodu Bożego ubolewania i zranienia powodowanego grzechem.<o:p></o:p></span></p>
+<h2 style="margin-top:12.0pt;margin-right:21.0pt;margin-bottom:3.0pt;
+margin-left:27.0pt"><span style="font-family:Tahoma;color:navy;font-style:normal">Zadaniem
+stróża jest wyjawienie skrytości grzechu - <br/>
+oraz przyniesienie Bożych rumieńców do naszej duszy!<o:p></o:p></span></h2>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ezdrasz był stróżem, który był
+tak przybity przez grzechy ludu Bożego, że nie był w stanie patrzeć Bogu w
+oczy. "Lecz w czasie ofiary wieczornej otrząsnąłem się z mojego
+przygnębienia i w swojej rozdartej szacie i płaszczu padłem na kolana, a
+wzniósłszy swoje ręce do Pana, mego Boga, rzekłem: Boże mój! Wstydzę się i nie
+ośmielam się [rumienię się KJV] nawet podnieść swojego oblicza do ciebie, Boże
+mój, gdyż nasze winy wyrosły nam ponad głowę, a nasze grzechy dosięgły aż
+nieba" (Ezdrasza 9,5-6).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ezdrasz odczuwał tak głęboki
+wstyd przed Panem, że rumienił się z powodu grzechu, który wkradł się pomiędzy
+Bożą resztkę, jaka pozostała jeszcze na ziemi. Ta resztka, która wróciła do
+Jerozolimy liczyła zaledwie 42 337 osób. To jest mała grupa w porównaniu z
+prawie 3 milionami, które wyszły z Egiptu. Ta malutka resztka, która stanowiła
+mniej niż 2 procenty reprezentowała wieczny cel Boga na ziemi. Niestety oni
+przymknęli oczy na grzech i byli pochłonięci przez kompromis - bez
+najmniejszego odcienia poczucia winy bądź wyrzutu sumienia. <o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Nagle Ezdrasz pojawił się
+pośrodku nich. Mamy tutaj męża Bożego z głębokim żalem z powodu grzechu,
+człowieka który rumienił się ze wstydu za nich. Oni naprawdę stali się tak
+nikczemni, że Ezdrasz powiedział: "Nie możemy stanąć przed Bogiem z powodu
+tego wszystkiego."<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Umiłowani, jeśli mamy zamiar stać
+przed Panem w tych dniach rozprzestrzeniającego się kompromisu, to potrzeba
+będzie znacznie więcej niż dawaliśmy Bogu do tej pory. To będzie nas kosztować
+tyle, co Ezdrasza!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><b><span style="font-size:
+10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma;color:navy">1. Będziemy
+musieli zacząć traktować rzeczy Boże <br/>
+o wiele bardziej na serio, niż robiliśmy to do tej pory</span></b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy Bóg jest bliski dokonania
+nowego dzieła, to wylewa ducha gorliwości na Swoją resztkę. Nie możemy już
+dłużej być duchowo leniwi, zadowoleni z siebie, nonszalanccy i lekkoduszni
+[niefrasobliwi]. Musimy stać się gorliwi, pełni żaru i pasji dla Chrystusa,
+mając głębokie i poważne uczucia względem pracy Bożej. Bóg wzbudza dzisiaj
+ludzi, którzy nienawidzą grzechu i drżą przed Jego Słowem. Jego resztka musi
+słuchać i wierzyć świętym prorokom. Oni nie mogą się wahać i stawać się
+letnimi. Zamiast tego muszą stawać się bardziej gorliwi i na serio względem
+Boga w miarę upływu dni.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pomyślcie o gorliwości Ezdrasza.
+Przypatrzcie się z bliska jego pasji przeciwko każdej rzeczy, która rani Boga,
+a zobaczycie jego absolutną nienawiść dla mieszania się ze światem. "Gdy
+usłyszałem te słowa, rozdarłem swoją szatę i płaszcz i rwałem włosy ze swojej
+głowy i brody, i usiadłem przybity. Wtedy zgromadzili się wokoło mnie wszyscy,
+którzy przerazili się słowami groźby Boga izraelskiego, z powodu wiarołomstwa
+tych, którzy powrócili z niewoli, ale ja siedziałem przybity aż do wieczornej
+ofiary" (Ezdrasza 9,3-4).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Drodzy święci, mamy tutaj
+wierzących, którzy się rumienią! Wierzących, którzy gromadzą się wokół proroka
+ze skruszonym sercem i także stają się gorliwi względem Bożej czci. Oni wiedzą,
+że dzieje się coś bardzo niebezpiecznego i podzielają Boży żal. Całe domostwo
+ludu Bożego próbuje zintegrować się ze światem. Obce żony stoją przy ołtarzu.
+Święte nasienie jest wymieszane. Ci rumieniący się wierni wiedzą, ze diabeł
+próbuje asymilować ich i pochłonąć Boże świadectwo świętości oraz oddzielenia się
+od świata.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Cóż za scena! Ezdrasz siedział
+niczym stos pobożnego smutku, wyrywając sobie włosy i brodę "...z powodu
+wiarołomstwa tych, którzy powrócili z niewoli [zostali zmiecieni KJV]"
+(Ezdrasza 9,4). Jeden za drugim, wszyscy którzy mieli drżące serca zgromadzili
+się wokół niego. Bóg miał tylko jednego człowieka, który rumienił się z powodu
+grzechu - i to przez niego wzbudził ciało lamentujących:<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"A gdy się modlił Ezdrasz, i
+wyznawał grzechy z płaczem, leżąc przed domem Bożym, zebrało się do niego z Izraela
+zgromadzenie bardzo wielkie mężów i niewiast i dziatek; a płakał lud wielkim
+płaczem." (Ezdrasza 10,1 BG).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">To właśnie to przyciągnęło wielu
+z was do tego zboru - wołanie za świętością i oddzieleniem się od świata!
+Odczuwaliście Boży smutek z powodu grzechu i zarumieniliście się ze wstydu.
+Chcieliście zacząć traktować na serio chodzenie z Bogiem.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Nehemiasz miał tą samą gorliwość
+dla Boga. "Przyszedł jeden z moich braci, Chanani, a z nim niektórzy
+mężowie z Judy. Zapytałem ich wtedy o ocalałych Żydów, którzy przeżyli niewolę
+i o Jeruzalem. A oni rzekli do mnie: Ci pozostali, którzy przeżyli niewolę,
+znajdują się w tamtejszym okręgu w wielkiej biedzie i pohańbieniu; wszak mur
+Jeruzalemu jest zwalony, a jego bramy spalone ogniem. A gdy usłyszałem te słowa,
+usiadłem i zacząłem płakać, i smuciłem się przez szereg dni, poszcząc i modląc
+się przed Bogiem niebios" (Nehemiasza 1,2-4).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Resztka powróciła do świętego
+miejsca, ale wkradły się hańba i letarg. Rzeczy nadal pozostawały w stanie
+ruiny. Nie dokonywał się żaden duchowy postęp.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pismo mówi, że Nehemiasz zaczął
+płakać, lamentować oraz modlić się "dniem i nocą" (Nehemiasza 1,6).
+To nie była kwestia tego, że Bóg budził go w środku nocy i zrzucał brzemię na
+jego duszę. Nie! "...Zapytałem ich wtedy o ocalałych Żydów [ocalałą
+resztkę KJV]..." (Nehemiasza 1,2). Ten mąż Boży zainicjował to brzemię! On
+prosił o nie!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">W podobny sposób Daniel spędzał
+godziny, dnie i tygodnie studiując Słowo Boże. Bóg nie zrzucił na jego serce
+nadprzyrodzonego brzemienia. To raczej Daniel korzył własne serce. On wytworzył
+w sobie i pielęgnował prawdziwe brzemię dla ludu Bożego poprzez pilne
+studiowanie i zdobywanie zrozumienia tego, co mówił Bóg. "I zwróciłem
+swoje oblicze na Pana, Boga, aby się modlić, błagać, w poście, we włosiennicy i
+popiele" (Daniela 9,3).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Porozmawiajmy na temat
+gorliwości, rumienienia się, lamentowania i płakania! Daniel powiedział:
+"...ja, Daniel, byłem w żałobie przez trzy tygodnie. Nie jadłem smacznych
+potraw, ani mięsa, ani wina nie brałem do ust, nie namaszczałem się olejkiem,
+aż upłynęły trzy tygodnie... i nie miałem żadnej siły" (Daniela 10,2-3.8).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy ręka Boża dotknęła Daniela,
+takie słowa wyszły od tronu Bożego: "...od pierwszego dnia, gdy
+postanowiłeś zrozumieć i ukorzyć się przed swoim Bogiem, słowa twoje zostały
+wysłuchane, a ja przyszedłem z powodu twoich słów!" (Daniela 10,12). W
+języku hebrajskim słowo "ukorzyć" oznacza obchodzić się szorstko z
+ciałem w celu doprowadzenia go do posłuszeństwa. Paweł także powiedział:
+"...ciało moje ujarzmiam..." (1 Koryntian 9,27).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Wielu z nas jest, jak małe
+dzieci, nie potrafiące na dłuższy czas skupić swojej uwagi. Irytujemy się pod
+brzemieniem gorliwości. Stale popadamy w odstępstwo, wracając na nasze stare
+ścieżki duchowego lenistwa oraz pobłażania sobie.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Noe żył z wielką intensywnością
+przesłania o sądzie dotyczącym zniszczenia ziemi. Przez 120 lat był on
+"pełen bojaźni" (Hebrajczyków 11,7). On nigdy nie uchylał się od
+brzemienia Pańskiego. On brał to na serio, ponieważ wiedział, że Bóg nie rzuca
+słów na wiatr.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Niech ten świat się śmieje,
+powiedział Noe. Niech inni sobie mówią: "To zbyt ciężkie! Nie potrafię tak
+żyć! To zbyt mroczne!" Noe pielęgnował to brzemię. Przez 120 lat ono
+pozostawało świeżym w jego sercu i Noe robił to, co Pan mu powiedział - aż do
+ostatniej godziny.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Bóg wyjawiał mi mój własny brak
+gorliwości. W każdym z nas są pewne pragnienia czy tendencje, które odciągają
+nas od Boga, bądź też okradają Go z naszego czasu, pieniędzy lub społeczności z
+Nim. Często te rzeczy nie są złe same w sobie. Nawet hobby dają szatanowi
+możliwość wykorzystania ich dla zabrania czasu i odciągnięcia naszego serca od
+Boga. <o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jednak właśnie teraz Bóg wstrząsa
+tymi wszystkimi, którzy marnują czas, łamią przysięgi oraz przymierze z Nim!
+Pan pragnie mieć dziś ludzi, którzy są całkowicie oddani Jego pracy, ludzi,
+którzy są gorliwi, żarliwi i skruszeni - oddający każdą zaoszczędzoną godzinę i
+dolara na to, co reprezentuje Jego obiekt zainteresowania na ziemi. <o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><b><span style="font-size:
+10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma;color:navy">2. Będziemy
+musieli pójść o wiele dalej niż wskazywanie <br/>
+na grzechy innych oraz wyznawanie własnych błędów Bogu!</span></b><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Wszyscy ci lamentujący,
+rumieniący się mężowie Boży ze skruszonym sercem mieli jedną wspólną cechę: oni
+utożsamiali się z grzechem pozostałej resztki!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Oni nigdy nie mówili tak, jak
+obłudnicy: "Dzięki Bogu, że nie jestem, jak ci inni." Oni rumienili
+się z powodu wymieszania się ze światem, którego skutkiem było cudzołóstwo,
+zdrada i kompromis. Ale oni pokornie modlili się: "Boże, również i ja
+jestem winny". Nie winni tych strasznych grzechów, ale winni braku chwały
+Bożej w nich.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ezdrasz modlił się: "...Boże
+mój! Wstydzę się i nie ośmielam się nawet podnieść swojego oblicza do ciebie,
+Boże mój, gdyż nasze winy wyrosły nam ponad głowę, a nasze grzechy dosięgły aż
+nieba... [wszystko], co spadło na nas [spadło] z powodu naszych złych uczynków
+i wielkiej naszej winy... Oto stoimy przed twoim obliczem splamieni winą, choć
+nie godzi się nam z tego powodu stać przed twoim obliczem" (Ezdrasza
+9,6.13.15). "A gdy się modlił Ezdrasz, i wyznawał grzechy z płaczem, leżąc
+przed domem Bożym..." (Ezdrasza 10,1 BG).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Nehemiasz modlił się:
+"...zgrzeszyliśmy wobec ciebie; także ja i dom mojego ojca zgrzeszyliśmy.
+Niecnie postąpiliśmy wobec ciebie... " (Nehemiasza 1,6-7).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Również Daniel utożsamiał się z
+grzechami ludu Bożego. Modlił się tak: "Zgrzeszyliśmy, zawiniliśmy i
+postępowaliśmy bezbożnie, zbuntowaliśmy się i odstąpiliśmy od twoich przykazań
+i praw. I nie słuchaliśmy twoich sług, proroków, którzy w twoim imieniu
+przemawiali do naszych królów, naszych książąt, naszych ojców i do całego
+pospólstwa... mówiłem, modliłem się i wyznawałem mój grzech i grzech mojego
+ludu..." (Daniela 9,5-6.20).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Oni wszyscy byli świętymi mężami,
+bez zarzutu przed Bogiem. Oni nie szli na kompromis, nie mieszali się ze
+światem. Jednak stali w wyłomie, wyznając zarówno grzechy ludu jak i swoje
+własne.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Jeśli pójdziesz tą sama ścieżką,
+co ci mężowie i mocno postanowisz w swoim sercu szukać Pana, tak jak oni to
+zrobili - poszcząc, modląc się, płacząc, lamentując, rumieniąc się z powodu
+grzechu - to będzie to miało taki sam skutek w twoim przypadku. Boża ręka
+dotknie cię i Bóg przyśle do ciebie Swoje Słowo. Będziesz podzielał to, co jest
+w sercu samego Boga. Wejdziesz w Jego obecność pełną chwały. A kiedy już tam
+będziesz zrozumiesz, jak bardzo brakowało nam wszystkim Jego chwały.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Pozwólcie, że się z wami podzielę
+kluczem do tego, co Bóg usiłuje nam pokazać:<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Ezdrasz leżał na ziemi przed
+domem Bożym. On jeszcze nie powstał przed ludem ze słowem od Boga. Najpierw
+uniżył samego siebie przed całym ludem.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy Daniel usłyszał, jak Bóg do
+niego mówi, powiedział: "...padłem na twarz nieprzytomny i leżałem twarzą
+ku ziemi (Daniela 10,9). Jan mówi: "...gdy go ujrzałem, padłem do nóg jego
+jakby umarły..." (Objawienie 1,17).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Drodzy święci, jaki owoc przynosi
+w was wasze modlenie się i szukanie Boga? Czy to sprawia, że padacie na twarz,
+że jesteście rzucani na ziemię przed domem bożym, jakbyście byli martwi?<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Chcę widzieć taki rodzaj
+wierzących: wzdychających, płaczących, rumieniących się - nie poszukiwaczy
+dreszczyków emocji, chrześcijan poszukujących rozrywki i zabawy, bądź takich,
+którzy są pedantyczni i perfekcyjni. Chcę widzieć tych, którzy potrafią
+przyznać: "Jeszcze tam nie dotarłem. Zawiodłem Boga. Bardzo ubolewam z
+tego powodu, ale wierzę, że Bóg może mnie dotknąć i uzdrowić."<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Boże, ześlij więcej uchybień na
+Twoje ciało! Przyślij ludzi z poczuciem potrzeby.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><b><span style="font-size:
+10.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma;color:navy">3. Wreszcie,
+będzie to wymagało czujności <br/>
+względem wroga dniem i nocą.</span></b><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy rumienienie się powróciło
+do Izraela, grzech został oczyszczony oraz rozprawiono się z wymieszaniem ze
+światem. Miały miejsce wyznanie grzechów i prawdziwe upamiętanie. Teraz był
+czas, aby razem powstać dla odparcia ich wspólnego wroga.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Modlitwa i pokora razem z
+nienawiścią do grzechu daje owoc w postaci serca do pracy: "Lecześmy my
+budowali ten mur, i spojony jest wszystek mur aż do połowy swej, a lud miał
+serce do roboty." (Nehemiasza 4,6 BG). Prawdziwe przebudzenia świętości
+zawsze owocują w pracownikach. Książki, seminaria i wykłady nie owocują w nich
+- ale przebudzenia tak!<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Kiedy Bóg czyni coś autentycznego
+pośród Swojego ludu, szatan konspiruje przeciwko temu. "A gdy Sanballat,
+Tobiasz, Arabowie, Ammonici i mieszkańcy Aszdodu usłyszeli, że naprawa murów
+Jeruzalemu postąpiła naprzód, gdyż wyłomy zaczęły się wypełniać, zapłonęli
+wielkim gniewem. I wszyscy oni społem się sprzysięgli, aby ruszyć do walki z
+Jeruzalemem i spowodować w nim zamęt" (Nehemiasza 4,7-8).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Wróg bardzo się rozzłościł i
+konspirował, jak tu powstać przeciwko nim, aby walczyć i wstrzymywać pracę!
+Jego taktyka była taka: niepostrzeżenie przeniknąć do ciała przez
+niespodziewane zakradnięcie się do nich. "Wrogowie nasi zaś myśleli: Nie
+powinni się dowiedzieć i spostrzec się, aż wpadniemy między nich, wybijemy ich
+i zatrzymamy robotę" (Nehemiasza 4,11).<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Oni planowali, aby wprowadzić pomiędzy
+nich tajną armię zamaskowanych oszustów. Wróg nie podjął nagłego, otwartego
+ataku od frontu, ale raczej powiedział: "Wejdziemy pomiędzy nich!"<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Taktyką był wewnętrzny sabotaż!
+Wróg powiedział: "Oni nigdy się nie zorientują, że to się dzieje."<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Strategia szatana nigdy się nie
+zmienia. Nawet w tej chwili posyła on swoich "aniołów światłości" do
+różnych zgromadzeń na całym świecie, przynosząc doktrynalny sabotaż i różne
+zwiedzenia.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">W jaki sposób możemy ich wykryć?
+Co jest naszym zabezpieczeniem?<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">"Modliliśmy się więc do Boga
+naszego i wystawialiśmy dniem i nocą przeciwko nim straże" (Nehemiasza
+4,9). Kluczem jest silna nienawiść do grzechu, prawdziwe skruszenie, częsta
+modlitwa oraz stała czujność - w powiązaniu z pozostawaniem w nasyceniu Słowem
+Bożym.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Umiłowani, Bóg musi przywrócić
+rumieńce swojemu ludowi! Pozwólcie Duchowi Świętemu zbadać wasze serca bardzo
+głęboko i bardzo gruntownie, abyście mogli chodzić bez żadnego zarzutu przed
+Panem w tej ostatecznej godzinie.<o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">---<br/>
+Wykorzystano za zgodą World Challenge, P. O. Box 260, Lindale, TX 75771, USA. <o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><b><span style="font-size:
+10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><b><span style="font-size:
+8.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma">COPYRIGHT/OGRANICZENIA
+WYNIKAJĄCE Z PRAW AUTORSKICH:</span></b><span style="font-size:8.0pt;
+mso-bidi-font-size:10.0pt;font-family:Tahoma"> </span><span style="font-size:
+8.0pt;mso-bidi-font-size:12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:8.0pt;
+mso-bidi-font-size:10.0pt;font-family:Tahoma">Plik ten jest wyłączną własnością
+World Challenge. Nie może być zmieniany i poprawiany w żaden sposób. Może być
+powielany jedynie w całości i wprowadzany do obiegu jako „freeware”, za darmo.
+Każde powielanie tego pliku musi zawierać wzmiankę na temat praw autorskich
+(np. "Copyright © 1999 by World Challenge"). Plik ten nie może być
+odsprzedawany lub używany do wzbogacania innych sprzedawanych produktów bez pozwolenia
+World Challenge. Dotyczy to całej zawartości, z wyjątkiem kilu krótkich
+cytatów. W każdym przypadku należy powoływać się na Copyright © 1999 by World
+Challenge, Lindale, Texas, USA.</span><span style="font-size:8.0pt;mso-bidi-font-size:
+12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:8.0pt;
+mso-bidi-font-size:10.0pt;font-family:Tahoma">Materiał ten przeznaczony jest
+wyłącznie do osobistego użytku i nie możebyć publikowany na innych stronach
+sieci. The Lorain County Free-Net Chapel posiada wyłączne prawo do publikowania
+tych kazań na swojej stronie, nadane przez World Challenge, Inc. Możesz
+przegrywać, kopiować, drukować i rozprowadzać ten materiał jeśli nie
+publikujesz go na innych stronach internetowych. Możesz jednak umieszczać
+odnośniki do tej strony.</span><span style="font-size:8.0pt;mso-bidi-font-size:
+12.0pt;font-family:Tahoma"><o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:21.0pt;margin-bottom:
+0cm;margin-left:27.0pt;margin-bottom:.0001pt"><span style="font-size:8.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+</div>
+<p style="margin-right:21.0pt;margin-left:27.0pt"><span style="font-size:8.0pt;
+mso-bidi-font-size:10.0pt;font-family:Tahoma"><br/><br/>
+<br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" class="standard" method="POST">
+Chciał(a)bym przesłać ten artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/>
+<input name="filename" type="hidden" value="autorzy/wilkerson/rumienienie.html"/>
+<br/><input type="submit" value="  Wyślij  "/>
+</form><br/>
+</span></p>
+{% endraw %}

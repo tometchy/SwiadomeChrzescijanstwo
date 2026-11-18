@@ -1,0 +1,45 @@
+---
+title: NASZE BOGACTWA
+category: Znani pisarze
+permalink: /czytelnia/swch-autorzy-tozer-nasze-bogactwa-09a85979a/
+source_url: https://swch.pl/autorzy/tozer/nasze_bogactwa.html
+imported_from_legacy: true
+source_text_sha256: c09be9c4196a5fb701f44cf5192785a7ba98101d51f624962465ad83cdc40e0c
+source_char_count: 5299
+source_verified: true
+---
+
+{% raw %}
+
+<h1>NASZE BOGACTWA</h1><br/>
+<p class="standard"><b>Duchowe błogosławieństwa w okręgach niebiańskich, które są nasze w Chrystusie, można podzielić na trzy grupy:</b>
+</p><p class="akapit">Pierwsza to te, które otrzymujemy natychmiast po uwierzeniu w zbawienie, a są to na przykład: przebaczenie, usprawiedliwienie, odrodzenie, synostwo Boże i zanurzenie w Ciało Chrystusa. W Chrystusie obejmujemy je w posiadanie zanim jeszcze poznamy, że są nasze. Ta wiedza przychodzi do nas później przez studiowanie Pisma Świętego. 
+</p><p class="akapit">Druga grupa, to te bogactwa, które są nasze jako dziedzictwo, ale którymi nie możemy realnie się radować, dopóki nasz Pan nie powróci. Do tych należą zupełna doskonałość umysłu i doskonałość moralna, uwielbienie ciała, zakończenie odnowienia Bożego obrazu w odkupionych osobowościach i wejście do samej obecności Bożej, aby na wieki doświadczać błogosławionej wizji.
+</p><p class="akapit">Te skarby są nasze z całą pewnością, tak jakbyśmy już je posiadali, ale byłoby bez sensu modlić się o nie w czasie, gdy podróżujemy tutaj, na ziemi. Bóg jasno to powiedział, że są one przeznaczone na czas objawienia się synów Bożych (Rz. 8:18-25).
+</p><p class="akapit">Trzecia grupa błogosławieństw składa się z duchowych skarbów, które dzięki odkupieniu przez krew są nasze, ale nie otrzymamy ich, dopóki nie podejmiemy zdecydowanego wysiłku, by je posiąść. Są to: uwolnienie z grzechów ciała, zwycięstwo nad "ja", nieustanny przepływ Ducha Świętego przez naszą osobę, owocność w służbie chrześcijańskiej, świadomość Bożej obecności, rozwój w łasce, wzrastająca świadomość zjednoczenia z Bogiem i nieugięty duch uwielbienia.
+</p><p class="akapit">Te nie przychodzą do nas automatycznie, ani nie powinniśmy czekać z nimi na dzień Chrystusowego powrotu. Są dla nas tym, czym Ziemia Obiecana dla Izraelitów, mamy w nie wkroczyć, gdy wzrośnie nasza wiara i odwaga.
+</p><p class="akapit">Aby to wyjaśnić, pozwólcie mi wysunąć cztery twierdzenia dotyczące tego dziedzictwa radości, które Bóg nam przygotował.
+</p><p class="akapit"><b>1.</b> Niczego nie otrzymasz, o ile nie będziesz się starał. Bóg do niczego cię nie zmusi. Tak jak Jozue wywalczył wejście w posiadanie Ziemi Obiecanej, tak samo ty musisz walczyć, by osiągnąć doskonałość, stawiając czoła i pokonując wszystko, co nieprzyjaciele postawią na drodze, byle tylko rzucić wyzwanie twemu prawu do własności. Ziemia nie przyjdzie do ciebie; ty musisz pójść do ziemi i wkroczyć do niej przez samowyrzeczenie i oddzielenie od świata. "Ci, którzy tą drogą podróżują" mówi Jan od Krzyża "napotkają wiele okazji do radości i cierpienia, nadziei i smutków, które po części są wynikiem ducha doskonałości, a po części wynikają z niedoskonałości."
+</p><p class="akapit"><b>2.</b> Otrzymasz tyle, na ile nalegasz, by otrzymać. "Każde  miejsce, na którym wasza stopa stanie, dam wam" powiedział Bóg do Jozuego i ta zasada przeplata się przez całą Biblię. Historia Izraela jest naszpikowana opowieściami o tych, którzy śmiało napierali, by domagać się swej własności; tacy na przykład jak Kaleb, który po podboju Kanaanu, poszedł do Jozuego, zażądał gór, które obiecał mu Mojżesz i otrzymał je.
+</p><p class="akapit">Gdy nasze prośby oddają cześć Bogu, możemy prosić ile chcemy. Im śmielsza prośba, tym więcej chwały przysługuje Bogu, gdy przychodzi odpowiedź.
+</p><p class="akapit"><b>3.</b> Otrzymasz tylko tyle, ile wystarczy, by cię zaspokoić. Bóg daje wszystkim ludziom hojnie, ale byłoby absurdem sądzić, że Boża hojność uczyni kogoś bardziej świętym, niż on sam tego pragnie. Na przykład człowiek, który jest zadowolony z prowadzenia życia pełnego porażek, nigdy nie zostanie zmuszony, by odnieść zwycięstwo. Człowiek, którego zadawala podążanie za Chrystusem z daleka, nigdy nie pozna promiennego cudu Jego bliskości. Człowiek, który jest gotów zadowolić się pozbawionym radości, bezowocnym życiem, nigdy nie doświadczy radości Ducha Świętego, czy głębokiej satysfakcji z owocnego życia.
+</p><p class="akapit">Ci, którzy sprawują opiekę przeżywają zniechęcenie, a Duch z pewnością jest bardzo zasmucony, gdy widzą jak wielu chrześcijan wyraża zgodę, by zadowolić się czymś, co jest poniżej najlepszego. Osobiście latami nosiłem brzemię smutku, gdy poruszałem się między ewangelicznie wierzącymi chrześcijanami, którzy gdzieś w przeszłości zdołali dobić podłego kompromisu z najświętszymi tęsknotami serca i przyzwyczaili się do letniego, miernego chrześcijaństwa, kompletnie niegodnego ich samych i Pana, któremu, jak twierdzą, służą. A można ich znaleźć wszędzie.
+</p><p class="akapit"><b>4.</b> Teraz masz tyle, ile naprawdę chcesz. Każdy jest na tyle blisko Boga, na ile chce być; na tyle święty i na tyle pełen Ducha, na ile chce być. Nasz Pan powiedział: "Błogosławieni, którzy łakną i pragną sprawiedliwości, albowiem oni będą nasyceni." Gdyby gdziekolwiek na świecie był choć jeden człowiek, który łaknie, ale nie został nasycony, wówczas Słowo Chrystusa zawiodłoby.
+</p><p class="akapit">Jednakże musimy odróżnić pragnienie od chcenia. Przez "pragnienie" mam na myśli dążenie z całego serca. Z pewnością jest wielu, którzy chcieliby być świętymi, zwycięskimi i radosnymi, ale nie są gotowi na przyjęcie Bożych warunków, by to osiągnąć.
+</p><p class="akapit">To, że Bóg postawił przed swymi odkupionymi dziećmi rozległy świat duchowych skarbów, a one odmawiają lub zaniedbują odebrania ich, może się okazać drugą z kolei największą tragedią w historii stworzenia, po pierwszej i największej, jaką był upadek człowieka.
+
+</p><p class="standard"><i>A. W. Tozer</i></p>
+<br/><br/>
+<br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" class="standard" method="POST">
+Chciał(a)bym przesłać ten artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/>
+<input name="filename" type="hidden" value="autorzy/tozer/nasze_bogactwa.html"/>
+<br/><input type="submit" value="  Wyślij  "/>
+</form><br/>
+<br/>
+<h4><font color="#808080">Wersja HTML Copyright (c) 2000 <a href="http://www.czytelnia.Jezus.pl/"><font color="#808080">Czytelnia Chrześcijanina</font></a></font></h4>
+<br/>
+
+{% endraw %}

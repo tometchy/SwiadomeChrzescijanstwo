@@ -1,0 +1,26 @@
+---
+title: Nie ma odrodzenia bez przemiany
+category: Książki
+permalink: /czytelnia/swch-ksiazki-radykalny-krzyz-18-61cfccc70/
+source_url: https://swch.pl/ksiazki/radykalny_krzyz_18.html
+imported_from_legacy: true
+source_text_sha256: 6e3b3dea18ac131b3254584b66dcfedffc89b41594f9837a1e80d54d60008cb4
+source_char_count: 4341
+source_verified: true
+---
+
+{% raw %}
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<h1>Nie ma odrodzenia bez przemiany</h1>
+<p> W Biblii oferta ułaskawienia ze strony Bożej uwarunkowana jest gotowością przemiany ze strony człowieka. Nie może być duchowego odrodzenia bez moralnego przeobrażenia. Jeśli stwierdzenia tego trzeba bronić, dowodzi to, jak zboczyliśmy od prawdy.
+<p>W naszej potocznej, popularnej teologii ułaskawienie zależy wyłącznie od wiary. Sam wyraz "reformować", to znaczy zmieniać formę czyli przeobrażać, przemieniać, został usunięty ze słownika synów reformacji.
+<p>Nieraz słyszymy stwierdzenie: "Ja nie głoszę reformacji, ja głoszę odrodzenie". Rozumiemy pod tym przejaw słusznego buntu przeciwko bałamutnej i niebiblijnej nauce o zbawieniu przez ludzkie wysiłki. Jednocześnie stwierdzenie to w swej postaci zawiera rzeczywisty błąd, ponieważ przeciwstawia sobie odrodzenie i reformację czyli przeobrażenie. W rzeczywistości te dwie rzeczy w zdrowej teologii biblijnej nigdy nie są ze sobą skłócone. Nauka "nie przeobrażenia lecz odrodzenia" niewłaściwie podsuwa alternatywę: bądź - albo, bądź reformacja - albo odrodzenie. To nie jest trafne. Faktem jest, że nie obowiązuje tutaj bądź jedno - albo drugie, lecz obowiązuje i jedno, i drugie. Człowiek nawrócony to człowiek zarówno przemieniony, jak i odrodzony. I dopóki grzesznik nie wykaże gotowości poddania się reformacji przekształceniu swojej drogi życia, nigdy nie doświadczy wewnętrznego przeżycia, jakim jest odrodzenie. Taka jest żywotna prawda, która została zagubiona wśród wyobrażeń ludowej teologii ewangelicznej.
+<p>Przekonanie, że Bóg ułaskawi buntownika, który nie zaniecha swojego buntu, jest sprzeczne z Pismem Świętym, jak i ze zdrowym rozsądkiem. Jakże przerażającą jest myśl o Kościele pełnym osób, które otrzymały ułaskawienie, lecz nadal miłują grzech i nienawidzą drogi sprawiedliwości! A jeszcze bardziej okropne jest myśleć o niebie napełnionym grzesznikami, którzy się upamiętali i nie zmienili swojego sposobu życia.
+<p> Zilustrujmy to pewnym przykładem. Gubernator jednego ze stanów amerykańskich zwiedzał więzienie stanowe, lecz nie ujawnił, kim jest. Wdał się w rozmowę z pewnym przystojnym młodym więźniem i odczuwał chęć ułaskawienia go. "Co byś zrobił" - zapytał - "gdybyś przypadkiem miał szczęście i wyszedł na wolność?" Więzień nie wiedząc, z kim rozmawia, burknął w odpowiedzi: "Jeśli kiedy stąd wyjdę, pierwszą rzeczą, jaką zrobię, będzie podcięcie gardła sędziemu, który mnie tu posłał". Gubernator przerwał rozmowę i opuścił celę. Więzień pozostał w więzieniu. Ułaskawić człowieka, który nie został przeobrażony, znaczy wypuścić pomiędzy ludzi dalszego zabójcę. Taki rodzaj ułaskawienia byłby nie tylko nierozsądny, lecz także niemoralny.
+<p> Obietnica łaski i oczyszczenia jest w Biblii zawsze połączona z rozkazem opamiętania się. Powszechnie używany tekst z Izajasza: "Choć wasze grzechy będą jak szkarłat, jak śnieg zbieleją; choć będą czerwone jak purpura, staną się białe jak wełna" jest ściśle związany z wersetami poprzednimi: "Obmyjcie się, oczyśćcie się, usuńcie wasze złe uczynki z przed moich oczu, przestańcie źle czynić! Uczcie się dobrze czynić, przestrzegajcie prawa, brońcie pokrzywdzonego, wymierzając sprawiedliwość sierocie, wstawiając się za wdową! (Iz.1.16-18). Czy nie jest to wezwanie do radykalnej reformacji życia, zanim będzie można oczekiwać ułaskawienia? Rozłączenie tych tekstów od siebie jest gwałceniem Słowa Bożego. Robiąc to dowodzimy, że nieuczciwie postępujemy z prawdą.
+<p> Uważam, że nie ma wątpliwości co do tego, iż nauczanie o zbawieniu bez upamiętania obniżyło poziom moralny Kościoła i wytworzyło mnóstwo zwiedzionych wyznawców religii, którzy mylnie przypuszczają, że są zbawieni, podczas gdy w rzeczywistości są oni stale jeszcze "pogrążeni w gorzkiej żółci i w więzach nieprawości" (Dz.8.23). Smutkiem i zniechęceniem napawa widok takich ludzi, poszukujących głębszego życia. Niestety, nieraz zgromadzenia nasze napełnione są szukającymi, którzy wołają razem z Szymonem: "Dajcie i mnie tę moc" (w.19), podczas gdy niezbędny do tego normalny fundament nie został jeszcze położony. Całe to zjawisko należy uznać za wyraźne zwycięstwo diabła - zwycięstwo, którego nie odniósłby, gdyby nie umożliwili tego niemądrzy nauczyciele, głoszący szkodliwą naukę o odrodzeniu bez przeobrażenia.
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-19-2cb3ce9fb/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-17-e78b9f707/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+</p></p></p></p></p></p></p>
+{% endraw %}

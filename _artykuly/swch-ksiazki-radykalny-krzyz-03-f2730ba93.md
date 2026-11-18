@@ -1,0 +1,30 @@
+---
+title: Utylitarny Chrystus
+category: Książki
+permalink: /czytelnia/swch-ksiazki-radykalny-krzyz-03-f2730ba93/
+source_url: https://swch.pl/ksiazki/radykalny_krzyz_03.html
+imported_from_legacy: true
+source_text_sha256: 282410668a6108af3678b8b059a94d71ffbd19c979fa57cbaba65a1cac49347f
+source_char_count: 5155
+source_verified: true
+---
+
+{% raw %}
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<h1>Utylitarny Chrystus</h1>
+<p>Nasz Pan z góry przestrzegł nas, że przyjdą fałszywi Chrystusowie. Przeważnie myślimy o nich jako o przychodzących z zewnątrz, ale powinniśmy pamiętać, że mogą tacy powstać także i w samej świątyni.
+<p>Musimy być szczególnie ostrożni w sprawdzaniu, czy Chrystus, o którym wyznajemy, że chcemy Go naśladować, jest rzeczywiście Chrystusem Bożym. Zawsze istnieje niebezpieczeństwo, że będziemy naśladować Chrystusa, który nie jest prawdziwym Chrystusem, lecz produktem naszej wyobraźni, utworzonym według naszego własnego obrazu.
+<p>Muszę się przyznać do uczucia zakłopotania pod tym względem, kiedy obserwuję te wątpliwe rzeczy, które rzekomo czyni Chrystus dla ludzi w obecnym czasie. Często się Go poleca jako wspaniale usłużnego i niezbyt wymagającego Wielkiego Brata, który z przyjemnością pomaga nam w osiąganiu naszych celów, mając w dodatku tę korzystną cechę, że unika stawiania jakichkolwiek kłopotliwych pytań, dotyczących moralnej czy duchowej jakości tych celów.
+<p>W naszym zapale prowadzenia ludzi do "przyjęcia Chrystusa" często ulegamy pokusie oferowania ludziom Chrystusa, który jest zaledwie karykaturą tej świętej Osoby, która poczęła się z Ducha Świętego, urodziła się z dziewicy Marii, została ukrzyżowana i wstała z martwych trzeciego dnia, aby zająć swoje miejsce po prawicy majestatu na niebiosach.
+<p>W ciągu ostatnich kilku lat, dla przykładu, Chrystus został spopularyzowany przez pewnych tak zwanych chrześcijan ewangelicznych jako ktoś, gotowy dzięki odpowiedniej ilości modlitwy pomóc jednemu bokserowi w znokautowaniu w ringu innego boksera przez zadanie mu ciosów do nieprzytomności. Chrystus również rzekomo pomaga ligowym zawodnikom piłki nożnej podczas decydujących momentów meczu. Kiedy indziej pomaga atlecie wygrać w skoku o tyczce, a w jeszcze innym przypadku nawet ustanowić nowy rekord dla danej dyscypliny. Podobno pomaga też modlącemu się biznesmenowi dokonać korzystnej transakcji handlowej, zmusić konkurencję do bankructwa czy wygrać korzystny przetarg na niekorzyść innych, ubiegających się o to. Nawet rzekomo wspiera on modlącą się aktorkę filmową w odtwarzaniu roli tak zmysłowej, że na jej widok czerwienić się musi nawet zawodowa prostytutka.
+<p>W taki sposób nasz Pan staje się Chrystusem przynoszącym różnorakie korzyści, czymś w rodzaju czarodziejskiej lampy Aladyna, gotowym do czynienia drobnych cudów na usługi tych wszystkich, którzy przywołują Go dla spełnienia swoich poleceń.
+<p>Widocznie nikt nie zastanawia się, że gdyby Chrystus wszedł na ring, aby użyć swej boskiej mocy na korzyść jednego zawodnika przeciwko drugiemu, zakłóciłby drastycznie ich szansę, gwałcąc wszelkie powszechne zasady uczciwej gry. Gdyby pomagał On jednemu biznesmenowi z szkodą innego, byłby stronniczy, objawiając charakter całkowicie niezgodny z biblijnym obrazem prawdziwego Chrystusa. Ponadto mielibyśmy groteskową sytuację Pana Chwały, śpieszącego z pomocą nieprzeobrażonemu Adamowi na warunkach, podyktowanych przez tego Adama.
+<p>Wszystko to jest zbyt okropne, by się nad tym zastanawiać i mam nadzieję, że ci, którzy podsuwają tego nowoczesnego, wygodnego Chrystusa, nie zdają sobie sprawy z konsekwencji ich tandetnej doktryny. Ale być może oni zdają sobie sprawę, a jednak gotowi są oferować takiego utylitarnego Chrystusa jako Zbawiciela ludzkości. Jeśli tak, znaczy to, że nie wierzą już ani w boskość, ani w panowanie Chrystusa w żadnej sensownej definicji tych słów. Posiadają oni Chrystusa cielesnych wygód, niezbyt różniącego się od bóstw pogaństwa.
+<p>Właściwym celem Bożym w odkupieniu jest uczynienie nas świętymi i przekształcenie nas z powrotem według obrazu Bożego. Aby to osiągnąć, On odwraca nas od ziemskich ambicji i od tych wszystkich tanich i niegodziwych wartości, do których ludzie świeccy przywiązują swoje serca. Święty człowiek nie myśli nawet, by prosić Boga o pomoc w pokonaniu przeciwnika lub w rozgrywce z konkurentem. Nie zechce on odnosić sukcesów kosztem niepowodzeń innych ludzi. Nikt, w kim mieszka Duch, nie będzie prosił Pana o pomoc w pobiciu innego człowieka do nieprzytomności dla brudnego zysku lub dla poklasku wulgarnej publiczności.
+<p>Jozue staczający walki Pańskie, Dawid ratujący lud Boży z rąk Filistynów, Washington błagający Boga o pomoc przeciwko wrogowi, chcącemu zniewolić młodą Amerykę - to przykłady poszukiwania Bożej ingerencji na wysokim poziomie moralnych i duchowych zasad i w zgodności z Bożymi celami w historii ludzkości. Lecz nauczanie, że Chrystus zechce używać swojej świętej mocy dla osiągania naszych nieświętych interesów to zniesławianie naszego Pana i szkodzenie naszym własnym duszom.
+<p>My, współcześni chrześcijanie ewangeliczni, musimy uczyć się znowu prawd o Bożej suwerenności i panowaniu Chrystusa. Bóg nie będzie zabawiał się ze starym Adamem, Chrystus nie da się wykorzystywać dla żadnych jego samolubnych poczynań. Raczej nauczmy się tego czym prędzej, aby naszej generacji młodych chrześcijan zaoszczędzić tragedii naśladowania Chrystusa, który jest zaledwie Chrystusem wygodnictwa, a wcale nie jest rzeczywistym Panem Chwały.
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-02-ccdf177db/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+</p></p></p></p></p></p></p></p></p></p></p>
+{% endraw %}

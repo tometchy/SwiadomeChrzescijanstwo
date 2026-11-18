@@ -1,0 +1,41 @@
+---
+title: Miłość suwerennego Boga
+category: Znani pisarze
+permalink: /czytelnia/swch-autorzy-duttweiler-milosc-boga-ec54c00ca/
+source_url: https://swch.pl/autorzy/duttweiler/milosc_boga.html
+imported_from_legacy: true
+source_text_sha256: 72800243c641604d84fbbee339cbfb87f7526945b84e0059b989739b81fd1892
+source_char_count: 7262
+source_verified: true
+---
+
+{% raw %}
+
+<h1>Miłość suwerennego Boga</h1>
+<p>Przez ostatnie trzysta lat toczyła się zażarta dyskusja nad pytaniem w jaki sposób koncepcja wolnej woli* człowieka może zostać pogodzone z koncepcją suwerenności wszechmocnego Boga. Wielu stwierdziło iż jeśli Bóg jest rzeczywiście suwerenny to wszystko znajduje się pod Jego wpływem i istnieje ścisły związek przyczynowy między Jego wolą a każdym wydarzeniem. Inni zaś, utrzymują, że suwerenny Bóg dał człowiekowi prawo stanowienia o sobie to znaczy dał mu przywilej wolnej woli. Zatem biorąc pod uwagę jego moralne, duchowe wybory*, życie człowieka pozostaje pod jego własną kontrolą, to znaczy człowiek sam decyduje o swoim losie w ramach Bożego zamysłu.
+<p>Podczas gdy obydwie strony rozumują prawidłowo pod względem teologicznym, wydaje się jednak, że podstawowe założenia i presupozycje wyznających totalną suwerenność Boga są przynajmniej w części błędne. Przede wszystkim daje się zauważyć fałszywe założenie, że skoro ktoś ma moc aby wykonać pewne działanie musi tą moc wykorzystywać. Z pewnością przyznamy, że Bóg ma moc aby kontrolować każde zdarzenie i określać wynik każdej sytuacji. Nie oznacza to jednak, że jest to ze wszech miar pożądane przez Boga Ojca i że taki właśnie jest Jego wybór. To założenie nie jest ani owocem doświadczenia ani rozsądku; tym bardziej nie ma oparcia w Piśmie Świętym. Mamy ziemskich władców, którzy skupiają w swym ręku niesamowitą władzę nad swoimi poddanymi a mimo to nie korzystają w pełni ze swej mocy. Nie oznacza to czegoś im nie dostaje a raczej jest wynikiem ich troski o dobro ich poddanych. Używanie władzy tylko dlatego, że jest to możliwe doprowadziłoby do chaosu nie wspominając już nic o atmosferze strachu i terroru.
+<p>Również charakterystyczne dla poglądu o totalnej suwerenności Boga jest przekonanie, że wszystko, czego chce Bóg to ludzie wypełniający przestrzeń i czas, aby byli po prostu narzędziami czy instrumentami "posłuszeństwa" (bezsensowna koncepcja jeśli Bóg rzeczywiście zadecydował już z góry o wszystkich ich działaniach!). Uczyniłoby to relację Boga z Jego stworzeniem wielce bezosobową, której brakowałoby prawdziwych uczuć czy troski o człowieka - co wypływałoby z prymatu byłoby raczej "planem" niż ludźmi. Jednakże z pierwszego rozdziału Genesis dowiadujemy się, że Bóg uczynił człowieka na Swój obraz i podobieństwo. Skoro nie możemy tego skojarzyć z podobieństwem fizycznym - wiemy, że Bóg nie posiada fizycznego ciała, musimy zakładać, że oznacza to podobieństwo duchowo lub osobowościowe. Pismo Święte podkreśla, że pragnieniem Boga jest trwanie w społeczności z Jego stworzeniem a nie jedynie kontrolowanie jego działań. Zaspokojenie tego pragnienia nie byłoby możliwe gdyby stworzenie nie miałoby żadnego wyboru.
+<p>Widzimy zatem, że jeśli pragnieniem Boga jest pełna miłości społeczność ze stworzeniem, które On uczynił na swoje podobieństwo, zdolne myśleć, rozumować, czuć i wybierać zgodnie ze swymi pragnieniami, to użycie siły czy przymusu aby tą społeczność pozyskać byłoby sprzeczne z samą ideą takiej społeczności. Aby być kochanym bez przymusu należy dopuścić możliwość wolnego wyboru; nie można z góry określać, powodować, przymuszać ani w inny sposób pozbawiać jednostkę prawa wolnego wyboru aby taką miłość pozyskać. Wolna miłość musi być wolna! W tym, że nas wybrał widzimy, że przepełniony bez granic Swą miłością zabiega On o nasze względy a nie to, że z góry jednych przeznaczył na wieczne potępienie a innych do wiecznego życia. Bóg w Swej nieskończonej mądrości znalazł najlepszą drogę ku pozyskaniu nas dla Siebie nie poprzez użycie Swej suwerennej mocy a raczej poprzez miłość! Tak wiele razy odnajdywaliśmy na stronicach Pisma Świętego nieogarnione współczucie Boga dla Jego ludzi, momenty kiedy uganiał się za nimi, podążając za nimi jak kochanek pragnący zdobyć serce swej ukochanej. Najpełniejszy tego wyraz zauważamy w Jezusie Chrystusie, Bogu w ciele, który przyszedł aby zdobyć ludzkie serca nie poprzez siłę czy moc a poprzez zademonstrowanie Swojej, nie mającej sobie równej miłości. Werset Pierwszego Listu Jana ukazuje nam Boże intencje i efekty Jego planu: "Miłujemy więc, gdyż On sam przedtem umiłował" (1 Jan 4:19). Kochamy a nie jedynie służymy Bogu, nie jedynie należymy do Boga i nie jedynie jesteśmy Mu posłuszni i podporządkowani ale kochamy Go. To właśnie od samego początku Jego objawienia, było Jego planem dla naszego życia, "Będziesz tedy miłował Pana, Boga swego, z całego serca swego i a całej duszy swojej, i z całej siły swojej" (5 Moj. 6:5).
+<p>Koncepcja Wszechmocnego Boga wykorzystującego Swą moc by zmusić ludzi, których powołał, aby Mu służyli, sprawiła, że wielu odwróciło się od miłości Chrystusa. Jestem przekonany, że takie pojmowanie Boga przynosi hańbę Jego Imieniu miast go wywyższać. Ludzie odrzucają Boga postrzeganego jako arbitralnego władcę ich życia. Zamiast pokłonić się pokornie przed prawym Bogiem, który ukochał ich tak bardzo, że przyjął na Siebie karę za ich grzechy aby mogli Go kochać, odrzucają oni zimnego, nieczułego Boga, który z góry o wszystkim zadecydował. Bogu nie potrzebne są roboty i ludzie nie mają najmniejszej chęci nimi być. Bóg pragnie abyśmy kochali Go i wyposażył nas tak, abyśmy mogli decydować sami o naszym wyborze. Ustami Jozuego Bóg mówi do naszych serc, "(...) wybierzcie sobie dzisiaj, komu będziecie służyć (...)."
+
+<p><i>Jonathan Duttweiler</i>
+<p style="font: normal 8pt Arial, Helvetica, sans-serif"><font size="-1" style="font: normal 8pt Arial, Helvetica, sans-serif">*) Wolny wybór (wolna wola) -  Jest on charakterystycznym elementem rządu duchowego. (Polecamy lekturę kazań: "Czym jest duchowy rząd Boga?" Deana Harvey'a i "Błędne pojęcia rządu duchowego" Alana Snydera i "Zatem wybierz" Jonathana Duttweilera). "Wolny" wybór musi być tym, w ramach którego istnieje możliwość wyboru czegoś innego lub nie wybrania wcale. Wolny "wybór" musi być tym, w którym istnieje możliwość wyboru rzeczy moralnie dobrych jak i złych. Moralna odpowiedzialność (powinność) spoczywa na moralnej zdolności. Jeśli ktoś jest niezdolny wybrać słuszny moralnie bieg swego działania ze względu na coś, z czym się urodził, to byłoby to niesprawiedliwe jeśli Bóg by go potępił tak jak i byłoby to niesprawiedliwe potępiać czteroletnie dziecko za to, że niezdolne jest przygotować posiłku złożonego z pięciu dań. "Kontrola absolutna nad istotami moralnymi działającymi w ramach swych kreatywnych zdolności i wolności jest zatem niemożliwością. Ponieważ dano im zdolność określania swoich działań, decyzje istot moralnych muszą być niepewne, nie założone z góry przez Boga... Jeżeli "chcę" lub "nie chcę" wolnego wyboru nie jest dopuszczalne, duchowy rząd upada i wszystko staje się rządem przyczyn i skutków. Podczas gdy Bóg wywiera wpływ na osobowość człowieka, respektując oczywiście jego wolną wolę, aby dokonywał słusznych wyborów, w żadnym wypadku nie jest Bóg przyczyną moralnych wyborów człowieka za które on sam ponosi odpowiedzialność." (Gordon C. Olson The Moral Government of God)</font>
+<p><i>R. G.</i>
+<br/><br/>
+<br/>
+<p><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+<input name="filename" type="hidden" value="autorzy/duttweiler/milosc_boga.html"/><p>Chciał(a)bym przesłać ten
+    artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+    Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/> <br/>
+<input type="submit" value="  Wyślij  "/> </p>
+</form>
+<br/><br/>
+<h4><font color="#808080">
+(Tytuł oryginału: "The Love of a sovereign God. Tłumaczenie na podstawie kopii udostępnionej przez Trumpet of Zion Revival Ministries International, Inc. 
+Copyright © 1980, 1996 Trumpet of Zion Revival Ministries International, Inc. All rights reserved.<br/>
+Wersja HTML, Copyright by <a href="http://www.anastasis.css.pl/czytelnia">Czytelnia
+Chrześcijanina</a>, 1999</font></h4><br/>
+</p></p></p></p></p></p></p></p></p>
+{% endraw %}

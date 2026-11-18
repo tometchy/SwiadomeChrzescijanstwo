@@ -4,8 +4,9 @@ author: T. Austin-Sparks
 catalog_number: 12
 sort_order: 12
 kind: broszura
-catalog_status: brak
+catalog_status: ''
 source_url: https://www.wswch.pl/
-source_provenance: web-catalog-snapshot-2026-11-17
-source_text_verified: false
+source_provenance: original-downloaded-html
+source_text_verified: true
+historical_price: brak
 ---

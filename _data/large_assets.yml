@@ -1,0 +1,8 @@
+- source_url: https://swch.pl/tnp/tnp.pdf
+  target: /assets/legacy/swch/tnp/tnp.pdf
+  size: 126553490
+  sha256: c03ea13c367005f950b9c7f45b5b7de774ff679ad85419daa85be2e350e86fcf
+  parts:
+  - _large_parts/swch/599045488/0000.part
+  - _large_parts/swch/599045488/0001.part
+  - _large_parts/swch/599045488/0002.part

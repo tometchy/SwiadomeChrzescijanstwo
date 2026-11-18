@@ -1,0 +1,866 @@
+---
+title: Paweł Smoluch Opowieść byłego katorżnika
+category: Książki
+permalink: /czytelnia/swch-ksiazki-smoluch-3bf01720f/
+source_url: https://swch.pl/ksiazki/smoluch.html
+imported_from_legacy: true
+source_text_sha256: ad003647cb07e3f0ac3ecfa3f6c3c5dc46ad960439ab7f8a32c0852b7be88766
+source_char_count: 46721
+source_verified: true
+---
+
+{% raw %}
+
+<table border="0" valign="TOP" width="95%">
+<tr>
+<td valign="TOP"><h1>Paweł Smoluch<br/>
+<font size="5">Opowieść byłego katorżnika</font></h1>
+</td>
+<td align="RIGHT" valign="TOP"><a href="http://www.anastasis.css.pl/czytelnia/archiwum/"><img alt="Pobierz do przeglądania off-line" border="0" height="32" src="/assets/legacy/swch/images/dyskietka.gif" width="32"/></a> <a href="http://www.anastasis.css.pl/czytelnia/"><img alt="Czytelnia Chrześcijanina" border="0" height="31" src="/assets/legacy/swch/images/czytbt1.gif" width="88"/></a></td>
+</tr>
+</table>
+<p>Przezwisko "Smoluch" otrzymał Paweł, mając lat
+osiem, w osobliwych warunkach, o których mowa będzie później.
+Prawdziwe jego nazwisko - brzmi Tichomirow; jest on synem włościanina
+jednej z najuboższych wiosek guberni Mohylowskiej. Rodzina
+Tichomirowych składa się z ojca, matki i dwojga małoletnich
+dzieci: dziesięcioletniej Szury (zdrobniale od Aleksandry) i ośmioletniego
+Paszy (zdrobniale od Pawła). Rodzina żyła zgodnie i religijnie
+według obrządku prawosławnego; cieszyła się nie tylko poważaniem
+mieszkańców swojej wsi, ale także okolicznego duchowieństwa.
+W święta bywał u niej nawet miejscowy pop i grywał w karty z
+gospodarzem. Grano nie o pieniądze, ale dla zabicia czasu, to w
+"durnia" to w "nosy", przy czym ten, kto
+przegrał, dostawał kartami po nosie. Kiedy ktoś z grających
+posiadał pieniądze, posyłano po wódkę; wszyscy wówczas
+wpadali w wesoły nastrój, a "batiuszka" mawiał:
+"pić w miarę nie jest grzechem; sam Pan lubił wesołość
+i przemienił wodę w wino na weselu w Kanie Galilejskiej".
+Dzieci ciekawie obserwowały przy tym, jak nos duchownego
+purpurowiał czy to od wódki, czy od uderzeń kartami,
+zadawanych zręcznie ręką wygrywającego zazwyczaj ojca.
+Poczciwy pop jeno chrząkał przygadując: "Kto wytrwa aż
+do końca, ten zbawion będzie; przyjdzie święto i dla mnie, a
+wtedy trzymaj się bratku, albowiem napisano: nikomu nic winni
+nie bądźcie", oraz "jaką miarą mierzycie, taką wam
+odmierzone będzie".</p>
+<p>Ale oto nastał kres wesołego życia. Szereg następujących
+po sobie nieurodzajów zmusił włościan wsi Sosnówki do pomyślenia
+o emigracji na Syberię. Radzono nad tym na zgromadzeniach i
+postanowiono wreszcie wysłać poszukiwaczy, celem odnalezienia
+odpowiedniego szmatu ziemi w jednej z guberni sybirskich. Pomiędzy
+poszukującymi był też Tichomirow, jako człowiek praktyczny i
+roztropny. Po trzech miesiącach wysłańcy powrócili. Ziemię
+znaleziono w gubernii Tomskiej. Sprzedawszy cały dobytek,
+emigranci ruszyli w drogę. Mieszkańcy Sosnówki zajęli kilka
+wagonów długiego pociągu, jednego z tych, które przeznaczono
+dla kolonistów. Rzecz działa się w roku 1897-mym. Poruszające
+się z wolna pociągi zatrzymywały się długo na stacjach węzłowych,
+gdzie przesiadali się pasażerowie - w Samarze, Czelabińsku,
+Omsku. Emigrantom wypadło oczekiwać na swoje pociągi
+tygodniami, i oto, poniewierając się byle jak na podłogach, spędzali
+dnie i noce w ciasnych budynkach stacyjnych. Przegotowanej wody
+brakło dla nich w kociołkach; pokarm gorący w butelkach był
+niedostępny dla biedaków; głodni ludzie rzucali się na tanie
+śledzie i wędzone płotki i zapijali je niegotowaną wodą - w
+rezultacie pojawiły się naprzód schorzenia żołądkowe, a
+potem cholera. Zapadali na nią przeważnie dorośli. Nie
+dojechawszy do Tomska, zachorował także Tichomirow. Wszystkie
+objawy świadczyły o cholerze. Ku przerażeniu jego żony i
+dzieci, wyniesiono chorego na jednej ze stacji z wagonu i
+skierowano do baraku dla chorych zakaźnie. Oczywiście żona i
+dzieci opuściły również pociąg i znalazły przytułek nie
+opodal od baraku, za zestawionymi, ochraniającymi od śnieżycy
+deskami na drodze kolejowej, aby stąd po kilka razy dziennie
+dowiadywać się o zdrowie męża i ojca. Wieści były coraz
+smutniejsze. Przeszły trzy dni, i zgnębiona Tichomirowa oświadczyła
+dzieciom, że i ona zachorowała. Była to rozdzierająca serce
+scena, kiedy posługacze zabierali płaczącym dzieciom matkę.
+Traciły one wraz z nią ostanie oparcie. Ona też nie wypuszczała
+ich długo z objęć, czując, że rozstaje się z nimi na
+zawsze. Ale okropniejszą niźli śmierć, była dla niej myśl o
+tym, że jej drogie dzieci pozostaną jako sieroty, bez opieki na
+obczyźnie.</p>
+<p>Oto poniesiono matkę do baraku. Zrozpaczone dzieci z płaczem
+biegły za ludźmi, unoszącymi matkę, ale ciężkie wrota
+baraku zawarły się przed nimi. Jakże nieszczęsnymi i
+samotnymi czuli się teraz Szura i Pasza. Dzieci jak szalone
+biegały dokoła baraku, przywołując to ojca, to matkę.... Ale
+odpowiedzią były tylko szorstkie wyzwiska dozorców i groźby
+pobicia, o ile nie odejdą. Jednakże dzieci nie przestawały
+krzyczeć i prosić o wpuszczenie ich do baraku, aby umrzeć mogły
+wraz z rodzicami, bez których - jak powiadały - nie chcą, i
+nie mogą żyć. Tak biegały biedactwa do późnej nocy i
+dopiero chłód nocy zmusił je do pomyślenia o odzieży, którą
+wraz z innymi rzeczami pozostawiły gdzie indziej. Przybywszy na
+miejsce, gdzie siedziały wprzód z matką przed jej zasłabnięciem,
+nie znalazły ani śladu swego bagażu: ktoś widać złakomił
+się na nędzny dobytek emigrantów.</p>
+<p>Wcisnąwszy się pomiędzy deski, dzieci mocno przytuliły się
+do siebie, aby się cokolwiek ogrzać. Szura jako starsza,
+troszczyła się bardzo o swojego braciszka, aż do świtu nie
+zmrużyła oczu i noc ta wydawała się jej wiecznością.
+Zaledwie Pasza się obudził, pobiegli oboje do baraku. Pierwszy
+dozorca, jakiego napotkali, powiedział im:</p>
+<p>"Nie przychodźcie więcej; rankiem wynieśliśmy trupa
+waszego ojca, a matka także pewno dzisiaj umrze". </p>
+<p>Trudno było przekonać dzieci, aby nie zbliżały się do
+baraku. Zaglądały wciąż przez okna i przywoływały mamę.
+Czyliż naprawdę zamilknie dla nich słodki głos; czy w istocie
+i ona na wieczór będzie zimnym trupem?</p>
+<p>Tak, wieczorem dowiedziały się, że matka umarła. Objąwszy
+się, siedziały przy ścianie i gorzko płakały. Tej nocy Pasza
+nie spał ani chwili, ciągle płakał i tęsknił. Wsparty o ścianę,
+spoglądał na uchodzący w dal szlak żelaznej drogi i przeżywał
+dziecięcą wyobraźnią okrutne zdarzenia ostatnich dni.
+Wreszcie zauważywszy nadchodzący pociąg rzekł: "Szura,
+nie chcę żyć bez taty i mamy; pójdźmy, połóżmy się na
+szynach; niechaj lokomotywa nas zgniecie na śmierć. Po co mamy
+żyć? Dokąd pójdziemy teraz? Komu jesteśmy potrzebni?" Z
+tymi słowy Pasza pociągnął siostrę za rękę i jął wlec ją
+ku szynom. Szurę zdjęło przerażenie, objęła braciszka i łkając
+mówiła: "Nie, za nic nie rzucę się pod pociąg i ciebie
+nie puszczę... boję się... to okropne". "Puść
+mnie, ja sam pobiegnę" - krzyczał malec.</p>
+<p>Kiedy tak spierali się oboje, pociąg przeleciał. Pasza
+przypadł twarzą do ziemi i załkał: "Dlaczegoś mnie
+wstrzymała? Ja nie chcę dłużej żyć". Starsza
+siostrzyczka, mądra i czuła jęła przekonywać brata aby
+porzucił czarne myśli. Długo wypadło jej namawiać go, zanim
+uspokoił się i przyrzekł jej nie myśleć o śmierci i nie
+pozostawiać Szury samej na świecie. </p>
+<p>Znowu dzieci siadły przy ścianie, tuląc się nawzajem do
+siebie i oczekując świtu. Postanowiły pójść rankiem na mogiły
+rodziców. Mroźna noc ciągnęła się nieskończenie długo dla
+zziębłych, głodnych dzieci. Ale oto i poranek. Dzieci pobiegły
+na cmentarz, gdzie na wyznaczonym miejscu grzebano zmarłych na
+choroby zakaźne. U wrót cmentarza dzieci poprosiły dozorcę,
+aby wpuścił je i wskazał im, gdzie pochowani są ich rodzice.
+Ale Ów odparł im szorstko: "Czyliż mało przywłóczono
+ich tej nocy; czyliż muszę wiedzieć, kogo tutaj grzebią? Przy
+tym walą ich po dziesięć ciał do jednego dołu, a nieraz i po
+dwadzieścia". </p>
+<p>Nie dowiedziawszy się niczego więcej, dzieci zapatrzyły się
+jeno zapłakanymi oczkami przez szczeliny parkanu na nieporządne
+szeregi pagórków z wilgotnej gliny. Długo stały tak, patrzyły
+i płakały, dopóki stróż ich nie odpędził. Przygnębione
+smutkiem, milczące dzieci, trzymając się za ręce, powracały
+ku ogrodzeniom kolejowym, ochronnym świadkom ich ciężkich przeżyć
+w ciągu pięciu ostatnich dni i rozłąki z matką. Miejsce to
+stało się dla osieroconych dzieci czymś bliskim, niby dom
+rodzinny. Pod ochroną ścian, jęły naradzać się nad tym, co
+czynić dalej. Niezbyt chciało im się dostać do baraku dla
+osieroconych dzieci, ale rozumiały dobrze, że byłoby to dla
+nich ocaleniem od głodu, który coraz mocniej dawał im się we
+znaki. Ich niewielkie zapasy żywności przepadły wraz z bagażem,
+w którym znajdowały się pieniądze. </p>
+<p>Strach przejmował samotne dzieci; dokuczał im głód i chłód.
+Skowronki wiosenne wesoło krążyły nad nimi, śpiewając swoje
+skromne piosenki. Jaskrawe słoneczko złociło wszystko dokoła
+- a w sercach sierot była mroczna noc. Smutek i wspólna niedola
+osobliwie zbliżyły teraz siostrę i brata. Szura stała się
+dla Paszy jakby drugą matką; pieściła go, pocieszała jak mogła
+i mówiła: "Nie rozpaczajmy kochanie, Bóg nas nie opuści".</p>
+<p>Już postanowili pójść do najbliższej wsi i żebrać o
+chleb, kiedy naraz usłyszały nad sobą szorstki okrzyk:
+"Co tu robicie, kim jesteście?" Przed nimi stał
+nieznajomy człowiek i przypatrywał się im. Dzieci zmieszały
+się i nie od razu odparły, że są emigrantami i że ojciec i
+matka ich dopiero co zmarli. Nieznajomy kazał im iść za sobą
+i odprowadził ich do urzędu, gdzie przeznaczono im na
+mieszkanie barak dla osieroconych, do którego tak bardzo udać
+się nie chciały w obawie przed grożącą im rozłąką; barak
+dla dziewcząt znajdował się o kilka stacji dalej. Ale nie bacząc
+na błagania i łzy dzieci, Paszę odprowadzono o trzy wiorsty od
+stacji do baraku dla chłopców, a Szurę wysłano najbliższym
+pociągiem do stacji, gdzie znajdował się barak dla dziewcząt.
+</p>
+<p>Łatwo sobie wyobrazić cierpienia rozłączonych dzieci; każde
+z nich traciło w drugim wszystko, co było mu drogie w życiu.</p>
+<p>Paszę wprowadzono do baraku, gdzie znajdowało się już 300
+chłopców. Wielu przebywało tam już dosyć długo; oswojeni z
+nowymi warunkami, zabawiali się figlami. Przywitali oni
+nowicjusza drwinami i potężnymi razami w bok i plecy - dla
+pierwszego zaznajomienia się. Po tygodniu Pasza postanowił
+uciec z baraku: warunki bytu, obojętność na potrzeby dzieci,
+grubiaństwo wielu chłopców, bijatyki, hałas i wstrętna
+wodnista zupa - wszystko to stało się dlań nieznośne. Jął
+tedy wypatrywać dogodnej chwili do ucieczki. Dzieciom nie
+pozwalano oddalać się z baraku, ale nie mogąc zwlekać dłużej,
+pewnej ciemnej nocy Pasza wyszedł na podwórze, przeskoczył
+drewniany parkan w dogodnym miejscu i puścił się cwałem w
+stronę przeciwną kolei. Coś o pięć wiorst od niej, zaczynał
+się wielki las. Znalazłszy się w gąszczu, Pasza poczuł się
+spokojniejszy. Nie biegł już teraz, ale szedł, starając się
+nie stracić z oczu skraju lasu, żeby nie zabłądzić, a bądź
+znaleźć się dalej od miejsca, gdzie stał barak. Tak szedł
+przez długi czas, aż się znużył, legł pod drzewem i wkrótce
+zasnął. We śnie zdawało mu się, że go dopędzono, wciągnięto
+do baraku, zbito, otwierając mu usta i wlewając wstrętną
+postną zupę...</p>
+<p>Jasne słoneczko już mocno grzało, kiedy maleńki dezerter
+obudził się. Wielogłose ptaszęta po prostu ogłuszyły go
+swoim śpiewem, jakby pochlubić się chciały przed gościem, który
+odwiedził ich zielone królestwo. Pasza szedł i rozmyślał, co
+ma czynić dalej. Postanowił wrócić do rodzinnej Sosnówki;
+nazwę swojej guberni zapamiętał dobrze. Jakże przyjemnie żyło
+się niegdyś w Sosnówce. Była tam pyszna rzeczka, w której kąpał
+się niegdyś z innymi chłopcami i łowił wędką ryby. Oczywiście,
+bardzo pragnął zobaczyć się z miłą siostrą Szurą, ale nie
+wiedział jak ją odnaleźć. Nadto lękał się, że ponownie
+zabiorą go do baraku. Tedy postanowił odważnie kroczyć naprzód,
+jak najdalej od wstrętnego baraku, a już później wywiadywać
+się szczegółowo o drogę do miejsc rodzinnych.</p>
+<p>Szedł przez cały dzień, starannie unikając siół, i tylko
+w jednej wiosce poprosił o chleb. Nastała druga noc, udał się
+w głąb lasu, aby tam przenocować. Znowu legł pod wysokim
+drzewem i mocno zasnął. Przed samym świtaniem poczuł, że ktoś
+go pchnął i że jakiś gromki głos nań zawołał: "Hej,
+wstawaj malcze. Coś ty za jeden? Z kim tu jesteś?" Podniósłszy
+oczy, ujrzał Pasza trzech zuchowatych młodzików, uzbrojonych
+od stóp do głów, i zląkł się porządnie. - "Nie bój
+się, nie zrobimy ci krzywdy. Opowiedz skąd się tu wziąłeś".
+Widząc, że nie są to ludzie z baraku, Pasza opowiedział im
+szczerze wszystko, co przeżył i dokąd zmierza. Słuchali go
+uważnie. Widocznie spodobała się im jego śmiałość i spryt.
+Naradziwszy się postanowili go zabrać. "Inaczej
+zginie" - mówili. "Chłopak wyrośnie na coś
+dzielnego, skoro nie bał się uciec i pieszo wybrał się w drogę,
+w rodzinne strony; trzeba go tylko wychować po naszemu".
+Postanowienie swoje oświadczyli chłopcu, przy czym wychwalali
+swój tryb życia i przyrzekli, że będzie mu u nich wybornie.
+Pasza nie sprzeciwiał się, bał się tych ludzi i udał się z
+nimi w głąb lasu. Na jakiejś polanie czekały na nich osiodłane
+konie, przy których był jeszcze rosły chłopiec. Ten wziął
+chłopca pod pachy, posadził przed sobą na jednym z koni i
+pojechali. Długo jechali po leśnych, zawiłych ścieżkach;
+wreszcie zatrzymali się; powiedli gdzieś konie, a sami
+pochyliwszy się, i pociągając za sobą Paszę, weszli w jakiś
+otwór pośród drzew, zwalonych przez burzę, a po kilku
+chwilach wędrówki przez gąszcz leśnego parowu, znaleźli się
+na polanie, gdzie spotkali jeszcze około dwudziestu ludzi, również
+uzbrojonych, wśród których było kilka kobiet. Wszystkie oczy
+zwróciły się na przyprowadzonego chłopca, brudnego i
+obdartego. Posypały się pytania: Co to za jeden, skąd? Jeden z
+mężczyzn, najwidoczniej herszt bandy, zapytał: "Jak cię
+zowią? "Pasza - Paweł" -odpowiedział śmiało malec.
+-"A nazwisko jakie?"- "Tichomirow".
+-"No, to nam nie odpowiada. Nazwisko twoje będzie
+'Smoluch', ponieważ jesteś brudny i zasmolony" - żartobliwie
+rzekł herszt. Odtąd przezywano go nie inaczej jak
+"Smoluch". Pasza zrozumiał, że dostał się do bandy
+rozbójników. Powoli oswoił się z nowym życiem, i przypadło
+mu ono nawet do gustu. Wolność bez granic, dobre jadło i wesoły,
+pijany nastrój - wszystko zbliżyło go z tymi ludźmi, i
+przestał nawet myśleć o Sosnówce. Nie zapomniał tylko myśleć
+o siostrzyczce i często tęsknie rozmyślał, że może ona już
+nie żyje.</p>
+<p>Mały "Smoluch" wkrótce stał się ulubieńcem
+wszystkich rozbójników, ich rozrywką. On zaś zainteresował
+się mocno ich przygodami i niecierpliwie oczekiwał nawet
+zdobyczy. Co dnia oswajał się coraz bardziej z nowym życiem i
+zapominał o tym, co mu niegdyś mówili rodzice, o grzechu
+kradzieży; teraz mu było przyjemnie oglądać zagrabione rzeczy
+i słuchać opowiadań zbójców po ich powrocie z
+"roboty", jak nazywali swoje występne rzemiosło. </p>
+<p>Minęło osiem lat, i szesnastoletni "Smoluch" brał
+już żywy udział w grabieżach i rozbojach. Dzięki swojej
+odwadze, zręczności i sprytowi został pomocnikiem herszta.
+"Roboty" bandy budziły zgrozę u okolicznej ludności
+w promieniu około stu wiorst. Nieprzetrzebione lasy dozwalały
+im prowadzić swoje rzemiosło bez obawy. Wydawało się, że
+nikt ich nie odnajdzie, nie zaniepokoi. Ograbiali wszystkich, którzy
+wpadali im w ręce, nierzadko zabijali. </p>
+<p>Ale wszystko ma swój kres. Pewien wypadek na pozór dla rozbójników
+zwykły, niespodziewanie wywołał zupełny przewrót w ich życiu.
+Było to późną jesienią. Część bandy ze
+"Smoluchem" na czele napadła na dwóch ludzi, przejeżdżających
+na wozie, zabiła ich i obrabowała. Zabrano konie, odzież i
+buty zabitych. Pieniędzy przy ofiarach nie znaleziono, zaledwie
+3 ruble i 50 kopiejek a w worku też dwie książki, które zbóje
+zamierzali z początku porzucić, później zostawili na zwijaki
+do papierosów. Książki schował "Smoluch".
+Wieczorem, po obejrzeniu całej zdobyczy, wyjął też książki
+i jął je przeglądać. Jedna nosiła tytuł "Głos
+wiary" i była mu nieznana; o drugiej zatytułowanej
+"Nowy Testament", zachował mgliste wspomnienia z czasów
+dzieciństwa; podobną książkę mieli jego rodzice w Sosnówce.</p>
+<p>Leżąc na swoim posłaniu "Smoluch" z nudy jął
+odczytywać te ustępy, na które natrafił przypadkiem przy
+przerzucaniu kart, i oto czyta: "...i nie ma, kto by szukał
+Boga... grobem otwartym jest ich gardło ... językami swymi
+zdradzają, jad żmii pod wargami ich; których usta pełne są
+przekleństwa i gorzkości. Nogi ich prędkie do przelewu krwi.
+Zniszczenie i nędza na drogach ich. A drogi pokoju nie poznali;
+nie ma bojaźni Bożej przed oczyma ich". (Rzym. 3,11-18).
+Paweł pomyślał: i dawniej byli ludzie tacy jak my. "Nogi
+ich prędkie są do przelewu krwi" Przypomniał sobie
+niedawny obraz, jak pędzili na żwawych koniach za przejezdnymi,
+usiłującymi umknąć, jak tamci błagali o życie; ale bez
+odrobiny miłosierdzia on i towarzysze zamordowali ich. Przy tym
+wspomnieniu "Smoluchowi" zrobiło się jakoś przykro,
+pomyślał: "Co to byli za ludzie? Dlaczego mieli przy sobie
+tę książkę? Jął przerzucać "Nowy Testament" w
+nadziei, że poweźmie jakąś wiadomość o zabitych. Wszelako
+nie znalazł nic, żadnego dokumentu, który pozwalałby
+dowiedzieć się, kim byli. Jeno na tytułowej karcie widoczny był
+krótki napis, brzmiący jak następuje: "15-go maja 1898
+roku - dzień mojego nawrócenia do Pana, pokuty i odrodzenia. W
+dniu tym On mi przebaczył i obmył mnie Swoją świętą krwią".</p>
+<p>"Smoluch" nie mogąc zrozumieć sensu tego napisu,
+przewracał nadal karty i odczytywał poszczególne ustępy.
+"Alboż nie wiecie, że niesprawiedliwi Królestwa Bożego
+nie odziedziczą?" Tu następuje wyliczenie różnego
+rodzaju grzeszników, po czym: "I takimiście niektórzy
+byli, aleście omyci, aleście usprawiedliwieni w imieniu Jezusa
+i przez Ducha Boga naszego" (1 Kor. 6,9-11). Następnie
+wzrok jego natrafił na modlitwę jakiegoś człowieka, który mówił:
+"Oto Panie, połowę majętności swoich dam ubogim. A jeślim
+kogo w czym podszedł, oddaję w czwórnasób".
+Przerzuciwszy jeszcze kilka kart, już pociągnięty został
+urokiem 23 rozdziału Łukasza, gdzie jest mowa o ukrzyżowaniu
+Chrystusa. Najbardziej zajęło go to, że wraz z Chrystusem
+ukrzyżowani zostali dwaj rozbójnicy, że jeden z nich pokutował
+i wyznał swoje winy, a za ten akt skruchy Chrystus obiecał mu
+raj. "Smoluch" zamknął książkę, położył ją pod
+poduszkę i otuliwszy się kołdrą usiłował zasnąć. Ale jakoś
+sen uciekł odeń. Duszę jego zdejmowała trwoga. Na próżno
+starał się odpędzić natrętne myśli, znaleźć zapomnienie
+we śnie, bezustannie powracał w pamięci obraz, jak owi błagali
+na kolanach o darowanie im życia...</p>
+<p>Dopiero nad ranem pokrzepił się "Smoluch" ciężkim
+snem, ale podniósł się z jakimś nowym niepokojem w sercu.
+Towarzysze wkrótce spostrzegli osobliwy wyraz jego twarzy i nie
+wiedzieli, czemu mają go przypisać. Niektórzy sądzili, że
+zachorował. Tak chodził przez parę dni, niby pomieszany, a
+nikt nie mógł dowiedzieć się odeń, co się stało.
+Towarzysze jednak nie zaprzestawali zapytywać o powód jego
+zadumy, aż w końcu otworzył serce przed niektórymi, wyznając,
+iż nie może uspokoić się od chwili, gdy coś wyczytał z książki,
+znalezionej przy zabitych. Wszystkim było nieswojo: Cóż to za
+księga, która wprawiła w taką posępność ich wesołego
+towarzysza? Jedni żądali, aby dał im tę czarodziejską książkę,
+iżby mogli ją spalić; inni, zaciekawieni prosili, aby im coś
+z niej przeczytać. Wreszcie postanowiono to ostatnie. I oto
+wszyscy byli zebrani, przeczytał im "Smoluch" te
+miejsca, które go tak bardzo poruszyły. Wszyscy słuchali z
+napięciem. Już na początku czytania pewien młody rozbójnik z
+przekonaniem rzekł, że ta książka, to Ewangelia, którą zna
+bardzo dobrze: "Matka moja była sztundystką i ciągle
+czytała Ewangelię; prowadziła też mnie na zebrania dziecięce,
+gdzie czytano tę książkę, a potem dzieci modliły się i śpiewały".</p>
+<p>Czytanie trwało długo po czym słuchacze rozeszli się w
+milczeniu po kątach. Większość była w przygnębionym
+nastroju. Nikt nie był w stanie pojąć, czemu książka ta
+wywarła na nich takie wstrząsające wrażenie. Od tego dnia co
+pewien czas schodzono się i czytano Nowy Testament, który działał
+na nich nieodparcie. </p>
+<p>Nie minął jeszcze miesiąc, a już młody rozbójnik, syn
+sztundystki szczerze oświadczył, że nie zdoła nadal zajmować
+się swoją występną robotą. Po nim oświadczył to samo
+"Smoluch". Towarzysze już widzieli obu modlących się
+ze łzami w oczach. W końcu złożył takie wyznanie sam herszt.
+Wszyscy zgodzili się z nim. Ale stanęła przed nimi kwestia, co
+czynić nadal i jak zwrócić się na uczciwą drogę życia?
+Wszakże w tym celu należałoby przede wszystkim oddać się w ręce
+władz. Nadto czy są w stanie jeśli nie dziesięciokrotnie
+wynagrodzić, to chociażby byle jak zaspokoić wszystkich, którym
+wyrządzili krzywdę? Oczywiście, jest to niemożebne. Pozostawało
+tedy oddać się władzom. Na to nie zgodziła się większość,
+ale ów młody zbój, który pierwszy postanowił prowadzić nowe
+życie, a z nim "Smoluch" i jeszcze pięciu zadecydowało,
+że pójdą i przyznają się do swoich zbrodni przed władzą.</p>
+<p>Nastał dzień, kiedy miano się rozejść na zawsze. Pożegnanie
+było wzruszające. Towarzysze prosili "Smolucha", aby
+na ostatek przeczytał im coś z Ewangelii. Natrafił na ustęp,
+w którym mowa jest o dwóch opętanych przez biesy, wychodzących
+z grobów tj. z cmentarnych pieczar, słowem o tych dwóch, nader
+opętanych, z których Chrystus wypędził złe duchy, po czym
+wyleczeni poszli za Nim. "To samo stało się i z nami"
+- dodał "Smoluch" - "My też porzucić chcemy
+nasze grzeszne życie. Dosyć już krzywdzenia ludzi. Pójdziemy
+śladem Chrystusa". Z tymi słowy "Smoluch", padłszy
+na kolana, wyznawał głośno swe zbrodnie; pokutowali także
+inni. W ogólnym płaczu i jęku słyszało się okrzyki, słowa
+bez związku: "Przebacz... nam... mnie... Nie pamiętaj
+mi... Obmyj krwią Swą... Daj moc... Nie będę... Nie chcę...
+Przyrzekam" itp. Siedmiu zbójców, ucałowawszy pozostałych
+na pożegnanie, udało się z orężem w ręku do pobliskiego
+miasta, podczas gdy inni obrali sobie różne drogi podług
+swojego uznania.</p>
+<p>Mocnym i stanowczym krokiem podchodził do miasta
+"Smoluch" z towarzyszami. Już na pierwszej ulicy zwrócili
+na siebie uwagę przechodniów, zdumionych, skąd wzięła się
+ta grupa ludzi, odzianych jaskrawo i zbrojnych. Na rogu jednej z
+głównych ulic prosili policjanta o wskazanie im miejsca
+zamieszkania prokuratora Sądu Okręgowego. Policjant wskazał im
+wielką dwupiętrową kamienicę na tejże ulicy. Rozbójnicy
+weszli do domu, umówiwszy się wprzódy, że
+"Smoluch", jako najśmielszy i najwymowniejszy, wyłoży
+ich sprawę prokuratorowi.</p>
+<p>Znaleźli się w wielkiej i jasnej komnacie z froterowaną
+posadzką, gdzie oczekiwało już około dwudziestu ludzi. Przy
+drzwiach do gabinetu stał woźny. "Smoluch" zwrócił
+się doń: "Prosimy zawiadomić pana prokuratora, że musimy
+z nim mówić". Woźny z ukosa spojrzał podejrzliwie na
+uzbrojonych ludzi. - "W jakiej sprawie?" - "Bardzo
+ważnej" - odparł "Smoluch". Woźny znikł za
+drzwiami. W parę minut potem zbójcy stanęli przed sędziwym
+jegomościem o twarzy, budzącej szacunek, na której malowało
+się lekkie zaniepokojenie z powodu nagłego zjawienia się przed
+nim siedmiu uzbrojonych ludzi. Ale równie wzruszeni byli wobec
+przedstawicieli prawa rozbójnicy, którzy zdecydowali się w
+swojej tajdze, na taki niezwykły krok jak wyznanie przewinień.
+Drżącym głosem rozpoczął "Smoluch".</p>
+<p>"Pozwól pan, że wyjaśnimy, kim jesteśmy i dlaczego
+znaleźliśmy się tutaj. Jesteśmy przestępcami. Ale nie lękaj
+się pan nas. Przyszliśmy tu przyznać się i pokutować.
+Poznaliśmy, jakie czyniliśmy zło, i przyszliśmy ponieść karę,
+wskazaną prawem za rozbój. Postąp z nami, jak każe
+sprawiedliwość. A oto składamy naszą broń". Przy tych słowach
+"Smoluch" i jego towarzysze szybko złożyli broń na
+stos.</p>
+<p>Prokurator tak się zmieszał, że nieprędko zapanował nad
+sobą. Po raz pierwszy w życiu zdarzyło mu się usłyszeć
+spowiedź całej grupy ludzi, dobrowolnie oddających się w ręce
+przedstawiciela prawa. W końcu zawezwał policję. W parę chwil
+potem zjawił się oddział uzbrojonych żołnierzy z komendantem
+policji na czele. Po sporządzeniu protokołu zeznań, skierowano
+sprawę do sędziego śledczego. Kiedy podczas badania
+"Smoluch" opowiedział w ogólnych zarysach historię
+swego życia i wyjaśnił przyczynę, która skłoniła go, iż
+wraz z towarzyszami postanowił zejść z dróg przestępstwa,
+prokurator i inni obecni byli głęboko wzruszeni i niektórzy z
+trudem ukrywali łzy. Trudno pojąć, że tak nagła, a tak
+gruntowna zmiana nastąpiła tylko na skutek zaznajomienia się z
+Ewangelią. - "Jam już nie Smoluch", ale Paweł
+Tichomirow" - mówił młodzian. "Chcę służyć Bogu
+i ludziom. Bez szemrania zniosę należną mi karę; jestem teraz
+w waszych rękach". - Podobne zeznania złożyli jego
+towarzysze. </p>
+<p>Poruszony prokurator wydał rozkaz, aby wszystkich siedmiu
+niezwłocznie zaprowadzono do więzienia i zamknięto w osobnych
+celach aż do ukończenia śledztwa. Byłych rozbójników
+odprowadzono do więzienia. Pozostawszy sami, prokurator i
+komendant policji długo omawiali niezwykłe zdarzenie. Najczęściej
+zbrodniarze albo zaprzeczają swojej winie, albo przyznają się
+do niej z trudem i częściowo, jeno pod ciężarem nieodpartych
+poszlak, gdy pojmano ich na miejscu przestępstwa. Ale ci sami
+przyszli i złożyli dobrowolnie zeznanie. Zaprawdę wielką jest
+moc Ewangelii, skoro tak odradza ludzi.</p>
+<p>Komendant wyszedł, a prokurator ukończywszy zajęcia,
+opowiedział zaraz swojej żonie o skrusze rozbójników. Zdziwiła
+się wielce i po namyśle rzekła: "Jeden z ukrzyżowanych z
+Chrystusem zbójców podobnież pokutował, ale był przykuty i
+nie mógł nigdzie ujść; oni zaś mogli w dalszym ciągu ukrywać
+się w tajdze i dopuszczać się grabieży. Jest to więc
+zdumiewający wypadek, nieznany w historii sądownictwa".</p>
+<p>Nadszedł wieczór, a prokurator i jego żona nie ochłonęli
+jeszcze. "Jak myślisz Taniu" (zdr. od Tatiana), rzekł
+prokurator, "może byśmy poczytali Ewangelię? Bodaj
+dowiemy się, czym ona tak działa na ludzi, przecież nie znamy
+jej wcale". "Ja ją nieco czytałam" - z godnością
+odparła Tatiana Aleksandrówna - "nie pojmuję jednak, co w
+niej mogło tak na nich podziałać". Prokurator, Jerzy Mikołajewicz,
+jął szukać Nowego Testamentu w swojej biblioteczce, podczas,
+gdy żona wydawała zarządzenia w kuchni w sprawie kolacji.
+Tymczasem prokurator, włożywszy okulary przerzucał kartki
+Nowego Testamentu. Uwagę jego zatrzymał naprzód 12 rozdział
+Ewangelii Jana. Czytając pochwalał w myśli Marię, iż nie pożałowała
+cennych olejków wonnych dla Chrystusa oraz potępiał z punktu
+widzenia prawa karnego zdrajcę Judasza, podciągając czyny
+skrytobójcy i złodzieja pod odnośne artykuły. Zdumiewał się
+potęgą Chrystusa, wskrzeszającego już rozkładające się ciało
+Łazarza i dziwił się niewierze uczonych w Piśmie, którzy
+byli naocznymi świadkami niesłychanego cudu. Zamyślił się głęboko
+nad przypowieścią o ziarnie pszenicy, które musi umrzeć, aby
+przyniosło owoc, ale nie mógł zrozumieć właściwego sensu
+przenośni. Kiedy zaś doszedł do słów: "A Ja, gdy będę
+podwyższony od ziemi, wszystkich pociągnę do siebie" -
+uczuł naraz, jak bliskim i drogim stał mu się Ukrzyżowany,
+jak dusza w nim rozgrzała się i pociągnięta została do krzyża,
+z którego padło wielkie słowo: "Spełniło się".
+Pomyślał nadto, czy to właśnie nie jest ta siła, która tak
+pociągnęła Tichomirowa. Wreszcie przy odczytywaniu końcowych
+słów rozdziału 12-go opadł go jakiś wielki lęk: "Kto
+mną gardzi i nie przyjmuje słów moich, ma swego sędziego, słowa,
+którem ja mówił, te osądzą go w dzień ostateczny".
+Teraz już stało się dlań jasne, czemu rozbójnicy porzucili
+swoje zbrodnicze sprawy.</p>
+<p>Ale oto powróciła Tatiana Aleksandrówna. "Nad czym tak
+zamyśliłeś się? Co cię tak uderzyło?"- spytała. Mąż
+jął wyjaśniać, ale niezwykły temat i myśli niezwykłe nie
+układały się w słowa, i żona nie mogła go zrozumieć.
+Wieczerza skończyła się. Nocą Jerzy Mokołajewicz nie mógł
+zasnąć. Ledwie zamknie oczy słyszy nad sobą: "Słowo
+moje osądzi..." i wydaje mu się, że jest podsądnym, że
+słyszy artykuły prawa Bożego, które potępiają jego,
+prokuratora, za wszystkie wykroczenia, jakie popełnił był w życiu,
+skazując go na wieczne zamknięcie w ciemnościach zewnętrznych;
+on zaś jakoby szuka obrońcy i znaleźć nie może. Chwilami
+prokurator zapadał w krótki sen, ale sen nie dawał mu spokoju.
+Rankiem opowiedział żonie, co przemyślał i co odczuwał z
+wieczora i nocą, lecz ona tłumaczyła jego stan przemęczenia
+nadmiarem zajęć i nerwowością; gdy zaś wyjaśnił, iż
+postanowił porzucić urząd prokuratorski przelękła się i
+pomyślała, że oszalał. Ale Jerzy Mikołajewicz nie odstąpił
+od decyzji. Stało się dlań jasne, że wywyższony na krzyżu
+Syn Boży pociągnął i jego, prokuratora, ku sobie, a odtąd będzie
+dlań osobistym Zbawicielem. </p>
+<p align="center">* * *</p>
+<p>Pawła Tichomirowa i jego towarzyszy osadzono w celach.
+Wszyscy sędziowie śledczy, którzy badali byłych rozbójników,
+zdumiewali się ich krokiem, a zwłaszcza tym, że całkowicie
+odrodził ich wpływ Ewangelii. Oto jaka jest moc Boskiej księgi,
+kiedy podchodzi się ku niej z czystym sercem i pragnieniem
+poznania prawdy. Wkrótce w mieście jęto mówić nie tylko o
+skrusze byłych rozbójników i nagłym, niezrozumiałym podaniu
+się do dymisji prokuratora, ale i o tym, że izolacji przestępców
+zażądał duchowny więzienny, że jakoby Tichomirow i jego
+towarzysze zwodzą aresztantów do przyjęcia ich wiary. Ale ogień
+Ewangelii ugasić było mu trudno; toteż płonął on we
+wszystkich celach. Wielu aresztantów i niektórzy dozorcy
+nauczyli się na pamięć rozdziałów 12-go i 16-go Dziejów
+Apostolskich, tak je sobie upodobawszy.</p>
+<p>Po roku siedmiu więźniów stanęło przed sądem. Nowy
+prokurator nie miał potrzeby zaostrzać swej mowy oskarżycielskiej
+wobec dobrowolnego przyznania się do winy, a były prokurator,
+który występował teraz w charakterze obrońcy, prosił przysięgłych
+o wyrozumiałość dla ludzi, którzy przyznawszy się do winy,
+chcieli rozpocząć nowe życie, pracowite i uczciwe. Jednakże
+skazano ich na dziesięć lat ciężkich robót. Wysłuchali
+kornie wyroku, świadomi, że nań zasłużyli, i zrzekli się
+prawa apelacji. Sądzono ich przy otwartych drzwiach. Kiedy
+udzielono im ostatniego słowa, każdy w prosty sposób wyraził
+żal, iż długie lata krzywdził bliźnich; każdy mówił o wpływie
+nań Ewangelii. Publiczność była wzruszona; czuło się, że w
+wielu sercach ziarno Słowa Bożego zapuściło pędy. </p>
+<p>Po wyroku skazanych wysłano z osobna, z wyjątkiem
+Tichomirowa i Sołowiewa, którym wyznaczono wspólne miejsce zesłania
+- za Bajkałem. Przy pożegnaniu wszyscy dawali sobie obietnice
+pozostawania we wszelkich okolicznościach na drogach uczciwości
+i wierności Bogu, oraz świadczenia o Jego miłości. Zgodnie z
+tym we wszystkich etapowych więzieniach rozpowiadali, jak ocaliła
+ich Ewangelia, i mówili o miłości Boga dla skruszonych
+grzeszników. A wszędzie znajdowali się ludzie, przysłuchujący
+się temu świadectwu z uwagą i przyjmujący je do serca. Zwłaszcza
+wrażliwi byli na żywe słowo Tichomirowa i Sołowiewa dzielący
+ich los katorżnicy, z których po niejakim czasie niektórzy
+oddawali się całkowicie Bogu. Po upływie dwóch lat nawet władze
+zauważyły, że niesforni zwykle katorżnicy widocznie
+przycichli, a niektórzy zachowywali się bez zarzutu.</p>
+<p>Tichomirow po drodze na Bajkał wszędy dopytywał się o los
+przesiedleńców z Mohylewskiej guberni w nadziei, że dowie się
+czegoś o swoich rodakach, a zwłaszcza, czy żyje jego siostra.
+Listy bowiem posyłane do rodzinnej wsi, nie przyniosły mu
+odpowiedzi. Jakże często rozmyślał o miłej Szurce, gorejąc
+pragnieniem opowiedzenia siostrze o swoich przeżyciach, a zwłaszcza
+o odwróceniu się od martwych uczynków ku żywej wierze w
+Chrystusa. </p>
+<p>Wreszcie po upływie kilku lat z okazji jakiegoś szczęśliwego
+wydarzenia w życiu państwa, ogłoszono amnestię: Paweł
+Tichomirow i Grzegorz Sołowiew zostali zwolnieni przed terminem.
+Przy pożegnaniu się z tymi, którzy przez nich uwierzyli w
+katordze, polecali ich wszystkich Bogu, jako swoją duchową
+dziatwę, tamci zaś z płaczem rozstawali się ze swymi
+duchowymi ojcami. Teraz obaj znaleźli się w drodze do Irkucka i
+Tomska; szli pieszo. Marzyli o dostaniu się do Rosji
+Europejskiej, nade wszystko zaś do wsi rodzinnych, które
+zaledwie pamiętali. Wszyscy spotykający ich w drodze i na
+noclegach, ciekawie rozpytywali się kim są i dokąd dążą.
+Historia byłych rozbójników zajmowała wszystkich, wywoływała
+roztkliwienie i zapał do służenia Bogu. Niekiedy po wsiach
+znajdowali wierzących braci i siostry, z którymi spędzali
+wieczory przy wspólnej bratniej rozmowie i czytaniu Słowa Bożego.
+Wierzący cieszyli się z triumfu Ewangelii, jawnego w nawróceniu
+ginących grzeszników i sławili imię Pana. Zwłaszcza w pewnej
+wsi, gdzie spędzali niedzielę i opowiadali sporej gromadzie o
+swoim życiu i zbawieniu nastąpiło przebudzenie: kilkadziesiąt
+dusz nawróciło się do Pana. Dało to powód do ogromnej radości.</p>
+<p>Była wczesna wiosna. Rzeki rozlały. Przyroda budziła się
+ze snu zimowego; wędrowne ptaki chmarami powracały do dawnych
+rodzinnych gniazd, a Tichomirow i jego towarzysz również rwali
+się do ojczyzny, gdzie gniazda ich z dawna były zburzone... .
+Starali się nie zbaczać od toru kolejowego. Tichomirow mimo
+wysiłków nie był w stanie przypomnieć sobie nazwy stacji,
+gdzie stracił rodziców i siostrę. Pragnął spojrzeć też na
+owe ściany, pod których ochroną wycierpiał tyle w dzieciństwie.
+Na to wspomnienie łzy polały się po jego twarzy i wykrzyknął:
+"Ach drodzy moi. Porzuciliście mnie i odtąd muszę błądzić
+samotnie po świecie". Tutaj przypomniał sobie, że i Syn
+Boży nie miał przytułku na ziemi i był samotny nawet pośród
+krewnych swoich. </p>
+<p>Dzień chylił się ku wieczorowi, gdy wędrowcy podeszli do
+miasteczka na brzegu rzeki, nie opodal kolei. Na pierwszej ulicy
+spytali, czy nie ma tu wierzących. Wskazano im niewielki piękny
+domek pośród wysokich jodeł. Podszedłszy bliżej, ujrzeli
+bawiącą się parkę dzieci, tuż zaś zajętą czymś młodą
+dobrze odzianą kobietę, która powitała ich życzliwym uśmiechem.
+Wyjaśnili jej, że są wierzącymi i proszą o nocleg. Kobieta
+zaprosiła ich do domu, oznajmiając, że dla braci zawsze
+znajdzie się miejsce. Przywołała męża, który kopał grzędy
+w ogrodzie. Ten zjawił się natychmiast z przyjaznym powitaniem
+i pozostał z nimi podczas gdy gospodyni przygotowywała herbatę.
+Po nastawieniu samowaru wydoiła parę krów i nakryła do stołu.
+A czegóż tu nie było: spore kawałki śmietankowego masła, śmietana,
+wielki dzban mleka, dwa - trzy gatunki pieczywa, gotowane jaja i
+doskonały chleb pszenny, - a wszystko to nęciło oczy zgłodniałych
+wędrowców. Duża lampa rzucała światło na obrus śnieżnej
+białości, błyszczący samowar kipiał wesoło. Uprzejma
+gosposia weszła w obszytym koronkami białym fartuchu i rzekła
+do męża: "Proś braci do stołu". - "Prosimy
+drogich gości". Wszyscy podeszli i gospodarz wezwał błogosławieństwo
+Boże. Dziękował Bogu za miłość i troskę, za drogich gości,
+prosił o zachowanie im wiary i o błogosławieństwo jadła.
+Tichomirow nigdy dotąd nie zasiadał przy tak obfitej zastawie i
+w takim gościnnym kółku. Zachwyt i tkliwość przepełniały
+jego serce. Dzieci - chłopczyk i dziewczynka - uważnie przyglądały
+się gościom i przysłuchiwały się rozmowom. Tichomirow przed
+herbatą przerwał opowieść na tym, gdy rozbójnicy w leśnej głuszy
+otworzyli zabraną przejezdnym Ewangelię. Teraz na prośbę
+gospodarza ciągnął opowieść dalej. Więc opowiedział
+barwnie, jak Ewangelia przesiąkła zwolna w duszę jego i
+towarzyszy, jak zbudziła skruchę i nakazała im porzucić
+zbrodniczy sposób życia i oddać się w ręce sprawiedliwości,
+jak uwierzył prokurator, jak ich sądzono; odmalował też swój
+żywot w więzieniach etapowych i lata ciężkich robót aż do
+amnestii. Gospodarze nie spuszczali oczu z opowiadającego, a
+gospodyni często ocierała łzy, jakby pragnąc ukryć
+wzruszenie. </p>
+<p>Czas płynął niepostrzeżenie. Wielki zegar dźwięcznie
+wydzwonił północ. Wszyscy uklękli i dziękowali Bogu za Jego
+cudowne dzieła ku zbawieniu grzeszników. Kiedy goście
+powstali, gospodyni spytała: "Dokąd że pójdziecie teraz
+bracia nasi?" - "Do Rosji, do wsi rodzinnej" -
+odparł Tichomirow. - "A czy macie tam krewnych" - pytała
+dalej. -"Ot, Sołowiew, ma tam jeszcze wierzącą matkę;
+mieszkała w gubernii kijowskiej. Ja zaś nie mam nikogo; ni
+ojca, ni matki. Po prostu chcę zobaczyć wieś rodzinną w
+gubernii mohylewskiej, a nadto pragnę dawnym współmieszkańcom
+opowiedzieć o Bogu i Jego miłości dla nas". - "Czy
+dawno jesteście sierotą" - spytała gosposia. - "O
+tak, mając lat osiem straciłem rodziców tu, na Syberii, tu po
+drodze, gdy udawaliśmy się na miejsce przesiedlenia. Ojciec
+zmarł dwa dni przed matką".</p>
+<p>Gosposia oburącz uchwyciła się stołu; pochylona naprzód
+wbiła wzrok w Tichomirowa. Mąż zdziwiony był, że tak zajęła
+się rozpytywaniem zamiast przygotować gościom nocleg. A gość
+ciągnął: "Rodzice osierocili mnie i nieco starszą
+siostrzyczkę. Nazajutrz po śmierci matki straciłem ją z oczu,
+nic nie wiem o niej; zapewne zginęła, jak ginie mnóstwo sierot
+w niemożliwych warunkach życia emigrantów. Była to dobra
+dziewczyna, litowała się nade mną, jak rodzona matka".</p>
+<p>Tichomirow rozpłakał się. Śmiertelnie blada gospodyni,
+zalewając się łzami, krzyknęła: - "czy to ty jesteś
+drogi Paszo? - mów prędzej - serce powiada, że to ty". -
+"Szura, ciebież to widzą oczy moje? Aniele mój, miła
+siostrzyczko" - wołał, płacząc jak dziecko. - "tak
+to ja, siostra twoja. O, jakże opłakiwałam ciebie".
+Rzucali się sobie w objęcia, całowali się ze łzami.</p>
+<p>Z kolei Tichomirow ściskał dzieci, które wtórzyły płaczem
+matce. Całował je i męża siostry. W ogólnej radości wziął
+udział także Sołowiew, wstrząśnięty sceną niespodziewanego
+spotkania się rodzeństwa. O, co to była za radość. Szura nie
+wiedziała po prostu, co ma począć. Wciąż podchodziła do Pawła
+i obejmowała go, wołając: "Czyliż naprawdę widzę
+ciebie bracie? Co za szczęście. Kiedy podeszliście do domu,
+zdało mi się, jakbym znalazła coś kosztownego, serce napełniło
+się dziwną radością. Nie rozumiałam tego, dlaczego. Tak
+bardzo chciałam dać wam przytułek i ugościć was. Zresztą po
+dawnej mej niedoli, zawsze witam chętnie potrzebujących, ale
+jakoś osobliwie pociągnęło mię coś ku wam. Teraz już wiem,
+dlaczego: przyszedł drogi braciszek, którego nie widziałam od
+lat dwudziestu. O, radości!" Znowu upadli na kolana i sławili
+Pana tak gorąco, jak nigdy dotąd. A nawet pięcioletnia córeczka
+Szury rzekła: "Dobry Panie Jezusie, dziękuję Ci, żeś
+przywiódł do nas wujcia Paszę". Płakali wszyscy. Aleksy
+Bazylewicz, dziękował Bogu za taki cenny dar dla jego żony. </p>
+<p>O trzeciej po północy jeszcze nie spano; nawet dzieci się
+nie pokładły. Znowu pito herbatę, gwarzono; wreszcie,
+poleciwszy się Bogu, wszyscy rozeszli się przed świtem. Po
+przeżytych wzruszeniach sen ich nie był spokojny. Pawłowi
+marzyło się, że znowu jest w lesie i czyta towarzyszom
+Ewangelię... żegnał się z nimi; a potem był prokurator, sąd,
+więzienia etapowe, katorga... Gdy się obudził i przekonał, że
+to tylko sen, znowu sławił Pana. Rano przy herbacie nowe
+zdziwienie i nowe zachwyty z powodu łaski Bożej i dbałości o
+sieroty. Szura znowu żądała, aby brat opowiedział jej
+wszystkie swoje przeżycia od momentu rozstania się przy
+zabudowaniach kolejowych. Ona też wiele wycierpiała w baraku
+dla dziewcząt, gdzie pozostawała do późnej jesieni. Nastąpiły
+mrozy a baraku nie ogrzewano. Wybuchnęły epidemie, dziesiątkujące
+dziatwę. Wówczas z okolicznych siół zjawili się poczciwi
+ludzie, którzy zabrali do siebie dzieci, aby uchronić je od
+zmarznięcia. Szurę wzięła biedna wierząca wdowa, mająca już
+czworo dzieci. W małej izdebce pod płaskim dachem z darni spędziła
+Szura zimę u ciotki Duni (zdr. Od Eudoksji). Chleba nie brakło.
+Ciocia Dunia zawsze czytała Nowy Testament i modliła się
+dobrze i lubiła czytać, zwłaszcza Ewangelię. Mając czternaście
+lat, nawróciła się świadomie do Boga, oświadczyła, że chce
+przyjąć chrzest, otrzymała go i była przyjęta do zboru. Minęły
+lata, Szura wyrosła, okrzepła, słynęła jako najlepsza śpiewaczka
+w chórze. Wszyscy ją kochali. Nikomu nie przyszło do głowy,
+że Szura nie jest córką cioci Duni. Kochały się bardzo. Chór
+tego sioła nieraz jeździł do innych wsi, a nawet miast pracując
+dla Pana. </p>
+<p>Kiedyś postanowiono odwiedzić miasteczko, w którym Szura
+mieszka obecnie. Pan obficie pobłogosławił pracę chóru dla
+Niego. Pod wrażeniem natchnionych mów towarzyszącego im
+kaznodziei i pięknych śpiewów, nawróciły się do Pana dziesiątki
+ludzi, a wśród nich także młody buchalter miejscowego domu
+handlowego. W rok potem został mężem Szury. Odtąd żyje ona z
+Aleksym Bazylewiczem w miłości i zgodzie, mając dwoje dzieci.</p>
+<p>Kiedy Szura skończyła opowieść, Paweł przypomniał jej,
+jak to zamierzał był po śmierci rodziców rzucić się pod
+pociąg, a ona płacząc, odradziła mu ten krok rozpaczy,
+zapewniając go: "Nie upadaj na duchu, kochanie, Pan Bóg
+nas nie opuści". Teraz oboje przypomnieli słowa psalmisty:
+"Śpiewajcie Bogu, śpiewajcie psalmy imieniowi Jego.
+Gotujcie drogę Temu który jeździ na obłokach. Pan jest imię
+Jego. Radujcie się przed obliczem Jego. Ojcem jest sierot i sędzią
+wdów, Bogiem w przybytku swym świętym. Bóg, który samotne w
+rodowite domy rozmnaża, wywodzi więźniów z oków..."
+(Psalm 68, 5-7). I znowu sławili Pana. </p>
+<p>Szura zgodziła się na zamiar Pawła, udania się do
+ojczyzny, aby powołać do Chrystusa pozostałych tam krewnych i
+znajomych, ale ją samą serce popychało ku towarzyszeniu mu i
+pomaganiu w pracy nad wierzącymi. Aleksy Bazylewicz dał
+zezwolenie, przyrzekając pilną opiekę nad chłopcem, gdyż
+dziewczynkę Szura postanowiła zabrać ze sobą. On też udzielił
+środków na drogę.</p>
+<p>Po trzech dniach jechali już do Rosji Europejskiej. Oto
+wreszcie i gubernie samarska, saratowska, penżeńska, werożeńska,
+kurska i kijowska. W Kijowie Sołowiew pożegnał Pawła i Szurę,
+udając się do swej wsi i obiecując przyłączyć się do nich
+po odwiedzeniu matki; oni zaś odjechali do guberni mohylewskiej.
+Otóż i rodzinna Sosnówka. Tu rozpytywać jęli się o
+Tichomirowych, i okazało się, że w Sosnówce mieszkają dwaj
+rodzeni bracia ojca, dwie ciotki i kilku dalszych krewnych.
+Wszyscy oni dziwili się przy spotkaniu, gdyż słyszeli, że
+Paweł i Szura jakoby rychło zmarli po rodzicach, nie
+dojechawszy do celu podróży. Każdy prosił ich w gościnę.
+Wkrótce dowiedzieli się, że odnalezieni młodzi krewniacy są
+wyznawcami Ewangelii. Kiedy proszono ich, aby wypili z okazji
+przywitania, wymawiali się tam, że dla chrześcijan
+nieodpowiednie jest pić wódkę. Ale dlaczegóż? - dziwili się
+mieszkańcy Sosnówki; wszakże i oni są chrześcijanami, a piją
+gorzałkę przy każdej sposobności. Było to zwykle pobudką do
+rozmów po czym przystępowano do czytania Słowa Bożego. Silnie
+działała na wszystkich opowieść Paszy o drogach, jakimi dostąpił
+zbawienia. Prawie co wieczora zbierano się wokół Tichomirowa,
+aby słuchać Słowa Bożego, zwolna przebijała się kora
+zastarzałych uprzedzeń zewnętrznej religijności. Wielu znalazło
+w Chrystusie swego osobistego Zbawcę i postanowiło oddać się
+Panu...</p>
+<p>Ale oto i nowe doświadczenie... Wzburzyło się miejscowe
+duchowieństwo i doniosło okolicznej policji, iż przyjechał
+jakiś katorżnik i zachwiał w ludzie wszystkie fundamenty
+prawosławnej wiary, o ile zaś władze nie będą przeciwdziałać
+to od owej nowej nauki zachwiać się mogą podstawy porządku
+społecznego. Nocą zjawił się w mieszkaniu Tichomirowych
+policjant i zaprowadził Pawła do komisarza okręgu. Rankiem w
+kancelarii znaleźli się też sędzia śledczy i duchowny.
+Zbadano Pawła i sporządzono protokół o agitacji na rzecz
+nowej wiary. Tichomirowa wysłano pod konwojem do więzienia
+powiatowego.</p>
+<p>Szura bolała z powodu brata. Musiała wracać na Syberię,
+nie zobaczywszy się z nim, gdyż widzenia z podsądnymi nie były
+dozwolone. W kilka dni potem otrzymała list tej treści:
+"Droga siostro Szuro! Proszę, nie smuć się z mego
+Zbawiciela. Cieszę się ogromnie, że już teraz nie jako zbój
+i złodziej, lecz jako chrześcijanin dostąpiłem zaszczytu wzięcia
+udziału w cierpieniach mego Zbawiciela. Cieszę się z tego
+niewymownie, ponieważ w więzieniu mnóstwo dusz zatraconych
+oczekuje także zbawienia, które mogę obwieścić im w
+Chrystusie. Nie smuć się, ale módl się za mnie. Całuję
+Ciebie, męża i dzieci Wasze". </p>
+<p>Do rozprawy minął rok, a Paweł przebywał już w trzech więzieniach.
+Wszędzie głosił Chrystusa i wszędzie grzesznicy nawracali się
+na drogę zbawienia. Kapelani więzienni prosili władze, aby
+uwolniły ich od heretyka, z którym nie można było sobie
+poradzić. Sąd skazał Tichomirowa na dwuletnie zesłanie do
+guberni jenisejskiej za "zwodzenie prawosławnych do
+sztundyzmu". W istocie okazało się, że w samej Sosnówce
+stu ludzi przestało chodzić do spowiedzi u popa i modlić się
+przed ikonami.</p>
+<p>I znowu Paweł przez więzienia etapowe był odesłany na tak
+dobrze znaną mu Syberię. Zdołał zawiadomić Szurę i jej męża,
+jakim pociągiem aresztanckim przejeżdżać będzie przez najbliższą
+stację. Przyszli, ale mogli widzieć go tylko przez kraty więziennego
+wagonu. Szura żałośnie płakała, patrząc na brata, ale on uśmiechał
+się do niej z radością, dając do zrozumienia, iż chętnie
+cierpi za Chrystusa.</p>
+<p>Minęły jeszcze dwa lata. Życie Tichomirowa na zesłaniu
+odbijało wszędzie czysty i święty obraz życia Chrystusa, co
+było przyczyną powodzenia jego świadectwa. Pisywał do Szury
+oraz do Sołowiewa, który donosił mu, iż pozostał we wsi
+rodzinnej, gdzie niewielka społeczność chrześcijan
+ewangelicznych przyjęła go po bratersku, i pracuje w niej z
+wielkim błogosławieństwem Bożym. Matka jego żyje nader szczęśliwa,
+iż Bóg wysłuchał jej modłów i ocalił jej syna. W pokoju i
+radości przeżywa ostatnie swoje lata pod opieką trzeźwego i
+uczciwego syna - chrześcijanina.</p>
+<p>Gdy minął termin zesłania, Paweł powrócił do Szury z
+zamiarem poświęcenia życia ocaleniu grzesznych dusz. Nie chciał
+krępować się więzami rodzinnymi, aby nic nie przeszkadzało
+mu w głoszeniu radosnej nowiny Bożej wśród ludzi - tej samej
+Ewangelii, która jego i tylu ginących już odrodziła. Pracował
+w zborze tego miasta, gdzie mieszkała Szura, oraz w innych
+miejscowościach Syberii, ale stałe zamieszkanie miał u
+siostry, co radowało jej małżonka. Szura często towarzyszyła
+bratu w podróżach, jako pracowniczka dla Chrystusa. Zbór chrześcijański
+w ich miasteczku kwitnął duchowo. A na pierwszej karcie Nowego
+Testamentu, którą niegdyś zabrał zabitemu przez się bratu,
+Paweł Tichomirow położył i swój napis, który głosił:
+"Przebacz mi dla Chrystusa, drogi bracie; zabiłem ciebie,
+ponieważ sam martwy byłem w grzechach swoich. Pan mi przebaczył
+i wskrzesił mnie do życia. A twoja przedwczesna śmierć
+cielesna posłużyła do obdarzenia życiem wiecznym nie tylko
+mnie, ale i wielu podobnych do mnie zbójców i grzeszników.
+Testament twój, jako potok życiodajny, zmiękczył zatwardziałe
+serce, napoił mnie, łaknącego i płynie dalej, pojąc innych
+ludzi. Niechże błogosławiony będzie twój i mój Bóg.
+Amen".</p>
+<br/><br/>
+<br/><br/>
+<form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+<input name="filename" type="hidden" value="ksiazki/smoluch.html"/><p>Chciał(a)bym przesłać tą
+    książkę pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+    Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/> <br/>
+<input type="submit" value="  Wyślij  "/> </p>
+</form>
+<p><br/></p>
+<h4><font color="#808080">Wersja HTML, Copyright by <a href="http://www.anastasis.css.pl/czytelnia">Czytelnia
+Chrześcijanina
+</a>, 1998</font></h4>
+<center><p>* * *</p></center>
+<h2><strong><p>Zamówienia na książki prosimy kierować na adres:</p></strong></h2>
+<p>Marcin Łaszewski, ul. Dziewanowskiego 6/8, 80-752 Gdańsk,
+tel. (0-58) 305-87-94</p>
+<p>Dostępne są również następujące pozycje:</p>
+<p>"Wielkie przejście z jednego człowieczeństwa do
+drugiego" T. Austin-Sparks 7.00 zł.<br/>
+"Od Adama do Chrystusa" M. Łaszewski 7.00 zł.<br/>
+"Udział w zmartwychwstałym Panu" M. Łaszewski 3.80 zł.<br/>
+"Boże wybranie" C. H. Spurgeon 2.00 zł..<br/>
+"Ślub nazyretu" C.A.Coates 2.00 zł.<br/>
+"Odwaga, poddanie i zapłata Mojżesza" H.Gill 2.00 zł.<br/>
+"Pokój i uwolnienie" J.B.Stoney 2.00 zł.<br/>
+"Świadectwo Ducha Świętego" J.B.Stoney 2.00 zł.<br/>
+"Zysk z pełnego oddania się Panu" A.E.Myles 2.00 zł.<br/>
+"Moc krwi Pana Jezusa Chrystusa" M. Łaszewski 2.00 zł.<br/>
+"Przyjdź Panie Jezu" M. Łaszewski 2.00 zł.<br/>
+"Krzyż Pana - nasz krzyż" M. Łaszewski 2.00 zł.</p>
+<p>W niedługim czasie ukażą się też książki:</p>
+<p>"Lecz wy podeszliście do góry Syjon" T.
+Austin-Sparks<br/>
+"Odpowiedzi na modlitwę" C.G. Finney<br/>
+"Duchowe przebudzenie" (wznowienie) C.G. Finney<br/>
+"Boska niewola" O. Stockmayer<br/>
+"Duch święty" R.A. Torrey<br/>
+"Dzieje ludzkiej duszy" J. Bunyan<br/>
+</p>
+
+{% endraw %}

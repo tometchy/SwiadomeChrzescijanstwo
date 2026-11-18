@@ -1,0 +1,308 @@
+---
+title: Samson i zgadnij kto!
+category: Dyskusje, polemiki
+permalink: /czytelnia/swch-polemiki-stan-kosciola-69233c3d8/
+source_url: https://swch.pl/polemiki/stan_kosciola.html
+imported_from_legacy: true
+source_text_sha256: 7eb3b63c61cce3e80f5fb3a979ce07b8021cf74067159d2f2fc4089b4487286b
+source_char_count: 17843
+source_verified: true
+---
+
+{% raw %}
+
+<h1>
+<b><font size="+2">Samson i zgadnij kto!</font></b></h1>
+<b>Stan Kościoła</b>
+<p>Doszliśmy do miejsca, gdzie korzystne byłoby spojrzeć na stan Kościoła
+w ogólności. Niedawno byliśmy świadkami ożywienia zielonoświątkowego 20
+wieku  przebudzenia charyzmatycznego. Zostało ono zesłane przez Boga,
+aby przygotować drogę na przyjście naszego Zbawiciela. Było prorokowane,
+że ożywienie to nastąpi potem (Joel 3:1), w ostateczne dni (Dz. Ap.
+2:17), aż do przyjścia Pana (Jak. 5:7).
+<p>Chrystus powróci nie dlatego, że cieszyć się będziemy ożywieniem, lecz
+z powodu kosztownych plonów ziemi, żniwa dusz, które to ożywienie powinno
+spowodować. Przebudzenie czasów ostatecznych i przyjście Chrystusa są z
+sobą harmonijnie związane.
+<br/>Kiedy król Dawid wracał po zwycięstwie nad Absalomem, zwrócił się do
+starszych z Judy z surową naganą: Wszak braćmi moimi jesteście, kością
+moją i ciałem moim jesteście, dlaczegóż więc macie być ostatnimi z tych,
+którzy chcą króla sprowadzić z powrotem? (2 Sam. 19:12). Musimy być w
+czołówce Pańskiej armii, a nie na jej tyłach. W początkowym okresie przebudzenia
+żadne zwiastowanie nie zachwycało ludzi bardziej niż poselstwo o powtórnym
+przyjściu Chrystusa.
+<p>Chociaż ten autor może wglądać jak spóźnialski Janek w porównaniu z
+tymi licznymi patriarchami Pięćdziesiątnicy, którzy są jeszcze wśród nas,
+jednak pamięta on, jak w dawnych czasach wydawało się, że każde kazanie
+w niedzielę wieczorem podkreśla bliskość powrotu Chrystusa. Każde poselstwo
+w językach wraz ze swoim tłumaczeniem wydawało się być wezwaniem do gotowości.
+<p>Ale pokolenie przyszło i odeszło potem następne a nasz Mistrz ciągle
+odwleka (Mat. 25:5). Pobudowaliśmy piękne budynki kościelne, staliśmy się
+zdolnymi opracowywać programy na poziomie profesjonalnym i wszystko to
+jest wspaniałe. Widzieliśmy tłumy zacnych ludzi, wyrobiliśmy sobie pozycję
+godną uznania jesteśmy kimś
+<p><b>Czy ktoś się pomylił?</b>
+<p>Ale co zrobić z tymi natchnionymi kazaniami? Czy wszystkie one były
+błędne? Nie, one były prawdziwe. A te obdarowane osoby, czy one innych
+wprowadziły w błąd? Albo zwodziły same siebie? Także nie. One mówiły prawdę.
+Tak naprawdę, to świat był bliższy swojego zewangelizowania, jeśli chodzi
+o liczby, w minionym pokoleniu, niż dzisiaj. Z uzasadnioną dumą śledzimy
+nasz wzrost liczebny, ale zbyt łatwo pomijamy statystyki, pokazujące ogromne
+rzesze niezbawionych.
+<p>Pomimo wszelkich nowoczesnych sposobów transportu i środków masowego
+przekazu kościół pozostaje w tyle w wyścigu z eksplozją demograficzną.
+Dusze rodzą się do świata prędzej niż do kościoła. Dzisiaj żyje więcej
+ludzi, którzy nigdy nie słyszeli imienia Jezusa ani ewangelii Chrystusowej,
+niż żyło w takiej ciemności w dniach naszych ojców. Stoimy obserwując,
+jak świat nawraca się do pogaństwa.
+<p><b>Chrześcijaństwo kompromisu</b>
+<p>Czy to możliwe, że ożywienie czasu ostatecznego zostało naruszone tak
+samo, jak Samson przez swoją żonę Filistynkę? Jeśli tak, to kim ona może
+by? Według Konkordancji Stronga wyraz Filistea oznacza dosłownie tarzający
+się w piasku. Filistyńczycy mają związek z ziemią są to ludzie brudni.
+Zidentyfikowali się oni z nieczystością świata i światowością.
+<p>Ale byli oni najbliższymi sąsiadami Izraela. I właśnie tak zawsze bywało:
+tylko cienka linia demarkacyjna odgraniczała kościół od świata. Kiedy Izrael
+był silny, Filistyńczycy trzymani byli w poddaństwie. Gdy natomiast znajdował
+się w stanie odstępstwa, zostawał podbity przez Filistyńczyków.
+<p>Duchowe podpadanie każdego kościoła czy jednostki można zazwyczaj przypisać
+jakiejś postaci cielesności i światowości. Kiedy ma miejsce duchowy odpływ,
+wydaje się, że kościół staje się tak świecki, a świat tak kościelny, iż
+z trudem dostrzec można między nimi różnicę. Widzi się wtedy ludzi podrygujących
+w rytmie chrapliwych dźwięków muzyki rockowej zaopatrzonej w religijne
+słowa albo tłumy słuchające jak w urzeczeniu świeckich znakomitości i
+piosenkarzy, mówiących o zbawieniu, podczas gdy nadal żyją w grzechu wielką
+liczbę utrzymujących, iż są na nowo narodzeni, niewątpliwie mających
+na myśli jakieś powierzchowne, emocjonalne przeżycie, pozbawione autentycznego
+upamiętania i oddania się Chrystusowi.
+<p>Można dziękować Bogu, że nie jest to opis przygniatającej większości
+zborów i wierzących zielonoświątkowych. Jest jednak zastraszająca świadomość,
+że stany takie istnieją.
+<p><b>Kto kogo szukał?</b>
+<p>Wbrew pozorom, kiedy kościół staje się zimny, albo wierzący staje się
+letni, nie jest to wina świata. Ta kobieta filistyńska nie ubiegała się
+o względy Samsona. To właśnie Samson skierował na nią swoje oczy. Świat
+nie puka do drzwi kościelnych, domagając się wstępu. Gdyby świat był zainteresowany
+kościołem, nie starczyłoby nam budynków kościelnych, aby pomieścić tłumy.
+Kiedy więc wzorce moralne kościoła albo jednostki ulegają rozkładowi, nie
+można winą za to obarczać świata.
+<p><b>Co się zmieniło?</b>
+<p>Światowość w kościele jest rezultatem zmieniających się pragnień chrześcijan.
+Zapraszają oni świat, by on ustalał wzorce dla ich życia. Jeśli gdzieś
+istniały dawniej przekonania co do pewnych wzorców postępowania, a teraz
+już ich nie ma, nie stało się to z powodu tego, że Bóg się zmienił.
+<p>Przypominam sobie, że kiedy byłem dzieckiem, intrygowała mnie obrączka
+ślubna matki. Chwytaliśmy mamę za rękę i przypatrywaliśmy się odbiciu naszych
+twarzy na błyszczącej powierzchni obrączki. Krótko przed swoją śmiercią
+ona dała mi tę obrączkę. Mam ją na palcu. Znowu patrzę na swoje odbicie,
+zaszła jednak zmiana. Nie widzę już twarzy dziecka, lecz dorosłego mężczyzny.
+Nie zmieniła się jednak obrączka, lecz ja sam.
+<p>Bóg mówi: Ja, Pan, nie zmieniam się (Mal. 3:6). Zarówno w Starym,
+jak i w Nowym Testamencie On wzywa nas: Świętymi bądźcie, bo Ja jestem
+święty (3 Mojż. 11:44; 1 Ptr. 1:16).
+<p>Ogólnie biorąc odstępstwo nie polega na tym, że ktoś popełni grzech.
+Ono raczej rozpoczyna się w umyśle, a potem stopniowo zanieczyszcza duszę
+i ciało. W ogólności nie chodzi o upadek w pokuszeniu, lecz o pielgrzymowanie
+w sobie osobistego pragnienia uczestnictwa w rzeczach świeckich i cielesnych.
+Najpierw ma miejsce wewnętrzny fakt grzechu, a dopiero potem zewnętrzny
+akt.
+<p><b>Kto jest winien?</b>
+<p>Kiedy następuje obniżanie się biblijnych wzorców w kościele, łatwo jest
+komuś składać winę za to na innych. A ponieważ starsi ludzie najwięcej
+mówią o takich sprawach, więc najwięcej zarzutów sypie się na młodszych.
+Ale problemy w kościele zazwyczaj nie rodzą się wśród młodzieży. Częściej
+najdrastyczniejsze pogwałcenia wzorców moralnych i zasad chrześcijańskich
+zdarzają się ludziom, którzy są już na tyle starzy, że powinni wiedzieć,
+co należy robić.
+<p>Niektóre z najgorszych utrapień pastorów mogą pochodzić od tych, na
+których spoczywa odpowiedzialność i którzy cieszą się szacunkiem, a pozwolą
+sobie na oszpecenie swojego większego zrozumienia przez niewłaściwe pragnienia
+albo ulegną pochlebstwom kusiciela. Stare przysłowie mówi: Nie ma większego
+głupca niż stary głupiec.
+<p>A więc za sprawą głupców  młodych, starych czy tych pośrodku  wśród
+chrześcijan mają miejsce i robione są przez nich rzeczy, które w poprzednim
+pokoleniu uchodziłyby właściwie za niemożliwe. Mówiono wtedy, że coś takiego
+nie może się nam nigdy zdarzyć ale widać, że może i zdarza się!
+<p><b>Chrześcijaństwo wygodnictwa</b>
+<p>Kto zszedł już ze Świętej Drogi (Iz. 35:8) i przystał do filistyńskiej
+żony światłości i cielesności, ma już tylko kawałek do kobiety nierządnej
+w Gazie (Sędz. 16:1). Kim więc jest ta kobieta? Jest rzeczą oczywistą,
+że ta dziewka z Gazy reprezentuje chrześcijaństwo wygodnictwa. Dając to,
+co łatwo jest dać, i robiąc to, co wygodnie jest robić, człowiek uważa,
+że pozbył się wszystkich innych obowiązków wobec Boga i Jego Kościoła.
+<p>Pod względem materialnym usiłuje być może szybko się wzbogacić. Z łatwością
+może dać się złapać na listy łańcuchowe albo piramidalne struktury handlowe.
+Szuka jakiegoś skrótu, który zastąpiłby prostą drogę. Uczęszcza na nabożeństwa,
+może nawet regularnie. Kładzie coś na tacy, może nawet daje dziesięcinę.
+Uczestniczy w śpiewie, może nawet jest członkiem chóru. Nie żyje jednak
+całym sercem dla Pana. Nie modli się, nie świadczy i nie studiuje Słowa
+Bożego tak gorliwie, jak czynił to dawniej. Nie chciejcie, bym odwiedzał
+chorych  daje do zrozumienia  nie będę też prowadził cotygodniowych
+spotkań w domu spokojnej starości. W końcu płacimy przecież za to pastorowi.
+A ja płacę nawet więcej niż inni.
+<p>Prawdopodobnie wie, co należy czynić, jest też może szybki w obserwowaniu
+i krytykowaniu uchybień innych. Ale bądź nie rozpoznaje swojej odpowiedzialności
+przed Bogiem i Kościołem, bądź też nie dba o to, by się z niej wywiązać.
+Niebezpiecznym następstwem tego jest, że po wypaczeniu z nierządnicą z
+Gazy, prawie nieunikniona staje się przygoda ze zdradziecką Dalilą (Sędz.
+16:4).
+<p><b>Ikabod</b>
+<p>Pułapka została zastawiona. Powtarzające się ostrzeżenia Pana są uporczywie
+ignorowane. Życie, które rokowało tak wspaniałe możliwości, znalazło się
+w zapaści pod wpływem jadu węża, którego należało zetrzeć, zanim się wylęgnął.
+<p>Samsonowi wydawało się, że osiągnął szczyt sukcesu, wyżyny popularności,
+czuł się jak w siódmym niebie, zachwycał się swoimi osiągnięciami. W tym
+położeniu nie jest w stanie rozróżnić wyraźnie między dobrem a złem, między
+świętością a grzechem, między zwycięstwem a klęską, między życiem a śmiercią.
+<p>Dla chrześcijanina przeżycie z Dalilą, reprezentuje ostatni krok do
+stanu odstępstwa. A może mielibyśmy nazwać to Modernizmem zielonoświątkowym?
+On wyobraża sobie, że jest na szczycie wykształcenia teologicznego, uważa
+się za bohatera duchowego, widzi się na piedestale poczucia własnej godności.
+Snuje marzenia o swojej świetności, ale wydaje się być ślepy na rzeczywistość:
+przybierają pozór pobożności, podczas gdy życie ich jest zaprzeczeniem
+jej mocy (2 Tym. 3:5).
+<p>Ostatecznie staje się bezwartościowy i bezużyteczny, a nawet wyrządza
+szkodę Kościołowi Chrystusa, a resztki swojej woli i siły poświęca na niewolnicze
+napędzanie młyna świata, ciała i diabła. Gdzie zaś takie wpływy wzięły
+górę, napis na drzwiach kościoła można zmienić na Ikabod (1 Sam. 4:21),
+co oznacza: Chwała odeszła.
+<p>Lecz nie rozpaczajcie! Eliaszowi, prorokowi Pańskiemu, wydawało się,
+że już tylko on sam staje po stronie sprawiedliwości: Pozostałem tylko
+ja sam (1 Król. 19:14). Bóg jednak oznajmia mu, że ma jeszcze 7000 tych,
+którzy nie ulegli nieświętym skłonnościom tych czasów (1 Król. 19:18) tak
+więc to poselstwo NIE JEST samotnym głosem, wołającym beznadziejnie na
+pustyni. Jest ono głosem zatroskanej większości.
+<p><b>Chwalebna przyszłość</b>
+<p>Pozytywne zwiastowanie musi czasem spoczywać na negatywnej podstawie.
+Nakazując Głoś Słowo Bóg każe nam także karcić, gromić i napominać (2
+Tym. 4:2). Częstokroć Biblia poucza nas, jak czegoś nie robić, a także
+jak coś robić. Potrzebujemy światła z powodu ciemności. To, co pozytywne,
+potrzebne jest z powodu tego, co negatywne. To jest fundamentalną zasadą
+łaski. Gdzie zaś grzech się rozmnożył, tam łaska bardziej obfitowała
+(Rzym. 5:20). Z łaski Bożej przyszłość będzie nawet lepsza od przeszłości.
+<p><b>Po co Samson?</b>
+<p>Mając na uwadze dylemat Dalili, stoimy przed nieuniknionym pytaniem:
+Po co w ogóle istniał Samson? Czy Bóg stworzył tego cudotwórcę i wyposażył
+go cudowną siłą tylko po to, by był takim sobie statystą, jednym więcej
+w pokoleniu izraelskich niewolników pod panowaniem bezbożnych, bałwochwalczych
+Filistynów?
+<p>Nie, Bóg nigdy nie dokonuje cudu, aby sprawić przyjemność bezbożnym.
+Bóg tchnął w Samsona cudotwórcze życie, ponieważ istniał naród, który potrzebował
+wyzwolenia z udręk filistyńskiego podboju. W tamtym czasie nagląco potrzebne
+było narzędzie Boskiej interwencji, którym mogłaby przepływać moc Wszechmocnego,
+manifestująca Boży zawzięty stosunek względem grzechu, podnosząca Boże
+wzorce sprawiedliwości pod namaszczeniem Ducha Świętego i prowadząca jego
+pokolenie do życia w zwycięstwie i wolności. Po to właśnie istniał Samson.
+<p><b>Po co ożywienie?</b>
+<p>A dlaczego Bóg powołał do życia ruch zielonoświątkowy, przebudzenie
+charyzmatyczne w naszym czasie? Czy dlatego, że nie było jeszcze dosyć
+różnych denominacji religijnych, sekt, odłamów i podziałów, szturchających
+się z powodu różnic i współzawodniczących z sobą, każda z własnym gatunkiem
+maszynerii teologicznej, których większość zespolonych wysiłków ogranicza
+się zaledwie do nikłej części rozległych łanów Pana, gotowych do żniwa?
+<p>Czy Bóg wzbudził zielonoświątkowców tylko po to, by móc cieszyć się
+zaszczytem posiadania jeszcze jednej religii, mającej niebawem rozpaść
+się na tuzin różnych fragmentów? Czy Bóg powiedział: Otóż wy zieloświątkowcy,
+(przepraszam, że kładę na was piętno takiej nazwy, ale wszystkie dostojniejsze
+nazwy są już zajęte), a więc wy zielonoświątkowcy, rozglądnijcie się wokół
+siebie i obserwujcie, jak inni to robią, a potem róbcie tak samo?
+<p><b>Dlaczego takie Wy?</b>
+<p>Czy to z tym zamiarem stworzył Bóg ożywienie zielonoświątkowe? Nie.
+Bóg wcale nie chciał, by ożywienie zielonoświątkowe stało się po prostu
+kolejnym sprzętem maszynerii kościelnej, mającym naśladować wiele poprzednich,
+którym nie udało się sprowadzić z powrotem Króla. Bóg wcale nie powołał
+was do życia, byście byli niewolnikiem bałwochwalców i bezbożnych.
+<br/>Bóg zesłał przebudzenie czasów ostatecznych, ponieważ już istniało
+tu pokolenie stworzenia Bożego, cierpiące w diabelskim obozie koncentracyjnym
+grzechu, brudu i niemoralności, bezprawia i przemocy, choroby, słabości
+i boleści, smutku i cierpienia, bojaźni, frustracji i udręki, klęski i
+śmierci.
+<p>Bóg powołał was do życia, jako napełnionych Duchem wierzących i jako
+ruch zielonoświątkowy, aby zaistniało narzędzie Boskiego wyzwolenia w ręku
+Wszechmocnego, aby burzyć twierdze bezbożności, wyłamywać drzwi więzień
+i prowadzić to pokolenie do chwalebnej wolności, dostępnej wyłącznie w
+Chrystusie Jezusie, naszym Odkupicielu i Panu, naszym powracającym niebawem
+Królu. Oto dlaczego istnieje takie Wy.
+<p><b>Ostatnie jest najlepsze</b>
+<p>Ostatnie zwycięstwo Samsona było jego największym i tak samo będzie
+z Kościołem. Nie należy bowiem do nas poselstwo o porażce i rozpaczy, lecz
+poselstwo nadziei, wiary i zwycięstwa. W wydostaniu się Samsona z jego
+sromotnej porażki, w jego wyzwoleniu z więzów widzę jasne światło obietnicy.
+Kiedy Samson wrócił do Pana, kiedy odnowił swoje śluby zupełnego oddania
+się, kiedy zaakceptował Boże roszczenia do całego jego życia, Duch Pański
+wrócił z większą mocą niż kiedykolwiek przedtem.
+<br/>Być może to prawda, że niektórzy chrześcijanie zmienili lub opuścili
+swoje cele. Niektórzy zapewne pogwałcili wzorce moralne, etyczne i duchowe.
+Bóg wiedział, że tak będzie, w miarę jak zbliżać się będzie dzień Chrystusowy,
+bo nie nastanie pierwej, zanim nie przyjdzie odstępstwo (2 Tes. 2:3).
+Jak zauważyliście, jesteśmy w pełni świadomi tego, że nastąpiło odstępstwo,
+które dotknęło ogromne obszary chrześcijaństwa.
+<p>Teraz jednak patrzymy w przyszłość. A co widzimy w świetle Ducha, które
+pada na Słowo Boże? Widzimy, że Bóg jest ciągle na tronie wszechświata.
+Jego Słowo trwa na wieki. Będzie przebudzenie. Kościół powstanie triumfujący.
+Chrystus powróci. Świat oczekuje na swojego Zbawiciela. Drzwi otwierają
+się wszędzie. Dzień dzisiejszy jest dniem największej szansy, jaka kiedykolwiek
+istniała.
+<p><b>Świat należy do was</b>
+<p>Zawładniecie narodami większymi i silniejszymi od was. Każde miejsce,
+po którym stąpać będzie twoja stopa, będzie wasze (5 Mojż. 11:23-24).
+Jak obietnica ta dana została Mojżeszowi w sensie geograficznym, zostaje
+wam teraz dana w sensie duchowym.
+<br/>Idąc na cały świat głoście ewangelię wszystkiemu stworzeniu (Mar.
+16:15). Oto sprawiłem, że przed tobą otwarte drzwi, których nikt nie może
+zamknąć (Obj. 3:8). Idźcie tedy i czyńcie uczniami wszystkie narody,
+chrzcząc je w imię Ojca i Syna, i Ducha Świętego (Mat. 28:19).
+<p>Każde miejsce, dokąd udacie się z ewangelią, możecie wziąć w posiadanie
+dla Chrystusa. Ślady stóp ciągle jeszcze obwieszczają zawłaszczenie.
+<p><b>Chmurka, szum i morze</b>
+<p>Zaledwie lekko dotknęliśmy powierzchni chwalebnych możliwości i potencjałów
+życia w Słowie i w Duchu. Ale w miarę, jak ożywienie będzie się rozwijać,
+pewni sceptycy będą na nie patrzeć i powiedzą: Nie ma nic (1 Król. 18:43).
+Być może inni zdobędą się na tyle wiary, by przyznać: Oto maleńka chmurka
+jak dłoń ludzka wznosi się z morza (1 Król. 18:44). Słuchajcie jednak
+dalej, gdyż oto słychać szum ulewnego deszczu (1 Król. 18:41).
+<p>A teraz obserwujcie krzewy balsamowe, reprezentujące znamiona czasów
+(Mat. 16:3), obwieszczające nagłe wydarzenie. A gdy usłyszysz odgłos stąpania
+po wierzchołkach krzewów balsamowych, wtedy rusz do bitwy, gdyż wtedy pójdzie
+Bóg przed tobą (1 Kron. 14:15).
+<p>To jest Boży czas. Jesteście ludem Bożym. Przed wami jest pole bitwy
+zgubionej, cierpiącej ludzkości, którą można pozyskać dla Chrystusa. Nie
+czekajcie. Podejmijcie to wyzwanie. Podnieście ten wzorzec. Wyjdźcie teraz
+z dobrą nowiną. Głoście triumfalne Słowo. Żyjcie życiem Chrystusa. To jest
+szczególny dzień dla zwycięstwa i wyzwolenia.
+<p>W Duchu możemy oglądać przed sobą potężną rzekę, w której wodach pluskamy
+się zaledwie do kostek jak małe dzieci, bojące się odejść od brzegu. Dla
+tych jednak, którzy odważą się ruszyć naprzód w wierze, w Słowie i w Duchu
+Świętym, czeka woda do kolan, woda do pasa i wody wezbrane, tak głębokie,
+że trzeba by było w nich pływać, potok, którego nie można było przejść
+(Ez. 47:4,5).
+<p>Ma miejsce przypływ ożywienia, wzmagający się na morzu ludzkości, nabierający
+rozpędu i zmiatający obojętność i opozycję. O to chodzi! Już nawet teraz
+znajdujemy się na początku największego duchowego przebudzenia wszystkich
+czasów, najpotężniejszego wylania Ducha, najwyraźniejszego objawienia Słowa
+a także przyjścia Pańskiego Alleluja! Nasz Pan przychodzi. Maranatha!
+(1 Kor. 16:22).
+<p><i>William A. Caldwell</i>
+<br/><i>Tłumaczył Józef Kajfosz</i>
+<br/> 
+
+<br/><br/>
+<br/>
+<p><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+<input name="filename" type="hidden" value="polemiki/stan_kosciola.html"/><p>Chciał(a)bym przesłać ten
+    artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+    Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/> <br/>
+<input type="submit" value="  Wyślij  "/> </p>
+</form>
+<p><br/>
+<br/>
+</p>
+<h4><font color="#808080">Wersja HTML, Copyright by <a href="http://www.anastasis.css.pl/czytelnia">Czytelnia
+Chrześcijanina
+</a>, 1999</font></h4>
+<p><br/>
+</p>
+</p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p></p>
+{% endraw %}

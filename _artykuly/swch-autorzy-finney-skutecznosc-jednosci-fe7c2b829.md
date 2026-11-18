@@ -1,0 +1,550 @@
+---
+title: Konieczność i skuteczność jedności
+category: Znani pisarze
+permalink: /czytelnia/swch-autorzy-finney-skutecznosc-jednosci-fe7c2b829/
+source_url: https://swch.pl/autorzy/finney/skutecznosc_jednosci.html
+imported_from_legacy: true
+source_text_sha256: 5880aa07bcd0a62391aa142f86f255daeaff3eec192810923a9e2d7fac7dc12f
+source_char_count: 28931
+source_verified: true
+---
+
+{% raw %}
+
+<h1>Konieczność i skuteczność jedności</h1>
+<p>Tekst - "<em>Nadto powiadam wam, jeśliby dwaj z was na
+ziemi uzgodnili swe prośby o jakąkolwiek rzecz, otrzymają ją
+od Ojca mojego, który jest w Niebiesiech</em>" (Mat. 18,19)</p>
+<p>W czasie jednego z poprzednich moich wykładów użyłem tego
+tekstu mówiąc na temat zebrań modlitewnych. Ale w tej chwili,
+chciałbym zająć się bardziej szczegółowo duchową stroną
+tego tekstu i jego znaczeniem. Najwyraźniej nasz Pan, mówiąc
+te słowa, miał zamiar wskazać na ogromne znaczenie i wpływ
+jedności w modlitwie i na to, jak wielkie znaczenie posiada ona
+dla posuwania naprzód sprawy religii. Pan nasz, podając nam
+liczbę dwóch jako najmniejszą liczbę osób pomiędzy którymi
+może zajść porozumienie, powiada, że "jeśliby dwaj z
+nas na ziemi uzgodnili swe prośby o jakąkolwiek rzecz,
+otrzymają ją od Ojca Jego, który jest w Niebiesiech." Pan
+kładzie szczególny nacisk na ich porozumienie się, na
+uzgodnienie ich punktu widzenia. Pan nasz kładzie na to
+właśnie nacisk. A jeśli mówi o dwóch, to wydaje się, że
+pragnął przez to zachęcić nawet najmniejszą ilość osób,
+aby tylko uzgodniła w jedności swe pragnienia. Co mamy jednak
+rozumieć, jeśli jest mowa o uzgodnieniu swych próśb o
+jakąkolwiek rzecz? Na to pytanie będę chciał powiedzieć pod
+dwoma nagłówkami.</p>
+<p>I. Wskazuje na to, że mamy być zgodni w modlitwie i </p>
+<p>II. Mamy być zgodni we wszystkim tym, co jest konieczne, aby
+otrzymać błogosławieństwo, którego szukamy i o które
+prosimy.</p>
+<p><strong>I. Aby osiągnąć obietnicę, daną w tych, słowach
+przez Pana, naszego musimy być zgodni w naszej modlitwie. Nasz
+tekst uczy tej prawdy całkiem wyraźnie. </strong></p>
+<p>1. Powinniśmy być zgodni w pragnieniu, aby otrzymać daną
+rzecz, aby osiągnąć dany cel. Jest rzeczą konieczną mieć
+pragnienie uzyskania tego, o co się prosi, aby zaistniała
+zgodność odnośnie do tych pragnień. Bardzo często
+poszczególne jednostki słowami modlą się pozornie o tę samą
+rzecz, ale nie są bynajmniej zgodni w pragnieniu tej rzeczy.
+Nie, wręcz przeciwnie, bywa nawet tak, że nie którzy z nich w
+sercach swoich pragną czegoś wręcz przeciwnego. Wzywa się
+ludzi aby modlili się o daną rzecz i rzeczywiście, wargami
+modlą się oto, ale Bóg dobrze o tym wie, że często tej
+rzeczy bynajmniej nie pragną. A Pan także widzi, że cały czas
+kiedy wznosi się ta modlitwa, serca sprzeciwiają się temu, o
+co w modlitwach proszą. </p>
+<p>2. Musimy być zgodni w pobudkach, dla których pragniemy
+wysłuchania naszych modlitw. Nie wystarczy, aby pragnienia
+odnośnie do celu modlitwy były identyczne, również i
+przyczyna, dla której się o to modlimy, też musi być ta sama.
+Ktoś może pragnąć duchowego przebudzenia dla chwały Bożej i
+dla zbawienia grzeszników. Inny człowiek zboru może również
+pragnąć duchowego przebudzenia, ale z zupełnie in nych
+pobudek. Niektórzy może pragną duchowego przebudze nia, aby
+widzieć zbór wzmocniony i powiększony, tak, aby sprawa
+finansowania zboru i popierania ewangelizacji była łatwiejszą
+dla zrealizowania. Inny może pragnie duchowego przebudzenia
+zboru, aby był liczniejszy, a przez to bardziej szanowany. Inni
+znowuż pragną duchowego przebudzenia dla tego, ponieważ może
+sprzeciwiano im się, może o nich źle mówiono i dla tej
+przyczyny pragną, aby ich wrogowie o tym się przekonali, że
+jakkolwiek oni może o nich mówią, źle albo źle myślą, to
+mimo wszystko Bóg im błogosławi. Kiedy indziej znów ludzie
+pragną duchowego przebudzenia po prostu z na turalnego uczucia i
+miłości do swoich przyjaciół. Po prostu pragną, by ci się
+nawrócili i zostali zbawieni. Jeśli więc wszyscy ci ludzie
+pragną być połączeni w modlitwie tak, aby otrzymać
+błogosławieństwo, o które proszą, to nie tylko muszą
+pragnąć danego błogosławieństwa, ale muszą także być
+zgodni w tym, aby pragnąć tego błogosławieństwa dla tych
+samych powodów.<br/>
+</p>
+<p>3. Musimy być zgodni w pragnieniu tego błogosławieństwa
+dla właściwych, dobrych przyczyn. A te pragnienia nie tylko
+muszą być połączone, uzgodnione i pochodzące z tych samych
+pobudek, ale muszą one płynąć z właściwych i dobrych,
+pobudek. Najwyższą pobudką musi być zawsze przyniesienie czci
+i chwały Bogu. Może nawet tak być, że ludzie pragną
+duchowego przebudzenia i są zgodni w pragnieniu go i zgodni w
+przyczynach, dla których tego duchowego przebudzenia pragną. A
+jednak jeśli pobudki te nie są dobre i właściwe, Bóg nie
+wysłucha ich próśb. Dla tej właśnie przyczyny rodzice mogą
+być zgodni w modlitwie o nawrócenie swoich dzieci i mogą mieć
+te same uczucia, te same prawdy, a jednak, jeśli nie mają
+wyższych pobudek, aniżeli tylko te, że chodzi tutaj o ich
+dzieci, to modlitwy ich nie zastaną wysłuchane. Oni wprawdzie
+zgodni są co do pobudki, ale pobudka ta nie jest właściwa.</p>
+<p>Zupełnie podobnie nawet wielka liczba osób może być zgodna
+i w pragnieniach swoich i w pobudkach, ale jeśli te pobudki są
+egoistyczne, to sam fakt, że oni są zgodni w tych pobudkach,
+uczyni ich jeszcze bardziej obrzydliwymi Bogu. "Dlaczego
+zmówiliście się, by kusić Ducha Pańskiego?"
+powiedziała kiedyś Piotr do Safiry (Dz.Ap.5,9). Widziałem
+bardzo wiele rzeczy tego rodzaju. Widziałem wiele razy, jak
+zbory modliły się o pewną sprawę, ale ich pobudki do tego
+były całkowicie samolubne. Niekiedy nawet zbory modlą się o
+duchowe przebudzenie. Wydałoby się komuś, kto przygląda się
+z jaką powagą i z jaką jednością oni się modlą, że Pan
+Bóg z całą pewnością użyczy im Swego błogosławieństwa.
+Ale zmienisz zdanie, jeśli dowiesz się, dla jakich przyczyn
+się modlą. A dlaczego się modlą? Bo, widzą, że ich zbór
+niemalże się rozpada, że jest rzeczą konieczną, aby coś
+się stało. Kiedy indziej zaś widzą, że jakaś inna grupa,
+jakaś inna denominacja zaczyna się rozwijać i pracować z
+powodzeniem i że nie ma innego sposobu, by im się
+przeciwstawić, jak tylko poprzez duchowe przebudzenie, które by
+miało miejsce w ich zboże. A tak cała ich modlitwa, to nic
+innego, jak tylko próba, by nakłonić Wszechmocnego, aby im
+pomógł w ich trudnościach; taka modlitwa jest całkowicie
+samolubną rzeczą i obrazą dla Boga. W Filadelfii pewna
+niewiasta została zaproszona na zebranie modlitewne niewiast do
+pewnej rodziny. Zaczęła dowiadywać się, jaki jest cel tego
+spotkania na tym miejscu i o co oni mają zamiar się modlić.
+Odpowiedziano jej, że celem modlitwy miało być błaganie o
+wylanie Ducha Świętego na miasto. Na to odpowiedziała tak:
+"Niestety, ja tam nie pójdę. Gdyby się modlili o nasz
+zbór, to bym poszła, ale nie pójdę modlić się za inne
+zbory". Ach, co to za duch!</p>
+<p>W zebraniach modlitewnych bardzo często słyszymy powody, dla
+których ludzie pragną otrzymać takie albo inne
+błogosławieństwo. Niestety bywa tak, że te powody nie są
+słuszne w oczach Bożych.</p>
+<p>4. Jeśli pragniemy być w ten sposób zgodni, aby nasze
+modlitwy zastały wysłuchane, to musimy być zgodni i we wierze.
+To znaczy, że musimy oczekiwać, i to jedni przed drugimi
+otrzymania tego błogosławieństwa, o które się modlimy.
+Musimy rozumieć, dla. jakiej przyczyny mamy prawo spodziewać
+się, że otrzymamy to błogosławieństwo, o które prosimy.
+Musimy widzieć podstawy, na których wiara nasza mogłaby
+spocząć i bezwzględnie wierzyć w to, że to
+błogosławieństwo przyjdzie. W przeciwnym bowiem razie nie
+znajdziemy się w ramach skutecznego wypełnienia się danej
+obietnicy. Za każdym razem, kiedy modlitwa nasza ma być
+przemagająca i skuteczna, by otrzymać żądane
+błogosławieństwo, musi być mod1itwą wiary. To jest warunek,
+którego w żaden sposób nie można ominąć, a który jest
+zresztą warunkiem samym przez się zrozumiałym. Nawet wtedy,
+jeśli w poszczególnych wypadkach nie wspomina się o tym, jest
+to zawsze jednak zrozumiałe i zawsze przez wszystkich przyjęte.
+Albowiem żadna modlitwa nie może być skuteczna, jeśli nie
+jest ofiarowywana z wiarą. A jeśli połączona modlitwa ma być
+skuteczna, musi także być uzgodniona i połączona wiarą.</p>
+<p>5. Następnie musimy także być zgodni jeśli chodzi o czas,
+w którym pragniemy, aby przyszło dane błogosławieństwo.
+Jeśli dwóch lub więcej pragnie danego błogosławieństwa, ale
+jeden z nich chciałby je otrzymać teraz; gdy tymczasem inni nie
+są jeszcze gotowi do jego przyjęcia; to jest rzeczą
+oczywistą, że oni nie są zgodni. Nie są zgodni w stosunku do
+bardzo ważnego punktu. Jeśli błogosławieństwo ma przyjść w
+odpowiedzi na ich połączoną modlitwę, to musi ono przyjść
+tak, jak o nie prosili. A jeśli ono przychodzi, to musi się
+stać w jakimś konkretnym czasie. Ale jeśli modlący nie są
+zgodni odnośnie do czasu, w którym by chcieli je otrzymać, to
+jest rzeczą całkiem oczywistą, że błogosławieństwo to
+nigdy nie będzie mogło przyjść w odpowiedzi na ich modlitwy.</p>
+<p>Przypuśćmy, że dany zbór postanawia modlić się o duchowe
+przebudzenie i że wszyscy są zgodni co do tego, że pragną
+duchowego przebudzenia, ale nie są zgodni co do czasu, w którym
+miałaby ono nastąpić. Może na przykład nie którzy pragną,
+aby przyszło natychmiast i są całkowicie na to przygotowani, a
+serca ich oczekują zstąpienia Ducha Bożego i są gotowi
+poświęcić czas, uwagę i pracę tej sprawie teraz. Ale może
+inni nie są całkiem gotowi - może mają inne sprawy, którymi
+muszą się w danej chwili zająć, jakiś świecki cel, który
+najpierw jeszcze chcą osiągnąć, jakąś sprawę handlową,
+którą mają właśnie w tej chwili w rękach i pragną jeszcze
+tę sprawę załatwić. Chcą, aby duchowe przebudzenie
+nastąpiło później, zaś w tej chwili w żaden sposób nie
+mogliby znaleźć czasu, aby się tej sprawie poświęcić, nie
+są gotowi, aby się upokorzyć, aby zbadać swoje serce i
+przeorać swoje odłogiem leżące pola. Tacy ludzie nie są we
+właściwym stanie ducha, aby móc otrzymać błogosławieństwo.
+Czyż nie jest tu rzeczą całkiem oczywistą, że w takim
+wypadku nie ma prawdziwej jedności, ponieważ ludzie nie są
+zgodni w sprawie, która i jest istotna?</p>
+<p>Tak więc musimy nie tylko zgodzić się, jeśli chodzi o
+czas, ale musi to być czas obecny. W przeciwnym bowiem razie nie
+jesteśmy zgodni w tym, co jest bardzo istotne w naszym dziele.
+Jeśli nie będziemy zgodni w tym, aby pragnąć duchowego,
+przebudzenia teraz, to nie będziemy teraz używać właściwych
+do tego środków. Wiemy bowiem, że duchowe przebudzenie nie
+będzie mogło nastąpić, jeśli nie będziemy używać danych
+środków. Stąd jest rzeczą jasną, że musimy być zgodni, aby
+modlić się o to, by przebudzenie przyszło obecnie. Albo innymi
+słowy: nie jesteśmy zgodni w sensie naszego tekstu, dopóki nie
+jesteśmy zgodni w tym, iż pragniemy, aby błogosławieństwo
+zostało nam darowane teraz. Jeśli nie będziemy zachowywać
+się robić to, co potrzeba zgodnie z naszą, prośbą i z
+oczekiwaniem utrzymania błogosławieństwa teraz, to nie ma
+sensu, byśmy się zgodzili o jakiś czas w przyszłości, gdyż
+gdy nadejdzie ten moment w przyszłości, to w tym momencie
+właśnie też musimy zgodnie prosić o dane błogosławieństwo
+teraz. Wówczas musimy także natychmiast zastosować posiadane
+do tego środki. Stąd więc widzimy, że nigdy nie jesteśmy
+właściwie jedno, dopóki nie będziemy zgodni, aby prosić o
+błogosławieństwo teraz.</p>
+<p><strong>II. Musimy więc być zgodni we wszystkim, co jest
+konieczne, aby otrzymać błogosławieństwo, o które prosimy.</strong></p>
+<p>Proszę zwrócić uwagę na słowa użyte w tym tekście.
+"Jeśliby dwaj z was na ziemi uzgodnili swe prośby o
+jakąkolwiek rzecz". Wielu ludzi zdaje się czytać to
+miejsce rozumiejąc to tylko jako porozumienie odnośnie do
+proszenia i rozumieją to jako obietnicę, że za każdym razem,
+gdy dwóch będzie zgodnych odnośnie do proszenia o jakieś
+błogosławieństwo, że wtedy to błogosławieństwo zostanie im
+dane. Ale Chrystus powiada tutaj, że muszą być zgodni o
+jakąkolwiek rzecz, czyli odnośnie do danej rzeczy, o którą
+się modlą. Oznacza to, że ich zgoda i jedność musi
+obejmować wszystko to, co jest koniecznym dla udzielenia i
+przyjęcia błogosławieństwa.</p>
+<p>1. Jeśli wierzący chrześcijanie pragną cieszyć się
+dobrodziejstwami tej obietnicy w modlitwie o duchowe
+przebudzenie, to muszą być zgodni w tym, aby wierzyć, że
+przebudzenia duchowe są konkretną rzeczywistością. Jest
+bowiem wiele jednostek nawet w zborach, które w sercach swoich
+nie wierzą, aby duchowe przebudzenia, które mają tu i tam
+miejsce, były dziełem Bożym: Niektórzy z tych ludzi słowami
+może modlą się o wylanie Ducha i o przebudzenie duchowe i
+pobudzenie religijne, podczas kiedy w sercach swoich wątpią,
+czy w obecnych nowożytnych czasach takie rzeczy w ogóle mają
+miejsce. Niech nie śmie mieć miejsca obłuda w połączonej
+modlitwie.</p>
+<p>2. Muszą być zgodni w odczuwaniu konieczności duchowego
+przebudzenia. Są tacy, którzy wierzą w to, że duchowe
+przebudzenia są faktem, że rzeczywiście miewają miejsce jako
+dzieło Boże, a mimo to nie są całkowicie pewni, czy jest to
+rzeczą konieczną, aby mieć także duchowe przebudzenie, w celu
+zapewnienia powodzenia Ewangelii. Oni myślą, że faktycznie
+Bóg działa, jeśli gdzieś jest duchowe przebudzenie, ale że
+może byłoby to jednak również dobrym, gdyby grzesznicy się
+nawrócili i zostali wprowadzeni do zboru jakimś spokojniejszym
+sposobem, stopniowo i bez wielkiego podniecenia.</p>
+<p>3. Wszyscy modlący się muszą być zgodni, jeśli chodzi o
+wielką wagę i wielkie znaczenie duchowego przebudzenia. Nigdy
+ludziom nie zastanie udzielone błogosławieństwo duchowego
+przebudzenia, jeśli mod1itwy ich są tylko pół na pół
+poważne. Oni wszyscy muszą odczuwać nieskończenie wielkie
+znaczenie duchowego przebudzenia, za nim będą mogli się
+modlić tak, aby w modlitwie swojej przemóc, a to, o co proszą
+- otrzymać.</p>
+<p>4. Muszą również być zgodni jeśli chodzi o poprawne
+zrozumienie następujących podstaw biblijnych, dotyczących
+duchowego przebudzenia:</p>
+<p> </p>
+<p>(1) Że jest rzeczą konieczną, aby działał Bóg, jeśli
+pragniemy otrzymać duchowe przebudzenie. Nie wystarczy, jeśli
+modlący się, tylko teoretycznie w to wierzą modląc się o to
+słowami. Wszyscy oni muszą w pełni rozumieć i głęboko
+odczuwać tę konieczność. Muszą zdawać sobie sprawę z tego,
+że w całości są uzależnieni od Ducha Bożego, w przeciwnym
+bowiem razie cała sprawa się nie uda.</p>
+<p><font size="3">(2)</font><font size="4"> </font>Oczywiście,
+że działanie ze strony Boga jest rzeczą konieczną. Ale musi
+być także zgoda, jeśli chodzi o poprawne zrozumienie
+przyczyny, dla której Boże działanie jest konieczne. Jeśliby
+odnośnie do tego punktu mieli niewłaściwe pojęcia, wtedy
+będzie to przeszkodą. Jeśliby chrześcijanie powzięli taką
+myśl, że konieczność działania Bożego polega na
+niemożności działania ze strony grzeszników, albo jeśli
+odczuwają, że jest obowiązkiem Bożym udzielenie Ducha
+Świętego w tym celu, aby uzdolnić grzeszników do
+posłuszeństwa Ewangelii, obrażają wtedy Boga, a modlitwy ich
+nie zastaną wysłuchane. Albowiem w tym wypadku musieliby
+odczuwać, że jest to po prostu tylko kwestią zwyczajnej
+sprawiedliwości ze strony Bożej, aby wylał swojego Ducha,
+zanim by miał podstawy i prawo żądać, aby chrześcijanie
+pracowali albo grzesznicy pokutowali. Jakże często słyszymy,
+jak ludzie modlą się a grzeszników w następujący sposób:
+"O Panie, dopomóż tej biednej duszy, aby mogła zrobić
+to, czego się od niej wymaga. O Panie; spraw, aby on stał się
+zdolnym do zrobienia tego czy tamtego". Jeśli słyszymy,
+że ktoś w ten sposób się modli, bo możemy z tego wnosić
+wyraźnie, iż on staje po stronie grzesznika, a nie po stronie
+Boga. Gdyby modlący się w ten sposób rozumieli przynajmniej
+tę sprawę, jako iż bywa ona niekiedy wyraźnie wyjaśniona, i
+gdyby ludzie, mówiąc takie słowa, mieli to na myśli, co mieć
+na myśli powinni, kiedy modlą się za grzeszników, wtedy nie
+ganiłbym ich tak bardzo. Ale bardzo często ludzie w ten sposób
+mówiąc, mają na myśli to; co dane słowa już na pierwszy
+rzut oka faktycznie wyrażają. A jest to tak, jak gdyby oni
+modlili się w następujący sposób: "Panie, Ty
+rozkazałeś tym biednym grzesznikom pokutować, podczas kiedy
+Ty, o Panie, dobrze wiesz, że oni nie mogą pokutować, jeśli
+Ty sam nie dasz Twojego Ducha, aby ich w ten sposób uczynić
+zdolnymi do zrobienia tego, jakkolwiek Tyś oświadczył, że ich
+poślesz do piekła, jeśli tego nie uczynią, bez względu na
+to, czy otrzymają Ducha Twojego, czynie. Ale jeśli tak jest,
+Panie, wydaje się to bardzo okrutne. I dlatego prosimy Cię,
+abyś się zmiłował nad tymi biednymi stworzeniami i abyś dla
+zasług Chrystusa nie postępował z nimi tak surowo". Czyż
+każdy z nas nie widzi tego wyraźnie, że taka modlitwa, która
+by to oznaczała, bez względu na to, jakimi słowami byłaby ona
+przyozdabiana, jest obrazą Boga, oskarżając Go o
+nieskończoną niesprawiedliwość, skoro w dalszym ciągu żąda
+od grzeszników wykazania obowiązków; których nie są w stanie
+wykonać bez Jego pomocy. W ten sposób 1udzie mogliby się
+modlić aż do dnia Sądu, a nigdy nie otrzymaliby
+błogosławieństwa, ponieważ stają po stronie grzesznika, a
+przeciwko Bogu. Nie mogą modlić się z powodzeniem, dopóki nie
+zrozumieją, że grzesznik jest buntownikiem i do tego
+buntownikiem, który uparcie tkwi w swoim buncie - tak upartym,
+że on nigdy ni: będzie chciał bez wpływu Ducha Świętego
+uczynić tego, co mógłby uczynić natychmiast, i że ten upór
+jest przyczyną i jedyną przyczyną, dla której potrzebuje
+nawrócenia się.</p>
+<p>(3) Oni muszą być zgodni w zrozumieniu tego, iż duchowe
+przebudzenia nie są cudami, ale są spowodowane używaniem
+odpowiednich środków, podobnie jak i inne wydarzenia. Nic
+dziwnego, że dawniej przebudzenia duchowe miały miejsce tak
+rzadko i trwały tak krótko, skoro ludzie, ogólnie biorąc,
+uważali je za cuda, albo też uważali je za maleńki deszcz
+zaledwie, który nawiedza daną miejscowość i przez chwilę
+trwa, ale potem przychodzi wiatr i tę chmurkę deszczową pędzi
+dalej. Takie podejście zdradza, że uważamy to za sprawę, na
+którą nie mamy żadnego wpływu. Cóż bowiem mogą zrobić
+ludzie, aby otrzymać deszcz? Albo inaczej jeszcze; jak mogą
+sprawić, aby deszcz padał dłużej, aniżeli pada? A tak jest
+rzeczą konieczną, aby ci, którzy się modlą, byli zgodni w
+zrozumieniu, że duchowe przebudzenie sprowadza się przy pomocy
+odpowiednich środków. W przeciwnym bowiem razie nigdy nie
+będą zgodni w używaniu tychże środków.</p>
+<p>(4) Muszą być dalej zgodni w zrozumieniu tego, że strona
+ludzka jest równie konieczna w duchowym przebudzeniu jak i
+strona Boża. Ośmieliłbym się nawet powiedzieć, że duchowe
+przebudzenie nigdy nie miało miejsca bez Bożego wpływu i
+działania, ale także nigdy nie było bez działania człowieka.
+Jakże często ludzie mówią tak: "Jeśliby Bóg zechciał,
+to może kontynuować dzieło bez żadnych środków". Ale
+ja w to nie wierzę. Nie ma bowiem żadnych dowodów na to. Czym
+jest religia? Posłuszeństwem w stosunku do Bożego prawa. Ale w
+stosunku do prawa nie można być posłusznym dopóki się go nie
+zna. W jaki sposób mógłby Bóg sprawić, żeby grzesznicy byli
+Mu posłuszni? Tylko poprzez to, iż daje im Swoje przykazania. A
+czyż może objawiać je inaczej, jak tylko komunikując je nam
+samym, albo zaznajamiając nas z nimi przez innych - czyli innymi
+słowy - jeśliby nie podał prawdy i nie sprawił, aby ona tak
+głęboko oddziałała na umysł że serce człowieka, aż
+wreszcie człowiek prawdzie tej stanie się posłuszny? Bóg
+nigdy nie nawracał grzesznika, ani też nie może go nawrócić
+inaczej, jak tylko poprzez prawdę. Czym bowiem jest nawrócenie?
+Jest ono posłuszeństwem w stosunku do prawdy. Bóg może
+prawdę tę podać osobiście bezpośrednio grzesznikowi. Ale
+jeśli nawet tak się dzieje, to konieczną jest reakcja ze
+strony samego grzesznika, który sam jest w tym wypadku tą
+stroną ludzką. Nawrócenie się polega na tym, że grzesznik ze
+swojej strony wykonuje to, co do niego na1eży. Zazwyczaj Bóg
+używa także i działalności innych ludzi, np. w pracy
+drukarskiej, w pisaniu, w rozmowach i w głoszeniu Słowa
+Bożego. Bóg umieścił skarb Ewangelii w glinianych naczyniach.
+Upodabało Mu się; aby użyć ludzi do głoszenia Słowa. To
+znaczy, że upodobało się Bogu używać tego sposobu jako
+najlepszego i najskuteczniejszego dla zbawienia grzeszników.</p>
+<p>(5) Jest rzeczą ważną, aby istniała zgodność, jeśli
+chodzi o środki, konieczne do rozwoju duchowego przebudzenia.
+Pojedynczy ludzie mogą być zgodni, że będą robić cokolwiek;
+ale jeśli nie są zgodni co do środków, które będą
+podejmowali, to efektem będzie tylko bałagan. Będzie jeden
+drugiemu stać w drodze. To tak, jakby ludzie chcieli żeglować
+na jachcie, a nie byli zgodni co do ruchów, które wykonują.
+Tak samo, jak gdyby usiłowali dokonać jakiejś transakcji
+handlowej jako kupcy, a nie byli zgodni w podejmowanych
+środkach. Co się wtedy stanie? Nic innego, jak tylko to, że
+popsują jeden drugiemu pracę i zrujnują cały swój wysiłek.
+To wszystko w szczególności odnosi się do pracy dotyczącej
+duchowego przebudzenia.. Jeśli nadal nie będzie w tym
+względzie zgody pomiędzy członkami zboru, to jeden drugiemu
+będzie tylko przeszkadzał i niechaj ci ludzie nie spodziewają
+się, że nastąpi duchowe przebudzenie.</p>
+<p>(6) Oni muszą być zgodni w sposobie postępowania z
+grzesznikami nie chcącymi pokutować. To jest niezmiernie ważna
+sprawa, aby członkowie zboru byli zgodni w postępowaniu z nimi.
+Przypuśćmy, że nie są zgodni w tym i jeden zborownik
+powiedziałby grzesznikowi taką rzecz, a inny znów zupełnie
+coś innego. Co za okropne zamieszanie! Jakżeż oni mogą być
+zgodni w modlitwie, jeśli jest rzeczą oczywistą, że nie
+zgadzają się w tych sprawach, o które mają się modlić?</p>
+<p>(7) Muszą też, być zgodni w usuwaniu przeszkód, stojących
+na drodze do duchowego przebudzenia. Jeśli zbór spodziewa się
+duchowego przebudzenia, to musi przede wszystkim usunąć z drogi
+wszelkie kamienie obrazy.</p>
+<p>1. Musi się to objawiać w przestrzeganiu dyscypliny. Jeśli
+w zborze znajdują się członkowie, którzy trwają w grzechu,
+muszą zostać wyłączeni. Cały zbór musi być zgodny w tym,
+aby ich odciąć od siebie i wykluczyć ze społeczności. Jeśli
+oni pozostają w zborze, są taką hańbą, że są przeszkodą
+dla duchowego przebudzenia. Niekiedy, gdy robi się próbę
+wyłączenia ich, powstaje w zborze rozerwanie. W ten sposób
+praca zostaje zahamowana. Niekiedy ci, którzy winni są
+przestępstwa, są wpływowymi ludźmi albo mają członków
+rodziny, którzy będą stali po ich stronie, stąd powstanie
+stronnictwo. W związku z tym zaś powstanie zły duch w zborze,
+co z kolei będzie przeszkodą dla duchowego przebudzenia.</p>
+<p>2. Musi zaistnieć obopólne wyznawanie grzechów. W każdym
+wypadku, gdy komuś została wyrządzona krzywda, musi nastąpić
+pełne wyznanie. Nie mam tutaj na myśli takiego zimnego,
+wymuszonego przyznania się, gdy np. ktoś mówi: "Jeśli
+zrobiłem coś złego, to bardzo za to przepraszam". Chodzi
+tutaj o takie serdeczne wyznanie, w którym w całej pełni
+przyznano by się do złego, przy czym jest rzeczą jasną, że
+wyznanie to płynie ze skruszonego serca.</p>
+<p>3. Wybaczanie wrogom. Wielką przeszkodą w duchowym
+przebudzeniu powodowana jest często faktem, że aktywni i
+przodujący członkowie zboru jednak w sercach chowają uczucia
+odwetu i ducha braku przebaczenia w stosunku do tych, którzy ich
+skrzywdzili. A taka rzecz oczywiście niszczy ich życie duchowe.
+Powoduje to dalej, że stają się surowymi, nieprzyjemnymi w
+obejściu i stanowi to dla nich przeszkodę zarówno w modlitwie
+do Boga jak w błogosławieństwie ze strony Boga na ich pracę.
+Jeśli natomiast wszyscy członkowie zboru są całkowicie
+zgodni, że trzeba się upokorzyć i wyznać swoje winy i że
+trzeba tutaj objawić delikatnego, pełnego łaski i gotowości
+przebaczenia - Chrystusowego ducha w stosunku do tych, którzy im
+wyrządzi1i krzywdę, wtedy zostanie wylany na nich Duch i to nie
+pod miarą.</p>
+<p>(8) Muszą być zgodni w poczynaniu wszelkich potrzebnych
+przygotowań dla duchowego przebudzenia. Muszą też być zgodni
+i w tym, aby ponosić swoją część zarówno pracy jak i
+kosztów, gdy zaistnieje taka potrzeba. Powinna tutaj być
+równość. Nie zaś tak, aby niektórzy robili wszystko, a inni
+bardzo mało albo nic. Każdy powinien wykonać swoją cząstkę
+- i to według danego mu daru i według swojego uzdolnienia.
+Wtedy nie będzie żadnej zazdrości zawiści, nie będzie
+żadnych wzajemnych wymówek ani nieprzyjaznych uwag o innych
+członkach zboru, które są tak sprzeczne z braterską
+miłością; a tak okropnym kamieniem obrazy dla grzeszników.</p>
+<p>(9) Muszą by zgodni w tym, aby wszystko to, co jest konieczne
+do wywołania i rozwoju duchowego przebudzenia, było robione
+złego serca. Jeśli się pozwoli nawet drobnej jakiejś sprawie
+wedrzeć się pomiędzy braćmi i spowodować nieporozumienie,
+może to stać się przyczyną zniszczenia duchowego
+przebudzenia.</p>
+<p>(10) Muszą być zgodni we współpracy w celu podtrzymania
+dzieła. To jeszcze nie wystarczy, że będą zgodni w tym, aby
+się modlić o duchowe przebudzenie. Ale powinni być także
+zgodni w pracy ku jego rozwojowi. Powinni do tej pracy zabrać
+się w sposób systematyczny, tak jak zajmuje się swoją pracą
+handlowiec czy przemysłowiec. Powinni odwiedzać i rozmawiać i
+modlić się ze swoimi sąsiadami. Powinni szukać sposobności
+do tego, aby czynić dobrze. Muszą śledzić jakie wrażenie
+wywiera na słuchaczach głoszone Słowo. A także powinni
+śledzić znaki czasów, aby wiedzieli, kiedy daną rzecz należy
+zrobić, a wiedząc to, niezwłocznie ją wykonać.</p>
+<blockquote>
+<p>(1) Powinni więc być zgodni co do rodzaju pracy. <br/>
+    (2) Powinni być zgodni w tym, jak pracować<br/>
+    (3) Powinni być zgodni w tym, aby stosownie do tego także
+    żyć.</p>
+</blockquote>
+<p>(11) Muszą być zgodni w tym, aby z całego serca wytrwać w
+tej pracy aż do końca. To absolutnie na nic się nie zda,
+jeśli, jak to czasami niestety bywa, jacyś członkowie zboru
+rozpoczynają robić coś - to tu, to tam, ale gdy tylko
+przyjdzie najmniejsza trudność, natychmiast tracą ducha,
+omdlewają i połowa z nich kapituluje. Ona wszyscy powinni być
+zgodni i połączeni w tej zgodzie, aby wytrwać i pracować i
+mod1ić się i bojować dalej, aż nareszcie błogosławieństwo
+przyjdzie.</p>
+<p>Jednym, słowem, jeśli chrześcijanie pragną połączyć
+się w modlitwie i w wysiłkach swoich w ten sposób, aby
+przezwyciężyć, przemóc i uzyskać od Boga to
+błogosławieństwo, o które proszą, to muszą być zgodni
+zarówno w omówieniu jak i w czynieniu tych samych rzeczy,
+przestrzeganiu w swoim życiu i postępowaniu w tej samej zasady
+i kierowania się tymi samymi wytycznym. A przy tym muszą być
+tak wytrwali we wszystkim, aby nareszcie otrzymać
+błogosławieństwo. Wszystko to dlatego, aby nie przeszkadzać
+ani nie niweczyć wzajemnie swoich wysiłków. To wszystko jasno
+wynika z tych słów naszego Zbawiciela, któreśmy już
+cytowali, a mianowicie: "Jeśliby dwaj z was na ziemi
+uzgodnili swe prośby o jakąkolwiek rzecz".</p>
+<p>Na zakończenie niechaj mi wolno będzie powiedzieć
+następujące uwagi. W świetle otrzymanej obietnicy widzimy, jak
+straszliwą jest odpowiedzialność i wina zboru. Bóg dał tę
+obietnicę, aby się stała kosztownym dziedzictwem ludu Jego po
+wszystkie czasy na wszystkich miejscach. Jeśli lud Jego jest
+zgodny, modlitwy ich zostaną wysłuchane. Widzimy straszliwą
+winę tego zboru, który przychodzi i przysłuchuje się tym
+wykładom na temat duchowych przebudzeń, a potem odchodzi do
+domu i nie ma duchowego przebudzenia. A także winę członków
+wszystkich innych zborów, które również tutaj są
+reprezentowane, którzy przysłuchują się niniejszym wykładom
+o duchowym przebudzeniu, a potem wracają do domu i nie chcą
+wypełnić swoich obowiązków. A jakżeż będzie wyglądało to
+spotkanie przy sądowej stolicy Bożej, gdy będziecie musieli
+spotkać się z tysiącami grzeszników, którzy nie pokutowali,
+a którzy żyli wokoło was, gdy będziecie musieli patrzyć, jak
+oni toną w wiecznym płomieniu? Czy wy byliście połączeni w
+sercu, aby się o nich modlić? A jeśliście nie byli zgodni, to
+dla jakiej przyczyny? Dlaczegoście się nie modlili, opierając
+się o tę obietnicę i to tak długo, dopóki byście nie
+zosta1i wysłuchani?</p>
+<p>A tak w tej chwili albo będziecie zgodni i będziecie modlić
+się o napełnienie Duchem Świętym i otrzymacie je za nim
+opuścicie ten dom, albo też w przeciwnym razie Pan rozgniewa
+się na was. Ale gdybyście w tej chwili uzgodnili, aby się
+modlić według obietnicy w Mateusza 18,19 i gdy będziecie się
+modlić, aby Duch Boży zstąpił na to miasto, Niebiańska
+Gołębica przeleciałaby poprzez to miasto w środku nocy i
+pobudziłaby sumienia i pobudziłaby niegodziwych grzeszników z
+grzesznego snu. Czyż nie jest więc wina wszystkich wyznawców
+religii, którzy śpią w obliczu takiej obietnicy, jak gdyby
+okropną szkarłatną plamą? Wydaje się, że oni zupełnie
+przeszli ponad tą obietnicą do porządku dziennego, albo może
+zupełnie a niej zapomnieli. Całe mnóstwo grzeszników idzie do
+piekła i wszędzie to widzimy, a jednak ta błogosławiona
+obietnica jest zaniedbywana. Ba, co więcej, jest ona,
+praktycznie mówiąc, przez zbór znienawidzona. A oto ona
+wyraźnie stoi zapisana w Świętej Księdze i zbór mógłby
+się jej uchwycić, i to w taki sposób, aby wielkie rzesze
+zostały zbawione. Ale członkowie zboru nie są zgodni i dlatego
+dusze będą ginęły. A na kim spoczywa odpowiedzialność?
+Czyż może jakiś człowiek mieć tę obietnicę, a przy tym
+patrzyć obojętnie na ginących, w obliczu dnia Sądu?</p>
+<p>Te wykłady były narzędziem ku przebudzeniu zborów, do
+których były skierowane. Ogłoszenie ich drukiem w tym kraju i
+w Europie stało się środkiem ku pobudzeniu duchowych
+przebudzeń w bardzo wielu miejscowościach. </p>
+<p>Wszelka chwała należy się Bogu.</p>
+<p>Fragment książki "Duchowe przebudzenie" Karola
+Finneya</p>
+<br/><br/>
+<br/><p><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+<input name="filename" type="hidden" value="autorzy/finney/skutecznosc_jednosci.html"/><p>Chciał(a)bym przesłać ten
+    artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+    Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/> <br/>
+<input type="submit" value="  Wyślij  "/> </p>
+</form>
+<br/>
+<h4><font color="#808080">
+Możliwość zakupienia książki:<br/>
+Marcin Łaszewski<br/>
+Dziewanowskiego 6/8<br/>
+80-752 Gdańsk tel. (0-58) 358-794<br/>
+<br/>
+Wersja HTML, Copyright by <a href="http://www.anastasis.css.pl/czytelnia">Czytelnia
+Chrześcijanina</a>, 1998<br/></font></h4>
+</p>
+{% endraw %}

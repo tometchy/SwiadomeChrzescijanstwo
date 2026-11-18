@@ -1,0 +1,961 @@
+---
+title: Przebudzenie - przegląd historyczny i teologiczny
+category: Historia Kościoła
+permalink: /czytelnia/swch-historia-przebudzenie-164a09e4d/
+source_url: https://swch.pl/historia/przebudzenie.html
+imported_from_legacy: true
+source_text_sha256: bba618a6b8b96ee17025e42642e1ed0b507802d7cfce06f16d4afe9464da3330
+source_char_count: 58105
+source_verified: true
+---
+
+{% raw %}
+
+<div class="Section1">
+<h1 align="center" style="text-align:center"><span style="font-size:24.0pt;
+mso-bidi-font-size:16.0pt;font-family:Tahoma;color:navy">Przebudzenie <br/>
+- przegląd historyczny i teologiczny<o:p></o:p></span></h1>
+<p align="center" class="MsoNormal" style="text-align:center"><b style="mso-bidi-font-weight:
+normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Temat
+ten stał się przedmiotem naszych rozważań, ponieważ właśnie w roku bieżącym
+przypada setna rocznica Przebudzenia 1859 roku, które, jak wiadomo, miało
+miejsce w różnych krajach. Co ważniejsze jednak, pragniemy na nie zwrócić
+uwagę, ze względu na obecny stan świata. Dobrze się stało, że przy końcu naszej
+konferencji rozpatrujemy tego typu temat, ponieważ ostatecznym jej celem<span style="mso-spacerun: yes">  </span>nie jest jedynie intelektualna zachęta,
+lecz abyśmy posiedli prawdziwą i głęboką troskę o stan kościoła. Jeśli nie
+stało się to naszym celem, to nasze badania przerodzą się po prostu w pewnego
+rodzaju purytańską scholastykę, w pospolity i bezpłodny intelektualizm, który
+choć interesujący i zajmujący, w końcu okaże się zupełnie bezwartościowy. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Zanim
+będę kontynuował, pragnę wyjaśnić, że nie zamierzam wygłosić formalnego
+przemówienia na temat “przebudzenia” jako takiego. Usiłowałem o nim zwiastować
+w ciągu dwudziestu sześciu niedzielnych poranków. Nie uczynię jednak tego
+dzisiejszego wieczoru. Zwracam się przede wszystkim do duchownych oraz do
+studentów przygotowujących się do posługi, a moim celem nie jest wykład na
+temat “przebudzenia”, lecz próba rozwiązania problemów i trudności, które
+wydają się być związane z tym zagadnieniem. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">I<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Nie
+ma potrzeby, aby poświęcać czas na definiowanie czym jest przebudzenie. Stanowi
+ono bowiem takie doświadczenie w życiu kościoła, w którym Duch Święty wykonuje
+nadzwyczajną pracę. Dokonuje on jej przede wszystkim wśród członków kościoła -
+polega ona na ożywianiu wierzących. Nie można ożywić czegoś, co nigdy nie miało
+życia. Tak więc przebudzenie, jak wynika z samej definicji, nade wszystko
+stanowi powrót do życia, ożywienie oraz obudzenie się letargicznych, ospałych i
+niemalże konających członków kościoła. Nagle zstępuje na nich moc Ducha,
+wprowadzając ich w nową i głębszą świadomość prawd, które przedtem uznawali
+jedynie w sposób intelektualny. Zostają oni upokorzeni, przekonani o swoim
+grzechu i przerażeni samymi sobą. Wielu z nich zaczyna przeczuwać, że nigdy nie
+byli chrześcijanami. Zaczynają wówczas widzieć wielkie zbawienie Boże w całej
+jego chwale, oraz odczuwać jego moc. Wtedy, w wyniku swojego ożywienia i
+powrotu do życia, zaczynają się modlić. W kazania duchownych wstępuje nowa moc,
+czego rezultatem jest fakt, że wielka ilość tych, którzy przedtem znajdowali
+się poza kościołem, nawraca się i przyłącza. Tak więc istnieją dwie główne
+cechy charakterystyczne przebudzenia: pierwsza - owo nadzwyczajne ożywienie
+członków kościoła, oraz druga - nawrócenie mas ludzkich, które dotąd
+pozostawały na zewnątrz, żyjąc w zobojętnieniu i grzechu. (Istnieje jeszcze
+wiele innych konsekwencji, których nie będę mógł omówić, takie jak potrzeba
+znalezienia większych budynków kościelnych,<span style="mso-spacerun:
+yes">  </span>powstawanie nowych przedsięwzięć, duża ilość mężczyzn
+zgłaszających się do posługi i rozpoczynających naukę, itd.). Oto więc, w
+swojej istocie, definicja znaczenia przebudzenia. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">II<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Powiedziawszy
+to, najlepiej będzie jeśli rozpoczniemy od historycznego przeglądu. Po
+pierwsze, chciałbym wspomnieć następującą rzecz: przebudzenie nigdy nie miało
+miejsca w kościele rzymsko-katolickim. Jest to fakt godny uwagi, który
+chciałbym zaznaczyć już na samym wstępie. Poszczególne jednostki w tym kościele
+poznały i doświadczyły to, co możemy nazwać przebudzeniem, lecz kościół jako
+taki przebudzenia takiego nie doznał. Dlaczego? Powiedziałbym że główną
+przyczyną jest bezpośrednia konsekwencja ich nauki o Duchu Świętym. Zawężają
+oni Jego działanie do Kościoła i kapłaństwa, a w szczególności do sakramentów,
+a w tym głównie do chrztu. Tak więc traktując w ten sposób Ducha Świętego i
+Jego działanie, nie pozostawiają oni w ogóle miejsca na przebudzenie, czego
+rezultatem jest to, że ono nigdy nie następuje. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Z
+podobnych przyczyn przebudzenie nigdy nie pojawiło się w kościele
+Unitariańskim. Po prostu stwierdzam fakty. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Moją
+kolejną uwagą jest to, że kościół anglikański, ogólnie mówiąc, wie niezbyt
+wiele na temat przebudzenia. (Chciałbym tutaj być jednak bardzo ostrożny i
+powiedzieć, że moją intencją w żadnym wypadku nie jest krytyka: po prostu
+usiłuję przedstawić fakty.) Pojawiały się chwile, gdy mężowie zaangażowani w
+posługę tego kościoła bez wątpienia stanowili część<span style="mso-spacerun:
+yes">  </span>przebudzenia oraz, jak sami zauważymy, byli potężnie
+wykorzystani w jego szerzeniu, lecz gdy spojrzymy na historię tego wyznania,
+nie miało miejsca nic co mogłoby stanowić ogólne przebudzenie w kościele
+anglikańskim.<span style="mso-spacerun: yes">  </span>Jest to z pewnością
+fakt o doniosłym znaczeniu. Niewielkie przebudzenie przeżyła anglikańska
+społeczność w Irlandii ok. stu lat temu, lecz na ile mi wiadomo, nigdzie
+indziej podobne zjawisko nie wystąpiło. Dlaczego tak się dzieje? Czy możliwe
+jest, że istnieje coś w formie nabożeństwa tego kościoła, co przeciwstawia się
+wolności działania Ducha? Czy możliwe jest również, że być może powiązania tego
+kościoła z państwem zmierzają w tym samym kierunku i że cały jego charakter i
+spojrzenie na siebie samego oraz na swój zawężony system myślenia wyhamowuje
+zjawisko przebudzenia w jego szeregach? Tak czy inaczej, jest to znaczący fakt,
+który wyróżnia się w historii kościoła anglikańskiego. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Przyjrzyjmy
+teraz naszemu zagadnieniu z perspektywy kilku stuleci, pomijając chwilowo
+Reformację, ponieważ wrócę do niej w dalszej części rozważania. Dowiadujemy
+się, że w XVII wieku, w Północnej Irlandii, miało miejsce nadzwyczajne
+przebudzenie, lub nawet cała ich seria. Były to lata 1620-te. Podobne lecz
+sporadyczne przebudzenia wystąpiły w różnych kościołach Szkocji, w czasie
+działalności takich osób jak Welsh, Bruce, Livingstone, David Dickson,
+Rutheford i Blair. Z całą pewnością musimy się zgodzić, że w Anglii, w
+przypadku posługi Rogersa z Dedham i Baxtera z Kiddeminster, mamy wszelkie
+powody ku temu, aby stwierdzić, że panowało tam przebudzenie. Gdy przeniesiemy
+się wreszcie do wieku XVIII, napotykamy na nadzwyczajne przebudzenie, które
+miało miejsce około roku 1727, wśród społeczności Morawian, w miejscowości
+Herrnhut w Niemczech. To zdumiewające działanie Ducha zostało graficznie
+przedstawione w początkowej części <i style="mso-bidi-font-style:normal">Pamiętników
+</i>Johna Wesley’a oraz oczywiście w wielu opracowaniach na temat historii
+Braci Morawskich. Potem, w Stanach Zjednoczonych Ameryki, mamy Jonathana
+Edwardsa oraz ‘Wielkie Przebudzenie’, w którym wybitną rolę odegrał również
+George Whitefield. W Anglii, również w czasie działalności<span style="mso-spacerun: yes">  </span>Whitefielda, a także braci Wesleyów i
+wielu innych osób,<span style="mso-spacerun: yes">  </span>Duch w sposób
+jednoznaczny zstępował w postaci przebudzeń aż do roku 1790. Rzeczywiście,
+ogólnie mówiąc, cały ten okres można określić jako epokę przebudzenia. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Dokładnie
+to samo można powiedzieć o Walii od roku 1735. Zarówno Howell Harris jak i
+Daniel Roland, zgodnie z ich własnymi słowami, otrzymali ‘chrzest mocy’, a
+potem wybuchło wielkie przebudzenie. Trwało ono przez cały szereg lat, po czym
+zaczęło zanikać, po czym wróciło ponownie. Nastąpił wówczas cały łańcuch
+przebudzeń; pojawiały się one w kilku falach aż do końca życia Rowlanda, a
+nawet później. Przebudzenia występowały okresowo aż do końca wieku. To samo,
+oczywiście, można było stwierdzić odnośnie Szkocji. Wszyscy, którzy znają
+historię XVIII wieku, słyszeli o miejscowości Cambuslang i o tym co się tam
+wydarzyło w trakcie sławnej wieczerzy Pańskiej, a potem w Kilsyth oraz kilku
+innych miejscowościach. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Gdy
+wkraczamy w wiek XIX, dowiadujemy się, że godne uwagi przebudzenie wybuchło w
+Płn. Irlandii w 1858 r. (choć ogólnie nosi ono nazwę ‘Przebudzenie 1859’), a
+następnie przeniosło się do Szkocji. Podobny ruch przebudzeniowy miał miejsce
+również w Walii i trwał przez cały rok. Te same wydarzenia, jak wiemy,
+nastąpiły także w Ameryce, począwszy od roku 1857. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Interesującą
+rzeczą byłoby zatrzymać się i opowiedzieć historię wspomnianych przebudzeń. Nie
+istnieje jednak taka potrzeba, ponieważ niedawno pojawiły się znakomite
+książki, które zdają o nich relację. Dla przykładu, dwie z nich mówią o
+przebudzeniu w Irlandii. Niedawno też ukazała się inna pozycja relacjonująca
+przebudzenie w Walii, w roku 1859. Istnieje wiele starszych książek, które
+zawierają ten sam materiał, lecz we wszystkich przypadkach są to prostu opisy
+wydarzeń. Nie zajmują się one więc naszymi zagadnieniami. Nawet książka taka
+jak <i style="mso-bidi-font-style:normal">Lectures on Revivals </i>(Wykłady o
+przebudzeniach) Sprague’a stanowi zbyt ogólne opracowanie, aby spełnić taką
+rolę. Niemniej jednak istnieje historia, i to aż do roku 1860. Jest to opowieść
+o ponad stuletnim, ciągle ponawiającym się przebudzeniu. Trudno nie
+zainteresować się faktem, że pomiędzy rokiem 1760 a 1860 miało miejsce
+przynajmniej piętnaście większych przebudzeń w samej Walii. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span><span style="mso-spacerun: yes"> </span>Uderzającym faktem jest to, że po ok.
+roku 1860 lub 1870 nastąpiła olbrzymia zmiana w poglądach ludzi na<span style="mso-spacerun: yes">  </span>całą tę sprawę. W tym historycznym
+momencie wydaje się pojawiać pewnego rodzaju linia podziału. Odkrywamy, że
+przedtem ludzie myśleli w kategoriach przebudzenia. Słyszymy również, że
+przebudzenie też często w ówczesnej historii kościoła następowało. Potem
+jednak, staje się ono raczej wyjątkowym fenomenem. Dzisiaj, jak wierzę,
+znaleźliśmy się w epoce, w której olbrzymia większość członków kościoła prawie
+całkowicie przestała myśleć w takich kategoriach. Gdyby w tamtych czasach
+pojawił się okres duchowej suszy, gdyby sprawy przestały się toczyć we właściwy
+sposób w kościele, pierwsza rzecz która przychodziła im na myśl była
+następująca: ‘Czy nie powinniśmy spędzić czasu na wyznawaniu grzechów, na
+upokorzeniu się i na modlitwie do Boga, aby nawiedził nas ponownie?’ Czynili to
+niemal instynktownie. My jednak tak nie postępujemy. Dlaczego? Jak można
+wyjaśnić tę zmianę, która wydaje się opanowywać myślenie kościoła? Myślę, że
+mogę zasugerować niektóre z możliwych przyczyn. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Pierwszym
+czynnikiem, ponad wszelką wątpliwość, jest zanik teologii reformowanej. Cały
+ruch modernistyczny, który rozpoczął się w latach 40-tych zeszłego wieku,
+niesłychanie przybrał na sile w latach 60-tych. Rozrósł się on w alarmującym
+tempie powodując, że teologia reformowana w szczególności pozostała w cieniu.
+Do tamtego momentu, przynajmniej w kościołach nonkonformistycznych, dominująca
+teologia była prawie całkowicie kalwińska, nie licząc społeczności
+metodystycznych. Potem jednak zaczął się jej bardzo smutny upadek i nagły
+zanik. Zmiana ta zaczęła następować bardzo szybko, a ci, którzy znają życie
+Charles’a Haddona Spurgeona wiedzą, że on nie tylko ten fakt zauważył, lecz
+głęboko go żałował i bardzo nad nim ubolewał. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Po
+drugie, pojawił się wpływ pism Charles’a G. Finney’a. Ze względu na liczebny
+sukces jego kampanii i zebrań, jego działalność przyciągnęła olbrzymią uwagę, a
+jego książka z wykładami pt. <i style="mso-bidi-font-style:normal">Revivals of
+Religion </i>(Przebudzenia religijne) wkrótce stała się bardzo popularna i
+niemalże osiągnęła miano bestsellera. Spojrzenie i nauka Finney’a stały się
+głównymi czynnikami mającymi wpływ na poglądy kościoła. Stały się one przyczyną
+sposobu myślenia, który określamy jako ‘kampanie ewangelizacyjne’. Finney jest
+najbardziej ze wszystkich odpowiedzialny za obecne zamieszanie w tej sprawie.
+Nasi amerykańscy bracia są nawet zdezorientowani w kwestii samej terminologii.
+Mówią oni o ‘prowadzeniu zebrania przebudzeniowego’. Mają oni oczywiście na
+myśli kampanię ewangelizacyjną. Jest to rezultat wpływu Finney’a, który
+naprawdę skomplikował całą sytuację. Oddziaływanie jego nauki na poglądy
+kościoła było nadzwyczaj głębokie. Obecnie, gdy kościół zaczyna obumierać,
+zamiast instynktownie zwracać się do Boga i modlić się o przebudzenie, ludzie
+raczej postanawiają zwołać komitet, zorganizować kampanię ewangelizacyjną,
+opracować i zaplanować program reklamowy po to - jak mówią - by dobrze
+‘wystartować’. Całe spojrzenie i mentalność zupełnie się zmieniły. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Po
+trzecie, przechodzimy do zagadnienia nieco kontrowersyjnego. Sam nie jestem co
+do niego zupełnie pewny, lecz coraz bardziej odczuwam, że stanowi ono istotny
+czynnik. Proszę pamiętać, że wciąż jeszcze omawiam zmianę jaka miała miejsce
+ok. roku 1860 i trudno mi oprzeć się wrażeniu, że istotną rolę w tej zmianie
+odegrały seminaria teologiczne. Spróbuję wyjaśnić jak do niej doszło. Do lat
+1830-tych sytuacja wyglądała mniej więcej następująco: początkowo Ewangelię
+zwiastowali duchowni i pastorzy, którzy sami zostali przebudzeni. Cały szereg
+mężczyzn, którzy nawrócili się, zaczęli odczuwać powołanie kaznodziejskie, bądź
+niektórzy z przywódców sugerowali im, że posiadają dar zwiastowania.
+Zamanifestowali oni go w czasie modlitwy, w trakcie lekcji lub podczas
+dyskusji, a teraz zachęcano ich, aby zaczęli przemawiać. Mężczyźni ci byli
+farmerami, robotnikami, rzemieślnikami itd. Nigdy nie uczyli się w seminariach
+teologicznych. Byli to ludzie posiadający żywe doświadczenie Boga w swoich
+sercach, którzy czytali i studiowali swoje Biblie oraz książki na jej temat. Byli
+to mężowie o wielkich, naturalnych talentach, przeważnie uczący się sami.
+Stanowili oni klasę mężczyzn, którzy stali się kaznodziejami po śmierci
+pierwszych, wielkich przywódców. Wówczas jednak pojawiła się myśl, że skoro
+wykształcenie rozpowszechniło się wśród mas społecznych, a zbory stały się
+teraz bardziej wymagające i uczone, posługa tych prostych i zwyczajnych ludzi
+staje się nieadekwatna. (Nie krytykuję<span style="mso-spacerun: yes"> 
+</span>jednak tej postawy; usiłuję przedstawić wam fakty). Zaczęto odczuwać
+potrzebę szkolenia oraz uznano, że posługa powinna być pełniona przez ludzi
+wykształconych. Początki miały bez wątpienia dobrą i prawidłową motywację. Nie
+istnieje również przyczyna <i style="mso-bidi-font-style:normal">a priori</i>,
+dla której duchowość i wykształcenie miałyby być ze sobą sprzeczne. Niemniej
+jednak, praktyka wykazuje, że gdy ludzie stają się coraz bardziej wykształceni,
+wykazują tendencję ku temu, aby zwracać coraz mniejszą uwagę na stronę duchową.
+Jest to niemalże nieuniknione, gdyż ciągle jeszcze znajdujemy się w ciele i
+wciąż pozostajemy niedoskonali. Człowiek, chcąc nie chcąc, stopniowo odkrywa,
+że coraz bardziej interesuje się sprawami z czysto intelektualnego punktu
+widzenia. Doświadczyłem tego w swoim własnym życiu. Nieświadomie można tak
+bardzo zainteresować się czysto intelektualnymi aspektami chrześcijaństwa,
+nauki, zrozumienia i wiedzy, że zapomina się o Duchu. Z tego względu sugeruję
+możliwość, że być może wzrost liczby teologicznych seminariów stanowi czynnik
+zniechęcający ludzi do myślenia o przebudzeniu. Im bardziej stajemy się
+wykształceni, tym bardziej szanujemy samych siebie. Gdy stajemy się ludźmi
+‘wysokiej rangi’ i osobami ważnymi, czujemy, że musimy podchodzić z wielką
+ostrożnością do tego, co robimy lub na co pozwalamy, aby się nam przydarzyło.
+Tego typu ludziom jest niesłychanie trudno zachować ‘prostotę, która jest w
+Chrystusie Jezusie’; z pewnością o wiele trudniej niż innego typu osobom, które
+przed chwilą opisałem. Nie chcę tu przesadzać, lecz sugeruję, że czynnik ten w
+dużym stopniu mógł wywrzeć poważny wpływ. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Bez
+względu na to jakie istnieje tego wyjaśnienie, dochodzimy do niezwykłego
+wniosku (chyba że jestem w wielkim błędzie), że w dzisiejszych dniach panuje
+brak zainteresowania kwestią przebudzenia. Mówię o tym na podstawie zdobytej
+wiedzy. Interesują mnie dyskusje i bywam w pewnych kręgach, gdzie ludzie
+spotykają się w podobnych celach. W oparciu o takie doświadczenia sugeruję, że
+istnieje nie tylko brak zainteresowania przebudzeniem, lecz także antagonizm w
+stosunku do niego. Wydawcy mówią mi, że książka, którą polecałem w związku z
+tematem, a mianowicie <i style="mso-bidi-font-style:normal">Lectures on Revival
+</i>(Wykłady o przebudzeniu) Sprague’a, nie sprzedaje się zbyt dobrze. Zdumiewa
+mnie to, lecz jest to faktem. Dlaczego panuje brak zainteresowania
+przebudzeniem? Dlaczego temat ten przestał zajmować ludzkie umysły? I tutaj
+właśnie pojawia się rzecz interesująca: to o czym mówię nie tylko jest prawdą
+dotyczącą braci arminian, lecz na równi odnosi się do braci kalwinów. Pragnę,
+abyśmy to jasno zrozumieli. Jeśli przeanalizujemy książki na temat Ducha
+Świętego, wydane w ciągu ostatnich pięćdziesięciu lat przez ludzi
+reprezentujących wszystkie szkoły, odkryjemy, że o przebudzeniu nie wspominają
+ani jednym słowem. Trudno się temu w niektórych przypadkach dziwić, ponieważ
+pogląd wielu pisarzy jest taki, że chociaż formalnie uznają działanie Ducha
+Świętego, w rzeczywistości opierają swoją wiarę na tym czego dokonuje i co
+organizuje człowiek. Cała ta postawa wyraża się w organizowaniu
+ewangelizacyjnych kampanii i wszelkich spotkań towarzyszących. Najpierw
+skłaniamy naszych ludzi, aby udali się na kampanię ewangelizacyjną, aby ich
+zbawić. Potem zabieramy ich w inne miejsce, gdzie otrzymują kolejne upragnione
+błogosławieństwo. Na tym polega ów pogląd. Nie próbuję go ośmieszać, lecz po
+prostu opisuję kryjącą się za tym wszystkim myśl - że zabieramy ich do
+właściwych miejsc, a potem oczekujemy na oczywiste rezultaty. ‘Czego więcej ci
+potrzeba?’ - pytają tacy ludzie. ‘Dlaczego mówisz o przebudzeniu? Wszystko jest
+dobrze. Popatrz na te tłumy, spójrz na masy ludzi, którzy przychodzą; czy to
+nie wystarczy? Po co szukać jeszcze czegoś więcej?’ Ich postawa jest doskonale
+logiczna, jeśli przyjmiemy jej pierwotne założenie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>To,
+że chrześcijanie reformowani znaleźli się w tej samej kategorii, jest dla mnie
+nie tylko zdumiewające lecz tragiczne. Nie tylko książki arminian pomijają
+wszelkie wzmianki o przebudzeniu, lecz to samo dotyczy również kalwinów. Dr.
+Lewis Sperry Chafer, na przykład, w swoim wielkim dziele na temat Pneumatologii
+w ogóle nie wspomina przebudzeń. Mamy tutaj przykład kalwina, który w powyższej
+kwestii uległ zarażeniu ogólnym klimatem myślowym. A oto jeszcze bardziej
+tragiczny fakt. Gdy przygotowywałem się do tego wykładu, sięgnąłem po Charlesa
+Hodge’a, lecz nie znalazłem tam żadnej pomocy. Charles Hodge nie wydawał się być
+zainteresowany przebudzeniem. Dlaczego? Twierdzę, że z powodów, które już
+wymieniłem. Osoba taka jak Charles Hodge staje się teologiem i ma tendencję,
+aby nie myśleć w kategoriach kościoła istniejącego w lokalnej, konkretnej
+sytuacji, lecz w kategoriach wielkich, abstrakcyjnych systemów prawdy. Żyje ona
+w sferze porównań, argumentów i kontrastów, a w szczególności w świecie
+systemów filozoficznych, co w sposób prawie nieunikniony prowadzi do zarzucenia
+właściwego myślenia o przebudzeniu oraz o bezpośrednim działaniu Ducha. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Właśnie
+w tym momencie pojawia się bardzo interesująca kwestia. Powiedziałbym, że owa
+zmiana spojrzenia po stronie kalwinów nastąpiła gdzieś pomiędzy Archibaldem
+Aleksandrem Hodge a Charlesem Hodge. Jak wiecie, Charles Hodge stał się
+następcą Archibalda Aleksandra w seminarium teologicznym w Princeton. Archibald
+Aleksander doświadczył przebudzenia w czasie, gdy rozpoczynał swoją
+działalność. Charles Hodge natomiast wiedzę na ten temat posiadał jedynie do
+pewnego stopnia, lecz nie na tyle na ile posiadał ją Aleksander, który był
+człowiekiem starszym i na leżał do szeregów ludzi zeszłego wieku. Wydaje mi
+się, że właśnie w owym czasie pojawiła się ta zmiana. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Innym
+godnym uwagi zagadnieniem jest fakt, że jeśli chcielibyśmy uzyskać jakiekolwiek
+materiały dotyczące tematu przebudzenia, w mniejszym lub większym stopniu
+zmuszeni bylibyśmy do korzystania z książek na temat Ducha Świętego i Jego
+działania napisanych przed rokiem 1860. Istnieje na przykład pozycja pt. <i style="mso-bidi-font-style:normal">The Doctrine of the Holy Spirit </i>(Doktryna
+o Duchu Świętym) autorstwa George’a Smeatona, jak również <i style="mso-bidi-font-style:
+normal">The Office and Work of the Holy Spirit </i>(Urząd i dzieło Ducha
+Świętego) Jamesa Buchanana. Obydwie książki posiadają osobny rozdział na temat
+przebudzenia, przy czym należy zwrócić uwagę, że pochodzą one z przed roku,
+który wspomniałem. Czy nie jest to interesujący fakt? Jak widzicie, należą one
+do epoki, w której kościół instynktownie myślał na sposób, który przed chwilą
+opisałem. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">III<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Spróbujmy
+poddać tę sprawę analizie. Dlaczego ludzie reprezentujący tradycje reformowane
+wyraźnie utracili zainteresowanie kwestią przebudzenia? Wymieniłem już jedną z
+przyczyn, którą jest niebezpieczeństwo podejścia wyłącznie teoretycznego i
+intelektualnego. Sługa Ewangelii jest człowiekiem, który zawsze walczy na dwa
+fronty. Najpierw musi zachęcać ludzi, aby zainteresowali się doktryną i
+teologią, lecz nie upłynie wiele czasu zanim odkryje, że musi utworzyć drugi
+front i zacząć mówić im, że takie zainteresowanie nie wystarczy, oraz że
+istnieje niebezpieczeństwo stania się jedynie ortodoksyjnym intelektualistą,
+coraz bardziej zaniedbując własne życie duchowe oraz życie kościoła.
+Niebezpieczeństwo to<span style="mso-spacerun: yes">  </span>niesłychanie
+zagraża ludziom utrzymującym reformowane poglądy. Jest to jedyna grupa ludzi,
+którzy naprawdę interesują się teologią, dlatego przychodzi do nich diabeł i
+zapędza ich zbyt daleko w ich zainteresowaniach, czyniąc z nich czystych
+teologów, zajmujących się prawdą wyłącznie w sposób intelektualny. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Po
+drugie, jestem pewien, że zjawisko to zostało spowodowane tym, że tak wiele
+energii zużyto na walkę z modernizmem. Ponieważ wróg zaatakował w tym
+szczególnym punkcie, cała energia ludzi prawowiernych skupiła się na tym, aby
+go zdławić, powstrzymać i pokonać. Nieświadomie jednak pozwolili oni na to, aby
+ów konflikt zaczął kontrolować ich całym myśleniem, a zamiast pozytywnego
+przesłania zaczęła dominować apologetyka. Podobna rzecz wydarzyła się na
+początku XVIII wieku. Pojawił się racjonalizm i deizm, stając się przedmiotem
+troski kościoła. Co uczyniono? Zorganizowano wykłady Boyle’a, Butler napisał
+swoją<i style="mso-bidi-font-style:normal"> Analogię, </i>itd. Usiłowano
+powstrzymać ową falę poprzez odpowiadanie na zarzuty oraz rozprawianie się z
+nimi na polu intelektualnym. Proszę mnie źle nie zrozumieć. Nie występuję
+przeciwko ogólnej wartości apologetyki, lecz pragnę stwierdzić, że kościół,
+którym zaczyna rządzić zainteresowanie apologetyką, przestaje funkcjonować w
+sposób pozytywny. Został on zaatakowany przez diabła, a jego nastawienie stało
+się wyłącznie negatywne i nie potrafi już uznać pozytywnej działalności Ducha
+Świętego. Historia dowiodła, że to czego nie potrafiły dokonać ani wykłady
+Boyle’a ani usiłowania biskupa Butlera i innych, uczynił Bóg poprzez wylanie
+swojego Ducha na takich mężów jak Whitefield czy Wesley. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Trzecią
+przyczyną według mnie jest naturalna niechęć do nadmiernych emocji. Teologiczny
+myśliciel odnosi się do nich raczej nieufnie. Przecież wszyscy pozostali ludzie
+mogą i wyrażają uczucia - argumentuje; my jednak jesteśmy inni. Człowiek tego
+pokroju w bardzo subtelny sposób zaczyna rozwijać w sobie niechęć do emocji do
+takiego stopnia, że staje się to niezdrowe i złe. Traci równowagę i staje się
+winny zagaszenia Ducha. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Inną,
+pokrewną przyczyną, która według mnie wywiera dzisiaj szczególny wpływ jest to,
+że pojawiła się nadmierna reakcja przeciwko ruchowi zielonoświątkowemu oraz
+towarzyszącym jemu zjawiskom. Wiele osób tak bardzo obawia się pentakostalizmu,
+jego ekscesów i odchyleń, że gaszą Ducha. Zawsze istnieje niebezpieczeństwo
+popadnięcia w skrajność oraz zbytniego przeciwko czemuś reagowania, powodując
+utratę równowagi zawartej w Piśmie Świętym. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Istnieje
+jeszcze inny czynnik godny zastanowienia się. Znam cały szereg osób należących
+do kręgów reformowanych, które naprawdę wydają się być kontrolowane przez tego
+typu myśli. Przecież to właśnie tacy ludzie jak John Wesley (którego poglądy
+nie były reformowane - przyp. tłum.) odgrywali dominującą rolę w przebudzeniu
+XVIII wieku - mówią. Z tego wyciągają wniosek, że przebudzenie zawiera w sobie
+coś niepożądanego i niewłaściwego. ‘Czy może coś dobrego z takiej rzeczy
+wyniknąć? Jeśli tacy ludzie jak Wesley czy Finney oraz inni arminianie byli
+zaangażowani w przebudzenie i wykorzystani w nim jako narzędzia,<span style="mso-spacerun: yes">  </span>to powinniśmy mieć do niego
+podejrzenia.’ Błąd polega tutaj na tym, że my wszyscy mamy skłonność do
+myślenia w kategoriach szyldów i ugrupowań, nie uświadamiając sobie, że Bóg
+często ukazuje swoją suwerenność w taki sposób, że pomimo zamąconego myślenia
+człowieka, tak jak działo się to w pewnych kwestiach w przypadku Johna Wesley’a,
+Bóg pomimo wszystko może go błogosławić i nim się posługiwać A jeśli On tego
+nie potrafi uczynić, nie może istnieć takie zjawisko jak Boża suwerenność i
+wszechmoc. A zatem, z powodu ducha podziałów możemy zbłądzić w naszym myśleniu
+i stać się winni gaszenia Bożego Ducha. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Być
+może jednak najistotniejsza i najpoważniejsza jest sprawa następująca: sami
+Purytanie zdają się nie uczyć nas nic na temat przebudzenia. O, gdybym mógł
+obficie i obszernie cytować z ich pism! Nie mogę jednak tego uczynić. Na ile mi
+wiadomo, nie pisali oni na ten temat. Czy w ogóle uznawali przebudzenie?
+Pozycje Johna Owena dotyczące dzieła Ducha Świętego nie omawiają go. Spróbujcie
+dowiedzieć się co John Owen ma do powiedzenia na temat Ew.Jana 7:37-39, lub co
+mówi nam odnośnie kazania Piotra w Dz. Ap. 2: “Ale tutaj jest to, co było
+zapowiedziane przez proroka Joela”, albo na temat Dz. Ap. 3:20: “Aby nadeszły
+od Pana czasy ochłody”. On po prostu nie zajmuje się przedmiotem tych wersetów;
+nie czynią tego również inni. Dla wielu osób stwarza to niewątpliwie bardzo
+realną trudność. ‘Purytanie nie zajmowali się przebudzeniem’ - mówią - ‘Nigdy o
+nim nie mówili’. Czy więc może to być rzecz dobra? Czy cała ta sprawa nie jest
+w swej istocie trochę podejrzana?’<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Pytanie
+to musimy zadać sobie wprost. Dlaczego Purytanie nie zajmowali się zagadnieniem
+przebudzenia? Chciałbym zasugerować wam kilka powodów. Czy częściowo nie było
+to spowodowane tym, że żyli oni w szczególnej epoce i musieli wyjść naprzeciw
+szczególnym potrzebom? Purytanie byli współcześni swoim czasom. Byli
+nowocześni. Żyli w swoim własnym stuleciu i podchodzili realistycznie do
+aktualnych warunków które napotykali. Musieli walczyć na kilku frontach.
+Zmuszeni byli zwalczać nie tylko starą, rzymską naukę oraz nauczanie Lauda i jego
+przyjaciół w kościele anglikańskim, lecz także poglądy niektórych ‘bardziej
+szalonych ludzi’ z ich własnego grona, oraz poglądy sekt. Nie podoba mi się
+epitet ‘bardziej szaleni ludzie’, ale wśród Purytan istniały takie osoby jak
+Walter Craddock i Morgan Llwyd, które radykalnie różniły się od takich ludzi
+jak John Owen i Thomas Goodwin. Ich podejście było znacznie bardziej
+bezpośrednio związane z doświadczeniem w sensie pneumatologicznym, jak również
+miały one skłonności w kierunku mistycyzmu. Z całą pewnością była to prawda w
+przypadku Morgana Llwyda i oczywiście Kwakrów. Najwybitniejsi Purytanie,
+których dzieła posiadamy, takich ludzi zwalczali. Byli oni głęboko przejęci
+ekscesami i obawiali się ich. W rezultacie wiele ich pism na temat Ducha
+Świętego zostało zdeterminowanych tą polemiką, i stąd ich postawa bardzo często
+stawała się zbyt negatywna. Wierzę, że jest to częściowe wytłumaczenie
+zagadnienia. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Czy
+mógłbym również zaryzykować stwierdzenie, że społeczność w jakiej zostali
+wychowani oraz pewne idee i tradycje, które przejęli, mogły wywierać na nich
+hamujący wpływ? Tak czy inaczej bardzo zależało im na porządku - być może nawet
+za bardzo. Tak bardzo przejęci byli tym, aby wszystko odbywało się “godnie i w
+porządku”, że niejednokrotnie sprawia mi trudność, aby nie zarzucić im, że
+gaszą Ducha.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Pokuszę
+się o jeszcze jedną uwagę. Zastanawiam się czy nawet temperament nie odgrywa
+tutaj swojej roli. Zapowiedziałem że mam przemawiać na temat przebudzenia z
+historycznego i teologicznego punktu widzenia. Nieomal nie dodałem jednak
+jeszcze słowa ‘geograficzny’, a nawet ‘etnologiczny’! Nie jestem pewien czy
+element ten wchodzi tutaj w grę, lecz podejrzewam że tak. Każdy człowiek musi
+stoczyć jakąś walkę. Wszyscy posiadamy różne temperamenty, wszyscy też mamy szczególne
+jego słabości, które musimy zwalczać. Zastanawiam się, czy nie jest prawdą, że
+Anglik właśnie w tym punkcie takiej walki nie musi stoczyć, i czy nie powinien
+być jej w pełni świadomy? Czy to tylko przypadek, że przebudzenia w historii
+kościoła przeważnie omijały Anglię? Oczywiście nie zupełnie. Jak już wcześniej
+wspomniałem, XVIII wiek zdecydowanie się tutaj wyróżnia. Pojawiały się również
+sporadyczne przypadki w wieku XVII. Czy nie istnieje jednak realne
+niebezpieczeństwo, że niektórzy ludzie nieświadomie mogą wykazywać większe
+skłonności do grzechu gaszenia Ducha niż inni, z powodu odmiennego temperamentu
+i natury? <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Bez
+względu na przyczynę z pewnością zgodzimy się, że główne zainteresowanie
+Purytan skupiało się wokół spraw duszpasterskich i doświadczalnych w sensie
+osobistym. Na tym polegał ich geniusz i właśnie to pasowało im najbardziej w
+ich szczególnej pracy do której zostali powołani - do analizy przypadków
+pogwałcenia sumienia, rozwiązywania wątpliwości i pomaganiu ludziom w
+utrapieniach. W tej dziedzinie byli niezrównani i bez wątpienia była to rzecz
+szczególnie potrzebna w ich czasach i w ich pokoleniu. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>W
+ten sposób zaprezentowałem przynajmniej niektóre z przyczyn, zgodnie z moim
+zrozumieniem, dlaczego istnieje brak zainteresowania przebudzeniem wśród tych,
+którzy należą tradycji reformowanej.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">IV<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Rozważmy
+teraz inne zagadnienie - trudności i zarzuty dotyczące idei przebudzenia. Jeden
+z oczywistych, ogólnych zarzutów (którym niestety nie mam czasu obszerniej się
+zająć) związany jest z awersją do samego zjawiska. Niektórzy ludzie są tak
+przerażeni i zaalarmowani fenomenami, które czasami występują w czasie
+przebudzenia, że odrzucają wszystko. Oczywista odpowiedź brzmi, że mogą mieć
+miejsce przebudzenia, w których takie zjawiska w ogóle nie występują.
+Przebudzenia niesłychanie różnią się między sobą, w zależności od czasu, epoki
+i miejsca. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>A
+oto kolejna, szczególna trudność: nie wiem dokładnie w co wierzą współcześni
+Bracia Plymuccy (w Polsce : Wolni Chrześcijanie - przyp. tłum.). Wiem jednak,
+że pierwotnie uczyli oni bardzo zdecydowanie, że jest rzeczą niewłaściwą modlić
+się o przebudzenie, ponieważ jak mówili, Duch Święty został nam dany raz na
+zawsze w dniu Pięćdziesiątnicy. Jakim prawem wobec tego mamy Go prosić, aby
+przyszedł do nas w obecnych czasach? Tak brzmiała ich nauka, i wierzę, że
+pociągnęła ona za sobą głębokie skutki oraz wywarła wpływ na szerokie rzesze
+tych, którzy nie należą do tej części kościoła. Argument ten mówi: ‘Dlaczego
+modlicie się o przyjście Ducha - o Jego wylanie? Został On wylany w dniu
+Pięćdziesiątnicy. Jak może On zostać wylany ponownie?’ Takie nauczanie aktywnie
+zniechęca do modlitwy o przebudzenie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Inny,
+niekiedy pojawiający się zarzut stwierdza, że Nowy Testament nigdzie nie uczy
+nas, abyśmy modlili się o przebudzenie. W tym momencie natrafiamy na temat,
+który mógłby bez trudu zająć cały nasz czas. Na zarzut ten można odpowiedzieć w
+bardzo wyczerpujący sposób. Głównym argumentem jest to, że kościół Nowego
+Testamentu nie wzywał do modlitwy o przebudzenie ponieważ już w nim się
+znajdował. To co czytamy o kościele Nowego Testamentu, stanowi relację z
+przebudzenia. Kościół ten był pełen mocy Ducha. Gdy czytamy historie o
+przebudzeniach, czyż nie przypominają one nam natychmiast księgi Dziejów
+Apostolskich? Kościół zawsze wygląda podobnie do tego z czasów Nowego
+Testamentu, gdy ogarnięty zostaje przebudzeniem. Okres Nowego Testamentu był
+okresem przebudzenia: wielkie wylanie Ducha w dniu Pięćdziesiątnicy trwało.
+Kościół Nowego Testamentu był kościołem ‘pneumatycznym’ - wypełniony Duchem.
+Często argumentuję w sposób następujący: weźmy 1 List do Koryntian 14, gdzie
+Paweł musi napisać do kościoła odnośnie mówienia językami, aby każdy czynił to
+po kolei, oraz o tym, że jeśli ktoś prorokuje i widzi, że inny również pragnie
+mówić, powinien przerwać itd. Czy istniałaby potrzeba, aby napisać taki
+rozdział do kościoła w dzisiejszych czasach? Oczywiście że nie! Dlaczego?
+Ponieważ dzisiejszy kościół nie znajduje się w takim ‘pneumatycznym’ stanie.
+Kościół Nowego Testamentu natomiast, był wypełniony i ochrzczony w Duchu.
+Pozwólcie, że dodam tu jeszcze jedną kontrowersyjną uwagę. Wydaje mi się, że
+stowarzyszenia, które zostały założone w Anglii i Walii przez ojców
+metodystycznych obydwu szkół myślenia w XVIII wieku, znajdowały się znacznie
+bliżej kościoła Nowego Testamentu aniżeli kościoły Purytan w wieku XVII.
+Panowała tam większa wolność Ducha, większa spontaniczność oraz większe
+uczestnictwo zwykłej ludności. Uważam, że jest to myśl nad którą warto się
+zastanowić. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Tak
+brzmi więc częściowa odpowiedź na zarzut, że w Nowym Testamencie nie ma mowy o
+tym, aby modlić się o przebudzenie. Istnieje jednak wiele innych, podobnych
+argumentów. Zdaję sobie sprawę, że egzegeza Dz.Ap. 3:20 jest dość trudna.
+Buchanan i Smeaton wydają się jednak nie mieć żadnych wątpliwości. Twierdzą, że
+fragment ten dotyczy przebudzenia, i raczej się z nimi zgadzam. Owe ‘czasy
+ochłody od Pana’, jak mówią, oznaczają okresy przebudzenia, jak gdyby
+przesłanie Piotra brzmiało następująco: ‘Przed chwilą mieliście pierwszy wielki
+przykład mocy Ducha i błogosławieństwa. Będzie się to powtarzać aż do czasu
+odnowy wszystkiego.’ I znowu, aby uzasadnić, że kościół Nowego Testamentu był
+kościołem w czasie przebudzenia, przyjrzyjmy się<span style="mso-spacerun:
+yes">  </span>dalszym tego dowodom. W 1 Liście do Tesaloniczan 1:5 Paweł
+mówi: ‘Gdyż ewangelia zwiastowana wam przez nas doszła was nie tylko w słowie,
+lecz także w mocy i w Duchu Świętym, i z wielką siłą przekonania’. Czym było
+to, co przewróciło świat starożytny do góry nogami? Czy jedynie teologiczne nauczanie?
+Czy tylko ogłaszanie prawidłowych dogmatów? Ponad wszystko inne występowało tam
+potężne ‘objawianie się Ducha i mocy’. W jaki sposób ludzie ci przewrócili
+świat do góry nogami? Odpowiedź brzmi, że w księdze Dziejów Apostolskich mamy
+relację o wielkim przebudzeniu i o wylaniu Ducha. W przeciwnym wypadku, to co
+się wtedy wydarzyło nie mogłoby mieć miejsca. W jaki sposób powstały wszystkie
+te kościoły? Czy tylko dlatego że apostołowie wykładali właściwą doktrynę?
+Oczywiście że nie! Właściwej doktrynie towarzyszyło przejawianie się Ducha i
+mocy. Prawidłowa doktryna może uczynić kościół martwym. Można mieć martwą
+ortodoksję, można mieć kościół, który jest doskonale prawowierny lecz
+jednocześnie doskonale bezużyteczny. Nade wszystko, istniały tam manifestacje,
+namaszczenie, autorytet oraz wylanie mocy Ducha. Stanowi to jedyne wyjaśnienie
+zdumiewających rzeczy, które miały miejsce.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Doprowadza
+nas to do następnej trudności, o której bardzo wiele słyszymy w dzisiejszych
+dniach. Mówi się nam, że nie powinniśmy rozmawiać o przebudzeniu ponieważ
+najpierw potrzebujemy reformacji. Należy mieć właściwą doktrynę zanim można
+modlić się o przebudzenie. Tak więc musimy skoncentrować się wyłącznie na
+reformacji. Zgadzam się, że relacja pomiędzy tymi dwoma rzeczami stanowi
+niezwykle trudną kwestię, lecz utrzymuję, że linia podziału między nimi nie
+jest tak jasno określona jak niektórzy by tego chcieli. Co wydarzyło się w
+czasie Reformacji XVI wieku? Powinniśmy oczywiście zacząć od tego, że pojawił
+się wówczas unikalny czynnik polegający na tym, że nie tylko nauka kościoła
+rzymskiego była zła, lecz również cały jego system. To co się wydarzyło
+nazywamy ‘Reformacją’ głównie ze względu na rewolucję, która miała miejsce w
+ludzkich umysłach odnośnie natury kościoła oraz związanej z nim jego
+organizacji. Nie polegało to jedynie na zmianie doktryny. Nigdy też nie
+zapominajmy, że w okresie Reformacji panowało również wielkie przebudzenie. Nie
+można czytać historii o takim człowieku jak Latimer nie uświadamiając sobie
+jednocześnie, że został on użyty w oczywisty sposób jako przebudzeniowy
+kaznodzieja. Czy do przyjęcia byłaby sugestia, że zwykły angielski lud znalazł
+się jedynie pod wpływem zmienionej doktryny? Czy mogłoby to doprowadzić aż do
+takich rezultatów? Czy można znaleźć jakiekolwiek tego przykłady? Oczywiście,
+że nie! Nie, nie, panowało wówczas prawdziwe przebudzenie, a obecność i moc
+Ducha bez wątpienia tam spoczywała. Jest to jedyne adekwatne wyjaśnienie tego,
+co naprawdę wydarzyło się w XVI wieku. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Pragnę
+jednak podejść do zagadnienia z drugiej strony. Faktem historycznym jest to, że
+przed przebudzeniem w 1859 r. w Północnej Irlandii, panował okres wielkich
+doktrynalnych kontrowersji. Kościół Prezbiteriański w przeważającej mierze stał
+się ariański, a wielki i sławny Henry Cooke stoczył i zwyciężył potężną bitwę z
+arianizmem na długo przed nadejściem przebudzenia - około 30 lat przedtem. Ta
+przerwa w czasie nie jest tu bez znaczenia. Aby jednak być fair, muszę
+przypomnieć fakty. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Teraz
+jednak, pragnę spojrzeć na nie ponownie od drugiej strony. Istnieją ludzie,
+którzy mawiają: ‘Nie masz żadnego prawa, aby mówić o przebudzeniu; nie masz
+żadnego prawa, aby spodziewać się przebudzenia zanim ludzie nie staną się
+reformowani w swojej doktrynie’. Prosta odpowiedź brzmi, że George Whitefield
+otrzymał swój chrzest mocy w roku 1737, lecz w swojej teologii nie stał się
+kalwinem do ok. roku 1739, gdy znajdował się w Ameryce. Przebudzenie przybyło
+do niego, a poprzez niego do wielu innych, zanim jego doktryna stała się
+prawidłowa. Dokładnie to samo przydarzyło się Howellowi Harrisowi w Walii.
+Został on ochrzczony potężnym chrztem mocy w 1735 r., a dopiero w dwa lub trzy
+lata później zaczął widzieć prawdę w sensie doktrynalnym. Pragnę więc posłużyć
+się tym argumentem jeszcze raz. Jeśli mówimy, że Bóg nie może darować nam
+przebudzenia zanim najpierw nie mamy reformacji, to rozumujemy jak arminianie;
+mówimy, że Bóg nie może dokonać czegoś, zanim my sami najpierw nie uczynimy
+czegoś innego. Oznacza to, że narzucamy Bogu jakieś ograniczenia. Jest to
+popadanie w arminiańską terminologię i myślenie oraz zaprzeczanie
+fundamentalnej prawdy reformowanych poglądów. Jeśli naprawdę wierzymy w
+suwerenność Boga, musimy również wierzyć, że bez względu na to jaki jest stan
+kościoła, Bóg może posłać przebudzenie. I rzeczywiście, właśnie tak uczynił Bóg
+w XVIII wieku. Kościół znajdował się w opałach deizmu i racjonalizmu oraz
+ogólnie mówiąc, prowadził życie rozwiązłe. Prawda ta dotyczyła duchownych i
+przywódców. Wśród nonkonformistów natomiast, panowała martwota będąca wynikiem
+arianizmu, który zaraził nawet takich ludzi jak Isaac Watts. W takich właśnie
+okolicznościach Bóg dokonał tej zdumiewającej i zaskakującej rzeczy, pomimo że
+niektóre osoby, którymi On się posłużył wciąż były zdezorientowane w swoich doktrynalnych
+poglądach. To niewiarygodne, że każdy kto reprezentuje reformowany pogląd, może
+być winien takiej sprzeczności mówiąc, że nie można mieć przebudzenia bez
+uprzedniej reformacji. Ludzie ci nigdy nie powinni tak mówić; nie mają prawa
+ustanawiać warunków. Przebudzenie jest czymś, czego dokonuje Bóg w suwerennej
+wolności, często wbrew ludziom. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">V<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Usiłuję
+teraz podsumować i ocenić powyższe podejście do zagadnienia. Skutkiem całego
+zamieszania jest to, że kościół wydaje się być podzielony w obecnym czasie na
+dwie główne grupy. Istnieje grupa ludzi, którzy zawsze i wyłącznie mówią o
+przebudzeniu. Interesują się oni jedynie tym co wyjątkowe i niezwykłe oraz mają
+skłonność do ‘gardzenia dniem małych początków’, regularną pracą kościoła i
+regularnym w nim działaniem Ducha. Druga grupa tak bardzo podkreśla to co
+zwyczajne - regularną pracę kościoła i działanie Ducha - że odnosi się nieufnie
+do tego co niezwykłe i wyjątkowe. Odpowiedź oczywiście brzmi, że obydwie grupy
+nie mają racji. </span><span lang="EN-US" style="font-size:10.0pt;font-family:
+Tahoma;mso-ansi-language:EN-US">Pozwólcie, że zacytuję Buchanana z <i style="mso-bidi-font-style:normal">The Office and Work of the Holy Spirit. </i></span><span style="font-size:10.0pt;font-family:Tahoma">Buchanan był profesorem w Free
+Church College, w Edynburgu. Oto co napisał w 1856 r.:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>“Duch
+Święty nie ogranicza się do któregokolwiek ze sposobów działania w wykonywaniu
+swojej chwalebnej pracy; zawsze należy pamiętać o Jego suwerenności, gdy
+rozważamy temat o takim charakterze. Niestety, zbyt często przeocza się, że z
+jednej strony, według nas, niektórzy z nadmierną pewnością siebie kładą zbytni
+nacisk na powszechne i niezwykłe przebudzenie, jako na będące samo w sobie
+najlepszym przejawem łaski Ducha, oraz że we wszystkich przypadkach jest ono
+kwestią obietnicy dla wierzącej modlitwy. Z drugiej jednak strony, niemało z
+nich poważa spokojne i stopniowe powodzenie służby ewangelii, wykluczając lub
+przynajmniej umniejszając jakiemukolwiek nagłemu bądź niezwykłemu działaniu
+łaski. [Czyż nie znamy tych dwóch grup i dzisiaj?]<span style="mso-spacerun:
+yes">  </span>Pierwsi z nich nadmiernie preferują to, co nadzwyczajne i
+uderzające, podczas gdy drudzy popełnili błąd przeciwnej natury, preferując to,
+co bardziej zwyczajne i spokojne. Uważamy, że lepiej jest uznać obydwie metody
+nawrócenia i pozostawić wybór suwerennej mądrości i łaski Ducha. Dla Niego, na
+równi możliwe jest nawracać dusze zarówno jedną po drugiej jak i jednocześnie.
+Przyjmując też jedną z powyższych dwóch dróg, bez wątpienia ma On na względzie
+mądry cel. Nie podzielamy poglądów tych, którzy przeoczając stały postęp
+wielkiego dzieła nawracania pod wpływem wiernej posługi, nie biorą pod uwagę
+wielkiej liczby tych, którzy zostali przyłączeni jeden po drugim do kościoła
+żywego Boga jedynie dlatego, że ich nawróceniu nie towarzyszyły zewnętrzne
+przejawy wielkiego, religijnego przebudzenia. Nie możemy też zgodzić się z ich
+myśleniem, że kościół ma pewną gwarancję, aby spodziewać się, że Duch zostanie
+udzielony w każdym przypadku w taki właśnie szczególny sposób. Równie
+nieprzychylni jednak jesteśmy tym, którzy odrzucając wszelkie przebudzenia jako
+niebiblijne złudzenia, twierdzą, że uznają jedynie stopniowe rozpowszechnianie
+się Bożej prawdy oraz powolne, indywidualne nawrócenia pod wpływem wiernej
+posługi. Obydwie metody - jednoczesne i sukcesywne nawracanie dusz - na równi
+dokonują się pod wpływem mocy Ducha. Mogą też istnieć mądre przyczyny dla
+których, w pewnych przypadkach, należałoby wybrać pierwszą, podczas gdy w
+innych sytuacjach lepsza byłaby druga”.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Wierzę,
+że jest to niezwykłe stwierdzenie podsumowujące charakterystyczne przeżycia
+XVII i XVIII wieku, i niech Bóg broni, abyśmy kiedykolwiek przeciwstawiali
+jeden sposób Bożego działania drugiemu. Obydwa mają miejsce, zgodnie z Bożą
+opatrznością i mądrością. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Jaka
+jest więc moja ostateczna odpowiedź? Nie mogę uczynić nic lepszego, jak
+ponownie zacytować wam Buchanana:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>“Tak
+bardzo przyzwyczailiśmy się do bardziej powolnej, spokojnej i stopniowej metody
+utrzymywania i poszerzania królestwa Chrystusa, że łatwo nam o skłonność do
+zdumienia, a nawet do słuchania z pewną dozą osłupienia, gdy dochodzą nas
+wieści o jakimś nagłym czy powszechnym działaniu Ducha Bożego; doprawdy,
+zaprzestajemy nawet oczekiwań i modlitw o bardziej niezwykłe i szybsze zmiany
+stanu kościoła i świata, niż to co zazwyczaj zauważamy pod wpływem zwyczajnej
+posługi”. [Zastanawiam się ilu ludzi jest tego winnych w dniu dzisiejszym?]
+“Lecz Boże ‘drogi nie są jak nasze drogi, ani Jego myśli jak myśli nasze’.
+Często też w historii swojego kościoła upodobało Mu się z mądrych przyczyn
+zamanifestować swoją łaskę i moc w nadzwyczajny i niezwykły sposób; częściowo,
+aby obudzić i ostrzec drzemiący kościół; częściowo również dlatego, aby
+zaalarmować i przekonać przeciwników; nade wszystko jednak, aby natychmiast
+nauczyć ich o suwerenności i mocy tej łaski, którą zbyt skłonni są aby
+odrzucać.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Posłuchajcie
+również cytatu Jonathana Edwardsa w książce Smeatona, gdzie podobne stwierdzenie
+wyrażone zostało w równie niezwykły sposób: “Można zaobserwować, że od czasów
+upadku człowieka aż do dnia dzisiejszego, dzieło odkupienia w swoich skutkach,
+w głównej mierze dokonywało się poprzez niezwykłe manifestacje Ducha Bożego”.
+Proszę na to zwrócić uwagę. Kontynuuje on: “Wprawdzie bardziej stały wpływ
+Bożego Ducha zawsze w pewnym stopniu towarzyszy Jego obrzędom, jednak
+największe rzeczy związane z realizacją tego dzieła zawsze dokonywały się
+poprzez niezwykłe wylania Ducha, w czasie szczególnych okresów zmiłowania”.
+Wszelka bezstronna lektura historii kościoła musi potwierdzić i skłonić nas do
+akceptacji wypowiedzi Jonathana Edwardsa. Z całą pewnością, historia postępu i
+rozwoju kościoła w przeważającej mierze stanowi historię przebudzeń - potężnych
+wylań Bożego Ducha. Nie ma żadnej wątpliwości, że Bóg tak naprawdę utrzymywał
+zawsze swoje dzieło przy życiu oraz najbardziej je rozwijał poprzez owe
+nadzwyczajne, wyjątkowe i wspaniałe manifestacje swojej chwały i mocy.
+Twierdzę, że dowodzi temu ponad wszelką wątpliwość sama historia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">VI<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Pragnę
+zakończyć zadając pytanie: dlaczego chrześcijanie reformowani, bardziej niż
+ktokolwiek inny, powinni interesować się tematem przebudzenia? Z pewnością z
+następujących przyczyn. Po pierwsze: nic innego nie może do tego stopnia
+dowieść, że kościół jest kościołem Bożym. Historii ukazuje nam jego ciągłe
+wzloty i upadki. Samo w sobie dowodzi to, że kościół nie jest instytucją
+ludzką. Gdyby takim był, już dawno byłby upadł i zaniknął. Pozostaje jednak
+kościołem żywego Boga. Dzieje się tak wyłącznie dlatego, że należy do Niego i
+że On sam od czasu do czasu łaskawie interweniował, aby ochronić go i utrzymać
+przy życiu. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Po
+drugie, powiedziałbym, że historia nade wszystko ukazuje niemoc człowieka, gdy
+jest pozostawiony samemu sobie. Bez względu na to jak wielkim jest<span style="mso-spacerun: yes">  </span>obrońcą wiary, jak dzielnym bojownikiem
+o prawowierność, może on walczyć, pocić się, modlić, pisać i czynić wszystko co
+możliwe, lecz pozostanie bezskuteczny, bezsilny i nie potrafiący iść pod prąd.
+Upieramy się myśląc, że potrafimy właściwie pokierować sytuacją. Zakładamy nowe
+stowarzyszenie, piszemy książkę, organizujemy kampanię i jesteśmy przekonani,
+że potrafimy pójść pod prąd. Nie możemy jednak tego uczynić. ‘Gdy wróg wtargnie
+jak rzeka’, tylko Pan może ‘podnieść flagę przeciwko niemu’. Twierdzę, że fakt
+przebudzenia jasno i nieustannie dowodzi jak bezsilny i mały jest człowiek
+pozostawiony samemu sobie. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>A
+oto jeszcze inna myśl. Cóż może nas lepiej przekonać o tym, że dzieło zbawienia
+jest dziełem Ducha Świętego a nie jedynie sprawą moralnej perswazji czy
+argumentacji, niż przebudzenie? W jaki sposób? Przez sam fakt, że przychodzi
+ono tak nagle. Skoro przebudzenie jest rezultatem argumentacji i moralnej
+perswazji, to trzeba się w nie angażować przez jakiś okres czasu. Na tym
+polegał cały błąd w myśleniu takich ludzi jak Charles G. Finney. Chociaż
+formalnie uznaje on Ducha Świętego, praktycznie jednak Go pomija. Dzieło
+nawrócenia dokonuje się poprzez rozumowe argumentowanie. W ostatecznym
+rozrachunku, na tym zawsze polegał pogląd arminianizmu. Przedstawiciel poglądu
+reformowanego jednak odpowiada: ‘Nie, nie, jest to dzieło Ducha Świętego,
+bezpośrednie oddziaływanie Ducha na człowieka w jego umyśle, sercu i woli,
+poprzez oświecenie i odnowę.’ Kiedy więc i gdzie można to łatwiej zauważyć niż
+w czasie przebudzenia? Spójrzmy na raptowność nawróceń;<span style="mso-spacerun: yes">  </span>w szczególności zwróćmy też uwagę na
+fakt, który tak wielokrotnie pojawia się w historii przebudzeń, że wiele osób nawróciło
+się zanim nawet dotarły na zebranie lub usłyszały kaznodzieję. Ludzie ci
+nawracali się będąc w drodze. Nagle zstępowało na nich poczucie grzechu. Nie
+możemy<span style="mso-spacerun: yes">  </span>stwierdzić, że była to
+moralna perswazja. Oni nawet nie słyszeli kazania, ani jakiejkolwiek wstępnej
+argumentacji. Przebudzenie określa więc i uzasadnia to, co stało się głównym
+przedmiotem dyskusji na synodzie w Dort - jaki jest udział Ducha Świętego w
+nawróceniu. Główny mankament i błąd w argumentacji arminian, oraz<span style="mso-spacerun: yes">  </span>we wszystkim co z niej wynika, polega
+na tym, że wyklucza Ducha Świętego z prawdziwej decyzji, oraz twierdzi, że
+człowiek może nawrócić siebie sam. Przebudzenie, wręcz przeciwnie, dowodzi że
+zawsze i niezmiennie jest to działanie Ducha Świętego. W czasie przebudzeń
+można tego doświadczyć na wielką i dramatyczną skalę, a prawda ta<span style="mso-spacerun: yes">  </span>staje się przedmiotem naszej uwagi. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Po
+czwarte, chciałbym zapytać: Czy istnieje cokolwiek poza przebudzeniem, co
+mogłoby do tego stopnia zademonstrować Bożą suwerenność? Pomyślmy o tym w
+kategoriach czasu, w którym przebudzenie nadchodzi. Kiedy ma ono miejsce? Nie
+jest właściwą odpowiedzią stwierdzenie, że następuje ono wtedy, gdy zapewnimy
+odpowiednie, wstępne warunki, według nauki Finney’a. Nie, Bóg dokonuje tego w
+najbardziej nieoczekiwanych chwilach. Nigdy nie wiadomo kiedy zamierza On tego
+dokonać; następuje to zawsze nagle i niespodziewanie. Myślenie arminian
+natomiast polega na nauczaniu w jakiejś formie, że ‘jeśli uczynimy pewne
+rzeczy, wówczas...’. Nie, historia przebudzeń uczy nas zupełnie czegoś
+przeciwnego, zarówno jeśli chodzi o ich początek jak i koniec. Jest to coś
+bardzo chwalebnego. Człowiek nie tylko nie może przebudzenia rozpocząć, lecz
+także go powstrzymać. Nie potrafi on również podtrzymać go, gdy ustało. Ludzie
+próbowali dokonać wszystkich tych rzeczy, lecz nigdy nie mieli powodzenia.
+Suwerenność Boga ujawnia się w kwestii czasu. Tak, suwerenność Boża przejawia
+się także w kwestii miejsca, do którego przebudzenie przychodzi. Nie mogę
+zrozumieć chrześcijan, którzy nie fascynują się tą sprawą.<span style="mso-spacerun: yes">  </span>Nigdy Bóg bardziej ‘wniwecz nie obraca
+mądrości mądrych’ jak w czasie przebudzenia. Przyjrzyjmy się miejscom, w
+których On przebudzenie rozpoczyna - małe miasteczka, chaty i miejsca o których
+nigdy nie słyszeliśmy. Tylko ludzie zaczynają swoje ruchy w Londynie, w
+katedrze św. Pawła czy w jakimś wielkim hotelu. Bóg jednak tego nie czyni.
+Wyśmiewa On raczej ludzką mądrość, ich spryt i ważność, zarówno w kwestii czasu
+jak i miejsca, oraz jeśli chodzi o osoby, którymi zechce się posłużyć. Spójrzmy
+na ludzi, których On używał. Jeśli chcemy poznać najlepsze wyjaśnienie 1 Listu
+do Koryntian 1:25-31, czytajmy książki o przebudzeniach. ‘Niewielu jest między
+wami mądrych według ciała, niewielu możnych’, lecz głupi, nieliczący się,
+nieroztropni: tak Bóg wyśmiewa, wywraca i obnaża ludzką mądrość. Suwerenność
+Boża może być oglądana przede wszystkim podczas przebudzenia.<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Ostatnia
+przyczyna to fakt, że nic tak nie ukazuje nieodpartego charakteru łaski jak
+przebudzenie. Można to oczywiście zauważyć w każdym prawdziwym nawróceniu, lecz
+na wielką skalę oglądamy to zjawisko jedynie w czasie przebudzenia. Ludzie,
+którzy udają się na zebranie, aby je zakłócić i zniszczyć, nagle zostają
+powaleni i rzuceni na ziemię, ich oczy otwierają się, a oni sami otrzymują
+życie. Nic w tak oczywisty sposób nie jest widoczne w czasie przebudzenia, jak
+właśnie owa nieodpartość Bożej łaski. Nie tylko ‘głupcy, którzy przybyli by
+szydzić’, ale nawet wrogowie i osoby aroganckie, zostają upokorzone,
+obezwładnione, nawrócone i narodzone na nowo. Przebudzenie więc podkreśla i
+akcentuje w uderzający sposób tę szczególną, biblijną doktrynę. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Całe
+to zagadnienie doprowadza nas do jednego wniosku: jesteśmy powołani w tym
+momencie, aby ponad wszystko inne modlić się o przebudzenie. Niech Bóg broni,
+abyśmy stali się grupą ludzi, którzy jedynie potępiają aktywizm i nic nie
+robią! Tak właśnie mówi się o niektórych z nas. Nie daj Boże, aby to było
+prawdą! Czy mamy jedynie stać się nastawieni negatywnie, wytykając tylko winę
+innych, wskazując na luki w ich systemie, zawsze ich potępiając i ośmieszając?
+Oczywiście, że nie! Do czego więc jesteśmy powołani? Aby kontynuować naszą
+regularną pracę głoszenia ewangelii w całej jej pełni i czystości, tak jak
+zwiastowali ją Purytanie. Czyńmy wszystko co w naszej mocy, posługując się
+wszelkimi biblijnymi i słusznymi środkami, aby krzewić i bronić wiarę. Stosujmy
+naszą apologetykę tam gdzie jest to właściwe. Czyńmy to wszystko i realizujmy
+dzieło reformacji, w którą się zaangażowaliśmy. Jednocześnie jednak zachowajmy
+równowagę, o której przypomina nam Buchanan. Módlmy się o przebudzenie,
+ponieważ nic innego tak nam nie pomoże w bitwie, którą staczamy. Dzięki Bogu,
+że nasze wysiłki przynoszą rezultaty, i niech nikt z nas nie waży się nimi
+gardzić czy ich niedoceniać. Jednak to nie wystarczy. Epoka w której żyjemy oraz
+stan kościoła, nie wspominając już o świecie, wymagają potężnego przekonania o
+suwerenności Bożej, absolutnej konieczności działania Ducha, oraz różnych
+innych rzeczy, które już próbowałem podkreślić. Oznacza to, że niczego tak nie
+potrzebujemy jak przebudzenia. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma">VII<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Ślubujmy
+więc, że będziemy modlić się o wylanie Ducha Bożego, lecz najpierw pragnąłbym
+apel ten wyrazić słowami zaczerpniętymi z książki Smeatona. “Jeśli chodzi o
+szczególny sposób zanoszonej modlitwy, możemy powiedzieć, że w każdym okresie
+powszechnego przebudzenia, chrześcijańska społeczność trwa w oczekiwaniu, tak
+jak czekano na wylanie Ducha w jednomyślnej modlitwie i błaganiach w okresie
+pomiędzy Wniebowstąpieniem a Pięćdziesiątnicą. Nie zalecono nam żadnego innego
+sposobu, a kościół dzisiejszych czasów ma wszelkie podstawy ku temu, aby tak
+jak zawsze w przeszłości, jedynie czekać, spodziewać się i trwać w modlitwie.
+Pierwsi uczniowie czekali w młodzieńczej, prostej nadziei, nie na ducha,
+którego nie mieli, lecz na większą miarę Ducha, którego już posiedli; stąd też
+chrześcijaństwo nigdy nie zanikło. Gdy przez dziesięć dni trwali oni w
+oczekiwaniu, w jednomyślnej modlitwie, nagle przyszedł Duch, aby dać im duchowe
+oczy, aby mogli pojąć Boże sprawy tak jak nigdy przedtem ich nie znali, oraz
+aby udzielić im radości, której nie mógł im odebrać żaden człowiek. Była to
+modlitwa w Duchu (Ef. 6:18) oraz modlitwa o Ducha, o wielką “obietnicę Ojca”.
+Modlitwa która sprowadziła Ducha Świętego nie należała jednak do tego rodzaju
+próśb, które ustają jeśli nie są natychmiast wysłuchane, lub jeśli serce nie
+zostało właściwie dostrojone. Modlitwa która zwycięża w obecności Tego, który
+udziela Ducha, nie pozwoli Mu odejść bez przyjęcia błogosławieństwa. Gdy duch
+nadzwyczajnego błagania zostaje wylany z wysokości, gdy pielęgnowane jest
+żarliwe pragnienie Ducha Świętego, gdy kościół prosi zgodnie z Bożym bogactwem
+w chwale oraz spodziewa się tych wielkich rzeczy, które zagwarantowane zostały
+przez Boże obietnice i które mogą zostać spełnione dzięki zasługom Chrystusa,
+to czas aby zmiłować się nad Syjonem - czas naznaczony - już nadszedł (Ps.
+102:17-19). Gdy przyglądamy się modlitwom w Piśmie Świętym, odkrywamy, że Boża
+chwała, wzrost i powodzenie kościoła, jego świętość i rozszerzanie się, zawsze
+stawiane były wyżej w myślach i wzdychaniach świętych, aniżeli sprawy osobiste.
+Jeśli jednak powoduje nami jakiekolwiek inne nastawienie, nie jest to modlitwa,
+której uczy Duch, ani nie jest ona zanoszona w imieniu Chrystusa. Postawa
+modlitewna kościoła w pierwszych dniach po Wniebowstąpieniu, gdy uczniowie
+oczekiwali na Ducha, powinna być postawą kościoła czasów dzisiejszych. Nie
+muszę zwracać się ku rozlicznym przykładom wypowiedzi apostołów, dotyczących
+wielkiego obowiązku modlitwy “w Duchu” oraz modlitwy “o Ducha”, ani też nie
+będę przytaczał zwyczajów wszystkich prawdziwych pracowników, takich jak Luter,
+Welsh, Whitefield, czy inni, aby dowieść tej wielkiej prawdy, że modlitwa
+stanowi główną pracę w posłudze. Nie można też wysunąć bardziej chytrej i
+zwodniczej teorii, ani bardziej znieważającej Ducha Świętego, niż zasada
+przyjęta przez Braci Plymuckich, która mówi, że ze względu na wylanie Ducha
+podczas Pięćdziesiątnicy kościół nie ma potrzeby ani podstawy, aby więcej
+modlić się o wylanie Ducha Bożego. Wprost przeciwnie, im więcej kościół prosi o
+Ducha i oczekuje na Jego manifestację, tym więcej otrzyma. Modlitwa wiary, jak
+jedno nieprzerwane wołanie, dociera z ziemi wspierając wysiłki mające na celu
+nawrócenie ludzi idących na potępienie. Modlitwa ta poprzedza i towarzyszy
+wszystkim wezwaniom do pokuty.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Nie
+istnieje więc teraz nic lepszego co moglibyśmy uczynić, w świetle tego co
+usłyszeliśmy, niż zacząć zanosić nieustanną modlitwę, którą wypowiedział
+Izajasz w owych strasznych czasach, w których przyszło mu żyć. Posłuchajmy:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>“Spójrz
+z nieba i popatrz ze swojego wspaniałego, świętego przybytku! Gdzież jest twoja
+żarliwość i twoja moc? Nawał twoich uczuć i twojego miłosierdzia? Nie stój na
+uboczu! Ty wszak jesteś naszym ojcem, gdyż Abraham nas nie zna, a Izrael nas
+nie uznaje! Ty, Panie jesteś naszym ojcem i Odkupicielem. To jest twoje imię od
+wieków. Dlaczego dopuściłeś Panie, że zboczyliśmy z twoich dróg, a nasze serca
+znieczuliłeś na bojaźń przed tobą? Zwróć się znowu ku nam przez wzgląd na twoje
+sługi, na plemiona, które są twoją własnością! Dlaczego bezbożni wkroczyli do
+twojej świętości, nasi nieprzyjaciele podeptali twoją świątynię? Staliśmy się
+podobni do tych, nad którymi Ty nigdy nie panowałeś i którzy nie są nazywani
+twoim imieniem.”<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><span style="mso-tab-count:1">            </span>Potem
+zaś, gdy poprosił Boga, aby spojrzał z nieba, posunął się jeszcze dalej:<o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma">“Obyś rozdarł niebiosa i zstąpił, oby przed tobą zatrzęsły
+się góry - jak ogień zapala chrust i powoduje, że kipi woda, oby było objawione
+twoje imię twoim nieprzyjaciołom, tak że narody będą drżeć przed tobą, gdy
+czynisz dziwne rzeczy, których nie oczekiwaliśmy! Obyś zstąpił i zatrzęsły się
+góry przed tobą! Czego od wieków nie słyszano, czego ucho nie słyszało i oko
+nie widziało oprócz ciebie, Boga działającego dla tego, który go oczekuje.
+Wychodzisz na spotkanie tych którzy czynią sprawiedliwość i o twoich drogach
+pamiętają. Oto Ty gniewałeś się, bo grzeszyliśmy przeciwko tobie, od dawna w
+grzechach i w odstępstwie. i wszyscy staliśmy się podobni do tego, co
+nieczyste, a wszystkie nasze cnoty są jak szata splugawiona, wszyscy więdniemy
+jak liść, a nasze przewinienia porywają nas jak wiatr. i nie ma nikogo, kto by
+wzywał twojego imienia, kwapił się do uchwycenia się ciebie, gdyż zakryłeś
+swoje oblicze przed nami i oddałeś nas w moc naszych grzechów. Lecz teraz,
+Panie, Ty jesteś naszym Ojcem, my jesteśmy gliną, a Ty naszym Stwórcą i
+wszyscyśmy dziełem twoich rąk!” (Iz. 63:15 - 64:8). Ilu z nas powstało, aby
+chwycić się Boga? Jak wielu? Jest to typowe, biblijne nauczanie, i takie
+również było nauczanie naszych ojców. Oczekiwali oni na Boga - wołali i wołali
+aż rozdarł niebiosa i zstąpił. Uchwyćmy się Go i błagajmy, aby potwierdził
+swoją własną prawdę oraz doktryny, które są tak bliskie naszemu sercu, aby
+kościół mógł zostać przebudzony, a rzesze ludzkie - zbawione. <o:p></o:p></span></p>
+<p class="MsoNormal" style="text-align:justify"><span style="font-size:10.0pt;
+font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+</div>
+<br/><form name="Historia">
+<input type="BUTTON" value="Strona główna"/>
+</form>
+<br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" enctype="application/x-www-form-urlencoded" method="POST">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:1.0cm;margin-bottom:0cm;
+margin-left:1.0cm;margin-bottom:.0001pt;mso-layout-grid-align:auto;punctuation-wrap:
+hanging;text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:12.0pt;font-family:Tahoma"><span style="display:none;
+mso-hide:all"><input name="filename" type="hidden" value="historia/przebudzenie.html"/></span></span><span lang="EN-US" style="mso-bidi-font-size:12.0pt;font-family:Tahoma;mso-ansi-language:
+EN-US"><o:p></o:p></span></p>
+<p style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Chciał(a)bym przesłać ten artykuł
+pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/><br/>
+<input action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST" type="submit" value="  Wyślij  "/><o:p></o:p></span></p>
+</form>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;
+margin-left:1.0cm;mso-layout-grid-align:auto;punctuation-wrap:hanging;
+text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:
+12.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h4 style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma;color:gray">Wersja HTML, Copyright
+© 1999 <a href="http://www.czytelnia.Jezus.pl"><span style="color:gray">Czytelnia
+Chrześcijanina </span></a></span></h4>
+
+{% endraw %}

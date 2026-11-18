@@ -1,1 +1,24 @@
-[]
+- title: pdf
+  url: /assets/legacy/swch/tnp/tnp.pdf
+  source_url: https://swch.pl/tnp/tnp.pdf
+  local: true
+- title: epub
+  url: /assets/legacy/swch/tnp/tnp.epub
+  source_url: https://swch.pl/tnp/tnp.epub
+  local: true
+- title: azw3
+  url: /assets/legacy/swch/tnp/tnp.azw3
+  source_url: https://swch.pl/tnp/tnp.azw3
+  local: true
+- title: mobi
+  url: /assets/legacy/swch/tnp/tnp.mobi
+  source_url: https://swch.pl/tnp/tnp.mobi
+  local: true
+- title: moduł SWORD
+  url: /assets/legacy/swch/tnp/polTNP.zip
+  source_url: https://swch.pl/tnp/polTNP.zip
+  local: true
+- title: moduł MySword
+  url: /assets/legacy/swch/tnp/TNP.bbl.mybible
+  source_url: https://swch.pl/tnp/TNP.bbl.mybible
+  local: true

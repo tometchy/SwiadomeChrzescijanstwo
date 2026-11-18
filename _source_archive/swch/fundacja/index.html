@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<META charset="UTF-8">
+<META name="viewport" content="width=device-width, initial-scale=1">
+<META NAME="Description" CONTENT="Powstaniu Czytelni Chrzescijanina towarzyszy pragnienie powrotu do biblijnego chrześcijaństwa. Kierując się nim przedstawiamy szerszemu gronu czytelników często nie znane lub zapomniane dzieła pisarzy chrześcijańskich dzieląc się tym co dla nas samych, przez ich usługę w sensie duchowym, okazało się pomocne i pożyteczne.">
+<META NAME="KeyWords" CONTENT="CZYTELNIA, CHRZEŚCIJANIN, CHRZEŚCIJAŃSTWO, CHRZEŚCIJAŃSKI, PUBLIKACJE, ARTKUŁY, KSIĄŻKI, BIOGRAFIE, JEZUS, CHRYSTUS, BÓG, ZBAWIENIE, POSELSTWO, WIARA, RELIGIA, BIBLIA, SŁOWO BOŻE, KOŚCIÓŁ, WSPÓLNOTA, ZBÓR, DUCH, DUCH ŚWIĘTY, TEOLOGIA">
+<META NAME="Copyright" CONTENT="Czytelnia Chrześcijanina, 1998-2000">
+
+<TITLE>Czytelnia Chrześcijanina</TITLE>
+<LINK rel="shortcut icon" href="../favicon.ico" type="image/x-icon"/>
+
+<SCRIPT LANGUAGE="JavaScript">
+    function inneserwisyselect( serwis )
+    {
+      if ( serwis.options[serwis.selectedIndex].value == "none" )
+        return 0;     
+      if ( serwis.options[serwis.selectedIndex].value == "none" )
+        return 0;     
+      var gourl=serwis.options[serwis.selectedIndex].value;
+		window.open(gourl, '_blank');	  
+    }
+</SCRIPT>
+
+<LINK REL="stylesheet" HREF="../bootstrap/css/bootstrap.min.css" TYPE="text/css">
+<LINK REL="stylesheet"  HREF="../icons/open-iconic-master/font/css/open-iconic-bootstrap.css">
+
+<style>
+.panel { display: none; }
+.panel:target, #o-fundacji { display: block; }
+.panel:target ~ #o-fundacji { display: none; }
+.lista { display: none; }
+#r2025:checked ~ #l2025, #r2024:checked ~ #l2024, #r2023:checked ~ #l2023, #r2022:checked ~ #l2022, #r2021:checked ~ #l2021, #r2020:checked ~ #l2020, #r2019:checked ~ #l2019, #r2018:checked ~ #l2018, #r2017:checked ~ #l2017, #r2016:checked ~ #l2016 { display: block; }
+#r2025:checked ~ .lata-pasek [for="r2025"], #r2024:checked ~ .lata-pasek [for="r2024"], #r2023:checked ~ .lata-pasek [for="r2023"], #r2022:checked ~ .lata-pasek [for="r2022"], #r2021:checked ~ .lata-pasek [for="r2021"], #r2020:checked ~ .lata-pasek [for="r2020"], #r2019:checked ~ .lata-pasek [for="r2019"], #r2018:checked ~ .lata-pasek [for="r2018"], #r2017:checked ~ .lata-pasek [for="r2017"], #r2016:checked ~ .lata-pasek [for="r2016"] { font-weight: bold; }
+#r2025:checked ~ .lata-pasek [for="r2025"]::after, #r2024:checked ~ .lata-pasek [for="r2024"]::after, #r2023:checked ~ .lata-pasek [for="r2023"]::after, #r2022:checked ~ .lata-pasek [for="r2022"]::after, #r2021:checked ~ .lata-pasek [for="r2021"]::after, #r2020:checked ~ .lata-pasek [for="r2020"]::after, #r2019:checked ~ .lata-pasek [for="r2019"]::after, #r2018:checked ~ .lata-pasek [for="r2018"]::after, #r2017:checked ~ .lata-pasek [for="r2017"]::after, #r2016:checked ~ .lata-pasek [for="r2016"]::after { content: ""; position: absolute; left: 50%; bottom: 0; margin-left: -5px; border-style: solid; border-width: 5px 5px 0; border-color: #007bff transparent transparent; }
+#o-fundacji .text-muted, #wladze .text-muted { color: #007bff !important; }
+.dane dt { font-weight: normal; }
+.tlo-pioro { position: absolute; left: 0; top: 0; width: 100%; overflow: hidden; z-index: -1; pointer-events: none; }
+.col.my-5 img { mix-blend-mode: multiply; }
+.tlo-pioro img { position: absolute; left: 0; top: 0; transform-origin: 0 0; opacity: .04; }
+.list-group-item-light { background-color: transparent; }
+#o-fundacji, #wladze { padding-left: 2.85rem; }
+body:has(#o-fundacji:target) li:has([href="#o-fundacji"]) .oi, body:has(#wladze:target) li:has([href="#wladze"]) .oi, body:has(#sprawozdania:target) li:has([href="#sprawozdania"]) .oi, body:has(#statut:target) li:has([href="#statut"]) .oi, body:has(#rodo:target) li:has([href="#rodo"]) .oi, body:not(:has(.panel:target)) li:has([href="#o-fundacji"]) .oi { color: #007bff; }
+.nav-pills label { cursor: pointer; }
+.lata-pasek { display: flex; align-items: center; margin-bottom: .5rem; }
+.lata-pasek .nav { width: 27rem; max-width: calc(100% - 4rem); flex-wrap: nowrap; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; }
+.lata-pasek .nav::-webkit-scrollbar { display: none; }
+.lata-pasek label { position: relative; flex: none; width: 4.5rem; padding-left: 0; padding-right: 0; text-align: center; scroll-snap-align: start; }
+.strzalka { visibility: hidden; color: #007bff; cursor: pointer; padding: 0 .5rem; }
+.strzalka.widoczna { visibility: visible; }
+.lista .list-group-item { border: 0; padding-top: .5rem; padding-bottom: .5rem; }
+.lista { position: relative; margin-left: 2.5rem; }
+.lista::after { content: attr(data-rok); position: absolute; right: 0; top: 50%; transform: translateY(-50%); font-size: 7rem; font-weight: bold; color: rgba(0, 0, 0, .07); pointer-events: none; animation: rozwin .5s ease-out both; }
+@keyframes rozwin { from { opacity: 0; transform: translateY(-.5rem); } to { opacity: 1; transform: none; } }
+.panel { scroll-margin-top: 100vh; padding-top: 3.2rem; }
+#sprawozdania:target, #statut:target, #rodo:target, #wladze:target, #o-fundacji { display: flex; flex-direction: column; height: 100%; }
+@media (max-width: 575.98px) {
+.col-sm-3 h6, .col-sm-3 ul { display: none; }
+#menu-tel:checked ~ ul { display: block; position: fixed; top: 4rem; right: .75rem; z-index: 1000; width: 15rem; background-color: #fff; border-radius: .25rem; box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15); }
+.menu-pasek { position: fixed; top: .75rem; right: .75rem; z-index: 1000; display: flex; align-items: center; justify-content: center; width: 2.75rem; height: 2.75rem; margin: 0; background-color: #fff; border: 1px solid #dee2e6; border-radius: .25rem; box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075); cursor: pointer; }
+.menu-pasek .oi { color: #818182; font-size: 1.25rem; }
+.panel { padding-top: 1rem; }
+#o-fundacji, #wladze { padding-left: 0; }
+#sprawozdania:target, #statut:target, #rodo:target, #wladze:target, #o-fundacji { height: auto; }
+#statut .text-center, #rodo .text-center { padding: 2rem 0; }
+.lista { margin-left: 0; }
+.lista::after { font-size: 4rem; }
+}</style>
+
+<SCRIPT>
+    function strzalki()
+    {
+      var pasek = document.querySelector( '.lata-pasek .nav' );
+      if ( !pasek.clientWidth )
+        return;
+      var koniec = pasek.scrollWidth - pasek.clientWidth;
+      document.querySelector( '.strzalka.lewa' ).classList.toggle( 'widoczna', pasek.scrollLeft > 1 );
+      document.querySelector( '.strzalka.prawa' ).classList.toggle( 'widoczna', pasek.scrollLeft < koniec - 1 );
+    }
+    function przewin( kierunek )
+    {
+      var pasek = document.querySelector( '.lata-pasek .nav' );
+      pasek.scrollBy( { left: kierunek * pasek.querySelector( 'label' ).offsetWidth, behavior: 'smooth' } );
+    }
+    window.addEventListener( 'DOMContentLoaded', function()
+    {
+      document.querySelector( '.lata-pasek .nav' ).addEventListener( 'scroll', strzalki );
+      window.addEventListener( 'resize', strzalki );
+      window.addEventListener( 'hashchange', strzalki );
+      window.addEventListener( 'load', strzalki );
+      strzalki();
+    } );
+    function pioro()
+    {
+      // dutka: środek niewidocznej, kolejnej pozycji menu; koniec: środek wolnego miejsca za logo
+      var NIB = [ 72, 725 ], KONIEC = [ 425, 65 ];
+      var menu = document.querySelector( '.col-sm-3 ul' );
+      var logo = document.querySelector( '.col.my-5 img:last-child' ).getBoundingClientRect();
+      var kontener = document.querySelector( '.container' ).getBoundingClientRect();
+      var ax, ay, bx, by;
+      if ( menu.offsetParent )
+      {
+        var ostatnia = menu.lastElementChild.getBoundingClientRect();
+        ax = ostatnia.left + ostatnia.width / 2 + window.scrollX;
+        ay = ostatnia.bottom + ostatnia.height / 2 + window.scrollY;
+        bx = ( logo.right + kontener.right ) / 2 + window.scrollX;
+        by = logo.top + logo.height / 2 + window.scrollY;
+      }
+      else
+      {
+        // telefon: menu schowane w rogu, pióro przez całą stronę od lewego dolnego do prawego górnego rogu
+        document.querySelector( '.tlo-pioro' ).style.height = '0';
+        ax = kontener.left + 15 + window.scrollX;
+        ay = document.documentElement.scrollHeight - 30;
+        bx = kontener.right - 15 + window.scrollX;
+        by = 30;
+      }
+      var kat = Math.atan2( by - ay, bx - ax ) - Math.atan2( KONIEC[1] - NIB[1], KONIEC[0] - NIB[0] );
+      var skala = Math.hypot( bx - ax, by - ay ) / Math.hypot( KONIEC[0] - NIB[0], KONIEC[1] - NIB[1] );
+      var tlo = document.querySelector( '.tlo-pioro' );
+      tlo.style.height = '0';
+      tlo.style.height = document.documentElement.scrollHeight + 'px';
+      tlo.querySelector( 'img' ).style.transform = 'translate(' + ax + 'px,' + ay + 'px) rotate(' + kat + 'rad) scale(' + skala + ') translate(' + -NIB[0] + 'px,' + -NIB[1] + 'px)';
+    }
+    function menutel()
+    {
+      // telefon: menu zwinięte po wyborze zakładki
+      document.getElementById( 'menu-tel' ).checked = false;
+      pioro();
+    }
+    window.addEventListener( 'DOMContentLoaded', menutel );
+    window.addEventListener( 'hashchange', menutel );    window.addEventListener( 'load', pioro );
+    window.addEventListener( 'resize', pioro );
+    window.addEventListener( 'hashchange', pioro );</SCRIPT>
+
+</head>
+<body>
+
+<div class="tlo-pioro"><img src="../images/pioro_tlo.png" alt=""></div>
+
+
+<div class="container">
+
+	<div class="row">
+		<div class="col my-5">
+			<img src="../images/lampa.gif" border="0" alt="" class="img-fluid">
+			<img src="../images/czytelnia_tytul.bmp" border="0" alt="Czytelnia Chrześcijanina" class="img-fluid">
+		</div>
+	</div>
+
+	<div class="row">
+
+		
+		<div class="col-sm-3 pt-3 pr-4">
+			
+			<input type="checkbox" id="menu-tel" class="d-none" onchange="pioro()">
+			<label for="menu-tel" class="menu-pasek d-sm-none" title="Menu"><span class="oi oi-menu"></span></label>
+			<h6 class="mb-3">Fundacja</h6>
+			
+			
+			<ul class="list-group list-group-flush">
+			
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="#o-fundacji">Dane fundacji</a></li>
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="#wladze">Władze fundacji</a></li>
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="#sprawozdania">Sprawozdania</a></li>
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="#statut">Statut</a></li>
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="#rodo">RODO</a></li>
+				<li class="list-group-item list-group-item-light"><span class="oi oi-book">&nbsp;</span><a href="../index.html">Strona główna</a></li>
+			
+			</ul>
+			
+		</div>
+	
+		<div class="col-sm-8">
+			
+		
+<div id="sprawozdania" class="panel">
+
+<div class="my-auto">
+
+			<input type="radio" name="rok" id="r2025" class="d-none" checked>
+			<input type="radio" name="rok" id="r2024" class="d-none">
+			<input type="radio" name="rok" id="r2023" class="d-none">
+			<input type="radio" name="rok" id="r2022" class="d-none">
+			<input type="radio" name="rok" id="r2021" class="d-none">
+			<input type="radio" name="rok" id="r2020" class="d-none">
+			<input type="radio" name="rok" id="r2019" class="d-none">
+			<input type="radio" name="rok" id="r2018" class="d-none">
+			<input type="radio" name="rok" id="r2017" class="d-none">
+			<input type="radio" name="rok" id="r2016" class="d-none">
+			<div class="lata-pasek">
+				<span class="oi oi-chevron-left strzalka lewa" onclick="przewin( -1 )"></span>
+				<div class="nav nav-pills">
+					<label for="r2025" class="nav-link mb-0">2025</label>
+					<label for="r2024" class="nav-link mb-0">2024</label>
+					<label for="r2023" class="nav-link mb-0">2023</label>
+					<label for="r2022" class="nav-link mb-0">2022</label>
+					<label for="r2021" class="nav-link mb-0">2021</label>
+					<label for="r2020" class="nav-link mb-0">2020</label>
+					<label for="r2019" class="nav-link mb-0">2019</label>
+					<label for="r2018" class="nav-link mb-0">2018</label>
+					<label for="r2017" class="nav-link mb-0">2017</label>
+					<label for="r2016" class="nav-link mb-0">2016</label>
+				</div>
+				<span class="oi oi-chevron-right strzalka prawa widoczna" onclick="przewin( 1 )"></span>
+			</div>
+			<ul id="l2025" data-rok="2025" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie finansowe FSCh 2025.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie finansowe FSCh 2025 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie finansowe FSCh 2025 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie merytoryczne FSCh 2025.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie merytoryczne FSCh 2025 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/2025/Sprawozdanie merytoryczne FSCh 2025 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2024" data-rok="2024" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie finansowe FSCh 2024.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie finansowe FSCh 2024 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie finansowe FSCh 2024 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie merytoryczne FSCh 2024.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie merytoryczne FSCh 2024 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/2024/Sprawozdanie merytoryczne FSCh 2024 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2023" data-rok="2023" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2023.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2023 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2023 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2023.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2023 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2023 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2022" data-rok="2022" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2022.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2022 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2022 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2022.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2022 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2022 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2021" data-rok="2021" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2021.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2021 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2021 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2021.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2021 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2021 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2020" data-rok="2020" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2020.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2020 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2020 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2020.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2020 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2020 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2019" data-rok="2019" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2019.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2019 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2019 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2019.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2019 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2019 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2018" data-rok="2018" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2018.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2018 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2018 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2018.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2018 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2018 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2017" data-rok="2017" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2017.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2017 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2017 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2017.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2017 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2017 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+			<ul id="l2016" data-rok="2016" class="lista list-group list-group-flush">
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-calculator">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2016.pdf" target=_blank><small>Sprawozdanie finansowe</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2016 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie finansowe FSCh 2016 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania finansowego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-people">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2016.pdf" target=_blank><small>Sprawozdanie merytoryczne</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-thumb-up">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2016 przyjęcie.pdf" target=_blank><small>Uchwała o przyjęciu sprawozdania merytorycznego</small></a></li>
+					<li class="list-group-item list-group-item-action list-group-item-light"><span class="oi oi-circle-check">&nbsp;</span><a href="../fundacja/Sprawozdanie merytoryczne FSCh 2016 zatwierdzenie.pdf" target=_blank><small>Uchwała o zatwierdzeniu sprawozdania merytorycznego</small></a></li>
+			</ul>
+
+</div>
+
+</div>
+
+<div id="statut" class="panel">
+
+<div class="text-center my-auto">
+<a href="../fundacja/Statut.pdf" target=_blank><span class="oi oi-list-rich" style="font-size: 6rem;"></span></a>
+<p class="mt-3"><small><a href="../fundacja/Statut.pdf" target=_blank>Otwórz PDF w nowym oknie</a></small></p>
+</div>
+
+</div>
+
+<div id="rodo" class="panel">
+
+<div class="text-center my-auto">
+<a href="../fundacja/Regulamin_RODO.pdf" target=_blank><span class="oi oi-shield" style="font-size: 6rem;"></span></a>
+<p class="mt-3"><small><a href="../fundacja/Regulamin_RODO.pdf" target=_blank>Otwórz PDF w nowym oknie</a></small></p>
+</div>
+
+</div>
+
+<div id="wladze" class="panel">
+
+<div class="my-auto">
+
+<div class="row">
+	<div class="col-sm-6">
+		<h6 class="mb-3">Zarząd Fundacji</h6>
+		<p><small class="text-muted">Prezes Zarządu</small><br>Waldemar Kułakowski</p>
+		<p><small class="text-muted">Wiceprezes Zarządu</small><br>Małgorzata Kaniecka</p>
+	</div>
+	<div class="col-sm-6">
+		<h6 class="mb-3">Rada Fundacji</h6>
+		<p><small class="text-muted">Przewodniczący Rady Fundacji</small><br>Karol Czarnowski</p>
+		<p><small class="text-muted">Członek Rady Fundacji</small><br>Karolina Mroczka</p>
+		<p><small class="text-muted">Członek Rady Fundacji</small><br>Daniel Kowalski</p>
+		<p><small class="text-muted">Członek Rady Fundacji</small><br>Mateusz Kaniecki</p>
+	</div>
+</div>
+
+</div>
+
+</div>
+
+<div id="o-fundacji" class="panel">
+
+<div class="my-auto">
+
+<h4>FUNDACJA ŚWIADOME CHRZEŚCIJAŃSTWO</h4>
+
+<dl class="row dane mt-4">
+	<dt class="col-sm-4"><small class="text-muted">Adres</small></dt><dd class="col-sm-8">ul. Konstytucji 3 Maja 13B/43, 87-100 Toruń</dd>
+	<dt class="col-sm-4"><small class="text-muted">Telefon</small></dt><dd class="col-sm-8">697 197 021</dd>
+	<dt class="col-sm-4"><small class="text-muted">NIP</small></dt><dd class="col-sm-8">879 268 51 81</dd>
+	<dt class="col-sm-4"><small class="text-muted">REGON</small></dt><dd class="col-sm-8">36471255000000</dd>
+	<dt class="col-sm-4"><small class="text-muted">KRS</small></dt><dd class="col-sm-8">0000623408 / 2016-06-15</dd>
+	<!-- <dt class="col-sm-4"><small class="text-muted">Data wpisu do KRS</small></dt><dd class="col-sm-8">2016-06-15</dd> -->
+	<dt class="col-sm-4"><small class="text-muted">Rachunek bankowy</small></dt><dd class="col-sm-8">51 1750 0012 0000 0000 3413 8044</dd>
+</dl>
+
+</div>
+
+</div>
+
+
+	  
+		</div>
+		
+	</div>
+	
+</div>
+
+<br>
+
+</body>
+</html>

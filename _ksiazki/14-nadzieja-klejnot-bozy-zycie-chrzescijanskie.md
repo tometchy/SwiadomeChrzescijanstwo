@@ -6,8 +6,8 @@ sort_order: 14
 kind: ksiazka
 catalog_status: ''
 source_url: https://www.wswch.pl/
-source_provenance: web-catalog-snapshot-2026-11-17
-source_text_verified: false
+source_provenance: original-downloaded-html
+source_text_verified: true
 edition_note: Dodruk
 historical_price: 41 zł
 ---

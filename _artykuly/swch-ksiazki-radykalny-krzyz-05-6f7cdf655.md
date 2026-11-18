@@ -1,0 +1,28 @@
+---
+title: Zachłanność puszczy
+category: Książki
+permalink: /czytelnia/swch-ksiazki-radykalny-krzyz-05-6f7cdf655/
+source_url: https://swch.pl/ksiazki/radykalny_krzyz_05.html
+imported_from_legacy: true
+source_text_sha256: 59faee30ce87882b25604bbdf11448cd72f035d8c299fa397cc3b89c018a409b
+source_char_count: 4850
+source_verified: true
+---
+
+{% raw %}
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+<h1>Zachłanność puszczy</h1>
+<p> "Człowiek został stworzony, aby żyć w sadzie" - mówi dr Harold C. Mason - "lecz na skutek grzechu został zmuszony do życia na polu, które wydarł swoim wrogom w pocie i łzach, i które utrzymuje w swoim posiadaniu tylko kosztem nieustannej czujności i nie kończącego się wysiłku. Gdyby zaledwie przez kilka lat zaniechał swoich starań, puszcza na nowo wkroczyłaby, aby opanować jego pole. Dżungla i lasy pochłonęłyby jego pracę i cała jego troskliwa opieka poszłaby na marne".
+<p> Każdy rolnik zna zachłanność puszczy, której nie da się zniszczyć ani przy pomocy nowoczesnej techniki, ani przez udoskonalenie metod uprawy. Bez względu na to, jak starannie przygotować glebę, w jak doskonałym stanie pozostawić płoty, jak dokładnie zakonserwować budynki, niech tylko właściciel zaniedba przez jakiś czas swoją cenną posiadłość, a zaraz zacznie ona wracać do dziczy, pochłaniana stopniowo przez dżunglę lub pustynię. Pozostawiona sama sobie przyroda zawsze stacza się samoczynnie w kierunku puszczy, nigdy w kierunku przynoszącego plony pola. O tym, powtarzam, wie każdy rolnik.
+<p> Dla czujnego chrześcijanina fakt ten będzie czymś więcej niż obserwacją dotyczącą rolników. Będzie on podobieństwem, lekcją przykładową, wskazującą na istnienie ogólnego prawa, rządzącego wszystkimi dziedzinami życia w naszym upadłym świecie, któremu podlegają zarówno rzeczy materialne, jak i rzeczy duchowe. Nie możemy wydostać się spod działania tego prawa, które powoduje, że wszystkie rzeczy pozostają dzikimi i wracają do stanu dzikości, jak tylko ustaje praca ich kultywacji. To, co jest prawdziwe w odniesieniu do pola, jest też prawdziwe w odniesieniu do duszy. Obyśmy byli wystarczająco mądrzy, aby to zobaczyć!
+<p> Upadły świat nie ma skłonności staczania się w stronę pobożności, lecz zdecydowanie w stronę przeciwną. "Czy ten podły świat sprzyja łasce" - pyta poeta retorycznie - "by pomóc mi wzbić się do Boga?" Smutna odpowiedź brzmi: "nie" i zrobimy dobrze, jeśli dopilnujemy, aby każdy nowy chrześcijanin nauczył się tej lekcji jak najprędzej po swoim nawróceniu. Czasem robimy wrażenie, jak gdyby było możliwe zdobycie przy ołtarzu modlitwy raz na zawsze czystości serca i siły, zapewniającej zwycięstwo na całą resztę naszego życia. Jak błędne jest takie przekonanie dowodzi niezliczona ilość chrześcijan na przestrzeni wieków.
+<p> Prawdą jest, że żadne przeżycie duchowe, jakkolwiek byłoby ono rewolucyjne, nie uchroni nas od pokus, a czymże są pokusy, jak nie usiłowaniem dżungli wdarcia się z powrotem na świeżo wykarczowane pole? Oczyszczone serce jest czymś nie do zniesienia dla diabła i wszystkich sił zgubionego świata. Nie spoczną one, dopóki nie odzyskają z powrotem tego, co utraciły. Dżungla będzie chciała wkroczyć i pochłonąć te niewielkie obszary, które zostały wyzwolone przez moc Ducha Świętego. Tylko nieprzerwana czujność i wytrwała modlitwa mogą uchronić przed zniszczeniem te moralne zdobycze, uzyskane dzięki działaniu Bożej łaski.
+<p> W zaniedbanym sercu wkrótce zaczną grasować świeckie myśli; zaniedbane życie wkrótce pogrąży się w moralnym chaosie; zaniedbany zbór, nie chroniony zazdrośnie przez potężne modlitwy wstawiennicze i ofiarną pracę, w niedługim czasie stanie się siedliskiem wszelkiego ptactwa nieczystego i wstrętnego, schronieniem nieoczekiwanego zepsucia. Pełzająca puszcza wkrótce opanuje zbór, polegający na własnej sile i zapominający czuwać i modlić się.
+<p> To prawo dżungli działa powszechnie w naszym upadłym świecie, zarówno na polach misyjnych, jak i w krajach bardziej cywilizowanych. Dlatego błędne jest przekonanie, że możemy spełnić nasz obowiązek misyjny przez to, że przejdziemy przez jeden kraj za drugim, głosząc ewangelię, bez podtrzymywania osiągniętych wyników przez gruntowne nauczanie i bez wytrwałego budowania zborów. Niestety, błąd ten jest szeroko rozpowszechniony w kościołach ewangelicznych, powodując, że wielu szczerych pracowników usiłuje zakończyć ewangelizację świata w ten powierzchowny sposób.
+<p> Doprowadzenie do nawrócenia kilku osób po to tylko, aby pozostawić ich własnemu losowi bez odpowiedniej opieki jest równie nierozsądne, jak pozostawienie stadka małych jagniąt w głębi dzikiej puszczy; jest to tak absurdalne, jak wykarczowanie i obsianie kawałka pola w środku lasu i pozostawienie go na łaskę i niełaskę niegościnnej przyrody. Wszystko to byłoby daremnym trudem i nie mogłoby dać rzeczywistych korzyści.
+<p> Podobnie jest z każdym wysiłkiem duchowym, który nie uwzględnia zachłanności puszczy. Jagnięta należy koniecznie otoczyć opieką pasterską, gdyż w przeciwnym razie poginą; pole musi być uprawiane, w przeciwnym razie zmarnieje, duchowych zdobyczy koniecznie trzeba strzec przez czujność i modlitwę, w przeciwnym razie padną ofiarą nieprzyjaciela.
+
+<p><font size="-1">[<a href="/czytelnia/swch-ksiazki-radykalny-krzyz-06-4d2873452/">Następny rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-04-455755413/">Poprzedni rozdział</a> | <a href="/czytelnia/swch-ksiazki-radykalny-krzyz-b22a52535/#spis">Spis treści</a>]</font></p>
+</p></p></p></p></p></p></p></p></p>
+{% endraw %}

@@ -1,0 +1,3289 @@
+---
+title: Kurs kaznodziejski
+category: Książki
+permalink: /czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/
+source_url: https://swch.pl/ksiazki/kurs_kaznodziejski.html
+imported_from_legacy: true
+source_text_sha256: 53ad88795188cc47150059302f01f982612630de6abe312cdcb1d3ff8584fa89
+source_char_count: 120469
+source_verified: true
+---
+
+{% raw %}
+
+<p>
+		D. Biespałow
+	</p>
+<h1>
+		Kurs kaznodziejski
+	</h1>
+<p>
+<i>
+			wydanie pierwsze
+		</i>
+</p>
+<h2>
+		Spis treści
+	</h2>
+<ul>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#odautora">
+			Od autora
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#przedmowa">
+			Przedmowa
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#1">
+			Lekcja 1 - Odpowiedzialność kaznodziei
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#2">
+			Lekcja 2 - Charakterystyka kaznodziei
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#3">
+			Lekcja 3 - Kwalifikacje kaznodziei
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#4">
+			Lekcja 4 - Powołanie kaznodziei
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#5">
+			Lekcja 5 - Konieczność głoszenia Ewangelii
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#6">
+			Lekcja 6 - Moc do głoszenia Ewangelii
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#7">
+			Lekcja 7 - Następstwa zwiastowania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#8">
+			Lekcja 8 - Kaznodzieja jako dłużnik
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#9">
+			Lekcja 9 - Niebezpieczeństwa grożące kaznodziei
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#10">
+			Lekcja 10 - Konstrukcja kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#11">
+			Lekcja 11 - Struktura kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#12">
+			Lekcja 12 - Metody wygłaszania kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#13">
+			Lekcja 13 - Typy kazań
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#14">
+			Lekcja 14 - Przygotowanie kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#15">
+			Lekcja 15 - Zbieranie materiału do kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#16">
+			Lekcja 16 - Posługiwanie się Pismem Świętym
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#17">
+			Lekcja 17 - Wygłaszanie kazania
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#18">
+			Lekcja 18 - Modlitwa
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#19">
+			Lekcja 19 - Służba postu z modlitwą
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#20">
+			Lekcja 20 - Różnorodność służby kaznodziejskiej
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#21">
+			Lekcja 21 - Jak wykonywać dzieła Boże
+		</a>
+<li>
+<a href="/czytelnia/swch-ksiazki-kurs-kaznodziejski-07c255823/#rady">
+			Praktyczne porady dla kaznodziei
+		</a>
+</li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul>
+<a name="odautora">
+</a>
+<h2>
+		Od autora
+	</h2>
+<p>
+		Pracując przez wiele lat na Bożej niwie i zajmując
+		się służbą jako pastor, ewangelista i misjonarz, miałem
+		dość często możliwość prowadzenia biblijnych wykładów
+		w wielu zborach. Wielu spośród naszych młodych braci
+		niejednokrotnie prosili mnie o wydanie "Kursu Kaznodziejskiego"
+		w formie książki, aby ci, którzy nie mają możliwości
+		nauki na kursach, w Biblijnym Instytucie, mogli skorzystać
+		dla swojej, bardziej owocnej służby w Winnicy Bożej.
+		
+	</p>
+<p>
+		Książka "Kurs Kaznodziejski" została napisana podczas
+		misyjnej służby w krajach Południowej Ameryki, gdy
+		odbywały się codzienne nabożeństwa i usługi Słowem
+		Bożym, gdy modlitwy trwały do późnych godzin wieczorowych.
+		Do czasu wydania tej książki w krajach Ameryki Południowej,
+		wygłosiłem ponad 450 kazań. Pan Bóg przez Ducha Świętego
+		i głoszenie Ewangelii nawrócił wiele dusz, wielu ochrzcił
+		Duchem Świętym i Jego Święte Imię zostało uwielbione
+		przez Jego naród. 
+	</p>
+<p>
+		Książka "Kurs Kaznodziejski" nie jest teorią, dlatego
+		została napisana nie wyłącznie dla samego czytania.
+		Książkę tę trzeba studiować razem z otwartą Biblią,
+		czytając w niej odpowiednie teksty, zgodnie z odsyłaczami.
+	</p>
+<p>
+		Poświęcam ten skromny trud dla chwały Pana Boga i mojego
+		osobistego Zbawiciela, Jezusa Chrystusa, oraz drogim
+		moim młodym braciom w Chrystusie, którzy pragną skutecznie
+		pracować dla Pana, na Jego przestronnej niwie!
+	</p>
+<p>
+<i>
+			D. Biespałow
+		</i>
+</p>
+<a name="przedmowa">
+</a>
+<h2>
+		Przedmowa
+	</h2>
+<h3>
+		Homiletyka
+	</h3>
+<p>
+		Słowo "homiletyka" pochodzi od greckiego słowa "homilia",
+		co oznacza "przekazanie" (wyjaśnienie) części Pisma
+		Świętego ludziom. W życiu i usługiwaniu Chrześcijan
+		pierwszych stuleci, gdy wiara w Pana Jezusa Chrystusa
+		była prześladowana przez władze, a publiczne chrześcijańskie
+		nabożeństwa były zabronione, homilia występowała jako
+		dyskusja, na podstawie Słowa Bożego. W ciągu chrześcijańskiej
+		historii, szczególnie w Europie zachodniej, słowo "homilia"
+		zaczęto używać w znaczeniu kazanie i współcześnie nauka
+		o kazaniu nazywa się homiletyką. 
+	</p>
+<p>
+		Od samego początku wierzący w Pana Jezusa Chrystusa
+		ludzie starali się poświęcać należne miejsce kazań,
+		poszukując wszelkich dobrych sposobów nauczania o Słowie
+		Bożym i przekazywaniu Go ludziom. Usługi wybitnych
+		kaznodziei były zapisywane i przechowywane. Pierwszy
+		zbiór kazań został przygotowany przez Orygenesa w trzecim
+		wieku. Później, w następnych stuleciach, zostało wydanych
+		znacznie więcej podobnych zbiorów. Bardziej udoskonalone
+		homiletyczne zapisy zostały wydane przez Marcina Lutra
+		i Andrzeja Hiperiusa.
+	</p>
+<p>
+		Homiletyka ostatnich stuleci przeszła w całkowity formalizm,
+		i obrała kierunek zupełnie nieewangeliczny. Filozofia
+		i ludzka psychologia całkiem wyparły czystą naukę Słowa
+		Bożego, zamiast Ewangelii wprowadzono ludzkie zasady,
+		zamiast kazania  oratorstwo. Współcześnie jest wiele
+		Biblijnych instytutów, które pomagają młodym braciom
+		poznawać Słowo Boże i należycie przekazywać je ludziom.
+		Ale jest też wiele sztucznych inkubatorów teologicznych,
+		w których wykładane są ludzkie doktryny. Wszystko,
+		to co oddala nas od czystej ewangelicznej nauki, musimy
+		odrzucić, "Głoście Ewangelię!"  to polecenie Pana
+		Jezusa. "Głoś Słowo!"  to powiedzenie ap. Pawła (Ew.
+		Marka 16:15; 2 Tym. 4:2).
+	</p>
+<p>
+		Prawidłowe nauczanie o kazaniach jest dla nas wszystkich
+		potrzebne. Wiedza od Pana Jezusa  Boga wzbogaca usługiwanie
+		kaznodziei. Słowo Boże wiele mówi o wiedzy. "Kto miłuje
+		pouczenie (nauki), ten miłuje wiedzę". "Język mędrców
+		rozsiewa wiedzę". "Serce rozumne szuka wiedzy". "Oczy
+		Pana ochraniają wiedzę" (Przyp. Sal. 12:1, 15:2,14,
+		22:12).
+	</p>
+<p>
+		Im więcej wiedzy otrzyma człowiek od Pana, i im mądrzej
+		on będzie tę wiedzę używał dla chwały Bożej, tym lepiej
+		będzie dla niego i tym większy sukces będzie miał przed
+		Panem Bogiem. Młody brat, który posiada coś od Pana
+		Boga, zaczerpnie wiele wiedzy i korzyści z tej książki.
+		Lecz ten, który niczego nie otrzymał od Pana Boga i
+		w tej książce, być może niczego nie znajdzie dla siebie.
+	</p>
+<p>
+		Słowa dobrej porady nigdy i nikomu nie zaszkodzą i
+		mądre serce przyjmie je. "Ze szczerego serca wypływają
+		moje słowa, moje wargi wypowiadać będą słowa rozumne.
+		Duch Boży stworzył mnie, a tchnienie Wszechmocnego
+		ożywiło mnie" (Job 33:3-4).
+	</p>
+<a name="1">
+</a>
+<h2>
+		Lekcja 1
+	</h2>
+<h3>
+		Odpowiedzialność kaznodziei
+	</h3>
+<p>
+		Tak jak wszelkie dobre dzieło, usługiwanie kaznodziei
+		jest związane z wielką odpowiedzialnością. Odpowiedzialność
+		kaznodziei jest podwójna:odpowiedzialność przed Panem
+		Bogiem i odpowiedzialność przed ludźmi. Ponieważ odpowiedzialność
+		kaznodziei jest związana ze zbawieniem nieśmiertelnych
+		ludzkich dusz, możemy ją nazwać największą i najważniejszą
+		odpowiedzialnością.
+	</p>
+<h3>
+		1. Odpowiedzialność kaznodziei przed Panem Bogiem
+	</h3>
+<p>
+		Ap. Paweł  jeden z największych głosicieli Ewangelii,
+		napisał:"A oznajmiam wam, bracia, że Ewangelia, którą
+		ja zwiastowałem, nie jest pochodzenia ludzkiego; albowiem
+		nie otrzymałem jej od człowieka, ani mnie jej nie nauczono,
+		lecz otrzymałem ją przez objawienie Pana Jezusa Chrystusa"
+		(Gal. 1:11-12). "Albowiem ja przyjąłem od Pana to,
+		co wam przekazałem" (1 Kor. 11:23), to oznacza, że
+		
+		<b>
+			kaznodzieja musi osobiście otrzymać od Pana Boga to,
+			co chce przekazać ludziom
+		</b>
+		. Dalej czytamy:"A mowa moja i zwiastowanie moje nie
+		były głoszone w przekonywujących słowach mądrości,
+		lecz objawiły się w nich Duch i moc, aby wiara wasza
+		nie opierała się na mądrości ludzkiej, lecz na mocy
+		Bożej!" (1 Kor. 2:4-5). Ap. Piotr napisał:"Jeśli kto
+		mówi, niech mówi jak Słowo Boże" (1 Ptr. 4:11).
+	</p>
+<p>
+		Kaznodzieja jest odpowiedzialny przed Panem Bogiem,
+		aby głosić czyste Boże Słowo, pod pomazaniem Ducha
+		Świętego, w mocy i wszechmądrości Bożej. Gdy kazanie
+		usługującego jest utrzymane w ramach Pisma Świętego,
+		pod natchnieniem i pomazaniem Ducha Świętego, kaznodzieja
+		jest instrumentem  naczyniem w rękach Bożych i za
+		jego kazanie jest odpowiedzialny Pan Bóg, który go
+		używa. Jednak, gdy kaznodzieja pod postacią głoszenia
+		Ewangelii głosi to, co sam wymyślił, filozofię ludzką
+		lub psychologię, to za takie głoszenie będzie odpowiadał
+		przed Panem Bogiem. Każdy kaznodzieja, stając za kazalnicą,
+		powinien dobrze rozsądzić swoje stanowisko przed Panem
+		Bogiem, dobrze rozważyć swoje zamiary, aby nie stać
+		się oszustem przed Panem Bogiem.
+	</p>
+<h3>
+		2. Odpowiedzialność kaznodziei przed ludźmi
+	</h3>
+<p>
+		"Będą pouczać lud o różnicy między tym, co nieczyste,
+		a tym, co czyste" (Ezech. 44:23). W tym zawiera się
+		główna treść służby kaznodziejskiej wobec ludzi i jego
+		odpowiedzialności przed ludźmi.
+	</p>
+<p>
+		Jeżeli kierowca nie może odróżnić koloru zielonego
+		od czerwonego, to nie ma prawa być kierowcą. Jeżeli
+		kucharz nie może odróżnić między tym, co jest słodkie,
+		a co gorzkie, między słonym a kwaśnym, to nie ma prawa
+		być kucharzem. Tak i kaznodzieja, jeżeli nie potrafi
+		odróżnić czyste od nieczystego i święte od nieświętego,
+		to nie ma prawa być kaznodzieją Ewangelii.
+	</p>
+<p>
+		Kaznodziejska odpowiedzialność wymaga dokładności w
+		jego służbie i kaznodzieja jest zobowiązany sam praktykować
+		to, co on zwiastuje innym ludziom. "We wszystkim stawiaj
+		siebie za wzór dobrego sprawowania przez niesfałszowane
+		nauczanie i prawość, przez mowę szczerą i nienaganną,
+		aby przeciwnik był zawstydzony, nie mając nic złego
+		o nas do powiedzenia" (Tyt. 2:7-8). "Niechaj cię nikt
+		nie lekceważy z powodu młodego wieku; ale bądź dla
+		wierzących wzorem w postępowaniu, w miłości, w wierze,
+		w czystości" (1 Tym. 4:12).
+	</p>
+<p>
+		Żeby kaznodzieja był zdolny do nauczania ludzi i rozróżniania
+		pomiędzy czystym i nieczystym, pomiędzy świętym i nieświętym,
+		to musi sam dobrze wiedzieć, co jest czyste, co nieczyste,
+		co święte i co nieświęte. Życie kaznodziei powinno
+		być Ewangelią w praktyce.
+	</p>
+<p>
+		Gdy para młodych osób jest zakochana, to jej się wydaje,
+		że na świecie nic nie istnieje, oprócz miłości. Ale
+		gdy staną się małżeństwem i przeżyją razem kilka lat,
+		to zauważają, że w ich życiu, oprócz miłości, jest
+		dużo odpowiedzialności. Mąż odpowiada jako gospodarz
+		rodziny, żona odpowiada jako matka i gospodyni domu.
+		Będąc nieprzygotowanymi do takiej odpowiedzialności,
+		wiele z tych młodych par w krótkim czasie rozwodzi
+		się.
+	</p>
+<p>
+		Odpowiedzialność kaznodziei jest bardzo wielka. On
+		odpowiada przed Panem Bogiem i przed ludźmi. Być kaznodzieją
+		Ewangelii i ponosić całkowitą odpowiedzialność za nią,
+		jest chwalebnym dziełem, godnym wieczności.
+	</p>
+<a name="2">
+</a>
+<h2>
+		Lekcja 2
+	</h2>
+<h3>
+		Charakterystyka kaznodziei
+	</h3>
+<p>
+		Podstawowy tekst:"Pilnuj siebie samego i nauki, trwaj
+		w tym, bo to czyniąc i samego siebie zbawisz, i tych,
+		którzy cię słuchają" (1 Tym. 4:16).
+	</p>
+<p>
+		Słowo "kaznodzieja" jest użyte w Biblii tylko dwa razy
+		2 Tym. 1:11; 1 Tym. 2:7 (w ukraińskim nowym przekładzie
+		także Rzym. 10:14; 2 Ptr. 2:5;). Greckie słowo "eklezjasta"
+		i izraelskie słowo "kohelet" oznacza, że jest to kaznodzieja.
+	</p>
+<p>
+		Kaznodzieja Ewangelii jest człowiekiem, który w swoim
+		życiu osobistym przeżył godny owoc nawrócenia i pokuty,
+		zawarł święte przymierze z Panem Bogiem poprzez chrzest
+		wodny, otrzymał obietnicę Ojca w realnym chrzcie Duchem
+		Świętym, ze znamieniem mówienia nowymi językami i prowadzi
+		czyste i święte życie. Kaznodzieja Ewangelii musi być
+		nowo narodzonym z wody i z Ducha (Jan 3:3-7). 
+	</p>
+<p>
+		Kaznodzieja musi kochać Pana Jezusa (2 Kor. 5:14-15;
+		1 Jan 4:9; 1 Ptr. 1:7-8). Kaznodzieja musi kochać dusze.
+		Ze wszystkich najdroższych skarbów na ziemi największym
+		skarbem jest człowiek.
+	</p>
+<p>
+		Najdroższym skarbem człowieka, jest jego dusza. Cena
+		ludzkiej duszy jest na tyle wielka, że Syn Boży zstąpił
+		z nieba i oddał życie Swoje za nią.
+	</p>
+<p>
+		Pewien kaznodzieja chwalił się tym, że lubi wygłaszać
+		kazania. Na to inny kaznodzieja zapytał go:"A czy ty
+		kochasz te dusze, którym głosisz Ewangelię?". Św. ap.
+		Paweł zwiastował ją z miłością do ludzkich dusz (Rzym.
+		9:3; 1 Kor. 9:19-23).
+	</p>
+<p>
+		Pewnego razu kaznodzieja siedział w swoim gabinecie
+		i przygotowywał kazanie. Raptem do gabinetu wszedł
+		jakiś nieznajomy, ubrany jak aptekarz, z wagą w rękach.
+		Postawił owego kaznodzieję na wadze i powiedział:"To
+		jest waga do określenia procentowej wartości. W tobie
+		jest:samolubstwa 10%, ambicji osobistej 23%, zamiłowania
+		do chwalenia się 19%, chluby ze swej denominacji 15%,
+		pychy ze swojego talentu 14%, zapału do panowania nad
+		ludźmi 12%, miłości do Pana Boga 4%, miłości do ludzi
+		3%. Razem:100%." Po zakończeniu całej procedury nieznajomy
+		powiedział:"Niech Pan Bóg okaże ci łaskę i zbawi ciebie!"
+		 i po tych słowach zniknął. Wówczas kaznodzieja skłonił
+		kolana i zaczął pokutować i błagać Pana Boga o łaskę,
+		i Pan przemienił go, zabierając z jego serca to wszystko,
+		co było ludzkie i dał mu serce Swoje  Boże.
+	</p>
+<p>
+		Gdy Słowo Boże mówi o kaznodziei lub o zwiastunie dobrej
+		wieści, to wskazuje nam jaki jest rodzaj jego służby,
+		a nie funkcję, czy rodzaj tytułu. W naszych czasach
+		jest wiele osób z tytułami kaznodziejskimi, którzy
+		nie mają niczego wspólnego z Panem Bogiem i z Ewangelią
+		Pana Jezusa.
+	</p>
+<p>
+		Powołany przez Pana Boga kaznodzieja powinien być mężem
+		Biblii, musi ją czytać, znać ją, kochać ją i być jej
+		przyjacielem (2 Tym. 2:15). Kaznodzieja musi rozumieć
+		kierownictwo Ducha Świętego i poznać Go. Dlatego kaznodzieja
+		Ewangelii musi być mężem postu i modlitwy! Winna być
+		ścisła więź z Panem Bogiem, z Jego Świętym Słowem 
+		pod kierownictwem Ducha Świętego, czyniącego mężem
+		Bożym, narzędziem w Rękach Bożych.
+	</p>
+<p>
+		Tak, jak Pan Jezus przyszedł czynić wolę Swojego Ojca,
+		kaznodzieja winien czynić wolę Pana Jezusa Chrystusa
+		i bez Niego nie wolno niczego czynić! (Jan 15:5). Kaznodzieja
+		jest współpracownikiem Bożym (1 Kor. 3:9). Winien pracować
+		i wykonywać dzieło Boże według Bożych wymogów. Kaznodzieja
+		Ewangelii jest także mężem wiary. Powinien twardo wierzyć
+		w to, co zwiastuje. Musi głosić Słowo Boże odważnie,
+		przekonywująco, śmiało i głośno (Jer. 1:17). Kaznodzieja
+		Ewangelii musi być zawsze gotowy do dwóch rzeczy:głoszenia
+		i umierania dla grzechu.
+	</p>
+<a name="3">
+</a>
+<h2>
+		Lekcja 3
+	</h2>
+<h3>
+		Kwalifikacje kaznodziei
+	</h3>
+<p>
+		Podstawowy tekst:"Niechaj cię nikt nie lekceważy z
+		powodu młodego wieku, ale bądź dla wierzących wzorem
+		w postępowaniu, w miłości, w wierze, w czystości".
+		"We wszystkim stawiaj siebie za wzór do dobrego sprawowania
+		przez niesfałszowane nauczanie i prawość" (1 Tym. 4:12;
+		Tyt. 2:7).
+	</p>
+<p>
+		Są trzy podstawowe kwalifikacje kaznodziei:duchowe,
+		intelektualne i fizyczne.
+	</p>
+<h3>
+		1. Duchowe kwalifikacje kaznodziei
+	</h3>
+<p>
+		Omówienie duchowych kwalifikacji kaznodziei jest dalszym
+		ciągiem poprzedniej lekcji. Musimy zawsze pamiętać,
+		że Pan Bóg jest bardziej zainteresowany tym 
+		<b>
+			kim jest kaznodzieja niż tym, co kaznodzieja czyni
+		</b>
+		. 
+	</p>
+<p>
+		"W wielkim zaś domu są nie tylko naczynia złote i srebrne,
+		ale też drewniane i gliniane; jedne służą do celów
+		zaszczytnych, a drugie pospolitych. Jeśli tedy kto
+		siebie czystym zachowa od tych rzeczy pospolitych,
+		będzie naczyniem do celów zaszczytnych, poświęconym
+		i przydatnym dla Pana Boga, nadającym się do wszelkiego
+		dzieła dobrego" (2 Tym. 2:20-21).
+	</p>
+<p>
+		Aby być naczyniem do celów zaszczytnych, używanych
+		przez Pana Boga, kaznodzieja Ewangelii musi prowadzić
+		czyste i święte życie.
+	</p>
+<p>
+		"Abyście się stali nienagannymi i szczerymi dziećmi
+		Bożymi bez skazy pośród rodu złego i przewrotnego,
+		w którym świecicie jak światła na świecie, zachowując
+		słowa żywota" (Flp. 2:15-16). Życie niegodne powołania
+		kaznodziei, rzuca cień na jego zwiastowanie.
+	</p>
+<p>
+		Pewien kaznodzieja wygłaszał kazanie odważnie, gdy
+		spośród słuchaczy rozległ się głos:"Nie słychać!".
+		Wtedy kaznodzieja podwyższył swój głos i zaczął głośniej
+		głosić, lecz ponownie spośród słuchaczy rozległ się
+		głos:"Nie słychać!". Kaznodzieja starał się jeszcze
+		głośniej zwiastować, aż ktoś ze słuchaczy wyjaśnił
+		mu:"Twoje uczynki tak głośno przemawiają o tobie, że
+		zupełnie nie słychać tego, co ty mówisz!".
+	</p>
+<p>
+		Pewnemu pastorowi zboru opowiedziano o jednym mało
+		znanym bracie, że gdy on wygłasza kazanie, to jego
+		słowa płoną i zapalają ogniem Bożym serca ludzi. Na
+		to pastor odpowiedział:"Przecież on ma za sobą trzydzieści
+		lat świętego życia".
+	</p>
+<b>
+<p>
+			Kaznodzieja Ewangelii musi być przykładem Ewangelii,
+			żywą Ewangelią.
+		</p>
+</b>
+<p>
+		"Wiadomo przecież, że jesteście listem Chrystusowym,
+		sporządzonym przez nasze usługiwanie, napisanym nie
+		atramentem, ale Duchem Boga Żywego, nie na tablicach
+		kamiennych, lecz na tablicach serc ludzkich" (2 Kor.
+		3:3).
+	</p>
+<p>
+		Gdy kieszonkowy lub naręczny zegarek wskazuje nieprawidłową
+		godzinę, to może oszukać jego właściciela, lecz gdy
+		zegar jakiejś wieży pokazuje nieprawidłowy czas, to
+		może oszukać tysiące osób.
+	</p>
+<p>
+		Gdy na froncie popełni pomyłkę szeregowy żołnierz,
+		to sam może ucierpieć z tego powodu lub nawet zginąć.
+		Gdy pomyli się generał, to cała armia może zginąć.
+		Głosiciel Ewangelii musi być człowiekiem pokornym,
+		aby nie wywyższać, ani nie poniżać swego powołania.
+		Musi być dobrym bojownikiem Pana Jezusa Chrystusa i
+		znosić wszystko ze względu na Chrystusa i Jego Świętą
+		Ewangelię (2 Tym. 2:3). I z drugiej strony  kaznodzieja
+		Ewangelii musi być odważny, jego zadaniem jest przykładanie
+		siekiery do korzenia grzechu, wyciąganie głowni palących
+		się z ognia i nazywania nieprawości po imieniu.
+	</p>
+<h3>
+		2. Intelektualne kwalifikacje kaznodziei
+	</h3>
+<p>
+		"Wzywam was tedy, bracia, przez miłosierdzie Boże,
+		abyście składali ciała swoje jako ofiarę żywą, świętą,
+		miłą Bogu, bo taka winna być duchowa służba wasza.
+		A nie upodabniajcie się do tego świata, ale się przemieńcie
+		przez odnowienie umysłu swego, abyście umieli rozróżnić,
+		co jest wolą Bożą, co jest dobre, miłe i doskonałe"
+		(Rzym. 12:1-2).
+	</p>
+<p>
+		Najmądrzejszym na świecie dziełem jest dzieło Boże.
+		Gdy Pan Bóg powołuje człowieka do służby kaznodziejskiej
+		to powołuje do mądrej służby, gdy Pan Bóg powołuje
+		człowieka do jakiejś służby, to go uzbraja. Ptak stworzony
+		do latania otrzymał skrzydła, aby mógł latać. Tak jak
+		u ptaka skrzydła wyrastają stopniowo i wzmacniają się
+		poprzez ćwiczenia, tak też mąż Boży wzrasta w wiedzy
+		i wszechmądrości Bożej, poprzez stały wzrost w łasce.
+	</p>
+<p>
+		Pełnię wiedzy i wszechmądrości ma Pan Bóg. Kaznodzieja
+		Ewangelii musi poszukiwać wszelkich sposobów, aby nabyć
+		wiedzę od Pana Boga i potem mądrze ją wykorzystywać
+		dla chwały Bożej. Więcej wiedzy i mądrości daje kaznodziei
+		więcej możliwości i sposobności do pracy w Panu Bogu.
+		Wyraźnie to widzimy w życiu i usługiwaniu św. ap. Pawła.
+		Nabycie wiedzy od Pana Boga, a potem umiejętne przekazanie
+		tej wiedzy ludziom, jest mądrym dziełem i chlubą kaznodziei.
+		Czytamy o tym w 2 liście ap. Pawła do Tymoteusza 2:1-2:"Ty
+		więc, synu mój, wzmacniaj się w łasce, która jest w
+		Chrystusie Jezusie, a co słyszałeś ode mnie wobec wielu
+		świadków, to przekaż ludziom godnym zaufania, którzy
+		będą zdolni i innych nauczać".
+	</p>
+<p>
+		Mowa ludzka składa się z setek tysięcy określonych
+		słów. Kaznodzieja Ewangelii powinien umieć tak dobierać
+		słowa, aby udowodnić ludziom prawdę. Im więcej wprawy
+		i doświadczenia w wysławianiu posiada kaznodzieja,
+		tym piękniejsza i lżejsza będzie dla niego służba,
+		a dla zboru korzystniejsza. W służbie kaznodziei wielką
+		rolę ma jego intelekt. Rzeczą zrozumiałą jest, że nie
+		mówimy tu o upartym i swawolnym rozumie człowieka,
+		nie podporządkowującym się prawdzie Bożej intelekcie.
+		Mówimy o odnowionym rozumie człowieka, rozumie uświęconym
+		przez Pana Boga i poświęconym Jemu, rozumie, który
+		poszukuje wiedzy od Pana Boga i mądrego używania jej
+		dla chwały Bożej.
+	</p>
+<p>
+		Bez względu na to jaki by nie był poziom duchowy kaznodziei,
+		on nigdy nie powinien zaniedbywać rozwoju swoich intelektualnych
+		kwalifikacji. Św. ap. Tomasz, niczego nie napisał,
+		chociaż miał takie same możliwości jak i inni apostołowie.
+		Gdy nasze zdolności są w pełni powierzone Panu Bogu,
+		to Pan Bóg może użyć je dla Swojej chwały. Nie wszyscy
+		ludzie są jednakowo rozwinięci pod względem intelektualnym.
+		Jedni mają silniejszy i lepszy rozwój z natury, inni
+		 słabszy rozwój i pamięć. Ich wprawa da im więcej
+		doświadczenia, a doświadczenie jest najlepszym nauczycielem,
+		oprócz Pana Jezusa Chrystusa.
+	</p>
+<h3>
+		3. Fizyczne kwalifikacje kaznodziei
+	</h3>
+<p>
+		Kaznodzieja musi być przykładem pod każdym względem.
+		Do sfery fizycznych kwalifikacji kaznodziei wchodzą:jego
+		zewnętrzne zachowanie, ubranie, przyzwyczajenia, gestykulacja,
+		nawyki itp. Zachowanie kaznodziei, jego ubranie i wygląd
+		zewnętrzny musi być zgodny z wymogami, jakie postawione
+		są osobom poświęconym do służby świętej (Ef. 5:3-4).
+		Zarówno niedbałość o swój wygląd, jak i skrajne trzymanie
+		się świeckiej mody, nie przystoi w żadnym wypadku kaznodziei
+		Ewangelii. Kaznodzieja powinien być skromny, umiarkowany,
+		spokojny, pobożny, bogobojny. "Albowiem ćwiczenie cielesne
+		przynosi niewielki pożytek, pobożność natomiast do
+		wszystkiego jest przydatna, ponieważ ma obietnicę żywota
+		teraźniejszego i przyszłego. Prawdziwa to mowa i warta
+		chętnego przyjęcia" (1 Tym. 4:8-9).
+	</p>
+<p>
+		W gestykulacji kaznodzieja stojąc za mównicą nie powinien
+		być klownem, jak też nie może być mumią egipską. Jego
+		wyraz twarzy i gesty muszą mieć pełne współodnoszenie
+		do tego o czym kaznodzieja mówi.
+	</p>
+<p>
+		Kaznodzieja, a zwłaszcza ten, który jest pastorem,
+		lepiej aby był żonatym, posiadającym rodzinę. Nieżonaci
+		kaznodzieje w naszym czasie stali się rozsadnikami
+		nieprawości i rozpusty w zborach, co znacznie obniżyło
+		duchowy poziom wierzącej młodzieży. Tacy kaznodzieje
+		prowadzą ludzi nie ku zbawieniu, lecz do wiecznej zguby.
+		Jest oczywiste, że takich ludzi Pan Bóg nigdy nie powoływał
+		do służby.
+	</p>
+<a name="4">
+</a>
+<h2>
+		Lekcja 4 
+	</h2>
+<h3>
+		Powołanie kaznodziei
+	</h3>
+<p>
+		Podstawowy tekst:"Albowiem Bóg to według upodobania
+		sprawia w was i chcenie i wykonanie" (Flp. 2:13).
+	</p>
+<p>
+		Powołanie kaznodziei jest osobistym dziełem Pana Boga
+		wobec człowieka. Tu jest poznanie woli Bożej, dla swojego
+		własnego życia i cel życia przed Panem Bogiem. Powołanie
+		do zwiastowania Ewangelii jest indywidualną sprawą
+		pomiędzy Panem Bogiem i człowiekiem. Znalezienie swojego
+		miejsca w Bożym planie i poświęcenie życia celowi wyznaczonemu
+		przez Pana Boga, jest największym błogosławieństwem
+		dla człowieka.
+	</p>
+<p>
+		Teraz rozpatrzmy pięć powołań:dwa powołania ze Starego
+		Testamentu i trzy z Nowego. Księga Sędziów 6:11-16
+		 powołanie Gedeona. Pierwsza Księga Królewska 19:19-21
+		 powołanie Elizeusza. Ewangelia Mateusza 4:18-22 
+		powołanie Piotra i jego brata Andrzeja, powołanie Jana
+		i jego brata Jakuba. List do Galacjan 1:14-16  powołanie
+		ap. Pawła.
+	</p>
+<p>
+		Po rozważnym rozpatrzeniu tych pięciu powołań znajdujemy
+		coś wspólnego pomiędzy nimi. Zauważyliśmy, że Pan Bóg
+		zawsze powołuje działających, aktywnych ludzi. Kaznodzieja
+		Ewangelii musi być człowiekiem pracowitym, nie leniwym.
+		Powołanie jest bardzo delikatną sprawą  "Ja mam sprawę
+		z tobą!"  mówi Pan Bóg. I wszystko to, co jest od
+		Pana Boga, On zawsze potwierdza. "Na podstawie zeznania
+		trzech świadków rozstrzygnie się sprawę" (5 Mojż. 19:15;
+		2 Kor. 13:1).
+	</p>
+<p>
+		Kaznodzieja nie tylko musi mieć powołanie Pana Boga
+		ale także musi znać swoje powołanie. Tu powstaje pytanie:Jak
+		poznać swoje powołanie? Człowiek wierzący w żywego
+		Pana Boga dobrze wie, że Pan Bóg mówi. A gdy wierzy
+		w mówiącego Pana Boga i to rzeczywiście jest tak, wtedy
+		jest pewność, że Pan Bóg może przemówić do człowieka
+		i coś mu powiedzieć.
+	</p>
+<p>
+		Pan Bóg może objawić człowiekowi Swoją wolę odnośnie
+		powołania podczas snu, w widzeniu, poprzez proroctwo,
+		objawienie albo w jakiś inny sposób. Każde objawienie
+		pochodzące od Pana Boga Pan potwierdzi w jakiś inny
+		sposób. Potwierdzenie zawsze musi być.
+	</p>
+<p>
+		W moich misyjnych podróżach, szczególnie podczas wykładów
+		Biblijnych, wielu młodych braci stawiało pytania na
+		temat powołania do kaznodziejstwa. Co można odczuwać
+		i jak odczuwać, gdy Pan Bóg woła mnie do głoszenia
+		Ewangelii? Odpowiedź na takie pytanie nie jest prosta.
+		Kiedy znajdujesz się na nabożeństwie i słyszysz silne
+		kazanie sługi Bożego, który głosi z ogniem, pod pomazaniem
+		Ducha Świętego, w twoim sercu zapala się gorliwość:O,
+		gdybym ja mógł tak głosić. Jeżeli taka gorliwość powstaje
+		tylko pod wpływem czyjegoś kazania, a w innych okolicznościach
+		takiej gorliwości nie ma, wtedy to oznacza, że jest
+		to gorliwość zazdrosna. Jeżeli w twoim sercu ten zapał
+		do gorliwego zwiastowania Ewangelii płonie zawsze,
+		gdy jesteś samotny, czy podczas pracy, to taka gorliwość
+		jest prawdziwa. Pan Bóg wynagrodzi taką gorliwość Swoim
+		potwierdzeniem, które musi zawsze przyjść w swoim czasie.
+	</p>
+<p>
+		Musimy zgodzić się z tym, że w każdym człowieku jest
+		skłonność do wywyższania swoich zdolności, upiększania
+		swoich talentów itp. A to akurat jest tym, co prowadzi
+		do pychy i duchowego upadku. Nigdy nie zaszkodzi upokorzenie
+		się przed Panem Bogiem i szukanie kierownictwa Bożego
+		z błogosławieństwem. Potem samo dzieło potwierdzi służbę
+		kaznodziei, dając odpowiednie rezultaty jego powołania.
+	</p>
+<a name="5">
+</a>
+<h2>
+		Lekcja 5
+	</h2>
+<h3>
+		Konieczność głoszenia Ewangelii
+	</h3>
+<p>
+		Podstawowy tekst:"Ale jak mają wzywać Tego, w którego
+		nie uwierzyli? A jak mają uwierzyć w Tego, o którym
+		nie słyszeli? A jak usłyszeć, jeśli nie ma tego, który
+		zwiastuje? A jak mają zwiastować, jeżeli nie zostali
+		posłani?" (Rzym. 10:14-15).
+	</p>
+<p>
+		Główna potrzeba zwiastowania zawiera się w tym, że
+		wszyscy ludzie zgrzeszyli, wszyscy ludzie (bez Chrystusa)
+		są tymi zginionymi (Rzym. 3:23; 2 Ptr. 2:3, 3:7).
+	</p>
+<p>
+		Jest wyłącznie jeden Zbawiciel ludzi i innego zbawiciela
+		nie ma! (Dz. Ap. 4:12). Jest tylko jeden Pośrednik
+		między Bogiem i ludźmi  Jezus Chrystus! (1 Tym. 2:5).
+		Cel przyjścia Chrystusa na ziemię  zbawić to, co zginęło
+		(Mat. 18:11). Wolą Bożą jest, aby wszyscy ludzie zostali
+		zbawieni i przyszli do poznania prawdy (1 Tym. 2:3-4).
+		Na świecie istnieje jedna księga, która w Chrystusie
+		przedstawia ludziom zbawienie, a jest nią Ewangelia!
+		(1 Kor. 15:1-2; Mar. 16:15-16; Dz. Ap. 15:7). Bez upamiętania,
+		nawrócenia i pokuty nie ma zbawienia! (Łuk. 13:3; Dz.
+		Ap. 3:19). Pan Bóg wzywa ludzi do upamiętania (Dz.
+		Ap. 17:30).
+	</p>
+<p>
+		Aby ludzie upamiętali się i uwierzyli i przyjęli zbawienie,
+		muszą usłyszeć wieść o zbawieniu. Aby mogli usłyszeć
+		tę wieść, musi im ktoś tę wiadomość zwiastować (Rzym.
+		10:14). Aby wieść o zbawieniu była zwiastowana, muszą
+		być posłani przez Pana Boga, głosiciele Dobrej Nowiny
+		(Rzym. 10:15). Jeżeli ludzie powinni być zbawieni,
+		to im trzeba zwiastować Tego, który zbawia  Pana Jezusa
+		Chrystusa.
+	</p>
+<p>
+		Przyczyna potrzeby głoszenia Ewangelii zawiera się
+		w tym, że Pan Jezus Chrystus poleca głosić Ewangelię
+		każdemu stworzeniu (Mat. 28:18-20). W tekście Ewangelii
+		św. Mateusza czterokrotnie jest użyte słowo "wszystkich"!
+	</p>
+<p>
+		1. Chrystus posiada pełnię władzy. 
+	</p>
+<p>
+		Jest Wszechmogącym Zbawicielem i Wyzwolicielem. Chrystus
+		ma moc zbawienia grzesznika, ma moc błogosławienia
+		i używania kaznodziei. Mając Chrystusowe posłannictwo
+		i wspólnotę z Nim kaznodzieja Ewangelii staje się niewyczerpanym
+		źródłem słowa prawdy.
+	</p>
+<p>
+		2. Wszystkie narody  wszystkie misyjne pola.
+	</p>
+<p>
+		Kaznodzieja Ewangelii ma zawsze teren do służby. Jego
+		kazalnicą jest cały świat, jego słuchaczami są wszystkie
+		narody. Prawdziwy kaznodzieja Ewangelii nigdy nie może
+		stać się bezrobotnym.
+	</p>
+<p>
+		3. Uczyć przestrzegać wszystkiego, co Chrystus polecił.
+	</p>
+<p>
+		Nauka Chrystusowa jest najbogatsza, najkorzystniejsza,
+		najsilniejsza na świecie. Uczyć się u nóg Pana Jezusa
+		Chrystusa jest wielkim błogosławieństwem. Aby być użytecznym
+		do nauczania ludzi Ewangelicznej prawdy, trzeba wpierw
+		być nauczonym przez Chrystusa.
+	</p>
+<p>
+		4. Pan Jezus Chrystus dał obietnicę, że będzie przebywać
+		po wszystkie dni z tymi, którzy wykonują Jego wolę.
+		To także oznacza, że On będzie ochraniał kaznodziei.
+		Pan zawsze potwierdzał i potwierdza usługiwanie Swoich
+		sług znamionami Ducha Świętego (Mar. 16:17-20). W ten
+		sposób Pan Bóg współpracuje z tymi, którzy współpracują
+		z Panem Bogiem (1 Kor. 3:9). Kaznodzieja Ewangelii
+		jest naczyniem Bożym. (Dz. Ap. 15:7).
+	</p>
+<a name="6">
+</a>
+<h2>
+		Lekcja 6
+	</h2>
+<h3>
+		Moc do głoszenia Ewangelii
+	</h3>
+<p>
+		Podstawowy tekst:"Albowiem nie wstydzę się Ewangelii
+		Chrystusowej; jest ona bowiem mocą Bożą ku zbawieniu
+		każdego, kto wierzy" (Rzym. 1:16).
+	</p>
+<p>
+		Kaznodzieja jest instrumentem w rękach Bożych. On wygłasza
+		Słowo Boże, które przenika do serc słuchaczy, wpływa
+		na ich wolę i powoduje powstanie odpowiednich reakcji.
+		Osoba kaznodziei odgrywa tu bardzo ważną rolę. Kaznodzieja
+		musi przekazać Słowo Życia tak, jak Pan Bóg chce i
+		wymaga od niego. Słowo kaznodziei decyduje o wiecznym
+		losie wielu spośród słuchaczy. O tym kaznodzieja powinien
+		dobrze wiedzieć. Moment wygłaszania kazania jest bardzo
+		ważny ze strony słuchaczy  wymaga słuchania, a od
+		kaznodziei  natchnienia Duchem Świętym wypowiedzi
+		Pisma Świętego.
+	</p>
+<p>
+		Musimy stale pamiętać, że bóg tego świata  diabeł
+		 zaślepił rozum (umysł) ludzki (2 Kor. 4:4), podporządkował
+		go swojej woli i panuje nad nim. Jedynie tylko Bóg
+		Niebios Swoim Świętym Słowem i Duchem Świętym może
+		oświecić rozum człowieczy, zaślepiony przez diabła.
+		Duch Święty apeluje do woli człowieka, ale nie zmusza
+		go. Apel Ducha Świętego do woli człowieka wymaga dobrowolnej
+		i całkowitej kapitulacji ze strony człowieka.
+	</p>
+<p>
+		Wygłaszane kazanie, żeby mogło dosięgnąć duszy słuchacza,
+		musi najpierw wpłynąć na wolę słuchacza. Kaznodzieja
+		jest zobowiązany przedstawić słuchaczom istotę (prawdę)
+		Słowa Bożego w mocy Ducha Świętego w sposób prosty,
+		wyraźny, logiczny, w zdrowym sensie. Gdy kaznodzieja
+		przez swoją usługę przedstawia ludziom grzech i jego
+		następstwa, w ludziach rodzi się nowe odnoszenie się
+		do grzechu. Kiedy grzech zostaje rozeznany i zdemaskowany
+		przez Słowo Boże, to pokaże się ludziom jako brzydki,
+		czarny i straszny.
+	</p>
+<p>
+		Równocześnie z nowymi odnoszeniami się do grzechu,
+		pojawiają się nowe odnoszenia do Pana Jezusa i do Jego
+		Ewangelii. Zamiast obojętności, przychodzi miłość do
+		Pana Jezusa Chrystusa, wdzięczność za Jego odkupieńczą
+		ofiarę. Proces działania Słowa Bożego bywa czasem raptowny,
+		czasem wolno postępujący. Kaznodzieja musi w pełni
+		zaufać działaniu Słowa Bożego i oczekiwać dobrych następstw
+		(Iz. 55:10-11).
+	</p>
+<p>
+		Bardzo niebezpiecznym dla kaznodziei jest posługiwanie
+		się psychologią, zamiast Słowem Bożym. Psychologia
+		częściowo działa na emocjonalne uczucia ludzi, ale
+		jest nauką duszewną a nie duchową. Pamiętajmy, że operację
+		zbawienia serca w ludziach przeprowadza Słowo Boże,
+		wygłoszone pod pomazaniem i w mocy Ducha Świętego.
+		Ewangelia jest Mocą Bożą, siłą wyzwolenia, manifestem
+		Bożego oswobodzenia. Ewangelia jest żywą księgą! Bożą
+		księgą! Świętą księgą! Tylko Ewangelia wyprowadza człowieka
+		z ciemności i wprowadza do przedziwnej światłości Syna
+		Bożego (Dz. Ap. 26:18).
+	</p>
+<p>
+		"Głoś Słowo!"  to polecenie świętego męża Bożego ap.
+		Pawła skierowane do Tymoteusza (2 Tym. 4:2), i nie
+		odstępuj od nauki Ewangelii "idąc na cały świat, głoście
+		Ewangelię wszystkiemu stworzeniu!"  poleca Chrystus!
+		(Mar. 16:15). Pan Jezus błogosławi i używa tych kaznodziei,
+		którzy głoszą czystą Ewangelię. Kazanie działające
+		na ludzi jest tym kazaniem, które jest wygłoszone na
+		podstawie świętego Słowa Ewangelii, w mocy Ducha Świętego!
+	</p>
+<p>
+		Ewangelia jest Mocą Bożą ku zbawieniu każdego wierzącego!
+		Nie poniżaj jej ludzką filozofią, ani psychologią!
+		Głoś Ewangelię nie w ludzkiej mądrości, lecz w mocy
+		Ducha Świętego! Ewangelia jest żywą Księgą dlatego,
+		że w Niej jest życie Chrystusa, Jego moc i Jego wszechmądrość!
+		Miliony ludzi mogą zaświadczyć o tej Mocy Ewangelii
+		w ich życiu. Ewangelia zmieniła ich życie i odkryła
+		im drogę do wiecznego życia z Panem Jezusem Chrystusem!
+	</p>
+<a name="7">
+</a>
+<h2>
+		Lekcja 7 
+	</h2>
+<h3>
+		Następstwa zwiastowania
+	</h3>
+<p>
+		Podstawowy tekst:"Jako odrodzeni nie z nasienia skazitelnego,
+		ale nieskazitelnego, przez Słowo Boże, które żyje i
+		trwa. Gdyż wszelkie ciało jest jak trawa, a wszelka
+		chwała jego jak kwiat trawy. Uschła trawa i kwiat opadł,
+		ale Słowo Pana trwa na wieki! A jest to Słowo, które
+		wam zostało zwiastowane" (1 Ptr. 1:23-25). "Gdy zechciał
+		zrodził nas przez Słowo Prawdy, abyśmy byli niejako
+		pierwszym zarodkiem jego stworzeń" (Jak. 1:18).
+	</p>
+<p>
+		Słowo Boże jest świętym i żywym nasieniem, które posiada
+		w sobie życie! Słowo Boże rodzi wiarę (Rzym. 10:17)
+		i odradza człowieka! Odrodzony człowiek zaczyna wzrastać
+		w łasce i wierze, aby żyć w czystości i światłości
+		dla Pana Boga. "Jego to zwiastujemy, napominając i
+		nauczając każdego człowieka, we wszelkiej mądrości,
+		aby stawić go doskonałym w Chrystusie Jezusie" (Kol.
+		1:28).
+	</p>
+<p>
+		Teraz rozpatrzmy siedem działań Słowa Bożego i następstwa
+		z tego wynikłe (2 Tym. 3:15-17).
+	</p>
+<p>
+		1. Mądrość ku zbawieniu
+	</p>
+<p>
+		Szukanie zbawienia jest mądrym dziełem. Mądry człowiek
+		troszczy się o swoją duszę i o jej dział w wieczności.
+		"Rozumny idzie drogą życia wzwyż" (Przyp. Sal. 15:24).
+		Największą wszechmądrością jest ta, którą poznaje się
+		poprzez Słowo Boże.
+	</p>
+<p>
+		2. Pożyteczne do nauki
+	</p>
+<p>
+		Fundamentem zbawczej wiary jest Słowo Boże, które jest
+		także główną podstawą chrześcijańskiego życia. Człowiek,
+		który przebywa w nauce Słowa Bożego, jest człowiekiem
+		światłym. Słowo Boże poucza człowieka jak trzeba żyć,
+		miłować, przebaczać i umierać dla grzechu. Dlatego
+		też napisano:"Szukajcie najpierw Królestwa Bożego i
+		sprawiedliwości jego, a wszystko inne będzie wam dodane"
+		(Mat. 6:33). Mądrzy ludzie zawsze czerpali swoją naukę
+		ze Słowa Bożego.
+	</p>
+<p>
+		3. Korzystne do wykrywania błędów
+	</p>
+<p>
+		Słowo Boże posiada korekcyjną moc dlatego, że Ono przemawia
+		jako Słowo Władcze! Wszystko to, co nie może się ostać
+		w promieniach Świętego Słowa, trzeba poprawić. Żadnych
+		kompromisów Słowo Boże nie uznaje, bo Pan Bóg nie toleruje
+		obłudy. Każdego człowieka, który czyta albo słyszy
+		Słowo Boże, Ono ociosuje i wyrównuje aby to, co wzniosłe,
+		zostało poniżone, a wszystko to, co jest niskie, zostało
+		wywyższone.
+	</p>
+<p>
+		4. Do poprawy
+	</p>
+<p>
+		Słowo Boże nie tylko zbawia, ale i strzeże zbawionego
+		człowieka. Słowo Boże jest objawieniem woli Bożej wobec
+		człowieka. Ono tak działa i kieruje, aby człowiek trzymał
+		się woli Bożej i nie opuszczał jej. Najkrótsza i najbliższa
+		droga do celu jest droga prosta. Słowo Boże kieruje
+		człowieka na tę drogę i trzyma go na niej.
+	</p>
+<p>
+		5. Do wychowania w sprawiedliwości
+	</p>
+<p>
+		Aby we wszelkich okolicznościach żyć w czystości, świętości,
+		bogobojności i sprawiedliwości. 
+	</p>
+<p>
+		Duchowe wychowanie jest najgłówniejszym wychowaniem.
+		Święta sprawiedliwość jest szatą czystą chrześcijanina
+		(Obj. 19:8).
+	</p>
+<p>
+		"Szczęśliwy sprawiedliwy, gdyż dobrze mu się powiedzie,
+		bo owoc uczynków swoich będzie spożywać!" (Iz. 3:10).
+		Pismo Święte jest głównym źródłem wychowania w sprawiedliwości.
+	</p>
+<p>
+		6. Aby człowiek Boży był doskonały
+	</p>
+<p>
+		Pan Jezus powiedział:"Bądźcie wy tedy doskonali, jak
+		Ojciec wasz niebieski doskonały jest!" (Mat. 5:48).
+		Do duchowej męskości i doskonałości może doprowadzić
+		człowieka tylko Słowo Boże poprzez objawienie i działanie
+		Ducha Świętego! Początkowe Słowo, które poucza o nawróceniu,
+		prowadzi także człowieka do doskonałości, poprzez codzienny
+		wzrost w łasce i poznaniu Pana naszego  Zbawiciela
+		Jezusa Chrystusa (2 Ptr. 3:18).
+	</p>
+<p>
+		7. Do wszelkiego dobrego dzieła przygotowany
+	</p>
+<p>
+		Chrześcijańskie życie jest pełne wszelkich dobrych
+		uczynków. Chrześcijanin powinien być gotowy w każdym
+		czasie do wszelkiego dobrego dzieła. To może być tylko
+		wtedy, kiedy stale przebywa w nauce Słowa Bożego (1
+		Ptr. 3:15). Doskonałość nabywa się przez duchowy wzrost,
+		w świętej prawdzie Słowa Bożego (1 Ptr. 2:9).
+	</p>
+<p>
+		"Wiara współdziała z uczynkami jego (Abrahama) i przez
+		uczynki stała się doskonała" (Jak. 2:22).
+	</p>
+<a name="8">
+</a>
+<h2>
+		Lekcja 8
+	</h2>
+<h3>
+		Kaznodzieja jako dłużnik
+	</h3>
+<p>
+		Podstawowy tekst:"Jestem dłużnikiem Greków i nie Greków,
+		mądrych i niemądrych" (Rzym. 1:14). "Lecz o życiu moim
+		mówić nie warto i nie przywiązuję do niego wagi, bylebym
+		tylko dokonał biegu mego i służby, którą przyjąłem
+		od Pana Jezusa, żeby składać świadectwo o Ewangelii
+		łaski Bożej" (Dz. Ap. 20:24).
+	</p>
+<p>
+		Kaznodzieja Ewangelii dźwiga wielki dług, który powinien
+		obowiązkowo spłacić. Dług kaznodziei  zwiastowanie
+		Ewangelii. Przed nim są tylko dwa wyjścia:spłacić lub
+		nie spłacić dług. Oto niektóre przyczyny nie spłacenia
+		długu przez kaznodzieję.
+	</p>
+<p>
+		1. Strach przed ludźmi  "Lęk przed ludźmi nastawia
+		na człowieka sidła" (Przyp. Sal. 29:25). Zwiastowanie
+		Ewangelii nie przynosi popularności wśród ludzi, dlatego
+		nie trzeba starać się o to, aby przypodobać się ludziom.
+		Zwiastowanie takie, aby dogodzić ludziom, jest niebezpieczne,
+		a do tego nie podoba się Panu Bogu. "Ale teraz, czy
+		chcę ludzi sobie zjednać, czy Pana Boga? Albo czy staram
+		się przypodobać ludziom? Bo gdybym nadal ludziom chciał
+		się przypodobać, nie byłbym sługą Chrystusowym" (Gal.
+		1:10). Dogadzanie ludziom prowadzi do odstępstwa od
+		prawdy Pisma Świętego (2 Tym. 4:3-4).
+	</p>
+<p>
+		2. Upadek poprzez dogadzanie sobie
+	</p>
+<p>
+		W Księdze Sędziów 14:3 opisana jest rozmowa Samsona
+		z ojcem i matką. Słowo Boże zabrania brać żonę Filistynkę,
+		lecz Samson przeciwstawia się mówiąc:"Ona wydaje mi
+		się najodpowiedniejsza". Kaznodzieja, który dogadza
+		sobie, nigdy nie spłaci swego długu. Dlatego za wszelką
+		cenę musi przypodobać się Panu Bogu! (1 Tes. 4:1; Kol.
+		1:10; Hebr. 11:5).
+	</p>
+<p>
+		3. Lenistwo 
+	</p>
+<p>
+		Głoszenie Ewangelii wymaga od kaznodziei starania,
+		wysiłku, energii, poświęcenia. To oznacza, że żadnego
+		lenistwa tu być nie może! Zwiastować, to znaczy pracować,
+		a to zabiera czas, zdrowie i wszystkie siły (Jan 9:4;
+		1 Kor. 15:58; Flp. 3:8,13-14).
+	</p>
+<p>
+		Pobożne, pełne pokory wykonywanie obowiązków kaznodziei
+		wymaga od niego wielu dni postu i modlitwy, nieustannej
+		pracy i wielkiej dbałości.
+	</p>
+<p>
+		4. Ambicje własne
+	</p>
+<p>
+		Kaznodzieja może mieć wiele energii i ambicji, ale
+		wyłącznie dla swojej sławy, dla swojej korzyści, dla
+		swoich interesów. To wszystko nie podoba się Panu Bogu!
+		W życiu i służbie kaznodziei na pierwszym miejscu musi
+		być Pan Jezus Chrystus i dzieło Boże! (Rzym. 12:11).
+	</p>
+<p>
+		5. Różne wymówki
+	</p>
+<p>
+		a) Nie mam talentu. Każdy człowiek ma jakiś talent,
+		ale gdy talent jest zaniedbany, to nie rozwija się
+		i nie przynosi żadnej korzyści. Nikt nie nauczył się
+		pływania bez wody. Samo próbowanie czegoś jest niewystarczające.
+		Tylko praktyka i doświadczenie prowadzi do doskonałości.
+	</p>
+<p>
+		b) Nie jestem zdolny. Ci, którzy mówią, że są niezdolni
+		do dzieła Bożego, często bywają bardzo zdolni do swoich
+		dzieł, jak handel itp. 
+	</p>
+<p>
+		Pewien młody kaznodzieja skarżył się przed starszym
+		kaznodzieją o swojej niezdolności. Ale, oprócz głoszenia
+		Ewangelii, zajmował się także sprzedażą samochodów.
+		Gdy starszy kaznodzieja zobaczył i usłyszał jak on
+		sprzedaje samochody, to powiedział:"Jeżeli opowiesz
+		ludziom o Chrystusie tak, jak teraz opowiedziałeś o
+		samochodzie, to z ciebie będzie dobry kaznodzieja,
+		odnoszący sukcesy". Służba kaznodziei musi być poświęcona
+		dziełu Bożemu, dziełu, które wykonuje. Niedostatek
+		oddania pociąga za sobą nieumiejętność, niezdolność
+		i lenistwo. Do tego dzieła trzeba dokładać starań,
+		a to przyniesie nie tylko dobre rezultaty, ale i nabycie
+		nowego doświadczenia. Oprócz Ducha Świętego najlepszym
+		nauczycielem kaznodziei jest jego własne doświadczenie.
+		Doświadczenie zdobywa się przez praktykę, nabiera się
+		biegłej wprawy.
+	</p>
+<p>
+		Pewien znany muzyk powiedział:"Gdy w ciągu jednego
+		dnia nie gram, odczuwam to i zauważam tylko sam; gdy
+		nie gram przez dwa dni, zauważają to moi domownicy;
+		a gdy nie gram przez trzy dni, zauważają już postronni
+		ludzie!".
+	</p>
+<p>
+		c) Skłonność kaznodziei do światowego życia, nie wyznany
+		grzech i szkodliwe przyzwyczajenia, bywają częstą przyczyną
+		nie wypełniania długu przez kaznodzieję. Wszystko to,
+		co stanowi przeszkodę w służbie kaznodziejskiej, musi
+		być usunięte i doprowadzone do pełnego porządku. Żadne
+		talenty, zdolności i dary nie pomogą, gdy życie kaznodziei
+		jest nieuporządkowane przed Panem Bogiem.
+	</p>
+<p>
+		Kaznodzieja tylko wtedy spełni swój dług, gdy będzie
+		tym, czym Pan Bóg chce, żeby on był, żeby był tam,
+		gdzie Pan Bóg chce i żeby czynił to, co Pan Bóg od
+		niego wymaga! O tym napisał święty mąż Boży ap. Paweł
+		do Tymoteusza:"Ale ty bądź czujny we wszystkim, cierp,
+		wykonuj pracę ewangelisty, pełnij rzetelnie służbę
+		swoją" (2 Tym. 4:5).
+	</p>
+<a name="9">
+</a>
+<h2>
+		Lekcja 9
+	</h2>
+<h3>
+		Niebezpieczeństwa grożące kaznodziei
+	</h3>
+<p>
+		Podstawowy tekst:2 Kor. 11:22-28; 2 Kor. 2:11
+	</p>
+<p>
+		Pod stwierdzeniem "Niebezpieczeństwa grożące kaznodziei"
+		uwzględniamy wszystkie rodzaje niebezpieczeństw, z
+		którymi spotyka się kaznodzieja Ewangelii. Są trzy
+		rodzaje tych niebezpieczeństw:niebezpieczeństwa zewnętrzne
+		poprzez służbę kaznodziei; niebezpieczeństwa wewnętrzne
+		spowodowane przez samego kaznodzieję; niebezpieczeństwa
+		naturalne związane przeważnie z podróżowaniem kaznodziei.
+	</p>
+<p>
+		Największe niebezpieczeństwa kaznodziei powstają w
+		związku z jego służbą, niebezpieczeństwa ze strony
+		duchowej, które zagrażają jego życiu. Takie niebezpieczeństwa
+		zawsze są z zewnątrz. Niebezpieczeństwa, które pochodzą
+		z wnętrza samego kaznodziei, grożą nie tylko życiu,
+		ale i zbawieniu jego duszy.
+	</p>
+<p>
+		Rozpatrzymy teraz większość tych niebezpieczeństw i
+		wskażemy ich przyczyny.
+	</p>
+<p>
+		1. Największe niebezpieczeństwa, które przychodzą najszybciej
+		i najczęściej, zawsze powstają tam, gdzie kaznodzieja
+		uzyskuje sukces. Każdy kaznodzieja musi o tym dobrze
+		wiedzieć i pamiętać, aby być z góry przygotowanym na
+		tego rodzaju niebezpieczeństwa. Na potwierdzenie tego
+		punktu możemy przytoczyć wiele przykładów z Pisma Świętego,
+		ale ograniczymy się tylko do niektórych. W całym świecie
+		mieszkało tylko dwóch braci:Kain i Abel. Pomiędzy nimi
+		był pokój do tego dnia, gdy służba Abla zyskała uznanie
+		ze strony Pana Boga. Życie Abla od razu znalazło się
+		w niebezpieczeństwie (1 Mojż. 4:3-8). Dwunastu braci,
+		synów jednego ojca, mieszkało razem zachowując pokój.
+		Gdy tylko jeden z nich otrzymał parę objawień od Pana
+		Boga, to jego życie znalazło się w niebezpieczeństwie
+		(1 Mojż. 37:5-28). To samo było z Dawidem (1 Sam. 17:49-50
+		i 18:6-11). Sukces Pana Jezusa był główną przyczyną
+		podjęcia decyzji przez kapłanów o Jego śmierci (Jan
+		11:43-50). Z jakiej przyczyny sukces sługi Bożego prowokuje
+		niebezpieczeństwo? Główną przyczyną jest zazdrosna
+		zawiść! 
+	</p>
+<p>
+		Teraz rozpatrzymy drugą stronę niebezpieczeństw, które
+		pochodzą z powodu sukcesu kaznodziei. Sukces jest bardzo
+		delikatną rzeczą. Gdy kaznodzieja odnosi sukces, to
+		powinien jeszcze bardziej upokorzyć się przed Panem
+		Bogiem, bo w przeciwnym razie sukces może sprowokować
+		w jego sercu pychę, wyniosłość, chwalenie się i przypisywanie
+		sobie chwały! W tym jest wielkie niebezpieczeństwo
+		dla kaznodziei. Chociaż kaznodzieja Ewangelii jest
+		sługą Bożym, to jednak powinien pamiętać, że jest także
+		człowiekiem. Jeżeli zazdrosna zawiść mogła kogoś opanować,
+		to może ona przeniknąć i do serca kaznodziei.
+	</p>
+<p>
+		Gdy kaznodzieja nie może znieść sukcesu innego kaznodziei,
+		nie może patrzeć i słuchać, gdy ktoś lepiej od niego
+		zwiastuje Słowo Boże, to znajduje się w niebezpiecznym
+		stanie. Przyczyną zazdrosnej zawiści w sercu kaznodziei
+		jest ten fakt, że on nie przeszedł jeszcze przez próbę
+		wiary. Gdy kaznodzieja przejdzie przez ogniową próbę,
+		to uwolni się od niemocy, którą jest zazdrosna nienawiść.
+	</p>
+<p>
+		2. Każdego sługę Bożego prześladują trzy rzeczy:sława,
+		pieniądze i kobiety. Jeżeli nie wszystkie trzy naraz,
+		to jedna z nich. Proszę pokazać mi upadłego kaznodzieję,
+		a ja wskażę, że zwaliła go jedna z tych trzech rzeczy.
+		Biblijnym przykładem tego faktu służą nam:Saul, Bileam,
+		Samson. Kaznodzieja Ewangelii powinien bardzo się strzec,
+		aby nie stać się ofiarą pożądliwej, pełnej pychy sławy,
+		pieniędzy oraz kobiet. Bardzo ciężko będzie ponownie
+		odzyskać wiarę, gdy dopuści do zwiedzenia siebie przez
+		jedną z tych trzech pożądliwości. Saul, Bileam i Samson
+		po upadku już nie byli takimi, jakimi byli przed upadkiem.
+		Lepiej nie dopuszczać do swego upadku, niż potem podnosić
+		się z niego. Biedny jest ten kaznodzieja, któremu ani
+		Pan Bóg, ani ludzie nie mogą niczego powierzyć. Pamiętajmy,
+		że "Pan Bóg, który rzekł:z ciemności niech światłość
+		zaświeci, rozświecił serca nasze, aby zajaśniało poznanie
+		chwały Bożej, która jest na obliczu Chrystusowym. Mamy
+		ten skarb w naczyniach glinianych, aby się okazało,
+		że moc, która wszystko przewyższa, jest z Boga, a nie
+		z was".
+	</p>
+<p>
+		3. Kaznodzieja może tak "spokrewnić się" ze świętymi
+		Bożymi rzeczami, że staną się dla niego rzeczami zwykłymi.
+	</p>
+<p>
+		Przykłady:naród izraelski i cuda, synowie Arona, synowie
+		kapłana Helego i inni.
+	</p>
+<p>
+		Wszystkie święte aspekty kaznodziejskiej służby nie
+		powinny nigdy stracić ich świętej cenności. Kaznodzieja
+		Ewangelii jest Bożym sługą i ma do czynienia ze świętym
+		Panem Bogiem i święty Pan Bóg ma dzieło z nim. Kaznodzieja
+		musi wykonywać swą służbę z należytą czcią i szacunkiem
+		(1 Tym. 4:8).
+	</p>
+<p>
+		4. Kaznodzieja Ewangelii, który dba o innych, może
+		zaniedbać swój duchowy rozwój. On po prostu nie ma
+		czasu na przebywanie San na sam z Panem Bogiem, albo
+		dbając o siebie, może zaniedbać służbę dla ludzi.
+	</p>
+<p>
+		Skala eksportu kaznodziei zawsze musi równać się skali
+		jego importu, a jego import dorównywać eksportowi.
+		Kaznodzieja może dać z siebie tylko to, co otrzyma
+		od Pana Boga i może otrzymać od Pana Boga tylko to,
+		co może użyć dla dobra ludzkich dusz i dla chwały Bożej.
+	</p>
+<p>
+		5. Niebezpieczeństwo wpadnięcia w profesjonalizm. Klika
+		duchowieństwa i "wieszczego" duchowieństwa powstała
+		z duchowego profesjonalizmu. Słowo Boże poucza kaznodziei:"Nie
+		jako panujący nad tymi, którzy są wam poruczeni, lecz
+		jako wzór dla trzody" (1 Ptr. 5:3). W kościele Chrystusa
+		nie ma klasowej wrogości, nie ma wieszczej elity, bo
+		jest "tylko jeden Nauczyciel wasz, Chrystus, a wy wszyscy
+		jesteście braćmi" (Mat. 23:8). "Kto zaś jest największy
+		pośród was, niech będzie sługą waszym"  mówi Chrystus
+		(Mat. 23:11).
+	</p>
+<p>
+		6. Niebezpieczeństwo poszukiwania popularności i pójścia
+		na kompromis z grzechem. 
+	</p>
+<p>
+		Kaznodzieja, który pragnie przypodobać się ludziom,
+		naraża się na niebezpieczeństwo utraty uznania go przez
+		Pana Boga. Bardzo niebezpieczne jest też ustępstwo
+		na rzecz grzechu. W życiu i służbie kaznodziei nie
+		może być żadnego kompromisu z grzechem. "Głoś Słowo,
+		bądź w pogotowiu w każdy czas, dogodny czy niedogodny,
+		karć, grom, napominaj z wszelką cierpliwością i pouczaniem"
+		(2 Tym. 4:2). Dla kaznodziei, który jest jednocześnie
+		pastorem, w żadnym razie nie przystoi mieć swoich ulubieńców
+		i pochlebców w zborze. Wszelkie sympatie i sympatyczne
+		układy pasterza z jego ulubieńcami i pochlebcami tworzą
+		klikę tajemniczych spotkań, prowadzą do podziałów w
+		zborze i rujnują zbór.
+	</p>
+<p>
+		Pastor zboru powinien wykonywać swe obowiązki jako
+		sługa Boży i jak przed Panem Bogiem, nie szukając ze
+		strony ludzi poszanowania i względów. Ponieważ w jego
+		zborze są członkowie silniejsi i słabsi duchowo, dlatego
+		pastor winien więcej uwagi zwracać na członków słabszych
+		i więcej dbać o ich duchowy stan.
+	</p>
+<p>
+		7. Wnioski ogólne. 
+	</p>
+<p>
+		Słowo Boże wyraźnie mówi:"Bo wszystko, co jest na świecie,
+		pożądliwość ciała i pożądliwość oczu i pycha życia,
+		nie jest z Ojca, ale ze świata"(1 Jan 2:16). "My wiemy,
+		że z Boga jesteśmym, a cały świat tkwi w złem" (1 Jan
+		5:19).
+	</p>
+<p>
+		W tym grzesznym świecie nie ma niczego dobrego! W świecie
+		jest jedynie jedna drogocenność  dusza ludzka! Dla
+		jej dobra warto żyć! Kaznodzieja będąc Bożym sługą
+		musi zawsze pamiętać, że sam również mieszka w tym
+		grzesznym świecie, gdzie wszystko jest pogrążone w
+		źle, gdzie panuje pożądliwość ciała, pożądliwość oczu
+		i pycha życia. Im bardziej uświęcone ma życie, im gorliwiej
+		pracuje dla chwały Bożej, tym bardziej staje się celem
+		diabelskiej napaści. To, co prześladuje kaznodzieję
+		(patrz punkt 2 tej lekcji) będzie obowiązkowo starać
+		się oddziaływać na ciało, oczy i łakomstwo jego. "A
+		tak, kto mniema, że stoi, niech baczy, aby nie upadł"
+		(1 Kor. 10:12).
+	</p>
+<p>
+		Życie kaznodziei, które nie jest godne jego powołania,
+		stanowi wielką przeszkodę dla Ewangelii. Kaznodzieja
+		to człowiek, który żyje nie dla siebie. Jemu wszyscy
+		przyglądają się, wszyscy "czytają", śledzą jego życie
+		i biorą z niego przykład. Czy daje ludziom dobry przykład?
+		Czy wprowadza w życie to, co głosi? Kaznodzieja, to
+		człowiek, który ponosi olbrzymią odpowiedzialność.
+		W swojej służbie musi wykazać pobożność, wytrwałość,
+		ciągłość. Te cechy pomagają odnieść zwycięstwo podczas
+		grożącego niebezpieczeństwa oraz będą świadczyć kim
+		jest i dla kogo żyje?
+	</p>
+<a name="10">
+</a>
+<h2>
+		Lekcja 10
+	</h2>
+<h3>
+		Konstrukcja kazania
+	</h3>
+<p>
+		Podstawowy tekst:"I czytali z księgi Zakonu ustęp za
+		ustępem, od razu je wyjaśniając, tak że zrozumiano
+		to, co było czytane" (Neh. 8:8).
+	</p>
+<p>
+		Kazanie jest produktem służenia żywemu Panu Bogu. W
+		żadnej religii kazanie nie występuje. Kazanie jest
+		przemówieniem wygłoszonym w Imię Boże. Kazanie oznacza
+		wstawianie prawidłowych słów w prawidłowym miejscu,
+		i w prawidłowym czasie. Kazanie jest zwiastowaniem
+		Pisma Świętego dla ludzi. "Jeśli kto mówi, niech mówi
+		jak Słowo Boże" (1 Ptr. 4:11). Celem prawdziwego kazania
+		jest pozyskanie słuchaczy do przyjęcia przedstawionej
+		im prawdy Słowa Bożego. Dlatego kazanie jest to czyste,
+		uporządkowane wyjaśnienie Bożej prawdy ludziom, którą
+		Pan Bóg podarował ludzkości w Swoim Słowie.
+	</p>
+<p>
+		Kazanie składa się z pięciu głównych części:
+	</p>
+<p>
+		1. Tekst kazania  przeczytane Słowo Boże, na którym
+		kazanie się opiera.
+	</p>
+<p>
+		2. Temat kazania. Temat wybiera się z przeczytanego
+		tekstu Pisma Świętego i opiera na tej części tekstu,
+		na którą kaznodzieja pragnie położyć swój najsilniejszy
+		nacisk. Dla osiągnięcia dobrego rezultatu poprzez głoszone
+		kazanie, trzeba trzymać się tematu i nie wychodzić
+		z jego ram, bo przecież Biblia jest bardzo obszerna.
+	</p>
+<p>
+		3. Introdukcja (wstęp) kazania. Introdukcja jest tą
+		częścią kazania, która prowadzi do głównego rozważania.
+		Introdukcja jest tak potrzebna w kazaniu, jak stopnie
+		na schodach do domu. Introdukcja kazania musi być krótka,
+		zajmująca nie więcej niż 2-5 minut. Introdukcja pobudza
+		umysł ludzki do myślenia, aby skupić uwagę słuchaczy
+		na tym, co będzie powiedziane. Jest to czas tych kilku
+		minut, które decydują o losie całego kazania. Nigdy,
+		pod żadnym względem nie zaleca się przeciągania introdukcji
+		kazania, aby nie doprowadzić do tego, że z dużej chmury
+		spadnie mały deszcz.
+	</p>
+<p>
+		4. Główne rozważanie  wyjaśnienie kazania. Wyjaśnienie
+		przeczytanego tekstu Pisma Świętego jest przekazaniem
+		słuchaczom tego, co autor napisanego tekstu chciał
+		powiedzieć. Trzymając się tematu, kaznodzieja powinien
+		łączyć słuch ludzi z przeczytanym tekstem Pisma Świętego.
+		Dlatego, że jest to ta cząstka kazania, na której buduje
+		się całe kazanie. Tekst jednoczy całe kazanie i jest
+		najgłówniejszą i najważniejszą częścią kazania, dlatego,
+		że jest to słowo, które powiedział Pan Bóg. Prawidłowe
+		wyjaśnienie tekstu Pisma Świętego jest Bożym wymaganiem
+		obowiązującym przed ludźmi, aby kaznodzieja nie stał
+		się oszustem.
+	</p>
+<p>
+		Główne rozważanie, jako podstawowa część konstrukcji
+		kazania, będzie rozpatrzona szczegółowo w następnej
+		lekcji.
+	</p>
+<p>
+		5. Konkluzja (wnioski  zakończenie) kazania.
+	</p>
+<p>
+		Konkluzja kazania musi być krótka, bo inaczej może
+		zrujnować całe kazanie. Konkluzja, to jakby wyrok sądu
+		na podstawie kazania, zachęcający ludzi do wyboru.
+		Dobry przykład, wiersz, albo podsumowanie samego kazania,
+		może posłużyć jako konkluzja.
+	</p>
+<p>
+		Kazanie musi składać się ze słów dostępnych i zrozumiałych
+		dla wszystkich. Kiedyś zapytano pewną siostrę-staruszkę
+		jak jej się podobało kazanie. Na to ona odpowiedziała:"Przyniosłam
+		z sobą na nabożeństwo nie tę księgę, trzeba było wziąć
+		słownik, a ja wzięłam Biblię". Wygłaszający kazanie
+		musi w pełni polegać na mocy Słowa Bożego i na pomazaniu
+		Ducha Świętego. Gdy kaznodzieja zamiast Słowa Bożego
+		i namaszczenia Ducha Świętego posługuje się psychologią,
+		to u słuchaczy powstaje bardzo mylne poznanie swojego
+		położenia i oni nie ostoją się w prawdzie!
+	</p>
+<p>
+		"A mowa moja i zwiastowanie moje nie były głoszone
+		w przekonywujących słowach mądrości, lecz objawiły
+		się w nich Duch i moc, aby wiara wasza nie opierała
+		się na mądrości ludzkiej, lecz na mocy Bożej" (1 Kor.
+		2:4-5).
+	</p>
+<a name="11">
+</a>
+<h2>
+		Lekcja 11
+	</h2>
+<h3>
+		Struktura kazania
+	</h3>
+<p>
+		Podstawowy tekst:"Jego to zwiastujemy (tj. Chrystusa)
+		napominając i nauczając każdego człowieka we wszelkiej
+		mądrości, aby stawić go doskonałym w Chrystusie Jezusie"
+		(Kol. 1:28).
+	</p>
+<p>
+		W poprzedniej lekcji częściowo rozpatrzyliśmy konstrukcję
+		kazania. Kazanie jest podobne do mostu:introdukcja
+		 podejście do mostu, główne rozważanie w kazaniu 
+		sam most i konkluzja kazania  zejście z mostu. Ponieważ
+		już rozpatrzyliśmy introdukcję i konkluzję kazania
+		w poprzedniej lekcji, to teraz rozpatrzymy samą strukturę
+		głównego rozważania  wyjaśnienie kazania. Główne rozważanie
+		jest tą częścią kazania, która przedstawia ludziom
+		prawdę, która mieści się w przeczytanym tekście Pisma
+		Świętego i temacie kazania. Główne rozważanie kazania
+		zawiera w sobie trzy części:porządek, ruch, progres.
+		Zawsze musimy pamiętać, że Pan Bóg jest Bogiem porządku,
+		a nie bałaganu. Brak porządku wywołuje chaos i nieporozumienie.
+		Gdzie jest porządek, tam jest zrozumienie sprawy i
+		dobra orientacja. Dla osiągnięcia sukcesu w kazaniu
+		konieczne jest to, aby wszystkie trzy aspekty, tj.
+		porządek, ruch i progres, jednakowo uczestniczyły w
+		ofensywie poruszając się do przodu. Dlaczego? Dlatego,
+		że można mieć porządek, nie mając ruchu, można mieć
+		ruch, nie mając progresu, można mieć progres, nie mając
+		porządku.
+	</p>
+<p>
+		Dla lepszego wyjaśnienia i zrozumienia kazania kaznodzieja
+		ustala podrozdziały (punkty). Nie zaleca się ustalać
+		zbyt dużej ilości punktów, aby w pamięci słuchaczy
+		nie powstało zamieszanie. Kiedy posługujemy się ilustracjami,
+		to nie powinno ich być więcej, jak dwie. Zbyt wiele
+		ilustracji upodobniają kazanie do domu zbudowanego
+		z samych okien.
+	</p>
+<p>
+		Podrozdziały (punkty) powinny posiadać pomiędzy sobą
+		płynny związek, który nazywa się synkrynizacją kazania.
+		O tym mówi się bardziej szczegółowo w lekcji 17  "Wygłaszanie
+		kazania". Kaznodzieja sam wypracowuje swoją synkrynizację
+		przez wprawę i doświadczenie. Wszystkim kaznodziejom
+		zaleca się trzymanie tematu i nie wychodzenie poza
+		jego ramy.
+	</p>
+<p>
+		Gdy kaznodzieja czyni porównanie pomiędzy dobrem a
+		złem, pomiędzy sprawiedliwością a bezprawiem, pomiędzy
+		piekłem i rajem, pomiędzy Chrystusem a diabłem, zaleca
+		się zawsze w pierwszej kolejności stawiać negatywną
+		stronę porównania, a potem pozytywną. Słuchacz powinien
+		mieć przed sobą coś do wyboru. Na przykład:kiedy kaznodzieja
+		porównuje piekło z rajem, niech na początku przedstawi
+		całą okropność piekła i piekielnych mąk, a potem przedstawi
+		błogosławieństwa raju. Takie porównanie daje słuchaczowi
+		możliwość wybrania tego, co dobre. Prawdziwy głosiciel
+		zwiastuje Chrystusa i Jego świętą Ewangelię  prawdę
+		Bożą. On posiada coś dobrego od Pana Boga, co może
+		przedstawić ludziom. Gdy kaznodzieja szuka oblicza
+		Bożego w pokorze i uciszeniu serca, to Pan Bóg daje
+		jemu mądrość i Swoją wiedzę, czyni go zdolnym do przekazania
+		ludziom świętej prawdy. Tak długo, dopóki kaznodzieja
+		będzie pragnął uczyć się, będzie mieć progres. Doskonałość
+		jest przed nim, ona jest w Panu Jezusie Chrystusie
+		i w Jego świętej prawdzie. Prawdziwe kazanie jest obrazem
+		Pana Jezusa Chrystusa i Jego prawdy, a także i obrazem
+		samego kaznodziei  na ile on jest pojednany z Panem
+		Jezusem Chrystusem.
+	</p>
+<a name="12">
+</a>
+<h2>
+		Lekcja 12
+	</h2>
+<h3>
+		Metody wygłaszania kazania
+	</h3>
+<p>
+		Podstawowy tekst:"Wielokrotnie i wieloma sposobami
+		przemawiał Bóg dawnymi czasy do ojców przez proroków;
+		ostatnio, u kresu tych dni, przemówił do nas przez
+		Syna, którego ustanowił dziedzicem wszechrzeczy, przez
+		którego także wszechświat stworzył" (Hebr. 1:1-2).
+	</p>
+<p>
+		Lekcja o metodach wygłaszania kazań jest dość obszerna.
+		Kaznodzieje angielsko-języczni posługują się trzema
+		metodami. Ponieważ nasze braterstwo posługuje się inną
+		metodą, rozpatrzymy także i czwartą metodę wygłaszania
+		kazań.
+	</p>
+<p>
+		Poniżej podajemy opis wszystkich tych metod, a nasz
+		pogląd opiera się nie na tym, że jesteśmy zwolennikami
+		tej czy innej metody, lecz dlatego, że te metody są
+		i one są stosowane w naszym czasie. Ponieważ każda
+		z tych metod posiada swe plusy i minusy, bądź ma swoje
+		pozytywne i negatywne strony, musimy je rozpatrzyć
+		także.
+	</p>
+<p>
+		1. Kazanie czytane
+	</p>
+<p>
+		Kaznodzieja pisze treść kazania, a potem odczytuje
+		zgromadzeniu stojąc za kazalnicą. Wydaje się, że jest
+		to najprostszy sposób wygłoszenia kazania. Wielu znanych
+		mężów Bożych posługuje się tą metodą. Każdy kaznodzieja
+		posługujący się tą metodą musi dobrze pamiętać, że
+		musi też mieć natchnienie i namaszczenie Ducha Świętego
+		nie tylko wtedy, gdy będzie odczytywać kazanie, lecz
+		w pierwszej kolejności wtedy, gdy pisze treść kazania.
+	</p>
+<p>
+		Pozytywna strona:Bywają przypadki, gdy trzeba bardzo
+		mało mówić, ale bardzo wiele powiedzieć. Szczególnie,
+		gdy kazanie nadawane jest przez radio, gdy każda minuta
+		kosztuje bardzo drogo. Każdy człowiek jest zdolny do
+		tego, aby wiele powiedzieć, ale bardzo mało przekazać.
+		A to nie tylko, że nie przynosi korzyści, lecz nawet
+		jest szkodliwe, gdy każda minuta jest bardzo droga.
+		Trzeba właściwie oceniać każde słowo, rozważyć i wtedy
+		wypowiedzieć, aby ono miało moc, wagę i cenę.
+	</p>
+<p>
+		Kazanie napisane i potem czytane z kazalnicy prowadzi
+		do doskonalenia stylu pisarskiego, pracowitości i koncentracji
+		myśli.
+	</p>
+<p>
+		Negatywna strona:monotonność czytania, kaznodzieja
+		nie widzi reakcji słuchających, brak zainteresowania
+		ze strony słuchaczy.
+	</p>
+<p>
+		Kaznodzieje, którzy używali i używają tę metodę starają
+		się odczytywać swoje kazania tak, aby nikt nawet nie
+		zauważył, że oni ją czytają. Kaznodzieja musi unikać
+		monotonności w swojej mowie, starać się zachować prawidłową
+		intonację oraz stosować przerwy (pauzy).
+	</p>
+<p>
+		3. Kazanie recytacyjne
+	</p>
+<p>
+		Kaznodzieja pisze treść kazania, potem uczy się na
+		pamięć, aby przekazać jego treść z pamięci.
+	</p>
+<p>
+		Pozytywna strona:rozwija intelekt kaznodziei. Szczególnie
+		korzystna, gdy kładzie się akcent na główne doktryny
+		Biblii, na proste cytaty z Pisma Świętego. Niektórzy
+		kaznodzieje, wygłaszając recytacyjne kazanie, tak umiejętnie
+		posługują się obszernymi tekstami Słowa Bożego z pamięci,
+		że pozyskują w "niewolę" swoich słuchaczy.
+	</p>
+<p>
+		Negatywna strona:podobnie jak w pierwszej metodzie,
+		sztuczność, machinalność wygłoszenia; kierownictwo
+		nad kaznodzieją sprawuje jego pamięć, a nie Duch Święty.
+	</p>
+<p>
+		4. Kazanie esktemporacyjne 
+	</p>
+<p>
+		Kaznodzieja przygotowuje się do kazania zaznaczając
+		na kartce teksty z Pisma Świętego i zasadnicze punkty
+		kazania, ale wygłasza je w sposób otwarty, swobodnie,
+		nie będąc sam "związany" ze swoimi zapisami. Takich
+		kazań jest najwięcej, takie kazania dają najlepsze
+		rezultaty.
+	</p>
+<p>
+		Pozytywna strona:kaznodzieja ma możliwość doskonalić
+		tok swojego myślenia, polegając na kierownictwie Ducha
+		Świętego, spostrzegać reakcje ludzi, widzieć efekt
+		swojego kazania. Posługując się tą metodą kaznodzieja
+		nie tak polega na przygotowaniu kazania, jak na przygotowaniu
+		siebie do kazania. A to jest bardzo ważne.
+	</p>
+<p>
+		Negatywna strona:kaznodzieja może zaniedbać swój "literacki"
+		rozwój, może zaniedbać przygotowanie się do kazania
+		polegając na ostatniej chwili, która może go zawieść.
+	</p>
+<p>
+		Służba kaznodziei jest bardzo obszerna i bardzo rozmaita,
+		dlatego nie powinien on pozostawać w tyle we wszystkich
+		aspektach swojej działalności. "Aby człowiek Boży był
+		doskonały, do wszelkiego dobrego dzieła przygotowany"
+		(2 Tym. 3:17).
+	</p>
+<p>
+		5. Kazanie ekspromotne
+	</p>
+<p>
+		Kaznodzieja otwiera Biblię, czyta odpowiedni urywek
+		Pisma Świętego i głosi tak, jak może i umie. Anglojęzyczni
+		kaznodzieje, których jest na świecie 94%, tej metody
+		prawie zupełnie nie używają. Ta metoda ma największe
+		zastosowanie wśród naszego słowiańskiego bractwa. Tak
+		jak i wszystkie inne metody, tak i ta ma swoją pozytywną
+		i negatywną stronę.
+	</p>
+<p>
+		Strona pozytywna:kaznodzieja wygłaszając ekspromotne
+		kazanie może być cudownie używany przez Pana Boga.
+		Duch Święty ma możliwość dyktować kaznodziei swoje
+		myśli. Ta metoda jest stosowana wtedy, gdy Pan Bóg
+		używa wyłącznie tych kaznodziei, którzy nauczyli się
+		w pełni polegać na kierownictwie Ducha Świętego.
+	</p>
+<p>
+		Negatywna strona:nie wszyscy kaznodzieje, i nie zawsze,
+		mają jednakowe namaszczenie Ducha Świętego. Nie wszyscy
+		kaznodzieje są jednakowo intelektualnie rozwinięci
+		i nie u wszystkich z nich jest jednakowa pamięć. Dobrze,
+		gdy kaznodzieją za kazalnicą kieruje Duch Święty, gdy
+		dostarcza mu słowa w myśli. A jeżeli tak nie jest,
+		to co wtedy? Wierzymy, że kaznodzieja powinien być
+		pod kierownictwem Ducha Świętego nie tylko za mównicą
+		i w swoim domu, w swoim gabinecie, przed wyjściem na
+		nabożeństwo. Polegać na ostatniej chwili nie zawsze
+		się opłaca!
+	</p>
+<p>
+		Wnioski ogólne:
+	</p>
+<p>
+		Pomiędzy naszym bractwem poleganie na ostatniej chwili
+		jest bardzo popularne. Taktyka kaznodziei  tam, gdzie
+		Biblia się otworzy  także jest bardzo popularna.
+	</p>
+<p>
+		Wyobraźmy sobie, że Biblia jest podobna do wielkiej
+		apteki, w której znajdują się lekarstwa od wszelkich
+		chorób. Czy będzie to mądre, gdy po wejściu do apteki
+		wyciągnęlibyśmy rękę i wzięli jakiekolwiek lekarstwo?
+		Tak, jak to było zaznaczone na początku  kazanie jest
+		użyciem prawidłowych słów, w prawidłowym miejscu i
+		o prawidłowym czasie. Kazanie nie jest zbiorem czegoś
+		jak popadło i kiedy popadło.
+	</p>
+<p>
+		Podstawowa metoda wygłoszenia kazania  trzymać się
+		tematu. Można użyć wiele słów i bardzo mało powiedzieć.
+		Ale można też użyć mało słów i bardzo wiele powiedzieć.
+		Dwaj mężowie chwalili się swoimi żonami. Jeden mówi:"Moja
+		żona może mówić przez całą godzinę i to na jeden temat!"
+		Drugi zaś powiedział:"A moja żona będzie mówić pięć
+		godzin i to bez żadnego tematu!" 
+	</p>
+<p>
+		Dobrze pamiętam jednego brata, który polegał tylko
+		na ekspromotnej metodzie wygłoszenia kazania. Nie jeden
+		raz miałem możliwość widzieć go za kazalnicą i gdy
+		myśl zdradzała go, to zatrzymywał się i krzyczał:"Uciekło,
+		bracia, uciekło!"  gdy zaś myśl powróciła to wykrzykiwał:"Znowu
+		przyszło!"  i głosił dalej.
+	</p>
+<p>
+		Aby nie czynić z siebie pośmiewiska za kazalnicą, lepiej
+		zapisywać swoją myśl na kartce papieru. Pan Bóg dobrze
+		zna niedostatki naszej pamięci, dlatego też poleca:"Napisz
+		więc, co widziałeś" (Obj. 1:19). Zapisanie natchnionych
+		przez Ducha Świętego myśli nie jest grzechem. Pan Bóg
+		dał człowiekowi rozum, daje wiedzę i mądrość. On chce
+		żeby człowiek wszystko to używał dla chwały Bożej.
+		Przygotowanie się do kazania wymaga od kaznodziei odrębnego
+		czasu  aby mógł przebywać samotnie z Panem Bogiem.
+		To jest ważne dla kaznodziei i o tym będzie mowa w
+		następnych lekcjach.
+	</p>
+<a name="13">
+</a>
+<h2>
+		Lekcja 13
+	</h2>
+<h3>
+		Typy kazań
+	</h3>
+<p>
+		Pan Jezus Chrystus posługiwał się wieloma metodami
+		dla przekazania Słowa. Chociaż metod jest wiele i one
+		różnią się jedna od drugiej, ale cel jest jeden:doprowadzić
+		dusze do poznania prawdy Bożej, wychować je w wierze
+		w Chrystusa  poprzez łaskę, poprzez święte Słowo Boże.
+	</p>
+<p>
+		Wszystkich typów kazań jest siedem:kazanie-świadectwo,
+		kazanie wykładowe (ekspozycyjne), tekstowe, przedmiotowe,
+		historyczne, biograficzne i kazanie alegoryczne.
+	</p>
+<p>
+		1. Kazanie-świadectwo
+	</p>
+<p>
+		Kazanie, podczas którego składa się świadectwo, jest
+		najprostsze. Ono opiera się na osobistym świadczeniu,
+		na własnym doświadczeniu przeżycia łaski Bożej. Jako
+		podstawę do tego kazania weźmiemy 16 wiersz z Psalmu
+		66:"Pójdźcie, słuchajcie, wszyscy bogobojni, a opowiem,
+		co On uczynił dla duszy mojej!".
+	</p>
+<p>
+		W tym kazaniu daje się odpowiedzi na pytania:Co uczynił
+		Pan Bóg? Gdzie to uczynił? Kiedy to uczynił? Jak to
+		uczynił?
+	</p>
+<p>
+		Kazanie-świadectwo jest bardzo ciekawe. O wartości
+		medycyny może zaświadczyć wyłącznie ten, kto z nią
+		miał do czynienia i komu ona pomogła. Tak i osobiste
+		świadectwo o przeżyciu łaski Bożej ma wielką moc w
+		ustach tego, kto skosztował mocy łaski Bożej na sobie.
+		Kazania na podstawie osobistego przeżycia są dość częste,
+		wygłaszane przez tych, którzy są sługami Pana Boga,
+		a szczególnie ludzi wyzwolonych z fałszywych kultów.
+	</p>
+<p>
+		Świadectwo jest faktem, którego nikt nie odrzuci! (1
+		Tym. 1:12-17). W świadectwie trzeba unikać przejaskrawienia,
+		oraz różnych upiększeń. Mów o faktach, a wtedy nigdy
+		nie zbłądzisz. Trzeba też unikać wspomnień o minionych
+		haniebnych uczynkach.
+	</p>
+<p>
+		Wygłaszając świadectwo mów je tak, aby w nim był na
+		pierwszym miejscu Pan Jezus Chrystus! (2 Kor. 4:5).
+		Niech w centrum uwagi słuchaczy będzie Chrystus, a
+		nie ty.
+	</p>
+<p>
+		Świadectwo nie powinno występować zamiast Słowa Bożego.
+		Nie można też wygłaszać je tak, że Pan Jezus Chrystus
+		pozostaje w cieniu. Swoim świadectwem przedstawiaj
+		ludziom Pana Jezusa Chrystusa, który ci pomógł, ciebie
+		zmienił. On ma moc dopomóc również i tym którym świadczysz.
+	</p>
+<p>
+		2. Kazanie wykładowe (ekspozycyjne)
+	</p>
+<p>
+		Kazanie wykładowe zalicza się jako najlepsze ze wszystkich
+		typów kazań. W tym kazaniu podstawowym tematem jest
+		główna myśl z przeczytanego tekstu Pisma Świętego.
+		Na tej podstawie kaznodzieja opiera się i opiera swoje
+		szczegółowe wykłady. Główny akcent w kazaniu kładzie
+		na Piśmie Świętym, które traktuje jako najwyższy autorytet
+		posiadający moc! Wszyscy korzystają z nauki Słowa Bożego
+		(2 Tym. 3:16-17). Kazanie wykładowe zawiera w sobie
+		wiele odsyłaczy dotyczących danego tematu, tak, że
+		kaznodzieja nigdy nie zazna niedostatku w materiale.
+		Kazanie wykładowe jest podobne do koła, co rozpatrzymy
+		bliżej.
+	</p>
+<p>
+		Przykład kazania wykładowego:Weźmiemy tekst Słowa Bożego
+		z 1 Listu Piotra 1:15-16. Centralnym punktem kazania
+		jest, jakby piasta koła  tekst Słowa Bożego. Powstaje
+		więc pytanie:Skąd pochodzi świętość i gdzie znajduje
+		się fundamentalna osnowa świętości? Osnową świętości
+		jest Pan Bóg! Świętość jest tą jakością, która stwarza
+		naszą pokrewność z Panem Bogiem. Co sprawia świętość
+		w nas? Przez co nabywamy świętości? Zasady świętości:krew
+		Pana Jezusa Chrystusa, Słowo Boże, Duch Święty, modlitewna
+		społeczność z Panem Bogiem. 
+	</p>
+<p>
+		Następstwa świętości w nas  to szprychy koła. Wewnętrznymi
+		następstwami jest odwrócenie się od grzechu, miłość
+		do tego, co jest dobre, miłość do Pana Boga, miłość
+		do ludzi.
+	</p>
+<p>
+		Zewnętrznymi cechami świętości jest:sprawiedliwość
+		 szata chrześcijanina (Obj. 19:8), dobre uczynki,
+		świadczenie ludziom o Panu Jezusie Chrystusie i pragnienie
+		dobra dla ludzi.
+	</p>
+<p>
+		Wykonawczy cel świętości w nas  obręcz koła. Świętość
+		prowadzi tam, gdzie ona przyszła, wprost do Pana Boga.
+		Pan Bóg jest nieograniczony w świętości, miłości, prawdzie
+		itp.
+	</p>
+<p>
+		W którą stronę nie skierujesz koło, to ono opiera się
+		na szprychach, które w swojej kolejności opierają się
+		na piaście koła, która stanowi jego centrum  oryginalny
+		tekst Słowa Bożego.
+	</p>
+<p>
+		Podaliśmy skrócony schemat kazania wykładowego. Każdy
+		z wymienionych punktów można poszerzyć. Kazanie wykładowe
+		jest bardzo ciekawe, bogate i niewyczerpalne.
+	</p>
+<p>
+		3. Kazanie tekstowe
+	</p>
+<p>
+		Kazanie tekstowe opiera się na jednym wierszu, albo
+		na części wiersza Słowa Bożego. Ten typ kazań szczególnie
+		stosują początkujący kaznodzieje dlatego, że łatwo
+		możemy zapamiętać przeczytany tekst Słowa Bożego. Dla
+		wzbogacenia kazania tekstowego kaznodzieja powinien
+		posługiwać się synonimowymi tekstami Pisma Świętego,
+		bo w przeciwnym razie temat może być szybko wyczerpany.
+	</p>
+<p>
+		Dla młodych kaznodziei zaleca się brać pod uwagę kazania
+		starszych kaznodziei, uważnie przyglądać się ich taktyce,
+		ale nie imitować ich.
+	</p>
+<p>
+		Przykład kazania tekstowego:Tekst kazania:Ef. 2:8-9.
+	</p>
+<p>
+		1. Źródłem zbawienia jest łaska. 2. Obiektem zbawienia
+		jesteście wy, ludzie. 3. Udziałem zbawienia jest wiara.
+		4. Łaską zbawieni jesteście  teraźniejszość. 5. Zbawienie
+		 realność.
+	</p>
+<p>
+		Znacznie łaski:jej początek (1 Ptr. 5:10). Przez kogo
+		przyszła łaska? (Jan 1:17; 2 Kor. 8:9). Są tylko dwa
+		rodzaje ludzi:zbawieni i zgubieni. Obiektem zbawienia
+		są ludzie (Ef. 2:1-3). Zbawienie jest teraźniejsze
+		(1 Kor. 1:6-8, 6:11; Dz. Ap. 13:38; 1 Jan 4:17). Części
+		składowe zbawienia:od kary za grzech (Jan 5:24), od
+		mocy grzechu (Rzym. 8:1-2), od obecności grzechu (Obj.
+		21:27).
+	</p>
+<p>
+		Udziałem zbawienia jest wiara. Czym jest wiara? (Hebr.
+		11:1). Obiektem wiary jest Pan Jezus Chrystus! (Mat.
+		16:16-17). Rezultatem wiary w Pana Jezusa Chrystusa
+		jest zbawienie (Dz. Ap. 16:31).
+	</p>
+<p>
+		4. Kazanie przedmiotowe
+	</p>
+<p>
+		Kazanie przedmiotowe wygłasza się na podstawie jakiegoś
+		biblijnego przedmiotu. W Biblii mówi się o wielu przedmiotach.
+		
+	</p>
+<p>
+		Przykład kazania przedmiotowego:Nasz tekst:1 Król.
+		6:11-19, 8:10-11. Przedmiotem naszego kazania jest
+		świątynia. Świątynia jest miejscem chwały dla Pana
+		Boga, miejscem obecności Bożej. Tak długo, dopóki w
+		świątyni jest uwielbiane Boże Imię, dopóki w świątyni
+		jest obecność Boża, to On usprawiedliwia swoje przeznaczenie.
+		Świątynia zbudowana rękami ludzkimi jest praobrazem
+		świątyni zbudowanej nie rękami ludzkimi (1 Ptr. 2:4-5).
+		Żywa świątynia (1 Kor. 3:16-17). Ciała odkupionych
+		dzieci Bożych są świątynią Ducha Świętego (1 Kor. 6:19).
+		Żywy Bóg jest Panem Bogiem żywej świątyni (2 Kor. 6:16).
+		Lud Boży jest wiecznym przybytkiem Bożym, budowanym
+		przez Ducha Świętego (Ef. 2:18-22). Podobnie do tego,
+		jak w świątyni było miejsce Najświętsze (1 Król. 6:19),
+		gdzie znajdowała się Skrzynia Przymierza wraz z kamiennymi
+		tablicami, tak i w żywej świątyni jest serce, w którym
+		jest obecność Boża, gdzie zapisane są Boże przykazania
+		przez Ducha Świętego (2 Kor. 3:2-6). Strzeż tę świątynię,
+		aby była czysta i święta! (Przyp. Sal. 4:23; 1 Tes.
+		4:4; 2 Tym. 2:21).
+	</p>
+<p>
+		5. Kazanie historyczne
+	</p>
+<p>
+		W kazaniu historycznym jako podstawową myśl wybiera
+		się jakieś biblijne zdarzenie albo jakiś incydent.
+		Wszyscy ludzie lubią opowiadania. Biblijne opowiadania
+		są szczególnie bogate, ciekawe i niezrównane. Kazanie
+		historyczne daje kaznodziei prosty, obszerny i dostępny
+		materiał (Rzym. 15:4; 1 Kor. 10:11). Opowiadania biblijne
+		nie zawsze świadczą o ich duchowości. One znajdują
+		się w Biblii nie dlatego, że są duchowe, ale dlatego,
+		że tak się stało. Dlatego nie jest korzystne branie
+		wszystkich przykładów i pojmowanie ich duchowo.
+	</p>
+<p>
+		Wzór kazania historycznego:Dziesięciu trędowatych.
+		Nasz tekst:Łuk. 17:11-19. Ich stan:wiersze 11-12.
+	</p>
+<p>
+		Trędowaci są praobrazem niezbawionego człowieka  nieczystości
+		(3 Mojż. 13:45; Iz. 64:6; Ps. 14:2-3; Job 15:14-16;
+		Iz. 6:5). Dalecy, obcy wobec Pana Boga (Ef. 2:13; Iz.
+		59:2; Łuk. 18:23). Bez nadziei, niewierzący, osądzeni
+		(Jan 3:18). 
+	</p>
+<p>
+		Ich krzyk:wiersz 13. Szczery, donośny, w prawidłowym
+		duchu (Jer. 29:13; Iz. 55:6; Rzym. 10:13). Prawidłowo
+		odnieśli się:w pokorze, prosząc o łaskę, niewymagający
+		(Mich. 7:18-19; Ps. 103:8-11; Mat. 9:13). Do prawidłowej
+		Osoby (Mat. 1:21; Dz. Ap. 4:12; Jan 14:6). W prawidłowym
+		stosownym czasie (Iz. 55:6; 2 Kor. 6:2). Ich uzdrowienie
+		(Łuk. 17:14). Dane słowo polecające:idźcie (Rzym.
+		10:6-9; Mat. 11:28). Słowo wysłuchane (Rzym. 6:17;
+		Hebr. 4:2). Wdzięczny tylko jeden (wiersze 15-19).
+		Jego powrót do Chrystusa (Mat. 8:4; Hebr. 10:1-14).
+		Jego wdzięczność, jego uniżenie i oddanie czci (wiersze
+		15-16).
+	</p>
+<p>
+		6. Kazanie biograficzne
+	</p>
+<p>
+		Kazanie biograficzne bazuje na biografii biblijnej
+		osoby. Z biograficznego kazania można wiele się nauczyć
+		i zaczerpnąć. Upadki danej osoby są dla nas przestrogą,
+		zwycięstwa  przykładem. Biograficzne kazanie jest
+		ciekawe i korzystne, jest kazaniem informacyjnym, przykładowym
+		(1 Kor. 11:1). W życiu biblijnej osoby każdy z nas
+		może zobaczyć siebie, wybrać dla siebie wszystko, co
+		jest pożyteczne. Każdy z nas może podać główną charakterystykę
+		danej osoby:Kto jest tą osobą? Co ją uczyniło taką?
+		Jaki jest rezultat jej życia? Jedenasty rozdział Listu
+		do Hebrajczyków służy dla nas dobrym przykładem.
+	</p>
+<p>
+		Wzór kazania biograficznego:Nasz tekst:Hebr. 11:5.
+		Biblijna osoba:Henoch, siódmy po Adamie (1 Mojż. 5:18,21-24).
+		Urodził się w 622 r. po upadku Adama. Ponad 300 lat
+		żył za czasów Adama, a więc wiedział o upadku i następstwach
+		za grzech! Charakterystyka Henocha:On chodził z Panem
+		Bogiem. Podobał się Panu Bogu. Przez co się podobał?
+		Przez wiarę. Proroctwo Henocha:Sąd nad grzechem. Przyjście
+		Pana (Juda 14-15). Przeniesienie żywego Henocha do
+		nieba (1 Mojż. 5:24; Hebr. 11:5).
+	</p>
+<p>
+		Henoch jest praobrazem pochwycenia Kościoła Chrystusowego
+		(1 Tes. 4:13-18). Pochwyceni zostaną ci, którzy podobają
+		się Panu Bogu.
+	</p>
+<p>
+		Całe Pismo Święte jest pożyteczne (2 Tym. 3:16-17).
+	</p>
+<p>
+		7. Kazanie alegoryczne
+	</p>
+<p>
+		W Biblii jest wiele alegorycznych opowiadań, przypowieści
+		i przypowiastek. Alegoria oznacza, że pod postacią
+		czy treścią czegoś należy rozumieć coś innego. Jako
+		przykład kazania alegorycznego weźmiemy tekst z Księgi
+		Sędziów 9:8-15.
+	</p>
+<p>
+		Jest rzeczą zrozumiałą, że drzewa nie chodzą, nie mówią
+		i nie ustanawiają króla nad sobą. Jako drzewa trzeba
+		widzieć ludzi, narody. Jako wysokie drzewo, trzeba
+		widzieć wyniosłość (pychę) człowieka. Przez poniżone
+		drzewo trzeba widzieć pokorę człowieka. "I poznają
+		wszystkie drzewa polne, że Ja Pan, poniżyłem drzewo
+		wysokie, a wywyższyłem drzewo niskie (), że zakwitło
+		drzewo suche. Ja, Pan, powiedziałem to i uczynię" (Ezech.
+		17:24).
+	</p>
+<p>
+		Sprawiedliwy, w Słowie Bożym, przedstawiony jest jako
+		palma (Ps. 92:13-14), jak drzewo posadzone nad potokiem
+		wody (Ps. 1:3). Pan Bóg ma moc, aby pochylić wysokie
+		drzewo (harde serce) i On ma moc podnieść i wywyższyć
+		niskie drzewo (pokorne serce). "Niejeden jest butny
+		przed upadkiem, lecz chwałę poprzedza pokora" (Przyp.
+		Sal. 18:12). "Uniżcie się przed Panem, a wywyższy was"
+		(Jak. 4:10).
+	</p>
+<a name="14">
+</a>
+<h2>
+		Lekcja 14
+	</h2>
+<h3>
+		Przygotowanie kazania
+	</h3>
+<p>
+		Podstawowy tekst:Księga Kaznodziei Salomona 12:9-12.
+		
+	</p>
+<p>
+		Ponieważ głoszenie Ewangelii jest tym, czego Pan Bóg
+		wymaga od kaznodziei, to już ten fakt świadczy o tym,
+		że głoszenie jest połączone z czasem na przygotowanie
+		się do kazania. Przygotowanie się kaznodziei jest ściśle
+		związane ze studiowaniem Pisma Świętego (2 Tym. 3:15).
+		Pismo Święte czyni człowieka mądrym ku zbawieniu, a
+		mądry stara się zadbać o dusze ludzkie (Przyp. Sal.
+		11:30). Pouczony o prawdzie jest zdolny do nauczania
+		innych osób (2 Tym. 2:2). Mądry i rozumny człowiek
+		poznaje sprawiedliwe ścieżki i chodzi nimi (Oz. 14:9).
+	</p>
+<p>
+		Przed zajęciem miejsca za kazalnicą, kaznodzieja powinien
+		odbyć spotkanie w samotności z Panem Bogiem, sam na
+		sam ze sobą, samotnie z Biblią. Aby prawidłowo i prawdziwie
+		przekazać Boże Słowa, trzeba usłyszeć dyktando z wysokości,
+		przez natchnienie Ducha Świętego. Każe kazanie sługi
+		Bożego jest podobne do gwoździa, który przy pomocy
+		młota Słowa Bożego jest "wbijany" do serc słuchaczy
+		mocą Ducha Świętego.
+	</p>
+<p>
+		Wybór tekstu:Trzeba szukać kierownictwa Bożego w modlitwie
+		(Jan. 15:5). Trzeba to czynić w pokorze (Ps. 25:9;
+		Iz. 66:1-2). Pan Bóg obiecuje udzielenie mądrości (Jak.
+		1:5-6). Kaznodzieja musi nauczyć się polegania na Panu
+		Bogu (Iz. 40:31).
+	</p>
+<p>
+		Bardzo pożyteczne dla kaznodziei jest rozmyślanie nad
+		tym, co będzie głosił i nie polegając na swojej pamięci,
+		zapisanie głównych myśli (Obj. 1:19). Głoszenie Ewangelii
+		jest najważniejszą rzeczą w świecie i zanim słuchacze
+		to ocenią, kaznodzieja musi to ocenić w pojedynkę przed
+		Panem Bogiem.
+	</p>
+<p>
+		Złota myśl:Po wybraniu tematu czy tekstu, przedstaw
+		to Panu Bogu w modlitwie. Zwróć się w pokorze do Pana
+		Boga ze skruszonym duchem i sercem, oddzielony od tego
+		wszystkiego, co jest związane ze światem. Napełnij
+		się obecnością Bożą, Słowem Bożym, mądrością Bożą i
+		wtedy stojąc za kazalnicą przekazuj to, co Pan Bóg
+		ci dał. Znany kaznodzieja John Wesley powiedział:Napełnij
+		się Bożym ogniem, a wtedy ludzie przyjdą zobaczyć jak
+		ty się palisz!
+	</p>
+<p>
+		Mówiąc o przygotowaniu, trzeba podkreślić, że nie tak
+		ważne jest przygotowanie kazania, jak przygotowanie
+		kaznodziei do kazania. Trzeba pozbawić się wszelkiego
+		roztargnienia, usunąć wszelkie niepotrzebne troski,
+		które stanowią przeszkodę przy koncentracji myśli.
+		Staraj się porównywać to, co duchowe z duchowym (1
+		Kor. 2:13), poświęcając na to czas. Módl się tak, podkreślając,
+		że wszystko zależy od Pana Boga i wtedy głoś tak, będąc
+		przygotowanym i czyń to, co należy do ciebie, jako
+		sługi Bożego. Pan Bóg dał kaznodziei Ducha Świętego
+		i rozum, aby go używał. Jest to szczególnie ważne w
+		odniesieniu do okoliczności, z którymi związany jest
+		temat kazania. Na Wielkanoc stosowne jest kazanie na
+		temat Wielkanocy, na Boże Narodzenie na temat też z
+		tym związany. Na pogrzebie  kazanie pogrzebowe, na
+		weselu  weselne. 
+	</p>
+<p>
+		W służbie kaznodziei zdarzają się przypadki, że jest
+		niespodziewanie zaproszony do wygłoszenia kazania,
+		będąc do tego nieprzygotowany. W takich przypadkach
+		nie jeden raz Pan Bóg przychodził do swoich sług z
+		pomocą. Ale to w żaden sposób nie świadczy o tym, że
+		kaznodzieja może zaniedbać swoje przygotowanie.
+	</p>
+<p>
+		Pewien młody kaznodzieja został zaproszony do wygłoszenia
+		kazania na specjalnym nabożeństwie. Po przyjęciu zaproszenia
+		przez cały dzień przygotowywał się do kazania. Gdy
+		nastąpił moment, że stanął za kazalnicą, to zobaczył
+		przed sobą taśmę z napisanymi na niej słowami, które
+		zaczął głośno czytać. Taśma z kolorowymi słowami poruszała
+		się, dochodziły nowe słowa tak, że czytał te słowa
+		około dwudziestu minut. Kazanie było nadzwyczajne,
+		chociaż nikt nie wiedział, że on je czytał. Po tym
+		kazaniu wszyscy kaznodzieje zaczęli zapraszać do siebie
+		sławnego kaznodzieję. Na następny dzień znów zaproszono
+		go do wygłoszenia kazania. On jednak całkowicie zaniedbał
+		swoje przygotowanie i kiedy stanął za kazalnicą, przed
+		nim już nie było tej taśmy ze słowami i w jego sercu
+		też nie było niczego. Zawstydzony musiał opuścić kazalnicę.
+	</p>
+<p>
+		Opowiadają, że na Kaukazie, w górzystej miejscowości
+		są przewożone na grzbietach osłów różne rzeczy. Idący
+		pomiędzy górami i potokami osioł z ładunkiem soli na
+		grzbiecie potknął się i wpadł do wody. Zanim osioł
+		wydostał się z wody, część soli rozpuściła się w wodzie,
+		a osioł poczuł ulgę. Za następnym razem osioł dźwigał
+		na swym grzbiecie watę. Gdy doszedł do wody, to umyślnie
+		położył się w wodzie. Gdy trochę poleżał w wodzie,
+		to zaczął stawać na nogi, a jego bagaż stał się znacznie
+		cięższy. Osioł bardzo się pomylił.
+	</p>
+<p>
+		Podobny zawód przeżył niejeden kaznodzieja. Aby nie
+		ulec oszustwu, starajmy się przygotowywać siebie tak,
+		aby zawsze być gotowym do głoszenia Ewangelii i umierania
+		dla grzechu.
+	</p>
+<a name="15">
+</a>
+<h2>
+		Lekcja 15
+	</h2>
+<h3>
+		Zbieranie materiału do kazania
+	</h3>
+<p>
+		Podstawowy tekst:"Wszystkiego doświadczajcie, co dobre,
+		tego się trzymajcie!" (1 Tes. 5:21).
+	</p>
+<p>
+		Zbieranie materiałów stanowi dla kaznodziei zadanie
+		na całe życie. Jaki obdarowany przez Pana Boga byłby
+		to kaznodzieja, to musi zawsze pamiętać, że nie jest
+		on jedynym, któremu została odkryta prawda Boża. Dlatego
+		pożyteczne dla niego jest korzystanie z dobrych porad,
+		udzielanych przez starszych kaznodziei, w oparciu o
+		ich wieloletnie doświadczenie. Kaznodzieja może podnieść
+		swoich słuchaczy tylko na taki duchowy poziom, na którym
+		sam się znajduje i nigdy nie podejmie wyżej siebie.
+		Oprócz Biblii, kaznodzieja może i powinien korzystać
+		z treści dobrych, duchowych książek, napisanych przez
+		świętych i błogosławionych przez Pana Boga Ewangelistów.
+		Ale, niech żadna książka nie zastępuje Biblii, niech
+		tylko pomaga, a nie panuje. Korzystajcie z książek
+		autorów pełnej Ewangelii, mężów wiary i świętego życia,
+		ludzi bogobojnych.
+	</p>
+<p>
+		Wszystko to, co dobre do przeczytania, dobre do posłuchania,
+		dobre do zapamiętania, aby starą prawdę można było
+		powiedzieć nowymi ustami, nowym sposobem. Głównym celem
+		kazań i czytania duchowych książek jest głębokie poznanie
+		Księgi ksiąg  Biblii!
+	</p>
+<p>
+		Zarówno kaznodzieja, jak i każdy chrześcijanin powinien
+		duchowo rozwijać się. A to oznacza, że rozwój ten jest
+		procesem, a nie izolowanym aktem. Dobrym przykładem
+		może być dla nas starotestamentowy Kaleb, który dobrze
+		rozpoczął i dobrze zakończył swoją drogę (Joz. 14:10-14).
+		Aby zostać dobrym nauczycielem trzeba najpierw być
+		dobrym uczniem.
+	</p>
+<p>
+		Święty ap. Paweł lubił duchowe księgi (2 Tym. 4:13).
+		On także wierzył w duchową literaturę, pisząc czternaście
+		listów, które do dnia dzisiejszego służą jako błogosławieństwo
+		dla milionów ludzi, w wielu językach. Znany kaznodzieja
+		i poeta I.S. Prochanow powiedział:"Jeżeli ustne kazanie
+		działa jak deszcz, to napisane kazanie działa jak śnieg.
+		Pomału topiący się śnieg zrasza ziemię i daje jej wilgoć.
+		Tak też napisane kazanie, działa przez długi czas!
+		Ale, jakaż szkoda, że za tych, którzy głoszą ustnie,
+		zazwyczaj ludzie modlą się, natomiast za głoszących
+		w formie pisemnej niemalże nikt się nie modli, i to
+		wtedy, gdy pisemne zwiastowanie jest znacznie ważniejsze
+		i pożyteczniejsze".
+	</p>
+<p>
+		Będąc w pełni zajęci dziełem zwiastowania, nie wszyscy
+		kaznodzieje Ewangelii jednakowo przygotowują się do
+		kazania. Znany kaznodzieja R. Torres zawsze kładł koło
+		swego łóżka papier i ołówek i zapisywał wszystko, co
+		Pan Bóg dawał mu w ciągu nocy.
+	</p>
+<p>
+		Jak już wcześniej zaznaczono, kaznodzieja powinien
+		często przebywać w samotności z Panem Bogiem. Nie zawsze
+		kazanie bywa dane wtedy, gdy my pragniemy je mieć.
+		Kazanie, tak jak i wszystkie Boże błogosławieństwa,
+		trzeba przyjmować wtedy, gdy Pan Bóg je daje, a nie
+		wtedy, gdy prosimy. To stanowi wielką tajemnicę kaznodziei
+		w dziedzinie duchowego materiału do służby.
+	</p>
+<p>
+		Każda pomyłka, czy nieprawda, może być wypróbowana
+		przez prawdę. Dlatego trzeba trzymać się zdrowej ewangelicznej
+		nauki (2 Tym. 1:13; Tyt. 1:9). Na zakończenie możemy
+		przyjąć dobre rady świętego ap. Pawła:"Wreszcie, bracia,
+		myślcie tylko o tym, co prawdziwe, co poczciwe, co
+		sprawiedliwe, co czyste, co miłe, co chwalebne, co
+		jest cnotą i godne pochwały. Czyńcie to, czego się
+		nauczyliście i co przyjęliście, co słyszeliście i co
+		widzieliście u mnie, a Bóg pokoju będzie z wami" (Flp.
+		4:8-9).
+	</p>
+<a name="16">
+</a>
+<h2>
+		Lekcja 16
+	</h2>
+<h3>
+		Posługiwanie się Pismem Świętym
+	</h3>
+<p>
+		Podstawowy tekst:"Staraj się usilnie o to, abyś mógł
+		stanąć przed Bogiem jako wypróbowany i nienaganny pracownik,
+		który wykłada należycie Słowo Prawdy" (2 Tym. 2:15).
+	</p>
+<p>
+		Cała nauka Pisma Świętego jest tą prawdą, którą Pan
+		Bóg pragnie przekazać i włożyć do serca czytelnika
+		(słuchacza), bądź przekazać jemu tę myśl, która była
+		u Tego, który dał człowiekowi Pismo Święte. Musimy
+		zawsze pamiętać, że Pismo Święte jest nieomylne, podczas
+		gdy ludzkie przekłady Biblii i komentarze biblijne
+		mogą być (i bywają) mylne.
+	</p>
+<p>
+		Każdy komentator Pisma Świętego musi zrozumieć, że
+		on nie jest jedynym, który chce poznać, czy zna Pismo
+		i kogo Duch Święty naucza.
+	</p>
+<p>
+		Poznanie doktryn Biblii nigdy nie ma tej wartości,
+		którą ma dostojne przed Panem Bogiem, święte i bogobojne
+		życie kaznodziei. Podobieństwo do Pana Jezusa jest
+		wyższe od tego wszystkiego, co występuje w życiu i
+		służbie kaznodziei (Kol. 2:6-7; Flp. 2:5-8).
+	</p>
+<p>
+		Pismo Święte Nowego Testamentu odkryło ludzkości nowy
+		horyzont, nieznany w Starym Testamencie (Rzym. 3:21;
+		2 Tym. 1:10; Ef. 3:4-6). Pan Bóg w Panu Jezusie Chrystusie
+		uczynił nas sługami Nowego Testamentu, nie litery,
+		lecz Ducha! (2 Kor. 3:6).
+	</p>
+<p>
+		Kaznodzieja powinien tak posługiwać się Pismem Świętym,
+		aby sam był listem Chrystusowym, napisanym nie na kamieniu,
+		lecz na cielesnych tablicach serca przez Ducha Świętego,
+		aby ludzie mogli czytać żywą Ewangelię! (2 Kor. 3:2-3).
+		Posługiwanie się Ewangelią, objaśnianie jej i zwiastowanie
+		musi być ciasno związane z mocą Ducha Świętego, pod
+		Jego świętym kierownictwem i dzięki Jego objawieniu.
+		To jest jedyna moc, która odnajduje grzech w sercach
+		słuchaczy, demaskuje go. Jest to moc, która przekonuje
+		słuchaczy do tego, aby zobaczyli siebie akurat takimi,
+		jakimi ich widzi Pan Bóg. Duch Święty jest tą mocą,
+		która wywyższa Pana Jezusa Chrystusa ponad wszystko
+		i daje Jemu pierwsze miejsce we wszystkim!
+	</p>
+<p>
+		"Litera zabija, a duch ożywia!". Sługa Boży w większym
+		stopniu jest prowadzony przez Ducha Świętego, ma zawsze
+		większe poszanowanie do Słowa Bożego (1 Tes. 1:5; 1
+		Kor. 2:4-5). Dlatego napisano:"Jeśli kto mówi, niech
+		mówi jak Słowo Boże. Jeśli kto usługuje, niech czyni
+		to z mocą, której udziela Bóg, aby we wszystkim był
+		uwielbiony Bóg przez Jezusa Chrystusa. Jego jest chwała
+		i moc na wieki wieków. Amen." (1 Ptr. 4:11).
+	</p>
+<p>
+		Posługiwanie się Pismem Świętym jest bardzo ważną i
+		odpowiedzialną przed Panem Bogiem rzeczą. Dlatego przed
+		kazaniem, czy nauczaniem treści Pisma Świętego, kaznodzieja
+		powinien szukać oblicza Bożego przez modlitwę, szukać
+		woli Bożej i kierownictwa Ducha Świętego, aby przekazać
+		ludziom akurat to, co Pan Bóg pragnie. Każdy kaznodzieja
+		powinien raz i na zawsze zapamiętać, że Pan Bóg nigdzie
+		nigdy nikomu nie zalecał przekręcanie Pisma Świętego.
+		Wszyscy ci, którzy przekręcają Pismo, przekręcają na
+		własną zgubę! (2 Ptr. 3:16). Pan Bóg nie pozwala nikomu
+		ani dodawać, ani ujmować z Pisma Świętego (Obj. 22:18-19).
+		Posługuj się Pismem Świętym z głęboką czcią i świętością,
+		w bojaźni Bożej.
+	</p>
+<a name="17">
+</a>
+<h2>
+		Lekcja 17
+	</h2>
+<h3>
+		Wygłaszanie kazania
+	</h3>
+<p>
+		Podstawowy tekst:"Albowiem Syn Boży Jezus Chrystus,
+		którego wam zwiastowaliśmy, ja i Sylwan, i Tymoteusz,
+		nie był równocześnie 
+		» tak« i »
+		nie« , lecz w Nim było tylko » tak«
+		" (2 Kor. 1:19).
+	</p>
+<p>
+		Wymodlone u Pana Boga i przygotowane kazanie, musi
+		być wygłoszone, bo inaczej jakże ludzie będą mogli
+		usłyszeć, gdy nie ma głoszącego? (Rzym. 10:14-17).
+		Przy wygłaszaniu kazania występują dwa główne czynniki:co
+		się głosi i jak się głosi. Wiele kazań może ulec "zepsuciu"
+		przez usta kaznodziei, przez jego zachowanie i nieostrożność
+		w słowach, tak jak naczynia w rękach garncarza (1 Tym.
+		3:15). Musisz wiedzieć jak się zachować. Sam kaznodzieja
+		musi być przykładem swojego kazania (Tyt. 2:7-8). "Ćwicz
+		się natomiast w pobożności" (1 Tym. 4:7; Dz. Ap. 24:16).
+		Sumienie kaznodziei musi być czyste, uświęcone, utrzymane
+		w czystości, aby mógł patrzeć ludziom w oczy podczas
+		swojego kazania (2 Ptr. 1:5-7; 1 Tym. 4:15).
+	</p>
+<p>
+		Wszystko to, co niczego nie jest warte, niczego też
+		i nie daje, niczego nie czyni. Kaznodzieja musi oddać
+		siebie Ewangelii, zaprzeć się siebie ze względu na
+		Pana Boga i Jego święte dzieło. "Pilnuj siebie samego!"
+		(1 Tym. 4:16). "Siebie samego zachowaj czystym" (1
+		Tym. 5:22). Ujarzmij swoje ciało, bo to duchowe jest
+		wyższe od cielesnego (1 Kor. 9:27). Podczas kazania
+		nie wystawiaj siebie jako pysznego, a także nie przedstawiaj
+		siebie jako nic niewartego. Bądź skromnym i pokornym
+		sługą Bożym. Kaznodzieja nigdy nie musi przepraszać
+		ludzi za kazanie pamiętając, że jest posłannikiem Bożym.
+		Zwiastuj Słowo Boże mając świętą, bogobojną śmiałość.
+		Głoś odważnie, z całego serca do serc wielu słuchaczy.
+	</p>
+<p>
+		Dzisiejszy świat potrzebuje wielu kaznodziei, którzyby
+		głosili Bożą prawdę bez strachu i ludzkiej łaski. Głoś
+		Pana Jezusa Chrystusa ukrzyżowanego. Zwiastuj całą
+		pełnię Ewangelii, całą wolę Bożą! Ewangelia jest faktem,
+		głoś ją prosto. Ona jest radosnym faktem, głoś ją z
+		radością. Ewangelia jest autentycznym faktem, głoś
+		ją szczerze. Kaznodzieja powinien spodziewać się, że
+		zobaczy owoce swoich kazań (Iz. 55:11). Kaznodzieja
+		musi być na tyle czuły, aby nie wybiegać na przód przed
+		Panem Bogiem, a także nie pozostawać w tyle.
+	</p>
+<p>
+		Trzy główne czynniki związane z wygłoszeniem kazania:duchowość
+		kazania, logiczność kazania i samokontrola kaznodziei
+		podczas kazania.
+	</p>
+<p>
+		1. Duchowość kazania
+	</p>
+<p>
+		Kazanie musi być głoszone na podstawie Słowa Bożego
+		i pod pomazaniem Ducha Świętego. Kaznodzieja musi trzymać
+		się tematu. Bardzo ważne jest trzymanie się tego, co
+		zostało napisane, a następnie przeczytane z Biblii
+		i posiadanie namaszczenia Ducha Świętego. Tylko Duch
+		Święty daje odwagę do głoszenia Słowa Bożego z mocą.
+		Bez namaszczenia Ducha Świętego będzie to tylko dźwięk
+		słów i teoria.
+	</p>
+<p>
+		2. Logiczność kazania
+	</p>
+<p>
+		Logiczność oznacza, że jest to zdrowy sens kazania.
+		Ewangelia jest zdrową nauką, głoś ją rozsądnie, mądrze
+		(Dz. Ap. 6:10). Gdy w kazaniu nie ma logiczności, bądź
+		zdrowego sensu, to kazanie traci swoją wartość. Głoszenie
+		Ewangelii nie jest "coś-niebądź" i "jakoś-bądź", jak
+		niektórzy ludzie sobie wyobrażają i myślą. W kazaniu
+		wszystko musi być "TAK" i "AMEN"! Logiczność wpływa
+		na duchowość kazania, które przez to staje się cenniejsze
+		i ciekawsze.
+	</p>
+<p>
+		3. Samokontrola kaznodziei
+	</p>
+<p>
+		Głosząc Słowo Boże kaznodzieja musi przez cały czas
+		sumiennie wiedzieć gdzie jest i co robi, trzymając
+		się tematu, spostrzegając reakcję słuchaczy. Kaznodzieja
+		płynnie przechodzi od jednego punktu do drugiego, co
+		nazywa się synkrynizacją. Im lepsza samokontrola kaznodziei,
+		tym lepsza będzie jego synkrynizacja mowy.
+	</p>
+<p>
+		Samokontrola kaznodziei jest kierowniczą częścią wygłoszonego
+		kazania. Można mieć duchowość kazania, i można mieć
+		logiczność kazania, ale gdy nie będzie samokontroli,
+		kaznodzieja zepsuje swoje kazanie. Duchowość kazania,
+		logiczność kazania i samokontrola kaznodziei muszą
+		współpracować ze sobą i przez cały czas iść równolegle,
+		gdy kazanie jest głoszone.
+	</p>
+<p>
+		Samokontrola kaznodziei podczas kazania dopomaga kaznodziei
+		uniknąć powtórzenia jednych i tychże samych słów i
+		myśli. Na przykład:Pewnego razu wraz z młodym bratem
+		odwiedziłem jeden ze zborów, gdzie nas zaproszono do
+		usługi Słowem Bożym. Młody brat, który był ze mną,
+		a przemawiał około 12 minut, zdążył w tym czasie 50
+		razy powiedzieć słowa:"bracia i siostry". Jego krótka
+		usługa była treścią dobrą, ale powtarzanie tych słów
+		obniżyło całkowicie wartość całego kazania.
+	</p>
+<p>
+		Kaznodziejom, u których w czasie usługi następuje powtarzanie
+		słów, zaleca się napisać wcześniej te słowa dużymi
+		literami na kartce papieru i położyć ją przed sobą
+		podczas kazania.
+	</p>
+<p>
+		Podsumowując wszystkie trzy, główne czynniki wygłoszenia
+		kazania, zaznaczamy, że każdy z nich jest bardzo ważny
+		podczas wygłaszania kazania. Nie można stawiać jeden
+		czynnik wyżej lub niżej innego czynnika, lecz wszystkie
+		one muszą współdziałać pomiędzy sobą w czasie kazania,
+		jeżeli chcemy mieć zdrowe i pożyteczne kazanie.
+	</p>
+<p>
+		Kaznodzieja:Jego tron  kazalnica. On zajmuje miejsce
+		Chrystusowe. Jego wieść  Słowo Boże. Przed nim drogocenne
+		dusze. Koło niego niewidzialny Pan Jezus Chrystus!
+		Duch Święty unosi się nad zgromadzonym ludem. Aniołowie
+		ochraniają scenę. Niebo i piekło oczekuje następstwa
+		kazań
+	</p>
+<a name="18">
+</a>
+<h2>
+		Lekcja 18
+	</h2>
+<h3>
+		Modlitwa
+	</h3>
+<p>
+		Podstawowy tekst:Ew. Łuk. 21:36; Dz. Ap. 4:31.
+	</p>
+<p>
+		Jak już zostało zaznaczone w lekcji 2, kaznodzieja
+		musi być mężem postu i modlitwy, dlatego rozpatrzymy
+		temat modlitwy w tej odrębnej lekcji. Często słyszymy
+		słowa:"O, jaki gorliwy kaznodzieja! Jaki piękny chór!".
+		Podczas, gdy w życiu pierwszych chrześcijan można było
+		usłyszeć:"O, jaka silna modlitwa!" Modlitwa jest siłą
+		napędową każdego dzieła na ziemi, dlatego też w życiu
+		i służbie kaznodziei modlitwa musi zająć czołowe miejsce.
+	</p>
+<p>
+		Większość chrześcijan rozumie jako modlitwę zanoszenie
+		prośby. Lecz w takim rozumieniu jest to tylko jedna
+		z części znaczenia modlitwy. Prawdziwa modlitwa zawiera
+		w sobie pięć głównych aspektów:wspólnota  społeczność,
+		poddanie się, prośba, kooperacja i walka. Modlitwa
+		jest termometrem duchowości chrześcijanina i zboru.
+		Modlitwa w życiu duchowym jest tym samym, jak oddech
+		w życiu fizycznym. Poniżej rozpatrzymy, wymienione
+		wyżej, aspekty modlitwy.
+	</p>
+<p>
+		1. Wspólnota  społeczność
+	</p>
+<p>
+		Samo słowo "wspólnota" już mówi nam o pokrewieństwie
+		z Panem Bogiem. Siła społeczności człowieka z Panem
+		Bogiem znajduje się w postaci, dlatego, że społeczność
+		z Panem Bogiem nie jest rzeczą raptowną, czy przypadkową.
+		Gdy chrześcijanin, który żyje w społeczności z Panem
+		Bogiem traci pojednanie z Nim, to natychmiast szuka
+		przyczyny:Co przerwało więź z niebem? Co zajęło miejsce
+		modlitwy? Tylko wtedy, gdy przyczyna zostanie znaleziona
+		i usunięta, to społeczność z Panem Bogiem odnawia się!
+		"W modlitwie bądźcie wytrwali i czujni z dziękczynieniem"
+		(Kol. 4:2; Dz. Ap. 6:4).
+	</p>
+<p>
+		2. Poddanie się Panu Bogu
+	</p>
+<p>
+		Ten aspekt modlitwy wymaga od człowieka poddania się
+		jego woli i działalności  woli Bożej. Aby doprowadzić
+		naszą wolę do harmonii z Bożą wolą, nasze zamiary 
+		z Bożymi, podporządkować swoją wolę woli Bożej, musimy
+		złożyć siebie na ołtarzu przed Panem Bogiem jako ofiarę
+		miłą i przyjemną Jemu. W poddaniu się tym nie ma sprzeciwu,
+		nie ma oporu, nie ma poszukiwania swego. "Ofiarą Bogu
+		miłą jest duch skruszony, sercem skruszonym i zgnębionym
+		nie wzgardzisz, Boże" (Ps. 51:19).
+	</p>
+<p>
+		3. Prośba 
+	</p>
+<p>
+		Modlitwa jest prośbą, błaganiem. Kaznodzieja Ewangelii,
+		tak jak wszyscy ludzie, jest człowiekiem, który ma
+		wiele potrzeb. Jedynie Pan Bóg może mu dopomóc i spełnić
+		wszystkie jego potrzeby. Świadomość tego zachęca kaznodzieję
+		do modlitwy i poszukiwania oblicza Bożego. Tylko Pan
+		Jezus Chrystus jest Zbawicielem ludzi, tylko On może
+		użyć usta i język kaznodziei jako narzędzia ku zbawieniu
+		ludzkich dusz. Kaznodzieja Ewangelii jest współpracownikiem
+		Bożym (1 Kor. 3:9). "Beze Mnie nic uczynić nie możecie"
+		(Jan 15:5)  powiedział Pan Jezus Chrystus! "We wszystkim
+		w modlitwie i błaganiach z dziękczynieniem powierzcie
+		prośby wasze Panu Bogu" (Flp. 4:6). Służba kaznodziei
+		musi być zawsze połączona z postem i modlitwą i w tym
+		jest cała tajemnica kaznodziejskiej służby Panu Bogu
+		i ludzkim duszom.
+	</p>
+<p>
+		4. Współzależność  "kooperacja"
+	</p>
+<p>
+		Jest kierowniczym aspektem modlitwy, głównym jej motywem.
+	</p>
+<p>
+		W modlitwie będzie życie, wolność i odwaga tylko wtedy,
+		gdy będzie kooperacja z Panem Bogiem. Kooperacja również
+		oznacza pojednanie wszystkich innych aspektów modlitwy.
+		Kooperacja z Panem Bogiem jest możliwa tylko w oparciu
+		o Boże wymagania. "Jeśliby oskarżało nas serce nasze,
+		Bóg jest większy niż serce nasze i wie wszystko. Umiłowani,
+		jeżeli nas serce nie oskarża, możemy śmiało stanąć
+		przed Panem Bogiem i otrzymamy od Niego o cokolwiek
+		prosić będziemy, gdyż przykazań Jego przestrzegamy
+		i czynimy to, co miłe jest przed obliczem Jego" i "taka
+		zaś jest ufność, jaką mamy do Niego, iż jeżeli prosimy
+		o coś według Jego woli, wysłuchuje nas. A jeżeli wiemy,
+		że nas wysłuchuje, o co Go prosimy, wiemy też, że otrzymaliśmy
+		(w innych tłumaczeniach "otrzymamy"  dop. tłum.) już
+		od Niego to, o co prosiliśmy" (1 Jan 3:20-22, 5:14-15).
+		Dopóki nie będzie pełnej kooperacji z Panem Bogiem,
+		to odwagi w modlitwie być nie może.
+	</p>
+<p>
+		5. Walka
+	</p>
+<p>
+		Modlitwa jest walką przeciwko siłom ciemności. Modlitwa
+		ma więcej przeszkód, niż wszystko inne, razem wzięte.
+		Modlić się, to znaczy walczyć, wojować. Ten, kto zwycięży
+		na kolanach, wszędzie zwycięży. Kaznodzieja bez kazania
+		jest kaznodzieją bez modlitwy i kaznodzieja bez modlitwy
+		jest kaznodzieją bez kazania.
+	</p>
+<p>
+		Przeszkody w modlitwie zaczynają się od określenia
+		czasu dla Pana Boga i dla modlitwy. Bardzo łatwo można
+		znaleźć czas na wszystko, tylko ciężko jest znaleźć
+		i wydzielić czas dla modlitwy. Znajdując się w modlitwie
+		nie jest łatwo skoncentrować myśli i całe swoje jestestwo
+		przed Panem Bogiem. Post i wytrwałość w modlitwie nie
+		odbywa się bez walki. "Gdyż bój toczymy nie z krwią
+		i z ciałem, lecz z nadziemskimi władzami, ze zwierzchnościami,
+		z władcami tego świata ciemności, ze złymi duchami
+		w okręgach niebieskich"  mówi św. ap. Paweł (Ef. 6:12).
+		Ta walka rozpoczyna się, trwa i kończy na kolanach.
+	</p>
+<a name="19">
+</a>
+<h2>
+		Lekcja 19
+	</h2>
+<h3>
+		Służba postu z modlitwą
+	</h3>
+<p>
+		Podstawowy tekst:"Lecz przyjdą dni, kiedy oblubieniec
+		będzie im zabrany, wówczas pościć będą" (Łuk. 5:35).
+	</p>
+<p>
+		Kaznodzieja musi być nie tylko mężem modlitwy, ale
+		mężem postu i modlitwy. Wszyscy mężowie Boży, których
+		Pan Bóg używał i używa, byli i są mężami postu i modlitwy.
+		Służba postu jest mądrą służbą (Rzym. 12:1), służbą
+		modlitwy, mocy i władzy (Mat. 17:21; Mar. 9:29), służbą
+		podporządkowania ciała duchowi (1 Kor. 9:27). Słowo
+		Boże mówi nam o trzech rodzajach dogadzania (upodobania,
+		przypodobania):podobanie się Panu Bogu, ludziom (dogadzanie
+		ludziom), dogadzanie własnemu brzuchowi (1 Tes. 4:1;
+		Mat. 23:5; Gal. 1:10; Rzym. 16:18; Flp. 3:19). Wszystkie
+		trzy rodzaje podobania się (dogadzania) zależne są
+		od woli człowieka i wymagają pokory i pełnej służby.
+		"Czemu bowiem ktoś ulega, tego niewolnikiem się staje"
+		(2 Ptr. 2:19). "Czyż nie wiecie, że jeśli się oddajecie
+		jako słudzy w posłuszeństwo, stajecie się sługami tego,
+		komu jesteście posłuszni" (Rzym. 6:16).
+	</p>
+<p>
+		Duchowa walka, w której odnosi się zwycięstwo, kończy
+		się postem. Pan Bóg obiecuje i daje swoją łaskę pokornym,
+		a najlepszym sposobem osiągnięcia pokory jest modlitwa
+		z postem. Pożądliwość oczu, pożądliwość ciała i pycha
+		życiowa traci swoją moc w poście. Przez post odnawia
+		się i wznosi się do niebiańskich wyżyn nasz wewnętrzny
+		człowiek, natomiast zewnętrzny człowiek słabnie i upokarza
+		się. Szukanie swoich własnych interesów, dogadzanie
+		ciału, samowychwalanie kończy się w poście.
+	</p>
+<p>
+		Kazanie będzie tylko dźwiękiem, kiedy jest tylko produktem
+		rozumu, filozofii, czy psychologii kaznodziei. Gdy
+		natomiast kazanie jest produktem postu i modlitwy,
+		to będzie głosem z nieba, jego głoszeniu będzie towarzyszyć
+		moc Ducha Świętego i święta reakcja w sercach słuchaczy.
+		Kaznodzieja żyje dla wykonania woli Bożej w jego życiu
+		i służbie, a święta wola Boża wypełnia się przez niego
+		tylko wtedy, gdy żyje w społeczności z Panem Bogiem.
+	</p>
+<p>
+		Nowotestamentowa służba postu i jego następstw została
+		rozpoczęta przez Pana Jezusa (Łuk. 4:1-14). Pierwszy
+		wiersz nam mówi, że Pan Jezus, pełny Ducha Świętego,
+		poszedł na pustynię. Z pustyni (wiersz 14) Pan Jezus
+		powrócił w mocy Ducha Świętego, jako moc posiadający.
+		
+	</p>
+<p>
+		Służba mocy, pokory i uniżenia  służbą postu i modlitwy.
+		Taka służba przyjęta przez Syna Bożego, jako przyjemna
+		dla Ojca Niebiańskiego, i tym była ułożona święta droga
+		duchowego zwycięstwa. Czyż kaznodzieja może poszukiwać
+		jakiejś innej drogi, jakiegoś innego, lżejszego i delikatniejszego
+		sposobu? Święty mąż Boży, najdoskonalszy kaznodzieja
+		Ewangelii, apostoł Paweł, praktykował ten święty sposób
+		 postu i modlitwy  często przebywając w postach (2
+		Kor. 11:27). Kościół apostolski posyłał sługi Ewangelii
+		na misyjną niwę nie z dyplomem, lecz z postem i modlitwą
+		(Dz. Ap. 13:1-5).
+	</p>
+<p>
+		Każdy sługa Boży posiada dwie natury:starego i nowego
+		Adama. Zwycięstwo nad starym Adamem inaczej nie przychodzi
+		jak tylko przez przeobleczenie w nowego (Ef. 4:22-24;
+		Kol. 3:8-10). Na świecie nie ma lepszego sposobu zewleczenia
+		natury starego Adama i przyobleczenia się w nowego,
+		niż post i modlitwa! Gdy owoce nowego Adama dojrzewają,
+		owoce starego obumierają. Napełniaj się pełnią nowego,
+		aż do przelewu, a wtedy dla starego nie będzie już
+		miejsca.
+	</p>
+<p>
+		"A ci, którzy należą do Chrystusa Jezusa, ukrzyżowali
+		ciało swoje wraz z namiętnościami i żądzami" (Gal.
+		5:24). Bujność natury starego Adama nie lekko upokarza
+		się, nie lekko uniża się. Ale gdy moc zmartwychwstania
+		zwycięża moc skażenia  duchowe pokonuje cielesne,
+		tam przychodzi święte odnowienie i odbicie chwały nieba.
+		Gdy kaznodziei potrzebna jest moc do kazania, władanie
+		Słowem Bożym i ogień w modlitwie  to jednocześnie
+		potrzebna jemu jest służba postu, bo tylko przez post
+		z modlitwą osiągnie to, czego tak bardzo pragnie jego
+		dusza.
+	</p>
+<p>
+		Dlatego Pan Bóg poleca:"Ogłoście święty post, zwołajcie
+		zgromadzenie, zbierzcie starszych, wszystkich mieszkańców
+		ziemi do domu Pana, waszego Boga i głośno wołajcie
+		do Pana!", "wszakże jeszcze teraz mówi Pan:nawróćcie
+		się do Mnie całym swym sercem, w poście, płaczu i narzekaniu"
+		(Joel 1:14, 2:12).
+	</p>
+<p>
+		Przypodobanie się Panu Bogu i w tymże samym czasie
+		dogadzanie brzuchowi, jest niemożliwe! Niech cała ludzka
+		istota podporządkuje się woli Bożej, upokorzy się przed
+		Jego majestatem, znajdzie u Pana Boga łaskę  w poście
+		i modlitwie!
+	</p>
+<a name="20">
+</a>
+<h2>
+		Lekcja 20
+	</h2>
+<h3>
+		Różnorodność służby kaznodziejskiej
+	</h3>
+<p>
+		Podstawowy tekst:"Idźcie tedy i czyńcie uczniami wszystkie
+		narody, chrzcząc je w imię Ojca i Syna i Ducha Świętego,
+		ucząc je przestrzegać wszystkiego, co wam przykazałem"
+		(Mat. 28:19-20).
+	</p>
+<p>
+		Kaznodzieja musi zawsze pamiętać, że najwspanialszą
+		w świecie Księgą jest Biblia! On powinien korzystać
+		z jej bogactwa i posługiwać się nim w swoich kazaniach.
+		Musi unikać monotonności nie tylko w mowie, ale i w
+		swoich tematach. Początkiem Ewangelicznych doktryn
+		jest opamiętanie (pokuta, nawrócenie) (Mar. 1:14-15).
+		Po opamiętaniu następuje przebaczenie grzechów (Łuk.
+		1:77-78; Dz. Ap. 13:38). Bez opamiętania nie ma przebaczenia
+		(Łuk. 13:3-5). Niektórzy kaznodzieje niczego innego
+		nigdy nie głoszą oprócz opamiętania, chociaż Ewangelia
+		zawiera w sobie także wiele dobrej nauki dotyczącej
+		życia człowieka po nawróceniu. 
+	</p>
+<p>
+		Bogactwo służby kaznodziejskiej zawarte jest tak w
+		głębi kazań, jak i w rozmaitości ich tematów. W ślad
+		za opamiętaniem następuje wiara w Ewangelię (Mar. 1:15).
+		Po nawróceniu i uwierzeniu następuje przebaczenie 
+		zmiłowanie i usprawiedliwienie grzesznika, bez którego
+		przebaczenie nie miałoby mocy (1 Ptr. 2:10; Gal. 2:16).
+		Wiara w Pana Jezusa Chrystusa jako w swojego osobistego
+		Zbawiciela, zachęca człowieka do przestrzegania Jego
+		przykazań i Jego świętej woli. Pierwszym przykazaniem
+		jest zawarcie przymierza z Chrystusem przez chrzest
+		wodny (Mar. 16:16; Dz. Ap. 8:36-38; Mat. 3:14-15).
+	</p>
+<p>
+		Po uwierzeniu w Pana Jezusa Chrystusa i po zawarciu
+		przymierza z Nim poprzez chrzest wodny, człowiek staje
+		się kandydatem do chrztu Duchem Świętym, z ewangelicznym
+		znakiem mówienia nowymi językami (Łuk. 24:49; Dz. Ap.
+		2:4, 10:44-46, 19:6). Są przypadki, że Pan Bóg chrzci
+		Duchem Świętym przed chrztem wodnym, jak to miało miejsce
+		w domu Korneliusza. Chrzest Duchem Świętym jest pieczęcią
+		Bożej obietnicy, zadatkiem odkupienia naszego dziedzictwa
+		(Ef. 1:13-14). Chrzest Duchem Świętym jest także znakiem
+		usynowienia (Gal. 4:6-7) i dostępem do darów Ducha
+		Świętego (1 Kor. 12:1-11, 14:1). Wraz z darami Ducha
+		Świętego (po chrzcie Duchem Świętym) następują owoce
+		Ducha, uświęcenie i święte życie chrześcijanina. Ze
+		wszystkich doktryn Nowego Testamentu najwięcej miejsca
+		udzielono uświęceniu, które jest związane z duchowym
+		wzrostem chrześcijanina w łasce Bożej.
+	</p>
+<p>
+		Poznanie Pana Boga przez grzesznika, następuje przez
+		Chrystusowe usprawiedliwienie i pokój z Panem Bogiem.
+		Pomiędzy usprawiedliwieniem a uświęceniem jest wielka
+		różnica. Usprawiedliwienie jest potrzebne grzesznikowi,
+		uświęcenie potrzebne jest zbawionemu człowiekowi. Usprawiedliwienie
+		dotyka i odnosi się do minionych uczynków człowieka,
+		uświęcenie odnosi się do czasu życia teraźniejszego
+		i przyszłego. Usprawiedliwienie jest działaniem (aktem)
+		Bożego miłosierdzia, uświęcenie jest procesem wzrastania
+		chrześcijanina w łasce. Proces uświęcenia jest ściśle
+		związany z dążeniem serca chrześcijanina do tego, aby
+		przypodobać się Chrystusowi dlatego uświęcenie dotyka
+		całego człowieka (1 Tes. 5:23).
+	</p>
+<p>
+		Zbawienie grzesznika zostało dokonane przez Pana Jezusa
+		na krzyżu, gdy Pan Jezus powiedział:"Wykonało się!".
+		Ale Duch Święty nie powiedział jeszcze słowa "Wykonało
+		się" w odniesieniu do uświęcenia ludu Bożego. A oprócz
+		tego lud Boży ma dzisiaj do czynienia nie tylko ze
+		Zbawicielem, ale i z Arcykapłanem i Pośrednikiem Bożego
+		Przymierza (Hebr. 8:1-6, 12:24).
+	</p>
+<h2>
+		Znaczenie uświęcenia
+	</h2>
+<h3>
+		1. Oddzielenie
+	</h3>
+<p>
+		Uświęcenie rozpoczyna się od oddzielenia. Oddzielenie
+		jest tym czynnikiem uświęcenia, w którym bierze udział
+		nie tylko Pan Bóg, ale i człowiek (2 Kor. 6:17). Jeżeli
+		nie oddzieliliśmy się od nieczystego, to nikt nas do
+		tego nie zmusi (Rzym. 6:13, 12:1; 2 Kor. 7:1). Chrześcijanin,
+		który pragnie żyć dla Pana Boga i aby go Pan Bóg używał,
+		musi całkowicie oddzielić się od tego wszystkiego,
+		co jest nieczyste, światowe i grzeszne! Bardzo mało
+		pożytku przynoszą chrześcijanie, za którymi trzeba
+		chodzić i mówić im, co można czynić i czego nie wolno
+		czynić, dokąd można iść i dokąd iść nie wolno! Jeżeli
+		w sercu jest skłonność do tego, co jest światowe i
+		grzeszne, to żadne uświęcenie tam nie nastąpiło. Będzie
+		tam tylko powierzchowna świętość, formalna religijność,
+		lecz duchowego wzrostu w łasce nie będzie! Tak więc
+		pierwszym krokiem do uświęcenia jest oddzielenie się,
+		a bez udziału naszej własnej woli żadnego oddzielenia
+		nie będzie!
+	</p>
+<p>
+		2. Boża strona oddzielenia
+	</p>
+<p>
+		"Ale wy jesteście rodem wybranym, królewskim kapłaństwem,
+		narodem świętym, ludem nabytym, abyście rozgłaszali
+		cnoty Tego, który was powołał z ciemności do cudownej
+		swojej światłości" (1 Ptr. 2:9). "Uświęcajcie się i
+		bądźcie świętymi, gdyż Ja, Pan, jestem Bogiem waszym.
+		Będziecie przestrzegać moich ustaw i wypełniać je;
+		Jam Pan, który was uświęcam" (3 Mojż. 20:7-8).
+	</p>
+<p>
+		Żeby stać się uczestnikiem Bożego uświęcenia, człowiek
+		musi stać się Bożym udziałem, stać się własnością Bożą!
+		Pan Bóg zawsze uświęca to, co jest oddzielone dla Jego
+		chwały. Tak było ze starotestamentowymi uczniami w
+		Namiocie Zgromadzenia i Świątyni, i tak było z lewitami
+		i kapłanami (2 Mojż. 30:27-30, 19:22). Wszystko to,
+		co było uświęcone, było oddzielone, wyłącznie do świętego
+		użytku. Wszelkie nieczyste obchodzenie się ze świętymi
+		naczyniami karane było śmiercią (3 Mojż. 10:1-2; Dan.
+		5:1-30). "Wy jesteście świątynią Boga żywego"  mówi
+		Pan. "Kto niszczy świątynię Bożą, tego zniszczy Bóg!
+		Albowiem świątynia Boża jest święta" (1 Kor. 3:16-17,
+		6:19-20; 2 Kor. 6:16-18).
+	</p>
+<p>
+		Świętość jest cechą boskości. Świętość jest tą cechą,
+		która łączy człowieka z Panem Bogiem. Sam przez siebie
+		człowiek nie może być świętym. Aby człowiek mógł być
+		świętym, to sam Pan Bóg przyjmuje go jako swoją własność.
+		Pismo Święte mówi:"Któż by się nie bał Ciebie Panie,
+		i nie uwielbił Imienia Twego? Bo Ty jedynie jesteś
+		święty! Toteż wszystkie narody przyjdą i oddadzą Ci
+		pokłon" (Obj. 15:4).
+	</p>
+<p>
+		Każdy dom nosi odbicie tego, kto w nim mieszka. Zewnętrzne
+		następstwa życia człowieka świadczą wyłącznie o tym,
+		co mieszka we wnętrzu. Dlatego napisano:"Jak więc przyjęliście
+		Chrystusa Jezusa, Pana, tak w Nim chodźcie" (Kol. 2:6).
+	</p>
+<p>
+		3. Cel uświęcenia
+	</p>
+<p>
+		"Albowiem objawiła się łaska Boża, zbawienna dla wszystkich
+		ludzi, nauczając nas, abyśmy wyrzekli się bezbożności
+		i światowych pożądliwości i na tym doczesnym świecie
+		wstrzemięźliwie, sprawiedliwie i pobożnie żyli, oczekując
+		błogosławionej nadziei i objawienia chwały Wielkiego
+		Boga i Zbawiciela naszego Jezusa Chrystusa, który dał
+		samego Siebie za nas, aby nas wykupić od wszelkiej
+		nieprawości i oczyścić sobie lud na własność, gorliwy
+		w dobrych uczynkach" (Tyt. 2:11-14). "Chrystus umiłował
+		Kościół i wydał zań samego Siebie, aby go uświęcić,
+		oczyściwszy go kąpielą wodną przez Słowo, aby sam Sobie
+		przysposobić Kościół pełen chwały, bez zmazy lub skazy
+		albo czegoś w tym rodzaju, ale żeby był święty i niepokalany"
+		(Ef. 5:25-27).
+	</p>
+<p>
+		Uświęcenie polega na oczyszczeniu się od wszelkiej
+		skazy ciała i ducha, nie dotykaniu tego, co jest nieczyste,
+		ukrzyżowaniu ciała wraz ze wszystkimi jego pożądliwościami.
+		Pan Bóg chce nie tylko zbawić naszą duszę, ale też
+		chce posiąść nasze życie, owoce i czas naszego życia.
+	</p>
+<b>
+<p>
+		Głównym celem naszego uświęcenia jest ukształtowanie
+		obrazu Chrystusa w nas
+	</p></b>
+	 (Rzym. 8:29).
+
+<p>
+		Chrystus jest naszym wzorem i przykładem. On jest uświęceniem
+		naszym.
+	</p>
+<p>
+		4. Ponowne przyjście Chrystusa
+	</p>
+<p>
+		Dzień przyjścia Chrystusa po Jego Kościół będzie dniem
+		ostatecznego odkupienia narodu Bożego. Życie chrześcijanina
+		jest życiem w nadziei na ten dzień. "I każdy, kto tę
+		nadzieję w Nim pokłada, oczyszcza się, tak jak On jest
+		czysty" (1 Jan 3:3).
+	</p>
+<p>
+		W ten sposób uświęcenie jest bardzo związane z ponownym
+		przyjściem Chrystusa. "Przeto, umiłowani, oczekując
+		tego starajcie się abyście znalezieni zostali przed
+		Nim bez skazy i bez nagany, w pokoju" (2 Ptr. 3:14).
+		Każdy kaznodzieja, wraz z innymi kaznodziejami, powinien
+		często wygłaszać kazania na ten ważny temat, aby powtórne
+		przyjście Chrystusa nie stało się niespodzianką dla
+		wierzących ludzi.
+	</p>
+<p>
+		Biblia zawiera w sobie wiele świętych i chwalebnych
+		doktryn. Trzecią część nauki Biblijnej stanowią proroctwa.
+		Najważniejszymi proroctwami odnoszącymi się do naszych
+		dni są proroctwa o ponownym przyjściu Pana Jezusa Chrystusa
+		na ziemię. Musimy zwrócić szczególną uwagę na te proroctwa
+		i żyć zgodnie z wymogami tych proroctw dlatego, że
+		tracąc je, utracimy wszystko.
+	</p>
+<p>
+		Niewyczerpanym źródłem kaznodziei jest Biblia! W niej
+		jest zawarte wszystko to, co kaznodziei jest potrzebne
+		do kazań. Bez względu na to, jakiego typu, charakteru
+		czy treści jest kazanie, to jego podstawę kaznodzieja
+		znajdzie w Biblii. Dlatego napisano:"Wreszcie, bracia,
+		myślcie tylko o tym, co prawdziwe, co poczciwe, co
+		sprawiedliwe, co czyste, co miłe, co chwalebne, co
+		jest cnotą i godne pochwały. Czyńcie to, czego się
+		nauczyliście i co przyjęliście, co słyszeliście i co
+		widzieliście u mnie; a Bóg pokoju będzie z wami" (Flp.
+		4:8-9).
+	</p>
+<a name="21">
+</a>
+<h2>
+		Lekcja 21
+	</h2>
+<h3>
+		Jak wykonywać dzieła Boże
+	</h3>
+<p>
+		Podstawowy tekst:"Cóż mamy czynić, aby wykonywać dzieła
+		Boże" (Jan 6:28)
+	</p>
+<p>
+		Każdy prawdziwy chrześcijanin, rzeczywiście nowozrodzony
+		przez Ducha Świętego, pragnie pracować dla chwały Bożej.
+		On chce być uczestnikiem w wielkim i chwalebnym dziele
+		Bożym. Następny, 29 wiersz tegoż 6-go rozdziału Ew.
+		Jana mówi, abyśmy wierzyli w Tego, którego Ojciec posłał.
+		Od Tego rozpoczyna się, trwa i kończy dzieło Boże.
+	</p>
+<p>
+		Dzieła Boże mogą być czynione tylko Bożymi instrumentami,
+		tylko według Bożych warunków i tylko razem z Panem
+		Bogiem. Aby człowiek mógł trudnić się dla Pana Boga
+		i z Panem Bogiem, on musi nie tylko poznać cechy boskości,
+		ale posiąść je i stać się ich udziałem.
+	</p>
+<p>
+		1. Pan Bóg jest prawdą! (Jan 14:6).
+	</p>
+<p>
+		Prawdziwy Pan Bóg wyzwala ludzi Swoją prawdą (Jan 8:31-32).
+		Jedną z cech boskości jest prawda. Jeżeli chcemy trudzić
+		się razem z Panem Bogiem, to musimy stać w prawdzie
+		i trudzić się w prawdzie. Prawda Boża nie ma żadnego
+		fałszu, czy nieprawdy. Pan Bóg nigdy i z nikim nie
+		pójdzie na kompromis, kto fałszywie wykonuje dzieła
+		Boże. Pan Bóg nie będzie uczestniczyć we wszelkich
+		domieszkach nieprawdy, fałszerstwa, podróbki, chytrości.
+	</p>
+<p>
+		Jeżeli chcemy trudzić się dla Pana Boga, jeżeli chcemy,
+		aby Pan Bóg nas używał, to trudźmy się w prawdzie,
+		a Pan będzie z nami. Oszukuje siebie każdy, kto wykonuje
+		dzieło Boże fałszywie, bo dzieło Boże można wykonywać
+		tylko w prawdzie, dlatego, że Pan Bóg jest prawdziwym
+		Panem Bogiem!
+	</p>
+<p>
+		2. Pan Bóg jest światłością (1 Jan 1:5)
+	</p>
+<p>
+		Każdy sługa Boży jest sługą światłości a nie ciemności,
+		bo żadnej ciemności w Panu Bogu nie ma! Tylko w świetle
+		Słowa Bożego demaskuje się wszelką ciemność, a ona
+		znika. Sługą Bożym nie może być ten, kto żyje w ciemności,
+		zwiastuje w ciemności, czyni dzieła ciemności.
+	</p>
+<p>
+		Pan Bóg przebywa w niedostępnej światłości, w Nim nie
+		ma ciemności! Jeżeli chcemy trudzić się dla Pana Boga
+		i aby Pan Bóg był uczestnikiem naszej pracy, musimy
+		wykonywać dzieła Boże w światłości. Światłość i ciemność
+		nigdy razem nie mogą przebywać. Słudzy Boży są synami
+		światłości, zwiastunami światła, dziedzicami wiecznej
+		światłości.
+	</p>
+<p>
+		3. Pan Bóg jest święty (1 Ptr. 1:15-16)
+	</p>
+<p>
+		Ponieważ Pan Bóg jest światłością świętą i dzieło Boże
+		jest dziełem świętym. Boże dzieło nie może być wykonywane
+		niedbale. Świętość jest tą cechą, która nas łączy z
+		Panem Bogiem. Dlatego Ewangelię niech niosą święte
+		nogi, niech ją trzymają święte ręce, niech głoszą Ewangelię
+		święte usta i niech święte życie potwierdza prawdziwość
+		Ewangelii! Każdy sługa Ewangelii powinien wiedzieć
+		i nauczać ludzi rozróżniać to, co jest święte, od nieświętego,
+		czyste od nieczystego (Ez. 44:23).
+	</p>
+<p>
+		4. Pan Bóg jest miłością (1 Jan 4:8-16)
+	</p>
+<p>
+		Żadne słowo ludzkiej mowy nie jest tak przekręcone,
+		jak słowo "miłość". Pod pojęciem "miłość" ludzie rozumieją
+		niemalże to, co popadnie. W imię miłości odbierają
+		żonę mężowi, od żony męża, od dzieci  matkę lub ojca.
+		Pod mianem miłości zabijają, grabią i czynią wszelkie
+		zło.
+	</p>
+<p>
+		Czy o takiej miłości mówi nam Słowo Boże? Absolutnie
+		nie! Znaczenie miłości, według polecenia Pana Boga
+		 miłować to, co Pan Bóg miłuje i nienawidzić to, czego
+		Pan Bóg nienawidzi (Ps. 45:8).
+	</p>
+<p>
+		Nie można miłować tego, co Pan Bóg nienawidzi. I nienawidzić
+		to, co Pan Bóg miłuje, bo to jest zło, a zło nie jest
+		od Pana Boga! Są ludzie, którzy nauczają o jakiejś
+		miłości, większej od miłości Bożej. Oni uczą, że Pan
+		Bóg jest miłością i On nikogo nie dopuści do piekła.
+		Taka nauka nie jest od Pana Boga. Miłości większej
+		od miłości Bożej nie ma!! Pomimo tego, że Pan Bóg jest
+		miłością, nienawróceni grzesznicy idą na wieczne potępienie.
+		Tak mówi nam o tym Słowo Boże i tak musimy zwiastować!
+	</p>
+<p>
+		3. Współpracownicy Pana Boga (1 Kor. 3:9)
+	</p>
+<p>
+		Dzieło Boże możemy wykonywać tylko razem z Panem Bogiem
+		i według Bożych warunków. "Beze Mnie nic uczynić nie
+		możecie"  mówi Pan Jezus Chrystus (Jan 15:5). Istnieje
+		alegoryczne opowiadanie o buncie zer. Wszystkie zera
+		zmówiły się i powstały przeciwko jedynce:Dlaczego jedynkę
+		zawsze stawia się z przodu, a nas zawsze z tyłu? Przecież
+		nas, zer, jest dużo, a jedynka tylko jedna! Stańmy
+		z przodu, aby jedynka nie panowała nad nami! Zaczęły
+		zera, jedno po drugim, stawać z przodu. Stanęło zero
+		przed jedynką, a jedynka już oznacza tylko jedną dziesiątą.
+		Drugie zero stanęło przed jedynką, a jedynka już oznacza
+		jedną setną. Tak jedno za drugim stawały zera przed
+		jedynką tak, że jedynka prawie całkowicie straciła
+		swoją wartość. Potem jedynka przemówiła do zer:Gdy
+		ja stałam z przodu, to i ja miałam znaczenie i wy zera
+		coś znaczyliście! Gdy wy stanęliście na przodzie, to
+		ani wy, ani ja nic nie znaczymy. Stańmy lepiej na swoje
+		miejsca, a wszyscy razem będziemy znów mieć wielką
+		wartość!
+	</p>
+<p>
+		Jedynką jest Pan Jezus Chrystus, a my wszyscy jesteśmy
+		tylko zerami. Gdy Chrystus jest na przodzie, wtedy
+		i my (z Chrystusem) mamy jakieś znaczenie. Tak, jak
+		Chrystus, niczego nie czynił bez woli Swojego Ojca,
+		tak i my nie możemy niczego czynić bez Chrystusa (Jan
+		5:19). Podstawą wszelkiego dzieła Bożego jest Pan Jezus
+		Chrystus!
+	</p>
+<b>
+<p>
+			Błogosławieństwo otrzyma tylko to, co jest budowane
+			na fundamencie, którym jest Chrystus!!
+		</p>
+</b>
+<p>
+		Każdy, kto chce trudzić się dla Chrystusa musi to dobrze
+		zapamiętać:Pan Bóg potwierdza tylko to, co jest od
+		Niego! Duch Święty świadczy tylko o tych współpracownikach,
+		którzy współpracują z Panem Bogiem  według Bożych
+		wymagań!
+	</p>
+<a name="rady">
+</a>
+<h2>
+		Praktyczne porady dla kaznodziei
+	</h2>
+<p>
+		1. Nigdy nikogo nie imituj, ani słowem ani manierami,
+		ani gestami. Bądź oryginalnym kaznodzieją. Tak, jak
+		nie ma dwóch jednakowych śnieżynek, tak też nie ma
+		dwóch jednakowych osób, tak też nie ma dwóch jednakowych
+		kaznodziei! Bądź oryginalny!
+	</p>
+<p>
+		2. Pod postacią kazania nigdy i do nikogo nie strzelaj
+		z kazalnicy. Bywa tak, że kaznodzieja obawia się powiedzieć
+		komuś prosto do uszu i oczu i wtedy używa kazalnicę
+		do tego celu.
+	</p>
+<p>
+		Głoś z kazalnicy święte i czyste Słowo Boże, a wszystkie
+		swoje dowody pozostaw z boku, wtedy Pan Bóg będzie
+		ciebie błogosławił. Strzelanie z katedry nikogo nie
+		buduje, lecz rujnuje dusze i dzieło Boże!
+	</p>
+<p>
+		3. Głosząc Słowo Boże patrz ludziom w oczy, nie zamykaj
+		swoich oczu, nie patrz na salę, na ściany, na drzwi
+		wyjściowe z domu modlitwy. Patrząc ludziom w oczy możesz
+		"czytać" ludzi, widzieć reakcję ich serc!
+	</p>
+<p>
+		4. Nigdy nie wygłaszaj zbyt długiego kazania. Lepiej
+		nie dokarmić, niż przekarmić. Krótkie kazanie nigdy
+		nie zaszkodzi, a długie  zawsze szkodzi. Każdy kaznodzieja
+		Ewangelii powinien mieć od Pana Boga duchowy "radar",
+		aby wiedzieć kiedy kończyć i jak kończyć wygłaszane
+		kazanie, żeby nie uśpić ludzi!
+	</p>
+<p>
+		5. Każdy kaznodzieja ma skłonność do przewyższania
+		swoich zdolności i talentów. Bądź skromnym sługą Chrystusa,
+		bogobojnym ewangelistą!
+	</p>
+<p>
+		6. Jeżeli chcesz aby ciebie Pan Bóg używał, nigdy pod
+		żadnym pozorem i bez względu na okoliczności nie pij
+		żadnych napojów alkoholowych. Zachowaj siebie czystym,
+		trzeźwym sługą Chrystusa i Jego świętego Kościoła!
+	</p>
+<p>
+		7. Wiara zawsze działa spokojnie. Przed kazaniem unikaj
+		wszelkiego zdenerwowania, wzruszenia. Podczas kazania
+		nie dopuszczaj do tego, aby słuchacze wzięli ciebie
+		w niewolę, staraj się abyś wziął słuchaczy do niewoli.
+		Dość często bywa tak, że kaznodzieja przed zajęciem
+		miejsca za kazalnicą ma kilka tematów kazań i nie wie,
+		na jaki temat ma być kazanie. To jest bardzo delikatna
+		sprawa. Gdy już wybrałeś temat, a twoje serce jest
+		niespokojne, to pozostaw ten temat. Ten temat, którego
+		pragnie Pan Bóg, abyś ty głosił, da twojej duszy pełny
+		pokój Boży. Spokój duszy daje odwagę w kazaniu, ufność
+		mocy Słowa Bożego i nadzieję na dobre rezultaty!
+	</p>
+<p>
+		8. Nigdy nie głoś ludziom tego, co ludzie chcą. Głoś
+		to, co dla ludzi jest potrzebne i co chce Pan Bóg,
+		żebyś głosił. Bądź tym, który podoba się Panu Bogu,
+		a nie tym, co dogadza ludziom!
+	</p>
+<p>
+		9. Każdego sługę Bożego prześladują trzy rzeczy:sława,
+		pieniądze i kobiety. Pokaż mi kaznodzieję, który upadł,
+		a ja pokażę, że go obaliła jedna z tych trzech rzeczy.
+		Staraj się, abyś nie dostał się do niewoli żadnej z
+		tych rzeczy! Saul, Bileam i Samson służą jaskrawym
+		przykładem dla naszego ostrzeżenia. Żaden z nich, po
+		swoim upadku, nie był już takim, jakim był przed upadkiem.
+		Lepsze i tańsze jest nie dopuszczenie siebie do zachorowania,
+		niż późniejsze leczenie (1 Tes. 4:4; 1 Tym. 4:16).
+	</p>
+<p>
+		10. Głoś Słowo! (2 Tym. 4:2; 1 Ptr. 4:10-11). Bij batem
+		Słowa Bożego i nie bij swoim własnym batem. Bat Słowa
+		Bożego bije, ale nie rani ludzkie dusze bez miłosierdzia
+		i balsamu. Ta prawda została pokazana i potwierdzona
+		autorowi tych słów w widzeniu przez Ducha Świętego
+		podczas modlitwy. Prawda Słowa Bożego buduje dusze,
+		nie rujnuje ich.
+	</p>
+<p>
+		Głosząc ludziom Słowo Boże kaznodzieja winien kochać
+		tych ludzi, którym głosi. Kaznodzieja jest sługą Pana
+		Boga w służbie Ewangelii, współpracownikiem Kościoła
+		Pana Jezusa Chrystusa, a nie żandarmem!
+	</p>
+<p>
+		11. Nie twórz kliki ulubieńców w zborze i nie dziel
+		stada Bożego na klasy. Potajemne spotkania pastora
+		z ulubieńcami podrywa autorytet pastora i wnosi nienawiść
+		do zboru.
+	</p>
+<p>
+		12. Staraj się głosić według poziomu swej własnej duchowej
+		wysokości. Nie wchodź w czyjąś doktrynalność i nie
+		ubieraj się w czyjeś (zbyt) wielkie trzewiki, bo pokaleczysz
+		sobie nogi i nigdzie nie zajdziesz. Bądź oryginalnym
+		przed ludźmi i oryginalnym przed Panem Bogiem!
+	</p>
+<p>
+		13. Podczas kazania nie trzymaj rąk w kieszeni, czy
+		z tyłu, nie opieraj się łokciami na kazalnicy, niech
+		twoja postawa i gestykulacja rąk potwierdza znaczenie
+		wygłoszonych przez ciebie Słów Bożych!
+	</p>
+<p>
+		14. Kaznodzieja Ewangelii jest tą osobą, której Pan
+		Bóg zaufał. On musi mieć zaufanie i wśród ludzi. Z
+		tego powodu kaznodzieja musi umieć zachować tajemnice,
+		które przekazali mu ufni ludzie. Zdradzone przez kaznodzieję
+		tajemnice rujnują jego służbę do fundamentu. Traci
+		wtedy wszelkie zaufanie i zostaje zaliczony do kategorii
+		plotkarzy, czy oszczerców!
+	</p>
+<p>
+		15. Każde zgromadzenie, każde nabożeństwo jest inne.
+		Kierowanie zgromadzeniem wymaga mądrości, umiejętności
+		i praktyki. Do każdego nabożeństwa jest inny klucz.
+		Kaznodzieja musi znaleźć ten klucz, jeśli pragnie mieć
+		zgromadzenie błogosławione przez Pana Boga. Szukaj
+		kierownictwa Ducha Świętego  cichego powiewu z nieba
+		i nie polegaj na swoim programie. Pamiętaj, że największym
+		wrogiem działania i kierownictwa Ducha Świętego jest
+		formalizm!
+	</p>
+<p>
+		Zebranie dzieci Bożych nie jest jakąś techniczną wprawą,
+		a kaznodzieja nie jest jakimś robotem. Niech cały zbór
+		ludu Bożego przejawi życie żywego organizmu i niech
+		kaznodzieja przejawi służbę Bożego sługi z obecnością
+		i kierownictwem Ducha Świętego. Prawidłowo rozpocząć
+		nabożeństwo, prawidłowo prowadzić i prawidłowo zakończyć
+		jest mądrością w oczach Bożych i pożyteczne dla ludzi.
+	</p>
+<br/><br/>
+<br/><br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST">
+Chciał(a)bym przesłać ten artykuł pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/>
+<input name="filename" type="hidden" value="ksiazki/kurs_kaznodziejski.html"/>
+<br/><input type="submit" value="  Wyślij  "/>
+</form><br/>
+<br/>
+<h4><font color="#808080">Wydawca, Copyright: Oficyna Wydawnicza 
+		<a href="http://www.dpz.jezus.net" style="color:#808080">
+			Droga Prawda Życie
+		</a>, 1998, Tekst przygotowała 
+		<a href="mailto:asia@dpz.jezus.net" style="color:#808080">
+			Joanna Kaniszczak
+		</a>
+		, opracowanie wersji HTML 
+		<a href="mailto:wasilewski@Jezus.pl" style="color:#808080">
+			Piotr Wasilewski
+		</a>
+</font>
+</h4>
+<br/>
+
+{% endraw %}

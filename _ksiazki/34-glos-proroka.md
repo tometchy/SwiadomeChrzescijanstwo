@@ -6,11 +6,11 @@ sort_order: 34
 kind: ksiazka
 catalog_status: nowość
 source_url: https://www.wswch.pl/
-source_provenance: web-catalog-snapshot-2026-11-17
-source_text_verified: false
+source_provenance: original-downloaded-html
+source_text_verified: true
 edition_note: nowość
 historical_price: 45 zł
 allegro_url: https://allegro.pl/produkt/glos-proroka-kto-przemawia-w-imieniu-boga-aiden-wilson-tozer-1fe39fa8-a9d4-4510-8a28-9ab18163344a?offerId=18063874206
-cover_url: https://a.allegroimg.com/original/118511/951dcda5486da5e78225987c1a64/Aiden-Wilson-Tozer-Glos-Proroka-Kto-przemawia-w-imieniu-Boga
+cover_url: /assets/img/books/34-glos-proroka.webp
 cover_mode: photo
 ---

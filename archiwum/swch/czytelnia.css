@@ -1,0 +1,39 @@
+<html>
+
+<style type="text/css">
+<!--
+	body { background-color: #FFFFFF; }
+
+	a:link { text-decoration: underline; font-weight:  bold; color: #000099; }
+	a:active { text-decoration: underline; font-weight: bold; color: red; }
+	a:visited { text-decoration: underline; font-weight: bold; color: #000099; }
+	a:hover { text-decoration: none; font-weight: bold; color: #FFFFFF; background: #000099; }
+
+	td { font-family: verdana, arial, helvetica, sans-serif; }
+	td.standard { font-family: verdana, arial, helvetica, sans-serif; font-size: 12.9px; }
+
+	td.biografia 	{	font-family: arial, verdana, helvetica, sans-serif; 
+				font-size: 12px; 
+				border-bottom-style: none;
+;
+			}
+
+	ul { line-height: 17px; list-style: disc; color: #000000; background: #FFFFFF; font-family: "verdana", "arial", "geneva", sans-serif; }
+
+	.akapit { font-family: verdana, arial, helvetica, sans-serif; font-size: 11.9px; text-indent: 20px; text-align: justify; }
+	.akapit:first-letter { font-size: 14.9px }
+	.standard { font-family: verdana, arial, helvetica, sans-serif; font-size: 12.9px; }
+	.menu { font-family: verdana, arial, helvetica, sans-serif; font-size: 13.9px; }
+	.mala { font-family: verdana, helvetica, arial; font-size: 10.9px; }
+	.tytul { font-family: verdana, helvetica, arial; font-size: 13.9px; font-weight: bold; color: #000000; text-align: left; }
+
+	h1 { color: #000080; font-size: 24.9px; font-weight: bold; border: none; font-family: "verdana", "arial", "geneva", sans-serif; }
+	h2 { color: #000080; font-size: 18.9px; font-weight: bold; border: none; font-family: "verdana", "arial", "geneva", sans-serif; }
+	h3 { color: #000080; font-size: 16.9px; font-weight: bold; border: none; font-family: "verdana", "arial", "geneva", sans-serif; }
+	h4 { font-size: 13.9px; font-weight: bold; border: none; font-family: "verdana", "arial", "geneva", sans-serif; }
+	h5 { font-size: 11.9px;  font-weight: bold; border: none; font-family: "verdana", "arial", "geneva", sans-serif; }		
+
+-->
+</style>
+
+</html>

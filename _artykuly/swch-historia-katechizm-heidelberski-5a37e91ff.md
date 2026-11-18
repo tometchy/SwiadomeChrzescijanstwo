@@ -1,0 +1,1257 @@
+---
+title: Katechizm Heidelberski z 1563 roku
+category: Historia Kościoła
+permalink: /czytelnia/swch-historia-katechizm-heidelberski-5a37e91ff/
+source_url: https://swch.pl/historia/katechizm_heidelberski.html
+imported_from_legacy: true
+source_text_sha256: 476a6cd4bb1a00dcc74a6b24b1a847b9377f59dda3bad7f617db2758918ebd7c
+source_char_count: 51972
+source_verified: true
+---
+
+{% raw %}
+
+<div class="Section1">
+<h1 align="center" style="text-align:center"><span style="font-size:24.0pt;
+mso-bidi-font-size:16.0pt;font-family:Tahoma;color:navy">Katechizm Heidelberski
+z 1563 roku<o:p></o:p></span></h1>
+<p class="MsoNormal"><?if !supportEmptyParas?> <?endif?><o:p></o:p></p>
+<h2>Wstęp</h2>
+<p align="center" class="MsoNormal" style="text-align:center;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">1. Jedyna pociecha<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 1: W czym znajdujesz jedyną pociechę w życiu i wobec śmierci?
+<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">W tym, że
+ciałem i duszą należę - zarówno teraz, gdy żyję, jak i wtedy, gdy umrę - nie do
+siebie, ale do Jezusa Chrystusa, mego wiernego Zbawiciela. To On swą drogą
+krwią dał całkowite zadośćuczynienie za moje grzechy, wyzwolił mnie z mocy
+diabła, to On strzeże mnie tak dobrze, że nawet włos z głowy mi nie spadnie bez
+woli Ojca niebiańskiego, co więcej - wszystko musi służyć mojemu dobru. Dlatego
+- przez Ducha Świętego - daje mi On pewność życia wiecznego i pozwala, abym od
+tej chwili z całego serca pragnął żyć dla Niego. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Rz.14:8</span>;<span style="color:blue"> 1
+Ptr.1:18-19</span>;<span style="color:blue"> 1 J.3:8</span>;<span style="color:blue"> Mt.10:29-31</span>;<span style="color:blue"> Łk.21:18</span>;<span style="color:blue"> Rz.8:28</span>;<span style="color:blue"> 2 Kor.1:22</span>;<span style="color:blue"> Rz.8:14<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 2: Z czego powinieneś zdawać sobie sprawę, aby żyć i
+umierać w taki sposób pocieszony?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Z trzech prawd: po pierwsze - z ogromu
+własnego grzechu i niedoli; po drugie - ze sposobu, w jaki zostałem z nich
+wyzwolony; i po trzecie - z wdzięczności, jaką winien jestem Bogu za to
+wyzwolenie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.7:24-25</span>;<span style="color:blue"> 1 Kor.6:11</span>;<span style="color:blue"> Tyt.3:3-7</span>;<span style="color:blue"> 1 Ptr.2:9-10<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:blue"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<h3>Część I</h3>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma">Niedola
+człowieka<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">2. Upadek<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 3: Skąd wiesz o swojej niedoli?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Z Prawa Bożego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.3:20<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 4: Czego wymaga od nas Prawo Boże?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jezus Chrystus daje następującą
+wykładnię Prawa: "Będziesz miłował Pana Boga swego, z całego serca i z
+całej duszy swojej, i z całej myśli swojej, i z całej siły swojej. To jest
+największe i pierwsze przykazanie. A drugie, podobne temu: Będziesz miłował
+bliźniego swego jak siebie samego. Na tych dwóch przykazaniach opiera się cały
+Zakon i Prorocy" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.22:37-40</span>;<span style="color:blue"> Łk.10:27</span>).<o:p></o:p></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 5: Czy jesteś w stanie sprostać tym wymaganiom do
+końca?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, bo jest we mnie naturalna
+skłonność do nienawiści Boga i bliźniego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.3:10-25</span>;<span style="color:blue"> 1 J.1:8-10</span>;<span style="color:blue"> Rz.8:7<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 6: Czy to znaczy, że Bóg stworzył człowieka złym i
+przewrotnym?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, Bóg stworzył człowieka dobrym,
+stworzył go na swój obraz, tzn. jako prawdziwie sprawiedliwego i świętego, tak
+aby człowiek mógł w pełni poznać swego Stwórcę, aby mógł Go kochać i żyć z Nim
+w wiecznym szczęściu, nieustannie chwaląc Go i błogosławiąc Mu. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1Mj.4 1:26-27,31</span>;<span style="color:blue"> Ef. 4:23-24<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 7: Skąd się bierze skażenie natury ludzkiej?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Ma ono swoje źródło w upadku i
+nieposłuszeństwie Adama i Ewy, pierwszych rodziców, w Raju. Ludzka natura
+została wtedy do tego stopnia skażona, że odtąd wszyscy poczynamy się i rodzimy
+jako ludzie grzeszni. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.5:12</span>;<span style="color:blue"> Ps 51:7</span></b> <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 8: Czy to skażenie sięga aż tak głęboko, że nie
+jesteśmy w stanie czynić dobra i skłonni jesteśmy wyłącznie do zła?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak, o ile nie odrodzi nas Duch
+Święty <b style="mso-bidi-font-weight:normal"><span style="color:blue">J.3:5-6<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 9: Czy w takim razie Bóg nie jest niesprawiedliwy
+stwarzając w swym Prawie wymagania, których człowiek nie jest w stanie
+wypełnić?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, nie jest,
+gdyż człowiek został przez Boga stworzony tak, aby mógł Prawo wypełnić.
+Zbuntował się jednak, zwiedziony przez diabła i pozbawił tej zdolności zarówno
+sam siebie, jak i swoje potomstwo. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.9:14</span>;<span style="color:blue"> Ef.4:24</span>;<span style="color:blue"> Rz.3:9,12</span></b><span style="color:blue"> <o:p></o:p></span></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">3. Sąd i łaska Boża</span></b><span style="font-size:10.0pt;font-family:Tahoma"> <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 10: Czy Bóg pozostawia bez kary nieposłuszeństwo i
+upadek człowieka?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Przeciwnie.
+Jego straszny gniew kieruje się zarówno przeciwko grzechowi pierworodnemu, jak
+i grzechom przez nas popełnionym. Będzie je karał - tutaj i w wieczności -
+zgodnie ze swoim sprawiedliwym wyrokiem: "Przeklęty, kto nie dochowa słów
+tego Zakonu, aby je spełnić" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">5Mj.27:26</span></b>). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.1:18</span>;<span style="color:blue"> 2:5-6</span>.<o:p></o:p></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 11: Czy Bóg nie jest także Bogiem miłosiernym?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jest Bogiem bardzo miłosiernym, ale
+też i sprawiedliwym. Jego sprawiedliwość wymaga, aby przestępstwo popełnione
+wobec Najwyższego Majestatu Bożego zostało ukarane najwyższą karą fizyczną i
+duchową, czyli karą wieczną. <b style="mso-bidi-font-weight:normal"><span style="color:blue">2Mj.20:5-6</span>;<span style="color:blue"> Ps.5:5</span>.<o:p></o:p></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma">Część II<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:10.0pt;font-family:Tahoma">Zbawienie
+Człowieka<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">4. Usprawiedliwienie<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 12: Zgodnie ze sprawiedliwym wyrokiem Bożym
+zasłużyliśmy na karę doczesną i wieczną. Czy istnieje jakiś sposób jej
+uniknięcia i powrotu do stanu łaski?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bóg chce, aby
+stało się zadość Jego sprawiedliwości. Z tego względu musimy (albo ktoś inny za
+nas) dać Mu pełną zapłatę za winę. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.8:3-4.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 13: Czy sami nie możemy tego dokonać?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">To niemożliwe. Przeciwnie - każdego
+dnia zwiększamy jeszcze swoją winę. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Hebr.9:2-3</span>;<span style="color:blue"> 15:15.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 14: Czy jakakolwiek istota stworzona mogłaby za nas
+dać zapłatę?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, gdyż - po
+pierwsze - Bóg nie chce karać innego stworzenia za winę człowieka; po drugie -
+żadne stworzenie nie zniesie ciężaru wiecznego gniewu Bożego, skierowanego
+przeciwko grzechowi, ani nie uwolni od niego innych. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Kol.3:25</span>;<span style="color:blue">
+Ps.49:8-9.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 15: Kto więc może pośredniczyć między nami a Bogiem,
+kto może nas uratować?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Ktoś, kto będąc
+prawdziwym człowiekiem byłby zarazem bezwzględnie sprawiedliwy, a co więcej -
+swą mocą przewyższałby wszystkie inne stworzenia, czyli ktoś, kto byłby także
+prawdziwym Bogiem. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">Jer.23:5-6</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Hebr.2:17</span>;<span style="color:blue"> 1 Kor.15:21</span>;<span style="color:blue"> 2 Kor.5:21</span>.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 16: Dlaczego musi On być zarówno prawdziwym, jak też
+sprawiedliwym człowiekiem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Sprawiedliwość
+Boża wymaga bowiem, aby natura ludzka, która zgrzeszyła, zapłaciła za swój grzech.
+Z drugiej jednak strony człowiek, który sam jest grzesznikiem, nie może
+zapłacić za innych. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Iz.53:4-5</span>;<span style="color:blue"> Iz.53:11</span>;<span style="color:blue"> 1 Ptr.3:18</span>.<o:p></o:p></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 17: Dlaczego musi On być także prawdziwym Bogiem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Aby dzięki swej
+boskiej mocy mógł unieść w ludzkiej naturze ciężar gniewu Bożego, przywrócić
+nam sprawiedliwość i wyjednać życie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">J.3:16</span>;<span style="color:blue"> 1 J.4:9</span>;<span style="color:blue"> 2 Kor.5:19.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 18: Kto jest tym Pośrednikiem - prawdziwym Bogiem i w
+pełni sprawiedliwym człowiekiem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jezus Chrystus,
+nasz Pan "który stał się dla nas mądrością od Boga i sprawiedliwością i
+poświęceniem i odkupieniem" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">1Kor.1:30</span></b>). <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Tym.2:5-6</span>;<span style="color:blue"> J.14:6</span>;<span style="color:blue"> 1 J.5:20.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 19: Skąd o tym wiesz?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Z Ewangelii
+świętej, która Bóg najpierw sam objawił w raju, potem nakazał głosić ją
+patriarchom i prorokom, ukazał obrazowo w ofiarach i innych obrzędach Prawa
+Mojżeszowego i wreszcie wypełnił przez swego jedynego Syna Umiłowanego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.1:2</span>;<span style="color:blue"> Hebr.1.1</span>;<span style="color:blue"> Dz.10:43</span>;<span style="color:blue"> Rz.10:4</span>;<span style="color:blue"> Gal.4:4.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 20: Czy wszyscy ludzie zostali ocaleni przez
+Chrystusa, tak jak zostali zgubieni przez Adama?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie wszyscy, lecz tylko ci, którzy
+prawdziwą wiarę łączą z Chrystusem i przyjmują wszystkie jego dobrodziejstwa. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Iz.53:11</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> J.1:12</span>;<span style="color:blue"> J.3:36</span>;<span style="color:blue"> Hebr.4:2</span>.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 21: Na czym polega prawdziwa wiara?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Polega ona
+zarówno na pewności poznania, dzięki któremu uznaję za prawdę wszystko, co Bóg
+objawił w swoim Słowie, jak też na głębokim zaufaniu, które stwarza we mnie
+Duch Święty przez Ewangelię. To ona daje mi pewność, że nie tylko inni, ale
+także i ja otrzymałem od Boga odpuszczenie grzechów, dar sprawiedliwości i
+wiecznego szczęścia, a wszystko to otrzymałem wyłącznie z Jego łaski, jedynie
+dzięki zasłudze Jezusa Chrystusa. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:
+DE">Mt.16:17</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Ef.2:8-9</span>;<span style="color:blue"> Rz.3:24</span>;<span style="color:blue"> Gal.2:16</span>.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 22: W co musi wierzyć chrześcijanin?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">We wszystkie obietnice Ewangelii zwięźle
+wyrażone w sformułowaniach powszechnej niezachwianej wiary chrześcijańskiej
+(czyli w tzw. Apostolskim Wyznaniu Wiary). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mk.1:17</span>;<span style="color:blue"> Mt.28:19-20</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 23: Jak brzmi Apostolskie Wyznanie Wiary?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;text-align:justify;mso-pagination:
+widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">Wierzę w Boga Ojca Wszechmogącego,
+stworzyciela nieba i ziemi, i w Jezusa Chrystusa, Syna Jego jedynego, Pana
+naszego, który się począł z Ducha Świętego, narodził się z Marii Panny, umęczon
+pod Ponckim Piłatem, ukrzyżowan, umarł i pogrzebion, zstąpił do piekieł;
+trzeciego dnia zmartwychwstał, wstąpił na niebiosa, siedzi po prawicy Boga Ojca
+Wszechmogącego, skąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha
+Świętego, Święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie,
+ciała zmartwychwstanie i żywot wieczny</span></i></b><span style="font-size:
+10.0pt;font-family:Tahoma">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 24: Czy w Wyznaniu Apostolskim wyróżniamy jakieś
+części?<o:p></o:p></span></i></p>
+<p class="MsoBodyTextIndent" style="mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak, trzy części. W pierwszej jest
+mowa o Bogu Ojcu i o naszym stworzeniu, w drugiej - o Bogu Synu i naszym
+odkupieniu, a w trzeciej - o Bogu Duchu Świętym i naszym uświęceniu.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 25: Jeśli Bóg jest jeden, dlaczego wymienione są trzy
+Osoby: Ojciec, Syn i Duch Święty ?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bo w taki sposób Bóg nam się
+objawił w swoim Słowie; Jedyny prawdziwy, wieczny Bóg w trzech Osobach! </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">1Mj</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">.<span style="color:blue">1:1</span>;<span style="color:blue"> Iz.61:1</span>;<span style="color:blue"> Mt.3:16-17</span>;<span style="color:blue"> Mt.28:19.<o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">5. Bóg Ojciec<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 26: Jak rozumiesz słowa: "Wierzę w Boga Ojca
+Wszechmogącego, Stworzyciela nieba i ziemi?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Słowami tymi wyrażam wiarę w to, że
+wieczny Ojciec naszego Pana Jezusa Chrystusa, stworzył niebo, ziemię i
+wszystko, co się na nich znajduje, że utrzymuje je, rządzi nimi zgodnie ze swym
+odwiecznym zamysłem i przez Opatrzność, że to On jest moim Ojcem i moim Bogiem
+dzięki miłości, jaką ma dla Syna swego, Jezusa Chrystusa. Ufam Mu tak dalece,
+iż nie wątpię, że otrzymam od niego wszystko, co niezbędne memu ciału i duszy ,
+a jeśli na tej pełnej cierpień ziemi spotka mnie za Jego przyzwoleniem coś
+złego, On to obróci na moje dobro. Może tak postąpić, gdyż jest Bogiem
+Wszechmogącym i chce tak postąpić, gdyż jest wiernym Ojcem. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1Mj.1:1</span>;<span style="color:blue"> Ps.119:90-91</span>;<span style="color:blue"> Ps.55:23</span>;<span style="color:blue"> Mt.7:9-11</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 27: Co rozumiesz pod pojęciem "Opatrzność
+Boża"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Wszechmocną i wszechobecną potęgę
+Boga, dzięki której zachowuje On niebo, ziemię i wszelkie stworzenie, prowadząc
+je jak gdyby za rękę. Ani zioła i rośliny, ani deszcz i susza, ani urodzaj i
+nieurodzaj, ani pokarm i napój, ani zdrowie i choroba, ani bogactwo i ubóstwo,
+ani żadna inna rzecz nie jest dziełem przypadku, lecz pochodzi z Jego
+ojcowskiej dłoni. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">Hebr.1:3</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue">
+Ps.145:15-16</span>;<span style="color:blue"> Hebr.5:18</span>;<span style="color:blue"> Mt.10:29.<o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 28: Czemu służy wiedza o stworzeniu i o Opatrzności?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Temu, abyśmy zachowując cierpliwość
+wśród niepowodzeń i wdzięczność w sytuacjach pomyślnych - zawsze ufali, że we
+wszystkim, co nas spotyka, Bóg pozostaje wiernym i dobrym Ojcem, że żadne
+stworzenie nie zdoła odłączyć nas od Jego miłości, bo On trzyma wszystko w
+swoim ręku i bez Jego woli nie jest ono w stanie działać ani nawet się
+poruszyć. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Hb.1:21</span>;<span style="color:blue"> Rz.5:3</span>;<span style="color:blue"> Jb.1:3</span>;<span style="color:blue"> Rz.8:38-39</span>;<span style="color:blue"> Dz.17:28</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">6. Bóg Syn<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 29: Dlaczego Syn Boży nazwany został Jezusem, to
+znaczy Zbawicielem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bo tylko On uwalnia nas od grzechów
+i w nikim innym nie znajdziemy zbawienia (ratunku). </span><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:DE">Mt.1:21</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Dz.4:12</span>;<span style="color:blue"> Hebr.7:24-25</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 30: Czy ludzie, którzy szukają szczęścia i ratunku
+(zbawienia) za pośrednictwem świętych, w sobie samych lub w jakikolwiek inny
+sposób, także wierzą, że Jezus jest jedynym Zbawicielem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie wierzą, bo choć się chlubią, że
+do Jezusa, jedynego Zbawcy, należą, to swoim postępowaniem temu przeczą. Jedno
+z dwojga: albo Jezus nie jest Zbawicielem doskonałym, albo Nim jest; a wtedy
+ludzie, którzy naprawdę w Niego uwierzyli, otrzymują w Nim wszystko, co do
+zbawienia konieczne. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Gal.5:4</span>;<span style="color:blue"> Kol.1:19-20</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 31: Dlaczego Syn nazywany jest Chrystusem, to znaczy
+Namaszczonym?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Ponieważ z postanowienia Boga Ojca,
+namaszczony Duchem Świętym, wyznaczony został na naszego najwyższego Proroka i
+Nauczyciela, który w pełni objawił nam ukryty zamysł i wolę Boga, dotyczącą
+naszego zbawienia; na naszego jedynego najwyższego Kapłana, który odkupił nas
+ofiarą złożoną z własnego ciała i ustawicznie wstawia się za nami u Ojca, na
+naszego wiecznego Króla, który rządzi nami za pośrednictwem Słowa i Ducha,
+strzeże nas, byśmy nie utracili zdobytego przezeń zbawienia. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Dz.3:22</span>;<span style="color:blue"> Hebr.7:20-21</span>;<span style="color:blue"> Rz.8:34</span>;<span style="color:blue"> Mt.28:18</span>;<span style="color:blue"> Ps 2:6</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 32: Na jakiej podstawie twierdzisz, że jesteś
+chrześcijaninem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Na podstawie mojej wiary, dzięki
+której należę do Chrystusa, a to oznacza, że mam udział w Jego namaszczeniu,
+abym wyznawał Jego imię, z wdzięczności ofiarował Mu siebie samego jako żywą
+ofiarę, z grzechem i diabłem, a potem, w wieczności, razem z Chrystusem panował
+nad całym stworzeniem. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.10:32-33</span>;<span style="color:blue"> Rz.12:1</span>;<span style="color:blue"> 1 Ptr.2:9</span>;<span style="color:blue"> Obj.3:21</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 33: Dlaczego Chrystus nazwany jest jedynym Synem
+Boga, skoro my także jesteśmy dziećmi Bożymi?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bo w całej wieczności tylko
+Chrystus jest rodzonym Synem Boga, podczas gdy my - jedynie ze względu na Jego
+Osobę - zostaliśmy z łaski Boga przysposobieni na dzieci. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Hebr.1:2-3</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Ef.1:5</span>;<span style="color:blue"> Rz.8:15-17</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 34: Dlaczego nazywasz Go naszym Panem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Ponieważ nie srebrem ani złotem, ale
+swoją drogą krwią uwolnił i wykupił nasze dusze i ciała z niewoli grzechu i z
+wszelkiej władzy diabła, dzięki czemu staliśmy się Jego własnością. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">1 Ptr.1:18-19</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Kor.6:20</span>;<span style="color:blue"> Hebr.2:14</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 35: Co znaczą słowa: "...począł się z Ducha Świętego,
+narodził się z Marii Panny..."?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Znaczą one, że odwieczny Syn Boga,
+który przez całą wieczność był, jest i będzie prawdziwym Bogiem, za sprawa
+Ducha Świętego z ciała i krwi Marii Panny wziął prawdziwą naturę człowieka, aby
+stać się prawdziwym potomkiem Dawida, we wszystkim podobnym do swoich braci, z
+wyjątkiem grzechu. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">Łk.1:35</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Mt.1:18</span>;<span style="color:blue"> Gal.4:4</span>;<span style="color:blue"> Dz.13:23</span>;<span style="color:blue"> Hebr.4:15</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 36: Co zawdzięczasz świętemu poczęciu i narodzeniu
+Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">To, że jako nasz Pośrednik swoją
+niewinnością i doskonałą świętością zakrywa On przed obliczem Boga mój grzech,
+z którym zostałem poczęty. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Tym.2:5</span>;<span style="color:blue"> Hebr.2:16</span>;<span style="color:blue"> 1 Kor.1:30</span>;<span style="color:blue"> Ps.51:7</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 37: Jak rozumiesz słowo "umęczon"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Rozumiem je następująco: przez całe
+swoje ziemskie życie, a szczególnie pod jego koniec, Jezus Chrystus dźwigał
+(cieleśnie i duchowo) ciężar gniewu Bożego, skierowanego przeciwko grzechowi
+całej ludzkości, aby swoim cierpieniem - jako jedyną ofiarą mającą moc
+przebłagania Boga - wykupić nasze ciała i dusze od wiecznego potępienia, zdobyć
+dla nas łaskę u Boga, usprawiedliwienie i życie wieczne. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Iz.53:12</span>;<span style="color:blue"> 1
+Ptr.2:24</span>;<span style="color:blue"> 1 J.2:2</span>;<span style="color:blue"> Rz.5:9</span>;<span style="color:blue"> 1 J.1:7</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 38: Dlaczego Jezus musiał być "umęczon pod
+Ponckim Piłatem"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Aby On - niewinny - skazany przez ziemskiego
+sędziego, uwolnił nas od surowego wyroku Bożego, który miał zapaść nad nami. <b style="mso-bidi-font-weight:normal"><span style="color:blue">J.19:4</span>;<span style="color:blue"> 2 Kor.5:21.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 39: Czy fakt, że Jezus został ukrzyżowany, ma większe
+znaczenie, niż gdyby umarł inną smiercią?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak, gdyż śmierć na krzyżu była
+przeklęta przez Boga. W ten sposób zdobyłem pewność, że Jezus wziął na siebie
+przekleństwo, które ciążyło na mnie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">5 Mj.21:23</span>;<span style="color:blue"> Gal.3:13-14.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 40: Dlaczego Chrystus musiał umrzeć?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bo zgodnie z wymaganiami
+sprawiedliwości i prawdy Bożej zapłatą za nasze grzechy mogła być jedynie
+śmierć Syna Bożego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Hebr.2:10,15.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 41: Dlaczego wyznajemy, że Jezus Chrystus został
+"pogrzebion" (czyli pochowany)?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Świadczymy w ten sposób, że umarł
+naprawdę. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Łk.23:50,52-53</span>;<span style="color:blue"> Dz.13:29</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 42: Dlaczego i my musimy umrzeć, skoro Jezus Chrystus
+umarł za nas?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bo swoją śmiercią wcale nie
+spłacamy naszych win. Ona oznacza, że to grzech zostaje zniszczony, a my
+przechodzimy do życia wiecznego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Ptr.3:18</span>;<span style="color:blue"> J.5:24</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 43: Co jeszcze zawdzięczamy ofierze i śmierci
+krzyżowej Jezusa Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dzięki Jego mocy "stary
+człowiek", jaki żył w nas, zostaje wraz z Jezusem Chrystusem ukrzyżowany,
+zabity i pogrzebany, aby nasze ciało ze swymi pożądaniami nie miało już więcej
+nad nami władzy i abyśmy odtąd samych siebie mogli ofiarowywać Chrystusowi w
+akcie wdzięczności. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:
+DE">Rz.6:6-7</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Gal.2:20</span>;<span style="color:blue"> Kol 2:12</span>;<span style="color:blue"> Rz.12:1</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 44: Dlaczego w Apostolskim Wyznaniu Wiary zawarto
+słowa "zstąpił do piekieł"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, abym pośród największych
+nawet pokus miał pewność, że mój Pan, Jezus Chrystus, sam doświadczywszy
+niewysłowionej trwogi, męki i lęku, w jakich pogrążyła się Jego dusza zarówno
+na krzyżu, jak i przedtem, uwolnił mnie od trwogi i męki piekła. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Mt.27:46; Ef.4:8-10;
+Iz.53:10; Dz.2:27</span></b><span lang="DE" style="font-size:10.0pt;font-family:
+Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 45: Co zawdzięczamy zmartwychwstaniu Jezusa
+Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze - usprawiedliwienie,
+gdyż Chrystus swym zmartwychwstaniem przezwyciężył śmierć i umożliwił nam
+uczestniczenie w sprawiedliwości, którą zdobył dla nas właśnie dzięki swojej
+śmierci. Po drugie - nowe życie, gdyż dzięki Jego mocy zmartwychwstajemy do nowego
+życia. Po trzecie - zapewnienie naszego zmartwychwstania w chwale. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.4:25</span>;<span style="color:blue"> 1 Ptr.1:3,31</span>;<span style="color:blue"> Rz.6:4-6</span>;<span style="color:blue"> Ef.2:5</span>;<span style="color:blue"> Rz.8:11</span>;<span style="color:blue"> 1 Kor.15:20-21</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 46: Jak rozumiesz słowa: "wstąpił na
+niebiosa"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Rozumiem, że Jezus Chrystus - wzięty
+na oczach uczniów z ziemi do nieba - przebywa tam dla naszego dobra aż do
+czasu, gdy przyjdzie sądzić żywych i umarłych. </span><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:DE">Mt.26:64</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Mk.16:19</span>;<span style="color:blue"> Hebr.4:14</span>;<span style="color:blue"> Hebr.9:24</span>;<span style="color:blue"> Mt.24:30</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 47: Czy to znaczy, że Jezus Chrystus nie jest z nami
+aż do skończenia świata, choć nam to obiecał?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jezus Chrystus, prawdziwy człowiek
+i prawdziwy Bóg, nie jest obecny na ziemi w swojej ludzkiej naturze, natomiast
+w swej boskości, majestacie, łasce i Duchu nigdy się od nas nie oddala. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">J.16:28</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> J.14:2-3</span>;<span style="color:blue"> J.17:11</span>;<span style="color:blue"> Mt.28:20</span>;<span style="color:blue"> Mt.18:20</span>;<span style="color:blue"> J.14:16-17</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 48: Skoro Jezus w swej ludzkiej naturze nie jest
+obecny wszędzie tam, gdzie jest obecny jako Bóg - czy to oznacza, że obie Jego
+natury są rozdzielone?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Oczywiście, że nie. Natura boska,
+nieograniczona i wszechobecna, przebywa zarówno poza naturą ludzką, w którą się
+wcieliła, jak i w niej - złączona w jednej Osobie. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Dz.7:49</span>;<span style="color:blue">
+Kol.2:9.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 49: Co zawdzięczamy wniebowstapieniu Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze - Jego wstawiennictwo w
+niebie przed obliczem Ojca. Po drugie - pewność, że w Chrystusie mamy już ciało
+w niebiosach i że On (jako Głowa) weźmie i nas, jako członki swego ciała, do
+siebie. Po trzecie - poręczenie tego faktu przez zesłanie Ducha, dzięki mocy
+którego szukamy już nie tego, co jest na ziemi, lecz tego, co w górze, gdzie
+Chrystus siedzi po prawicy Boga. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 J.2:1</span>;<span style="color:blue"> Rz.8:34</span>;<span style="color:blue"> J.14:2-3</span>;<span style="color:blue"> J.14:16</span>;<span style="color:blue"> Dz.2</span>;<span style="color:blue">1,4</span>;<span style="color:blue"> Kol.3:1-2.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 50: Dlaczego w Apostolskim Wyznaniu Wiary zawarto
+słowa: "siedzi po prawicy Boga"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, że Jezus Chrystus wstąpił
+na niebiosa, aby się objawić jako Głowa swego Kościoła, a Ojciec rządzi
+wszystkim za Jego pośrednictwem. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:
+DE">Ef.1:20-23</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Mt.28:18</span>;<span style="color:blue"> J.5:22</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 51: Jakie znaczenie ma dla nas chwała Jezusa
+Chrystusa jako głowy Kościoła?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze, Jezus za pośrednictwem
+Ducha Świętego obdarzył nas tj. swe członki, darami niebios; po drugie - mocą
+swoją chroni nas i broni przed wszystkimi wrogami. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Ef.4:8</span>;<span style="color:blue">
+Dz.2:33</span>;<span style="color:blue"> J.10:27-29</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 52: Jaka pociecha płynie dla ciebie z faktu, że
+Chrystus "przyjdzie sądzić żywych i umarłych"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Otóż w każdej trosce i
+prześladowaniu mogę z podniesioną głową czekać na Tego, który stanął przed
+Bożym Sądem zamiast mnie i zdjął ze mnie wszelkie przekleństwo, na Tego, który
+przyjdzie z niebios jako Sędzia, aby skazać na wieczne potępienie wszystkich
+swoich i moich wrogów, a mnie wraz z wszystkimi wybranymi zabrać z sobą do
+wiecznej chwały i radości. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Gal.3:13</span>;<span style="color:blue"> Fil.3:20</span>;<span style="color:blue"> Mt.25:34</span>;<span style="color:blue"> 2 Tym.4:8</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">7. Bóg Duch Święty<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 53: Jak rozumiesz słowa "wierzę w Ducha
+Świętego"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Wierzę, że Duch Święty wraz z Ojcem
+i Synem jest Bogiem wiecznym. Wierzę też, że i ja Go otrzymałem, a dzięki
+prawdziwej wierze przyjmuję od Niego dar życia z Chrystusem i korzystam z
+wszystkich Jego dobrodziejstw. To On mnie pociesza i nigdy nie opuści. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.3:16</span>;<span style="color:blue"> 1 Kor.6:19</span>;<span style="color:blue"> 1 Kor 6:17</span>;<span style="color:blue"> J.14:16</span>;<span style="color:blue"> 1 Ptr.4:14</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 54: Jak rozumiesz słowa: "wierzę w święty
+Kościół powszechny"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Słowami tymi wyrażam wiarę w to, że
+Syn Boży od początku aż do końca świata wybiera spośród całej ludzkości swój
+Kościół i przeznacza go do wiecznego życia; Duchem swym i Słowem gromadzi go,
+chroni i utrzymuje w jedności prawdziwej wiary. Wierzę również, że i ja jestem
+tego Kościoła żywym członkiem i pozostanę na zawsze. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Rz.8:29</span>;<span style="color:blue">
+Ef.1:4-5,9-11,13</span>;<span style="color:blue"> 1 J.2:20,25</span>;<span style="color:blue"> Dz.4:32-33</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 55: Jak rozumiesz słowa: "świętych
+obcowanie"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Wyrażają one myśl, że wszyscy
+wierzący - jako całość i jako jednostki - tworzą społeczność w Jezusie
+Chrystusie, gdyż są członkami Jego ciała. Dlatego dzielą z Nim wszystkie jego
+bogactwa i dary. Mają też obowiązek chętnego i radosnego służenia nimi innym
+członkom dla ich pożytku i zbawienia. </span><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:DE">1 Kor.12:13,27</span></b><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:
+DE">;<span style="color:blue"> 1 Kor.1:9</span>;<span style="color:blue"> 2
+Kor.9:7-8,10</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:
+Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 56: Jak rozumiesz słowa: "wierzę w grzechów
+odpuszczenie"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Wierzę, że dzięki zadośćuczynieniu
+Jezusa Chrystusa Bóg nie chce już pamiętać o moich grzechach i o mojej skażonej
+naturze, z którą do końca życia muszę walczyć; przeciwnie - w łasce swej
+obdarza mnie sprawiedliwością Chrystusową, abym nigdy nie stanął przed Jego
+sądem. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Jer.31:34</span>;<span style="color:blue"> Ps.103:3</span>;<span style="color:blue"> Rz.8:1-2</span>;<span style="color:blue"> 2 Kor.5:19-20</span>;<span style="color:blue"> J.5:24</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 57: Jaką pociechę czerpiesz z wiary w "ciała
+zmartwychwstanie"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Taką, że gdy zakończę tutaj życie,
+nie tylko dusza moja wzięta będzie natychmiast do Jezusa Chrystusa, jako do
+swej Głowy, ale także moje ciało zmartwychwstałe dzięki mocy Chrystusowej, na
+nowo połączy się z duszą i upodobni do pełnego chwały ciała Jezusa Chrystusa. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.15:53</span>;<span style="color:blue"> 1 J.3:2</span>;<span style="color:blue"> Fil.3:21</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 58: Jaką pociechę czerpiesz z wiary w "żywot
+wieczny"? <o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jak już teraz odczuwam w sercu przedsmak
+radości wiecznej, tak z chwilą zakończenia życia osiągnę szczęście doskonałe,
+jakiego oko nigdy nie widziało i o jakim ucho nie słyszało, także szczęście,
+które nigdy dotąd nie napełnilo serca żadnego człowieka i będę też wiecznie
+wysławiał Boga. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1
+Kor.2:9</span>;<span style="color:blue"> 2 Kor.5:8</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">8. Wiara<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 59: Jaki odniesiesz pożytek wierząc w to wszystko?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Otrzymałem usprawiedliwienie w
+Chrystusie przed Bogiem i dziedzictwo życia wiecznego. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Tyt.3:5,7</span>;<span style="color:blue">
+Rz.1:17</span>;<span style="color:blue"> J.3:36</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 60: W jaki sposób możesz być usprawiedliwiony przed
+Bogiem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tylko dzięki prawdziwej wierze w
+Jezusa Chrystusa. Choć więc sumienie oskarża mnie, bo ciężko zgrzeszyłem
+przeciwko wszystkim przykazaniom Bożym, żadnego nigdy nie wypełniłem i nadal
+jestem skłonny do zła. Bóg, mimo to, bez żadnej z mojej strony zasługi, a
+wyłącznie z łaski swojej, uznaje mnie za usprawiedliwionego dzięki
+zadośćuczynieniu Jezusa Chrystusa, jak gdybym nigdy nie miał i nie popełnił
+grzechu, jak gdybym to ja sam, a nie Chrystus za mnie, okazał całkowicie
+posłuszeństwo. Jest jednak jeden warunek: mam przyjąć to dobrodziejstwo
+wierzącym sercem. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Gal.2:16</span>;<span style="color:blue"> Jb.2:10</span>;<span style="color:blue"> Rz.2:10</span>;<span style="color:blue"> Rz.7:23</span>;<span style="color:blue"> Ef.2:8</span>;<span style="color:blue"> 1 J.2:2</span>;<span style="color:blue"> 2 Kor.5:21</span>;<span style="color:blue"> J.3:18</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 61: Dlaczego twierdzisz, że jesteś usprawiedliwiony
+jedynie dzięki wierze?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie twierdzę, że mógłbym się podobać
+Bogu ze względu na godność mej wiary. Jedynie zadośćuczynienie Jezusa
+Chrystusa, Jego sprawiedliwość i świętość są dla Boga podstawą mojego
+usprawiedliwienia. A ja nie mogę ich przyjąć ani przyswoić sobie inaczej, jak
+tylko wiarą. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.3:27-28</span>;<span style="color:blue"> Fil.3:8-9.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 62: Dlaczego jednak nasze dobre uczynki nie mogą
+choćby w części usprawiedliwić nas przed Bogiem?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Sprawiedliwość, która mogłaby się
+ostać przed sądem, musiałaby być w pełni doskonała, całkowicie zgodna z Prawem Bożym.
+Tymczasem nawet najlepsze uczynki w tym życiu są zawsze niedoskonałe i skażone
+grzechem. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">Iz.64:6</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Gal.3:10</span>;<span style="color:blue"> Rz.3:23.<o:p></o:p></span></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 63: Czy spełniając dobre uczynki nie zdobywamy jednak
+jakiejś zasługi, skoro Bóg chce jednak wynagrodzić w tym i w przyszłym życiu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nagrodę otrzymujemy nie dzięki
+zasługom, ale z łaski Boga. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Łk.17:10</span>;<span style="color:blue"> Ef.2:8-9</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 64: Czy wyznając taką naukę ludzie nie stają się
+niedbali i przewrotni?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, gdyż jest rzeczą niemożliwą,
+aby ci, którzy zostali wszczepieni w Jezusa Chrystusa dzięki prawdziwej wierze,
+nie przynosili owocu wdzięczności. <b style="mso-bidi-font-weight:normal"><span style="color:blue">J.15:5</span>;<span style="color:blue"> Mt.7:18</span>;<span style="color:blue"> Rz.6:15,18</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">9. Sakramenty<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 65: Skąd się bierze taka wiara, dzięki której
+należymy do Chrystusa i korzystamy ze wszystkich Jego dobrodziejstw?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Budzi ją w naszych sercach Duch
+Święty przez głoszenie Ewangelii Świętej i potwierdza przez przyjmowanie
+sakramentów. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">J.3:5</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> Mt.28:19-20</span>;<span style="color:blue"> 1 Ptr.1:22-23</span>;<span style="color:blue"> 1
+Kor.11:26,28</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:
+Tahoma;color:blue;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 66: Co to są sakramenty?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Są to widzialne, święte znaki i rekojmie
+ustanowione przez Boga, który za ich pomocą pozwala nam lepiej rozumieć
+obietnicę Ewangelii i zarazem przypieczętowuje ją w nas. To znaczy, że ze
+względu na jedną ofiarę, jaką Jezus złożył na krzyżu, Bog w łasce swojej
+odpuszcza nam grzechy i daje życie wieczne. </span><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:DE">Hebr.9:14</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 J.1:7</span>;<span style="color:blue"> 1 Ptr.1:18-19</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 67: Czy zarówno słowo, jak i sakramenty mają ten sam
+cel, którym jest nasza wiara w ofiarę krzyżową Chrystusa jako jedyną podstawę
+zbawienia?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bez wątpienia tak. Duch Święty uczy
+bowiem w Ewangelii i potwierdza świętymi sakramentami, że nasze zbawienie
+zależy wyłącznie od ofiary Chrystusa, poniesionej za nas na krzyżu. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.6:3-11</span>;<span style="color:blue"> Gal.3:27</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 68:Ile sakramentów ustanowił Jezus Chrystus w Nowym
+Testamencie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dwa. Chrzest i Wieczerzę Pańską
+(Komunię Świętą).<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">10. Chrzest<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 69: Dlaczego Chrzest Święty ma ci przypominać i
+zarazem upewnić cię w tym, że jedna ofiara Jezusa Chrystusa dokonała się dla
+ciebie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, że sam Jezus Chrystus
+ustanowił tę zewnetrzną kąpiel, obiecując jednocześnie, że krew Jego i Duch w
+sposób równie rzeczywisty obmywają duszę moją ze wszelkich nieczystości , tzn.
+z grzechów, jak woda, która usuwa brud z ciała, obmywa mnie zewnętrznie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.28:19</span>;<span style="color:blue"> Dz.2:38</span>;<span style="color:blue"> Mk.16:16</span>;<span style="color:blue"> 1 J.1:7</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 70: Jakie są następstwa obmycia krwią i Duchem
+Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze - uzyskanie z łaski
+Boga odpuszczenia grzechów ze względu na krew przelaną za nas na krzyżu przez
+Jezusa Chrystusa; po drugie - odnowienie człowieka przez Ducha Świętego i
+uświęcenie go jako własności Jezusa Chrystusa, by dzięki temu człowiek taki
+coraz mniej podlegał władzy grzechu, żył nienagannie, zgodnie z wolą Bożą. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Hebr.9:2</span>;<span style="color:blue"> J.1:33</span>;<span style="color:blue"> Obj.1:5</span>;<span style="color:blue"> J.3:5</span>;<span style="color:blue"> 1 Kor.6:9,11</span>;<span style="color:blue"> Rz.6:4</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 71: Gdzie znajdujemy obietnicę Jezusa Chrystusa, że
+Jego krew i Duch obmywają nas w sposób równie rzeczywisty, jak woda podczas
+chrztu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Obietnica ta została zawarta w
+słowach ustanowienia Chrztu, które brzmią następująco: <o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"<b style="mso-bidi-font-weight:
+normal"><i style="mso-bidi-font-style:normal">Idąc tedy, nauczajcie wszystkie
+narody, chrzcząc je w imię Ojca, i Syna, i Ducha Świętego</i></b>" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.28:19</span></b>).
+"<b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+normal">Kto uwierzy, a ochrzci się, zbawion będzie; ale kto nie uwierzy, będzie
+potępion</i></b>" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">Mk.16:16</span></b>). Obietnica ta powtarza się tam, gdzie
+Pismo Święte mówi o Chrzcie jako o "kąpieli odrodzenia" i o
+"obmyciu grzechów". <b style="mso-bidi-font-weight:normal"><span style="color:blue">Tyt.3:5</span>;<span style="color:blue"> Dz.22:16</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 72: Czy zatem zewnętrzny Chrzest wodą oczyszcza nas z
+grzechów?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie. Z grzechu oczyszcza nas
+wyłącznie krew Jezusa Chrystusa i Duch Święty. </span><b style="mso-bidi-font-weight:
+normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:DE">Mt. 3:11</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Ptr. 3:21</span>;<span style="color:blue"> Ef.5:25-26</span>;<span style="color:blue"> 1 J.1:7</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 73: Dlaczego więc Duch Święty nazywa Chrzest
+,,kąpielą odrodzenia'' i ,,obmyciem z grzechów''?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bóg mówi to nie bez ważnej
+przyczyny. Chce w ten sposób nauczyć nas, że jak woda usuwa brud z ciała, tak
+krew i Duch Jezusa Chrystusa usuwają nasze grzechy, co więcej - dając nam tę
+swoją rekojmię i znak, zapewnia jednocześnie, że zostaliśmy naprawdę obmyci
+duchowo z grzechów tak samo, jak ciała nasze obmyła woda. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Obj.1:5-6</span>;<span style="color:blue">
+Gal.3:27</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 74: Czy należy chrzcić niemowlęta?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak, skoro objęte są Przymierzem, należą
+do Kościoła Bożego jak dorośli i w nie mniejszym stopniu niż dorosłym obiecane
+jest im odpuszczenie grzechów przez krew Chrystusa, a także dar Ducha Świętego,
+twórcy wiary. Powinny one zatem być włączone do Kościoła chrześcijańskiego
+przez Chrzest, jako znak Przymierza, aby odróżniały się od dzieci ludzi
+niewierzących. Jak w Starym Przymierzu stosowano w tym celu obrzezanie, tak w
+Nowym Przymierzu ustanowiony został zamiast niego chrzest. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Mt.19:14</span>;<span style="color:blue">
+Dz.2:39</span>;<span style="color:blue"> 1 Mj.17:10</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">11. Wieczerza Pańska<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 75: Dlaczego Wieczerza Pańska ma ci przypominać i
+jednocześnie upewniać cię, że masz swój udział w jedynej ofierze krzyżowej
+Jezusa Chrystusa i we wszystkich Jego darach?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, że sam Jezus Chrystus
+nakazał mi - podobnie jak wszystkim wierzącym - jeść łamany chleb i pić z
+kielicha na Jego pamiątkę. Zapewnił przy tym, że:<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">- Jego ciało było ofiarowane i
+łamane na krzyżu, a krew przelana za mnie w sposób tak rzeczywisty, jak
+rzeczywiście na moich oczach łamany jest dla mnie chleb i podawany Jego
+kielich.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">-On w sposób tak rzeczywisty karmi
+i poi moją duszę swoim ukrzyżowanym ciałem i przelaną krwią, abym żył wiecznie,
+jak rzeczywiście z rąk sługi Bożego otrzymuję i materialnie spożywam chleb i
+kielich Pański - dane mi jako niezawodne znaki ciała i krwi Chrystusa. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Mt.26:26-28</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Kor.10:16</span>;<span style="color:blue"> 1 Kor.11:23-25</span>;<span style="color:blue"> J.6:54-55</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 76: Co to znaczy, że spożywamy ukrzyżowane ciało
+Chrystusa i pijemy Jego przelaną krew?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Znaczy to, że wierzącym sercem
+przyjmujemy całą mękę i śmierć Chrystusa, dzięki czemu otrzymujemy odpuszczenie
+grzechów i życie wieczne. Co więcej - za pośrednictwem Ducha Świętego, który
+jest w Jezusie Chrystusie i w nas, jednoczymy się w coraz większym stopniu z
+Jego świętym ciałem. Chociaż więc On jest w niebie, a my na ziemi, to jesteśmy
+ciałem Jego ciała i kością Jego kości, a żyjemy kierowani zawsze jednym Duchem,
+jak członki, które dzięki jednej duszy tworzą jedno ciało. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">J.6:51,56-57</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Kor.12:13</span>;<span style="color:blue"> 1 Kor.6:15,17</span>;<span style="color:blue"> 1 J.4:13</span>;<span style="color:blue"> 1J.3:24</span>;<span style="color:blue"> J.15:5</span>;<span style="color:blue"> Ef.4:15-16</span></span></b><span lang="DE" style="font-size:
+10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 77: Gdzie zawarta jest obietnica Chrystusa, że
+wiernych będzie karmił swoim ciałem i poił swoją krwią w sposób równie
+prawdziwy, jak realnie spożywają łamany chleb i piją z kielicha?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Zawarto ją w następujących słowach
+ustanowienia sakramentu Wieczerzy Pańskiej (Komunii Świętej):<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">„<b style="mso-bidi-font-weight:
+normal"><i style="mso-bidi-font-style:normal">Albowiem jam wziął od Pana, com
+też wam podał, iż Pan Jezus tej nocy, której był wydan, wziął chleb, A
+podziękowawszy, złamał i rzekł: Bierzcie, jedzcie; to jest ciało moje, które za
+was bywa łamane; to czyńcie na pamiątkę moję. Także i kielich, gdy było po
+wieczerzy mówiąc: Ten kielich jest nowy testament we krwi mojej; to czyńcie,
+ilekroć pić będziecie, na pamiątkę moję. Albowiem ilekroć byście jedli ten
+chleb i ten kielich byście pili, śmierć Pańską opowiadajcie, ażby przyszedł</i></b>."
+(<b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.11:23-26</span></b>)<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Obietnicę tę św.Paweł powtórzył
+jeszcze w słowach „<b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+normal">Kielich błogosławienia, który błogosławimy, izali nie jest
+społecznością krwi Chrystusowej? Chleb, który łamiemy, izali nie jest
+społecznością ciała Chrystusowego? Albowiem jednym chlebem, jednym ciałem wiele
+nas jest; bo wszyscy chleba jednego jesteśmy uczestnikami.</i></b>" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.10:16-17</span></b>;
+por.także <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mk.22-24</span>;<span style="color:blue"> Łk.22:19</span></b>).<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 78: Czy chleb i wino stają się rzeczywistym ciałem i
+krwią Jezusa Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie. Jak podczas Chrztu woda nie
+zmienia się w krew Jezusa Chrystusa i sama nie oczyszcza nas z grzechów, lecz
+pozostaje jedynie znakiem i zapewnieniem danym od Boga, tak i chleb poświęcony
+podczas Wieczerzy nie staje się ciałem Chrystusa, chociaż zgodnie z naturą
+sakramentów i ich sprawowaniem nazywany jest ciałem Chrystusowym. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">1 Ptr.3:21</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Kor.10:16</span>;<span style="color:blue"> 1 Kor.11:26-29</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 79: Dlaczego więc Chrystus nazywa chleb swoim ciałem,
+wino – swoją krwią lub Nowym Przymierzem w krwi, a św.Paweł mówi o społeczności
+ciała i krwi Jezusa Chrystusa? <o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Chrystus mówi to nie bez ważnego
+powodu. Pragnie On nauczyć nas, że jak chleb i wino podtrzymują życie doczesne,
+tak Jego ukrzyżowane ciało i przelana krew są prawdziwym pokarmem i napojem dla
+naszych dusz, niezbędnym do życia wiecznego. Co więcej – pragnie On nas
+zapewnić tymi widzialnymi znakami i rękojmią, że dzięki działaniu Ducha
+Świętego mamy tak realny współudział w Jego ciele i krwi, jak realnie
+przyjmujemy ustami te święte znaki na Jego pamiątkę. W ten sposób całe Jego
+cierpienie i posłuszeństwo stają się naszym udziałem, jak gdybyśmy to my
+osobiście cierpieli i zadośćuczynili Bogu za grzechy. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">J.6:35,51-55</span>;<span style="color:blue">
+1 Kor.10:17</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 80: Na czym polega różnica między Wieczerzą Pańską a
+Mszą katolicką?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Wieczerza Pańska jest zapewnieniem
+o całkowitym odpuszczeniu naszych grzechów dzięki ofierze Jezusa, jaką On sam -
+raz jeden i raz na zawsze - złożył na krzyżu. Ponadto zapewnia ona o tym, że
+dzięki Duchowi Świętemu zostajemy wszczepieni w Jezusa Chrystusa, który w ciele
+swoim przebywa teraz w niebiesiech, po prawicy Ojca, i chce, abyśmy Go - jako
+takiego - wielbili.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tymczasem według (nauki o) mszy,
+żywi i umarli dostępują odpuszczenia grzechów przez mękę Chrystusową, jeśli
+Chrystus jest jeszcze codziennie ofiarowywany za nich przez kapłanów. Ponadto
+zaś - będąc cieleśnie obecny pod postacią chleba i wina - w nich też powinien
+być uwielbiany. Msza (tak pojmowana) jest więc w gruncie rzeczy zaprzeczeniem
+jednorazowej ofiary i męki Jezusa Chrystusa i godnym potępienia
+bałwochwalstwem. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:DE">Hebr.7:26-27</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue">
+Hebr.9:12,25-28</span>;<span style="color:blue"> Hebr.10:10,12-14</span>;<span style="color:blue"> 1 Kor.6:17</span>;<span style="color:blue"> Kol.3:1</span>;<span style="color:blue"> Fil.3:20</span>;<span style="color:blue"> Hebr.10:19-22</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">. <o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">12. Karność kościelna<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 81: Dla kogo została ustanowiona Wieczerza Pańska?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dla tych wszystkich, którzy są
+niezadowoleni, bo poznali swe grzechy, a mimo to wierzą, że będzie im darowane,
+podobnie jak słabości ich zakryte są przez mękę i śmierć Chystusa; dla tych,
+którzy pragną nieustannie wzmacniać wiarę i czynić godniejszym życie. Obłudnicy
+zaś i ci wszyscy, którzy nie chcą pokutować, spożywając chleb i wino sąd na
+siebie sprowadzają. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.10:21</span>;<span style="color:blue"> 1 Kor.11:27-29</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 82: Czy wolno dopuścić do Wieczerzy Pańskiej tych,
+których słowa i czyny są świadectwem niewiary i bezbożności?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie wolno, gdyż byłaby to zniewaga
+Przymierza Bożego, a gniew Pański skierowałby się na całą społeczność. Z tego
+względu Kościół chrześcijański, stosownie do nakazu Jezusa Chrystusa i Jego
+apostołów, posługując się władzą kluczy powinien takie osoby wyłączyć aż do
+chwili, gdy poprawią swe życie. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:
+DE">Iz.1:15</span></b><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">;<span style="color:blue"> 1 Kor.5:11</span>;<span style="color:blue"> Mt.18:15-18</span></span></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 83: Co rozumiemy pod pojęciem "władza
+kluczy"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Głoszenie Ewangelii oraz karność
+kościelną; dzięki tym dwóm środkom Królestwo Niebios zostaje otwarte dla
+wierzących, a zamknięte przed niewierzącymi. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Mt.16:19</span>;<span style="color:blue">
+J.20:23</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 84: W jaki sposób głoszenie Ewangelii może otworzć albo
+zamknąć przed ludźmi Królestwo Niebios?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Zgodnie z nakazem Chrystusowym
+wszystkim wierzącym i każdemu z osobna ogłasza się w ten sposób i publicznie
+potwierdza, że ilekroć naprawdę uwierzą obietnicom Ewangelii, tylekroć Bóg
+wybacza im wszystkie winy ze względu na Jezusa Chrystusa. Niewierzącym
+obłudnikom natomiast ogłasza się, że gniew Boga i wieczne potępienie ciąży na
+nich dopóty, dopóki nie nawrócą się. Zgodnie z tym świadectwem Ewangelii sąd
+Boży nad jednymi i drugimi dotyczy zarówno tego życia, jak i przyszłego. <b style="mso-bidi-font-weight:normal"><span style="color:blue">J.20:21-23</span>;<span style="color:blue"> Mk.16:15-16</span>;<span style="color:blue"> Ez.18:21,32</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 85: W jaki sposób stosowanie karności kościelnej może
+otwierać lub zamykać przed ludźmi Królestwo Niebieskie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Zgodnie z nakazem Chrystusowym wzywa
+się bowiem przed oblicze Kościoła (lub przed osoby do tego celu przez Kościół
+powołane) tych wszystkich, którzy nazywając siebie chrześcijanami głoszą
+niechrześcijańską naukę lub nie po chrześcijańsku postępują i mimo
+wielokrotnych braterskich napomnień trwają w błędach i występkach. Jeżeli i tym
+razem nie zastosują się do upomnienia, otrzymają zakaz przyjmowania sakramentów
+i tym samym zostaną wyłączeni ze wspólnoty chrześcijańskiej, a przez samego
+Boga - z Królestwa Chrystusowego. Jeśli jednak obiecają i okażą prawdziwą
+poprawę, powrócą do Chrystusa i będą ponownie przyjęci do Jego Kościoła. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.18:15-18</span>;<span style="color:blue"> 2 Tes.3:6,14-15</span></b>.<o:p></o:p></span></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+10.0pt;font-family:Tahoma">Część III<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:14.0pt;mso-bidi-font-size:
+10.0pt;font-family:Tahoma">Wdzięczność Człowieka<o:p></o:p></span></b></p>
+<p align="center" class="MsoNormal" style="text-align:center;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></b></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">13. Dobre uczynki<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 86: Dlaczego musimy spełniać jeszcze dobre uczynki,
+skoro już zostaliśmy wyzwoleni z niedoli, i to bez żadnej własnej zasługi,
+tylko przez łaskę Jezusa Chrystusa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jezus Chrystus, odkupiwszy nas
+swoją krwią, odnawia nas przez Ducha Świętego na swoje podobieństwo. Dlatego
+całym naszym postępowaniem okazujemy Bogu wdzięczność za Jego dobrodziejstwa i
+oddajemy Mu chwałę. Ponadto upewniamy się w wierze widząc owoce, jakie ona
+przynosi, a także chwalebnym przykładem pozyskujemy innych ludzi (bliźnich) dla
+Chrystusa. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.12:1</span>;<span style="color:blue"> 1 Ptr.2:9</span>;<span style="color:blue"> 1 Kor.6:20</span>;<span style="color:blue"> 2 Ptr.1:10</span>;<span style="color:blue"> Mt.7:17</span>;<span style="color:blue"> Mt.5:16</span>;<span style="color:blue"> 1 Ptr.2:12</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 87: Czy w takim razie niewdzięcznicy, którzy uparcie
+odwracają się od Boga, mogą być zbawieni?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">W żadnym wypadku, gdyż Pismo uczy,
+że: "<b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:
+normal">Azaż nie wiecie, iż niesprawiedliwi królestwa Bożego nie odziedziczą?
+Nie mylcie się: ani wszetecznicy, ani bałwochwalcy, ani cudzołożnicy, ani
+pieszczotliwi, ani samcołożnicy, Ani złodzieje, ani łakomcy, ani pijanicy, ani
+złorzeczący, ani ździercy królestwa Bożego nie odziedziczą</i></b>" (<b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.6:9-10</span></b>).
+<b style="mso-bidi-font-weight:normal"><span style="color:blue">Ef.5:5</span>;<span style="color:blue"> 1 J.3:14</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 88: W czym wyraża się prawdziwa skrucha i nawrócenie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">W śmierci "starego
+człowieka" oraz w zmartwychwstaniu nowego. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Rz.6:4-6; Ef.4:22-24; Kol.3:8-10</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 89: Co to znaczy "śmierć starego
+człowieka"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jest to stan głębokiego smutku
+wywołany świadomością własnych grzechów, oraz większe uczucie wstrętu do nich i
+dążenie do unikania ich. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1J.2:13; 2 Kor.7:10; Ps.97:10; Rz.12:9; 2 Tym.2:19</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 90: Co to znaczy: "zmartwychwstanie nowego
+człowieka"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Jest to stan najgłębszej radości w
+Bogu uzyskany dzięki Jezusowi Chrystusowi, oraz upodobanie we wszystkich
+dobrych czynach wypływających z miłości i zgodnych z wolą Boga. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Ptr.4:1-2;
+Rz.5:1; Rz.14:17; Rz.6:10-11;Gal.2:20</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 91: Które uczynki są dobre?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tylko te, które wypływają z
+prawdziwej wiary i wykonywane są zgodnie z Prawem Bożym i na Bożą chwałę, nie
+zaś te, które według ludzkich kryteriów i postanowień uznajemy za dobre. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ef.2:10; 1
+Kor.10:31; 5Mj.13:1; Ez.20:19; Iz.29:13</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">14. Prawo Boże<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 92: Jak brzmi Prawo Boże?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">I.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Jam
+jest Pan Bóg twój, którym cię wywiódł z ziemi Egipskiej, z domu niewoli. Nie
+będziesz miał bogów innych przede mną.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">II. </span></b><span style="font-size:10.0pt;font-family:Tahoma">Nie
+czyń sobie obrazu rytego, ani żadnego podobieństwa rzeczy tych, które są na
+niebie wzgórę, i które na ziemi nisko, i które są w wodach pod ziemią. Nie
+będziesz się im kłaniał, ani im będziesz służył; bom Ja Pan Bóg twój, Bóg
+zawistny w miłości, nawiedzający nieprawości ojców nad syny w trzeciem i w
+czwartem pokoleniu tych, którzy mię nienawidzą, A czyniący miłosierdzie nad
+tysiącami tych, którzy mię miłują, i strzegą przykazania mego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">III. </span></b><span style="font-size:10.0pt;font-family:Tahoma">Nie bierz
+imienia Pana Boga twego nadaremno; bo się Pan mścić będzie nad tym, który imię
+jego nadaremno bierze.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">IV. </span></b><span style="font-size:10.0pt;font-family:Tahoma">Pamiętaj
+na dzień odpocznienia, abyś go święcił. Sześć dni robić będziesz, i wykonasz
+wszystkę robotę twoję. Ale dnia siódmego odpocznienie jest Pana Boga twego; nie
+będziesz czynił żadnej roboty weń, ty i syn twój, i córka twoja, sługa twój, i
+służebnica twoja, bydlę twoje, i gość twój, który jest w bramach twoich; Bo
+przez sześć dni stworzył Pan niebo i ziemię, morze, i cokolwiek w nich jest, i odpoczął
+dnia siódmego; przetoż błogosławił Pan dzień odpocznienia, i poświęcił go.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">V.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Czcij
+ojca twego i matkę twoję, aby przedłużone były dni twoje na ziemi, którą Pan
+Bóg twój da tobie.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">VI.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Nie
+będziesz zabijał.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">VII.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Nie
+będziesz cudzołożył.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">VIII. </span></b><span style="font-size:10.0pt;font-family:Tahoma">Nie będziesz
+kradł.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">IX.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Nie
+będziesz mówił przeciw bliźniemu twemu świadectwa fałszywego.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:
+Tahoma">X.</span></b><span style="font-size:10.0pt;font-family:Tahoma"> Nie
+będziesz pożądał domu bliźniego twego, ani będziesz pożądał żony bliźniego
+twego, ani sługi jego, ani dziewki jego, ani wołu jego, ani osła jego, ani
+żadnej rzeczy bliźniego twego. (<b style="mso-bidi-font-weight:normal"><span style="color:blue">2Mj.20:2-17</span></b>)<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 93: Jak się dzielą przykazania?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Na dwie części (tablice). Pierwsza
+zawiera cztery przykazania mówiące o tym, jaka ma być nasza postawa wobec Boga;
+druga - sześć przykazań o naszych obowiązkach wobec ludzi. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">5Mj.4:13; Mt.22:37-39.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">15. Cześć dla Boga (I
+część Dekalogu)<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 94: Jakie jest Boże żądanie zawarte w pierwszym
+przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak szczerze, jak pragnę zbawienia
+mojej duszy, mam stronić od wszelkiego bałwochwalstwa, czarów, zabobonów,
+zaklęć, wzywania świętych i innych stworzeń. Mam natomiast dogłębnie poznawać
+jedynego prawdziwego Boga, Jemu tylko ufać, z pokorą i cierpliwością wyłącznie
+od Niego oczekiwać dobra, kochać Go, bać się i wielbić z całego serca. Tak więc
+raczej wyrzeknę się wszystkich rzeczy, niż uczynię cokolwiek wbrew woli Boga. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.10:7-14;
+3Mj.18:10-12; Jer.17:5; Mt.22:37; Mt.10:37; Ps.111:10; Dz.5:29.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 95: Na czym polega bałwochwalstwo?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Na wymyśleniu czy posiadaniu -
+zamiast (lub oprócz) jedynego prawdziwego Boga, który objawił się w swoim
+Słowie - czegoś innego, co staje się przedmiotem ludzkiego zaufania. </span><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:EN-US">Gal.4:8; Ef.5:5;
+Fil.3:19</span></b><span lang="EN-US" style="font-size:10.0pt;font-family:Tahoma;
+mso-ansi-language:EN-US">.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 96: Jakie jest Boże żądanie zawarte w drugim
+przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bóg żąda, abyśmy nie tworzyli sobie
+żadnych Jego wizerunków i nie oddawali Mu czci inaczej, jak tylko zgodnie z
+tym, co sam w swoim Słowie nakazał. <b style="mso-bidi-font-weight:normal"><span style="color:blue">5Mj.4:15-19; Iz.40:18; Rz.1:23,25; Dz.17:29; 1 Sam.15:23</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 97: Czy zatem nie należy wykonywać żadnych obrazów?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Boga ani nie można, ani nie wolno
+ukazywać za pomocą wizerunków. Jeśli natomiast chodzi o stworzenia, można je
+wprawdzie wyobrażać, ale Bóg zabrania wykonywania i posiadania ich obrazów,
+jeśliby miały one stać się przedmiotem czci albo gdyby za ich pośrednictwem
+Jemu chciano oddawać cześć. <b style="mso-bidi-font-weight:normal"><span style="color:blue">5Mj.7:5; Ps.97:7</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 98: Czy nie można by jednak tolerować w kościołach
+obrazów, które spełniałyby rolę "książek dla ludu"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, gdyż nie jesteśmy mądrzejsi od
+Boga, a On chce, by Jego lud nauczano nie za pomocą niemych bożków, lecz żywym
+głoszeniem Jego Słowa. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Jer.10:1,8; Rz.10:17; 2 Tym.3:16-17</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 99: Jakie żądanie zawarte jest w trzecim przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Abyśmy nie bluźnili i nie hańbili
+imienia Bożego przekleństwami i fałszywymi lub zbytecznymi przysięgami, albo
+też przez fakt przemilczenia lub przez okazanie pobłażania nie stali się
+współwinnymi tak okropnego grzechu. Innymi słowy: abyśmy święte imię Boże
+wypowiadali nie inaczej, jak z bojaźnią i czcią, abyśmy prawdziwie Boga
+wyznawali, a każdym słowem i czynem Jemu oddawali chwałę. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Mt.5:33-37; Jb.5:12; Mt.10:32; Kol.3:16-17</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 100: Czy hańbienie imienia Bożego jest aż tak wielkim
+grzechem, że gniew Boży kieruje się nawet ku tym ludziom, którzy takim
+przysięgom lub przekleństwom nie zapobiegają bądź im się nie przeciwstawiają na
+tyle, na ile są w stanie to uczynić?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bez wątpienia tak, skoro nie ma
+grzechu większego i bardziej wzbudzającego gniew Boga niż bluźnierstwo Jego
+imieniu. Dlatego z woli Boga jest ono karane śmiercią. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">3Mj.24:15-16</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 101: Czy można jednak przysięgać na imię Boże nie
+narażając się na Jego gniew?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Tak, o ile zażąda tego zwierzchność
+bądź też okoliczności zmuszą nas do potwierdzenia wiarygodności i prawdy - na
+chwałę Boga i dla dobra drugiego człowieka (bliźniego). Taki sposób składania
+przysięgi jest uzasadniony Słowem Bożym i był stosowany przez świętych tak w Starym,
+jak i w Nowym Testamencie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">5Mj.10:20; Rz.1:9</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 102: Czy można przysięgać na świętych lub inne
+stworzenie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, gdyż składając prawdziwą
+przysięgę przywołujemy Boga, aby On, jako jedyny znawca serc, dał świadectwo
+prawdzie i ukarał nas, gdyby się okazało, że przysięgamy fałszywie. A takie
+prawo nie przysługuje nikomu innemu poza Bogiem. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Mt.5:34-36; Jb.5:12</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 103: Jakie żądania zawarte są w czwartym przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze, aby przestrzegane było
+głoszenie Ewangelii i nauczanie, pilne uczestnictwo w nabożeństwach, zwłaszcza
+w dniu odpoczynku, słuchanie Słowa Bożego, przyjmowanie sakramentów, publiczne
+wyznawanie Pana, chrześcijańskie wspomaganie ubogich. Po drugie, abyśmy każdego
+dnia powstrzymywali się od złych uczynków i pozwolili Bogu działać w nas przez
+Ducha Świętego, tak aby już w tym życiu rozpoczął się dla nas wieczny
+odpoczynek (sabat). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.40:10; Dz.2:42; Łk.11:28; Dz.4:34</span></b>.<o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">16. Miłość do
+człowieka (II część Dekalogu)<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 104: Jakie żądanie zawarte jest w piątym przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Szacunku, miłości i wierności
+należnych ojcu, matce oraz wszystkim przełożonym; także posłuszeństwo ich
+poleceniom i napomnieniom oraz okazywanie cierpliwości wobec ich wad. Za ich to
+bowiem pośrednictwem Bóg pragnie nami kierować. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Ef.6:1-4; Przyp.1:8; Przyp.23:22; Rz.13:1;
+Mt.22:21.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 105: Jakie żądanie zawarte jest w szóstym
+przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Abym myślą, słowem, postawą i tym
+bardziej czynem - bezpośrednio lub pośrednio - nie krzywdził, nie nienawidził,
+nie obrażał i nie zabijał drugiego człowieka, lecz wyrzekł się zemsty i sobie
+samemu nie wyrządzał krzywdy, narażając się lekkomyślnie na niebezpieczeństwo.
+Dlatego właśnie władza nosi miecz, aby nie dopuszczać do zabójstw. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Mt.5:21; Mt.26:52; 1Mj.9:6;
+Ef.4:26; Rz.12:21; Rz.13:4.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 106: Czy w tym przykazaniu mowa jest tylko o zab?wie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Zakazując zabijania, Bóg uczy nas
+także, że nie znosi niczego, co może do zabójstwa prowadzić, tzn. zazdrości,
+nienawiści, gniewu, pragnienia zemsty, i że traktuje to wszystko tak jak
+zabójstwo. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1
+J.2:9; 1J.3:15.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 107: Czy wystarczy zatem - jak powiedziano - nie
+zabijać drugiego człowieka (bliźniego)?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie, bo potępiając zazdrość,
+nienawiść i gniew, Bóg pragnie zarazem, abyśmy kochali ludzi (bliźnich) tak jak
+siebie samych i okazywali im cierpliwość, pokój, łagodność, miłosierdzie i
+życzliwość oraz - o ile to w naszej mocy - zapobiegali złu, które mogłoby ich
+spotkać, a także, byśmy dobrze czynili nawet nieprzyjaciołom. </span><b style="mso-bidi-font-weight:normal"><span lang="DE" style="font-size:10.0pt;
+font-family:Tahoma;color:blue;mso-ansi-language:DE">Mt.7:12; Gal.6:1-2; Mt.5:9;
+Rz.12:18; Rz.12:10,15; Łk.6:35.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 108: Czego uczy nas siódme przykazanie?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bóg potępia każdą nieczystość,
+przeto i my powinniśmy odczuwać wobec niej wstręt i pozostając bądź to w
+świętym stanie małżeńskim, bądź też w stanie wolnym - żyć w czystości i
+powściągliwości. <b style="mso-bidi-font-weight:normal"><span style="color:
+blue">1 Tes.4:3-5; Hebr.13:4.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 109: Czy w tym przykazaniu Bóg zakazuje wyłącznie
+cudzołóstwa i podobnie niegodziwych czynów?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Ciało i dusza są świątynią Ducha,
+Bóg chce więc, abśmy zachowywali je w czystości i świętości. Dlatego zabrania
+wszelkich niegodziwych czynów, gestów, słów, myśli i pragnień oraz wszystkiego,
+co może człowieka do tego pobudzać. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ef.5:3-4; 1 Kor.6:18-20.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 110: Jaki zakaz zawarty jest w ósmym przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Bóg zakazuje nie tylko kradzieży i
+rabunku, które karane są przez władzę; kradzieżą nazywa również wszystkie
+nieuczciwe sposoby, za pomocą których mamy zamiar - bądź to siłą, bądź pod
+pozorem prawa - zagarnąć własność drugiego człowieka. Należą do nich fałszywa
+waga, lichwa oraz każdy (inny) sposób przez Boga zakazany. Bóg zabrania zarówno
+skąpstwa, jak i marnotrawienia Jego darów. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 Kor.6:10; Łk.3:14; 1 Tes.4:6; Przp.11:1; Ps.15:5; Łk.6:35.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 111: A jaki nakaz zawarty jest w tym przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Abym w sytuacji, gdy ode mnie to
+zależy, starał się o rzeczy pożyteczne dla drugiego człowieka (bliźniego) i postępował
+względem niego tak, jak chciałbym, aby wobec mnie postępowano, a także - bym
+uczciwie pracował, aby dopomagać potrzebującym. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">1 Kor.10:20; Mt.7:12.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 112: Jakie żądania zawarte są w dziewiątym
+przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Abym przeciwko nikomu nie świadczył
+fałszywie, cudzych słów nie przekręcał, nikogo nie obmawiał, nie oczerniał, nie
+przyczyniał się lekkomyślnie do potępienia kogokolwiek bez uprzedniego
+wysłuchania go, unikał kłamstwa i oszustwa, które są dziełem diabła. Jeśli nie
+chcę ściągnąć na siebie wielkiego gniewu Boga, muszę być wierny prawdzie,
+głosić ją i wyznawać szczerze zarówno przed sądem, jak i w innych
+okolicznościach a także ze wszystkich sił bronić godności i dobrego imienia
+drugiego człowieka (bliźniego). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Przyp.19:5; Przyp.4:24; Mt.7:1-2; Ef.4:25; 1 Kor.13:6.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">17. Szczęście
+człowieka<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 113: Jakie żądanie zawarte jest w dziesiątym
+przykazaniu?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Aby nigdy nie powstało w nas
+najmniejsze pragnienie czy nawet myśl o sprzeciwie wobec któregokolwiek
+przykazania Bożego i abyśmy zawsze odczuwali wstręt do grzechu, a radość z
+tego, co sprawiedliwe. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.6:18.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 114: Czy ci, którzy nawrócili się do Boga, są w
+stanie w pełni przestrzegać przykazań?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Nie są w stanie, gdyż nawet ludzie
+najświętsi mają w życiu jedynie przedsmak pełnego posłuszeństwa. Niemniej
+jednak zaczynają oni w sposób odpowiedzialny żyć według wszystkich, a nie tylko
+niektórych, przykazań Bożych. <b style="mso-bidi-font-weight:normal"><span style="color:blue">1 J.1:8,10; Jb.2:10; Jb.3:2.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 115: Skoro nikt nie jest w stanie w tym życiu w pełni
+przestrzegać przykazań, dlaczego Bóg chce, aby były one przez wszystkich
+dokładnie znane?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze - abyśmy przez całe
+życie coraz lepiej poznawali swą grzeszną naturę i coraz gorliwiej starali się
+o odpuszczenie grzechów i o sprawiedliwość Chrystusową. Po drugie - abyśmy
+bezustannie i żarliwie prosili Boga o łaskę Ducha Świętego, dzięki któremu
+coraz bardziej upodobnialibyśmy się do Niego, aż osiągniemy doskonałość, jaką
+Bóg nam przeznaczył w przyszłym życiu. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.32:5; 1 J.1:9.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:
+normal"><span style="font-size:10.0pt;font-family:Tahoma">18. Modlitwa<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 116: Dlaczego modlitwa jest niezbędna chrześcijaninowi?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, że jest ona najważniejszym
+wyrazem wdzięczności, jakiej Bóg od nas wymaga. Także i dlatego, że chce On swą
+łaskę i Ducha Świętego dać jedynie tym, którzy nieustannie i gorąco Go o to
+proszą i za to Mu dziękują. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.50:14-15; Mt.7:7.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 117: Kiedy modlitwa podoba się Bogu i jest przez
+Niego wysłuchana?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Po pierwsze, gdy z głębi serca
+zwracamy się do Jedynego Prawdziwego Boga z prośbą o to wszystko, o co nam
+prosić kazał . Po drugie, gdy naprawdę poznawszy nasze braki i niedolę uniżamy
+się przed Bożym Majestatem. Po trzecie wreszcie, kiedy mamy niezachwianą
+pewność, że pomimo naszej niegodności Bóg nas wysłucha ze względu na Chrystusa,
+naszego Pana, tak jak nam to obiecał. </span><b style="mso-bidi-font-weight:
+normal"><span lang="EN-US" style="font-size:10.0pt;font-family:Tahoma;color:blue;
+mso-ansi-language:EN-US">Mt.7:8; J.4:23; Rz.8:26; Ps.2:11; Ps.51:19;
+J.14:13-14; Ef.3:12.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 118: O co Bóg polecił nam prosić? <o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">O wszystko, co jest niezbędne dla
+duszy i ciała, a co Chrystus, nasz Pan, zawarł w modlitwie, której sam nas
+nauczył (<b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.6:9-13;
+Łk.11:2-4</span></b>). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.6:33.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 119: Jak brzmi ta modlitwa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Ojcze nasz, któryś jest w
+niebiesiech,<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Święć się imię Twoje,<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Przyjdź Królestwo Twoje,<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Bądź wola Twoja jako w niebie, tak
+i na ziemi,<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Chleba naszego powszedniego daj nam
+dzisiaj<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">I odpuść nam nasze winy jako i my
+odpuszczamy naszym winowajcom.<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Nie wódź nas na pokuszenie, Ale nas
+zbaw od złego.<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:Tahoma">Albowiem Twoje jest Królestwo, moc
+i chwała na wieki wieków.<o:p></o:p></span></i></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><i style="mso-bidi-font-style:normal"><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">Amen</span></i></b><span lang="DE" style="font-size:10.0pt;font-family:Tahoma;mso-ansi-language:DE">. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Mt.6:9-13;
+Łk.11:2-4.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 120: Dlaczego Jezus polecił nam zwracać się do Boga:
+"Ojcze nasz"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Aby już na początku modlitwy
+wzbudzić w nas i dziecięcą bojaźń i zaufanie do Boga, które są podstawą
+modlitwy: Bóg stał się bowiem naszym Ojcem dzięki Jezusowi Chrystusowi i gdy z
+wiarą Go o coś prosimy, o wiele mniej nam odmawia, niż odmawiają nam rzeczy
+ziemskich nasi rodzice. </span><b style="mso-bidi-font-weight:normal"><span lang="EN-US" style="font-size:10.0pt;font-family:Tahoma;color:blue;mso-ansi-language:
+EN-US">Gal.3:26; Gal.4:4-6; Mt.7:9-11.<o:p></o:p></span></b></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 121: Dlaczego ta modlitwa zawiera słowa "Któryś
+jest w niebiesiech"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">Dlatego, byśmy do Bożego Majestatu
+nie odnosili ziemskich wyobrażeń, zarazem jednak oczekiwali, że On w swej
+wszechmocy da nam wszystko, co dla ciała i duszy niezbędne. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Dz.17:24-25;
+Rz.10:12;<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 122: Jak brzmi pierwsza prośba Modlitwy Pańskiej?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Święć się imię Twoje",
+to znaczy: Boże pozwól się naprawdę poznać, pozwól się czcić, wielbić i
+wysławiać we wszystkich Twych dziełach, z których promienieje Twoja wszechmoc,
+mądrość, dobroć, sprawiedliwość, miłosierdzie i prawda. Daj nam również tak
+pokierować życiem - myślami, słowami i czynami - aby z naszego powodu nigdy nie
+bluźniono Twojemu imieniu, lecz czczono je i wielbiono. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Ps.106:1-2; Rz.11:33-36; Ps.115:1.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 123: Jak brzmi druga prośba?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Przyjdź Królestwo
+Twoje", to znaczy: rządź nami przez Słowa i Ducha, abyśmy w coraz większym
+stopniu stawali się podatni na Twe działanie. Chroń i rozkrzewiaj Kościół Twój.
+Zniszcz dzieła diabelskie i wszystkie moce, które powstają przeciw Twemu
+świętemu Słowu, aż wypełni się Twoje Królestwo, w którym Ty będziesz wszystkim
+we wszystkim. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.119:5;
+1 Kor.15:24,28.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 124: Jak brzmi trzecia prośba?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Bądź wola Twoja jako w niebie
+tak i na ziemi", to znaczy: spraw, abyśmy, podobnie jak cała ludzkość,
+wyrzekli się własnej woli i bez sprzeciwu wykonywali Twoją, bo tylko ona jest
+dobra - aby w ten sposób każdy spełniał swe obowiązki i powołanie tak chętnie i
+wiernie, jak czynią to aniołowie w niebiesiach. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">Ps.143:10; Mt.16:24; Łk.22:42; Tyt.2:12.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 125: Jak brzmi czwarta prośba?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Chleba naszego powszedniego
+daj nam dzisiaj", to znaczy: zechciej nas zaopatrywać we wszystko, co
+konieczne do życia, abyśmy dzięki temu poznali, że jedynym źródłem wszelkiego
+dobra Ty jesteś i że bez Twego błogosławieństwa nasze starania, nasza praca, a
+nawet Twoje dary nie będą służyły naszemu dobru. Tak więc chodzi o to, abyśmy
+nie pokładali ufności w żadnym stworzeniu, lecz jedynie w Tobie. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.104:27;
+Mt.6:25; Dz.14:17; Ps.37:3-7.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 126: Jak brzmi piąta prośba?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Odpuść nam nasze winy winy
+jako i my odpuszczamy naszym winowajcom", to znaczy: zechciej nam, biednym
+grzesznikom, nie pamiętać ze względu na krew Jezusa Chrystusa naszych win i
+zła, do którego bezustannie lgniemy. A my, odnajdując w sobie świadectwo Twojej
+łaski, ze wszystkich sił postanawiamy całym sercem przebaczać drugiemu
+człowiekowi (bliźniemu). <b style="mso-bidi-font-weight:normal"><span style="color:blue">Ps.51:2-6; Ef.1:7; 1 J.2:1-2; 1 J.1:9; Mt.6:14-15; Mt.5:7.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 127: Jak brzmi szósta prośba?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Nie wódź nas na pokuszenie,
+ale nas zbaw od złego", to znaczy: bez Ciebie jesteśmy tak słabi, że nie
+ostalibyśmy się ani chwili, co więcej - nasi śmiertelni wrogowie: diabeł, świat
+i własne nasze ciało bezustannie na nas czyhają. Dlatego Ty zechciej chronić
+nas i wzmacniać mocą Ducha Świętego, abyśmy mogli skutecznie im się opierać aż
+do pełnego zwycięstwa i nie ulec w tej duchowej walce. <b style="mso-bidi-font-weight:
+normal"><span style="color:blue">J.15:5; Ef.6:12; Rz.7:23; Gal.5:17; Mt.26:41;
+Ef.6:13.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 128: Jak kończy się ta modlitwa?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Albowiem Twoje jest
+Królestwo, moc i chwała na wieki wieków", to znaczy: prosimy Cię o
+wszystko, gdyż Ty, będąc Królem naszym i Wszechmocnym, chcesz i możesz dać nam
+to wszystko, co jest dobrem. Prosimy Cię o to, abyśmy nie byli wielbieni, ale
+Twoje święte imię na wieki. <b style="mso-bidi-font-weight:normal"><span style="color:blue">Rz.10:11-12; J.14:13; Ps.115:1.<o:p></o:p></span></b></span></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><i style="mso-bidi-font-style:normal"><span style="font-size:10.0pt;font-family:
+Tahoma;color:red">Pytanie 129: Co oznacza słowo "AMEN"?<o:p></o:p></span></i></p>
+<p class="MsoNormal" style="margin-left:36.0pt;mso-pagination:widow-orphan"><span style="font-size:10.0pt;font-family:Tahoma">"Amen" znaczy: "to
+jest prawda", "to stanie się na pewno", albowiem modlitwa moja
+zostanie wysłuchana w stopniu o wiele większym, niż ja sam mógłbym w swoim
+sercu pragnąć. <b style="mso-bidi-font-weight:normal"><span style="color:blue">2
+Kor.1:20; 2 Tym.2:13; Ef.3:20-21. <o:p></o:p></span></b></span></p>
+<p align="center" class="MsoNormal" style="margin-left:36.0pt;text-align:center;
+mso-pagination:widow-orphan"><b style="mso-bidi-font-weight:normal"><span style="font-size:10.0pt;font-family:Tahoma;color:blue"><br/>
+</span></b><span style="font-size:10.0pt;font-family:Tahoma"><span style="mso-spacerun: yes"> </span><o:p></o:p></span></p>
+<p class="MsoNormal" style="mso-pagination:widow-orphan"><span style="font-size:
+10.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+</div>
+<br/><form name="Historia">
+<input type="BUTTON" value="Strona główna"/>
+</form>
+<br/><form action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" enctype="application/x-www-form-urlencoded" method="POST">
+<p class="MsoNormal" style="margin-top:0cm;margin-right:1.0cm;margin-bottom:0cm;
+margin-left:1.0cm;margin-bottom:.0001pt;mso-layout-grid-align:auto;punctuation-wrap:
+hanging;text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:12.0pt;font-family:Tahoma"><span style="display:none;
+mso-hide:all"><input name="filename" type="hidden" value="historia/katechizm_heidelberski.html"/></span></span><span lang="EN-US" style="mso-bidi-font-size:12.0pt;font-family:Tahoma;mso-ansi-language:
+EN-US"><o:p></o:p></span></p>
+<p style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma">Chciał(a)bym przesłać ten artykuł
+pocztą elektroniczną na adres:<br/>
+<input maxlength="50" name="email" size="40" type="text"/><br/>
+Moje imię i nazwisko:<br/>
+<input maxlength="50" name="realname" size="40" type="text"/><br/>
+<input action="http://www.czytelnia.Jezus.pl/cgi-bin/mailhtml.cgi" method="POST" type="submit" value="  Wyślij  "/><o:p></o:p></span></p>
+</form>
+<p class="MsoNormal" style="margin-top:0cm;margin-right:0cm;margin-bottom:12.0pt;
+margin-left:1.0cm;mso-layout-grid-align:auto;punctuation-wrap:hanging;
+text-autospace:ideograph-numeric ideograph-other"><span style="mso-bidi-font-size:
+12.0pt;font-family:Tahoma"><?if !supportEmptyParas?> <?endif?><o:p></o:p></span></p>
+<h4 style="margin-right:1.0cm;margin-left:0cm"><span style="font-size:10.0pt;
+mso-bidi-font-size:12.0pt;font-family:Tahoma;color:gray">Wersja HTML, Copyright
+© 1999 <a href="http://www.czytelnia.Jezus.pl"><span style="color:gray">Czytelnia
+Chrześcijanina </span></a></span></h4>
+
+{% endraw %}

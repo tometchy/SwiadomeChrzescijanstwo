@@ -1,0 +1,426 @@
+/*
+w komentarzach przyk³adowe miejsca u¿ycia stylu
+*/
+
+
+body
+	{
+		margin: 1cm 1cm 0 1cm;
+		background-color: #FFFFFF;
+	        background: #FFFFFF;
+        	font-size: 10pt;
+	        color: #000000;
+	        font-family: Arial, Helvetica;
+	        text-align: justify;
+
+
+	}
+
+
+
+p.nawigacja
+	{
+		margin-top:	10pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	right;
+	}
+
+p.przedtytul
+/*
+Wêdrówka pielgrzyma Bunyana
+*/
+	{
+		margin-top:	72pt;
+		font-family:	arial;
+		font-size:	24pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.tytul
+/*
+Wêdrówka pielgrzyma Bunyana
+*/
+	{
+		margin-top:	72pt;
+		font-family:	arial;
+		font-size:	36pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.tytul_druga_linia
+	{
+		font-family:	arial;
+		font-size:	36pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.tytul_dluga_druga_linia
+/*
+Kalwin F³aszywe oskar¿enie
+*/
+
+	{
+		font-family:	arial;
+		font-size:	18pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.autor
+	{
+		font-family:	arial;
+		font-size:	20pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.komentarz_w_tytule
+	{
+		font-family:	arial;
+		font-size:	8pt;
+		font-weight:	normal;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.cytat_referencje_w_tytule
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+p.cytat_w_tytule
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+
+
+p.rozdzial
+	{
+		margin-top:	60pt;
+		font-family:	arial;
+		font-size:	20pt;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.podrozdzial1
+/*
+najpopularniejszy styl nag³ówka
+*/
+	{
+		margin-top:	28pt;
+		font-family:	arial;
+		font-size:	14pt;
+		font-weight:	normal;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+
+p.podrozdzial2
+/*
+1,2 3 podró¿ misyjna Paw³a w histori z zarys.html
+*/
+	{
+		margin-top:	0pt;
+		font-family:	arial;
+		font-size:	10pt;
+		font-weight:	normal;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	0pt;
+	}
+
+
+p.wzmocnienie
+/*
+NIe walczymy - Ravenhill
+*/
+	{
+		font-family:	verdana;
+		font-weight:	bold;
+		font-style:	normal;
+		color:		#000080; 
+		text-align: 	left;
+		text-indent:	2%;
+	}
+
+
+
+p.cytat
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	8%;
+	}
+
+
+
+p.wstep
+	{
+		margin-top:	72pt;
+		margin-bottom:	48pt;
+		font-family:	arial;
+		font-size:	10pt;
+		font-style:	normal;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p
+	{
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.przytaczam_goradol
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-top:	36pt;
+		margin-bottom:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.przytaczam_gora
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-top:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.przytaczam_srodek
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+p.przytaczam_dol
+/* 
+apologetyka Sadoleto - fragment listu 
+*/
+	{
+		margin-bottom:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		font-family:	verdana;
+		font-size:	10pt;
+		font-style:	italic;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	2%;
+	}
+
+
+p.wiersz
+/* 
+style wiersz_* : Ravenhill Napiêtnowany dla Chrystusa - w drugiej czêœci artyku³u 
+*/
+	{
+		margin-top:	36pt;
+		margin-left:	10%;
+		margin-right:	10%;
+		margin-bottom:	36pt;
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	left;
+		text-indent:	0%;
+	}
+
+
+
+
+
+p.przypisek
+/*
+uwagi o t³umaczu (np. J.Sa³acki, Ÿródle artuku³u itp. 
+Watsona "Cz³owiek pobo¿ny mi³uje S³owo Bo¿e
+apologetyka - Sadoleto
+*/
+	{
+		margin-top:	64pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+p.przypiski
+/*
+apologetyka - Sadolet
+*/
+	{
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+p.stopka
+	{
+		margin-top:	120pt;
+		font-family:	arial;
+		font-size:	8pt;
+		color:		black; 
+		text-align: 	right;
+		text-indent:	0pt;
+	}
+
+
+ol.poziom1
+	{
+		margin-left:	6%;
+		list-style-position: outside;
+		font-family:	verdana;
+		font-size:	10pt;
+		color:		black; 
+		text-align: 	justify;
+		text-indent:	0pt;
+	}
+
+
+
+/* poziomy spisów treœci */
+
+a.spis_tytul
+	{
+		margin-top:	72pt;
+		font-family:	verdana;
+		font-size:	36pt;
+		font-weight:	bold;
+		color:		#000080; 
+		text-align: 	center;
+		text-decoration: none;
+		text-indent:	0%;
+	}
+
+
+
+a.spis1
+	{
+		margin-top:	36pt;
+		font-family:	verdana;
+		font-size:	14pt;
+		font-weight:	bold;
+		color:		#000080; 
+		text-align: 	center;
+		text-decoration: none;
+		text-indent:	0%;
+	}
+
+a.spis2
+	{
+		font-family:	verdana;
+		font-size:	12pt;
+		color:		#000080; 
+		text-align: 	center;
+		text-decoration: none;
+		text-indent:	0%;
+	}
+
+
+a.spis3
+	{
+		font-family:	verdana;
+		font-size:	8pt;
+		color:		#000080; 
+		text-align: 	center;
+		text-decoration: none;
+		text-indent:	0%;
+	}
+
+
+
+
+
+
+
+

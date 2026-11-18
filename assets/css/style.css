@@ -233,3 +233,70 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible{ou
 @media(prefers-reduced-motion:reduce){
   .btn,.book-card__image{transition:none!important}
 }
+
+
+/* Wariant piaskowy Kaira – poprawki UX po weryfikacji strony na GitHub Pages */
+:root{
+  --cream:#f6f1e8;
+  --paper:#fffdfa;
+  --border:#e9dfd0;
+  --gold:#a78b68;
+  --goldlight:#d6c3a6;
+  --muted:#706a61;
+}
+body{background:#fffdfa}
+.site-header{background:#fffdfa}
+.hero{background:#f5eee3}
+.hero-visual:before{background:#e8d8c2}
+.section-light,.reading-section{background:#fbf7ef}
+.listing-hero,.page-copy-intro,.page-top,.article-header{background:#f7f1e7}
+.book-card__image{background:#f3ebdf}
+.book-card__image:hover{background:#ede1cf}
+.book-card__image:after{background:#b39d80}
+.detail-media{background:#f4ecdf}
+.purchase-panel,.contact-card{background:#fbf5ea;border-color:#eadfce}
+.catalog-note,.topic-card:hover,.article-card:hover{background:#faf5ec}
+.bottom-invite{background:#f2eadc}
+.site-footer{background:#f5efe5;border-color:#e9dfd2}
+.footer-grid h3{color:#30281f}
+.footer-grid a:not(.footer-brand){color:#5d554b}
+.footer-bottom{border-top-color:#e2d7c5;color:#70685f}
+.footer-brand img{mix-blend-mode:multiply}
+/* Treść stron Markdown bez opakowania w .container: np. /fundacja/. */
+#main>p,#main>h1,#main>h2,#main>h3,#main>h4,#main>ul,#main>ol,#main>dl,
+#main>blockquote,#main>table,#main>pre,#main>hr{
+  width:min(900px,calc(100% - 48px));
+  max-width:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+#main>p{margin-top:1.35em;margin-bottom:1.35em}
+#main>p:first-child,#main>h1:first-child,#main>h2:first-child,#main>ul:first-child{margin-top:56px}
+#main>p:last-child,#main>ul:last-child,#main>ol:last-child,#main>dl:last-child{margin-bottom:72px}
+#main>p a{text-decoration:underline;text-underline-offset:3px}
+#main>ul,#main>ol{padding-left:25px}
+#main>table{display:block;overflow-x:auto}
+#main>blockquote{padding:12px 22px;border-left:3px solid #bca07c;background:#fbf7f0}
+#main>pre{overflow-x:auto}
+/* Zdjęcia nie muszą być rozciągnięte – okładka i dodatkowe fotografie tworzą galerię. */
+.book-gallery{width:100%;display:flex;align-items:center;flex-direction:column;gap:24px}
+.book-gallery .book-cover>img{
+  position:absolute!important;inset:0!important;right:auto!important;top:0!important;
+  width:100%!important;height:100%!important;max-width:100%!important;
+  object-fit:contain!important;object-position:center!important;background:#f4ecdf
+}
+.gallery-thumbnails{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:12px}
+.gallery-thumbnail{width:74px;height:95px;padding:5px;border:1px solid #d8cbb8;background:#fffdfa;cursor:pointer}
+.gallery-thumbnail:hover,.gallery-thumbnail[aria-pressed="true"]{border-color:#675a48;box-shadow:0 0 0 1px #675a48}
+.gallery-thumbnail img{width:100%;height:100%;object-fit:contain;display:block}
+.book-description{margin:24px 0;color:#504a42;line-height:1.85}
+.book-description h2{font-family:var(--serif);font-weight:400;font-size:24px;margin:0 0 12px}
+.details-list{margin-top:27px}
+.details-list dt{color:#766c5f}
+.details-list dd{font-size:13px}
+@media(max-width:650px){
+  #main>p,#main>h1,#main>h2,#main>h3,#main>h4,#main>ul,#main>ol,#main>dl,
+  #main>blockquote,#main>table,#main>pre,#main>hr{width:calc(100% - 36px)}
+  #main>p:first-child,#main>h1:first-child,#main>h2:first-child,#main>ul:first-child{margin-top:35px}
+  .gallery-thumbnail{width:62px;height:83px}
+}

@@ -3,18 +3,50 @@ layout: default
 ---
 <div class="page-top"><div class="container"><div class="crumbs"><a href="{{ '/' | relative_url }}">Strona główna</a><span>/</span><a href="{% if page.kind == 'broszura' %}{{ '/broszury/' | relative_url }}{% else %}{{ '/ksiazki/' | relative_url }}{% endif %}">{% if page.kind == 'broszura' %}Broszury{% else %}Książki{% endif %}</a><span>/</span>{{ page.title }}</div></div></div>
 <section class="detail-section"><div class="container detail-grid">
- <div class="detail-media">{% include cover.html item=page %}</div>
- <div class="detail-copy"><h1>{{ page.title }}</h1><p class="detail-author">{{ page.author }}</p><div class="gold-line"></div>{{ content }}
-  <div class="purchase-panel">
-  {% if page.allegro_url and page.allegro_url != '' %}
-    <a class="btn btn-primary btn-full" href="{{ page.allegro_url }}" target="_blank" rel="noopener noreferrer sponsored">Sprawdź ofertę na Allegro <span aria-hidden="true">↗</span></a>
-
-  {% else %}
-    <a class="btn btn-primary btn-full" href="{{ site.data.site.distributor_profile }}" target="_blank" rel="noopener noreferrer sponsored">Przeglądaj oferty Allegro <span aria-hidden="true">↗</span></a>
-    <small><a href="mailto:{{ site.data.site.distributor_email }}?subject={{ page.title | uri_escape }}">Kontakt</a></small>
-  {% endif %}
-  </div>
-  <dl class="details-list">{% if page.edition_note %}<div><dt>Wydanie</dt><dd>{{ page.edition_note }}</dd></div>{% endif %}{% if page.historical_price %}<div><dt>Koszt</dt><dd>{{ page.historical_price }}</dd></div>{% endif %}{% if page.catalog_status %}<div><dt>Status</dt><dd>{{ page.catalog_status }}</dd></div>{% endif %}{% if page.catalog_number %}<div><dt>Numer w katalogu archiwalnym</dt><dd>{{ page.catalog_number }}</dd></div>{% endif %}</dl>
+ <div class="detail-media">
+   <div class="book-gallery" data-book-gallery>
+     {% include cover.html item=page %}
+     {% if page.gallery_images and page.gallery_images.size > 0 %}
+     <div class="gallery-thumbnails" role="group" aria-label="Zdjęcia książki">
+     {% if page.cover_url and page.cover_url != '' %}
+       {% assign thumb_url = page.cover_url %}
+       {% unless page.cover_url contains '://' %}{% assign thumb_url = page.cover_url | relative_url %}{% endunless %}
+       <button class="gallery-thumbnail" type="button" data-gallery-image="{{ thumb_url }}" aria-label="Pokaż zdjęcie okładki" aria-pressed="true"><img src="{{ thumb_url }}" alt="" loading="lazy"></button>
+     {% endif %}
+     {% for image_path in page.gallery_images %}
+       {% assign photo_url = image_path %}
+       {% unless image_path contains '://' %}{% assign photo_url = image_path | relative_url %}{% endunless %}
+       <button class="gallery-thumbnail" type="button" data-gallery-image="{{ photo_url }}" aria-label="Pokaż zdjęcie książki {{ forloop.index }}" aria-pressed="false"><img src="{{ photo_url }}" alt="" loading="lazy"></button>
+     {% endfor %}
+     </div>
+     {% endif %}
+   </div>
+ </div>
+ <div class="detail-copy">
+   <h1>{{ page.title }}</h1>
+   {% if page.author and page.author != '-' %}<p class="detail-author">{{ page.author }}</p>{% endif %}
+   <div class="gold-line"></div>
+   {% if page.description and page.description != '' %}<div class="book-description"><h2>Opis</h2><p>{{ page.description }}</p></div>{% endif %}
+   {{ content }}
+   <dl class="details-list">
+     {% if page.isbn %}<div><dt>ISBN</dt><dd>{{ page.isbn }}</dd></div>{% endif %}
+     {% if page.publisher %}<div><dt>Wydawca</dt><dd>{{ page.publisher }}</dd></div>{% endif %}
+     {% if page.publication_year %}<div><dt>Rok wydania</dt><dd>{{ page.publication_year }}</dd></div>{% endif %}
+     {% if page.pages %}<div><dt>Liczba stron</dt><dd>{{ page.pages }}</dd></div>{% endif %}
+     {% if page.binding %}<div><dt>Oprawa</dt><dd>{{ page.binding }}</dd></div>{% endif %}
+     {% if page.format %}<div><dt>Format</dt><dd>{{ page.format }}</dd></div>{% endif %}
+     {% assign edition_text = page.edition_note | downcase %}
+     {% if page.edition_note and edition_text != 'nowość' and edition_text != 'nowosc' and edition_text != 'dodruk' and edition_text != 'wznowienie' %}
+       <div><dt>Edycja</dt><dd>{{ page.edition_note }}</dd></div>
+     {% endif %}
+   </dl>
+   <div class="purchase-panel">
+     {% if page.allegro_url and page.allegro_url != '' %}
+       <a class="btn btn-primary btn-full" href="{{ page.allegro_url }}" target="_blank" rel="noopener noreferrer sponsored">Zobacz na Allegro <span aria-hidden="true">↗</span></a>
+     {% else %}
+       <a class="btn btn-primary btn-full" href="{{ site.data.site.distributor_profile }}" target="_blank" rel="noopener noreferrer sponsored">Oferty dystrybutora na Allegro <span aria-hidden="true">↗</span></a>
+     {% endif %}
+   </div>
  </div>
 </div></section>
 <section class="section section-light"><div class="container"><div class="section-head"><div><h2>Książki</h2></div><a href="{{ '/ksiazki/' | relative_url }}" class="text-link">Cały katalog <span>↗</span></a></div><div class="book-grid related-grid">{% assign related = site.ksiazki | where: 'category', page.category | where_exp: 'b', 'b.url != page.url' | sort: 'sort_order' | reverse %}{% for book in related limit:4 %}{% include book_card.html book=book %}{% endfor %}</div></div></section>

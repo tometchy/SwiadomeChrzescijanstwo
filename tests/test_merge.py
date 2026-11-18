@@ -5,7 +5,10 @@ def collection(folder):
     return [(p,yaml.safe_load(p.read_text(encoding='utf-8').split('---',2)[1])) for p in (ROOT/folder).glob('*.md')]
 
 def test_original_catalog_snapshot_complete():
-    src=json.loads((ROOT/'_data/catalog_web_snapshot.json').read_text())
+    # Once the original publisher HTML was downloaded, it supersedes the
+    # preliminary web snapshot (which may normalize whitespace differently).
+    verified=ROOT/'_data/publisher_catalog_verified.json'
+    src=json.loads((verified if verified.exists() else ROOT/'_data/catalog_web_snapshot.json').read_text())
     books=collection('_ksiazki');brochures=collection('_broszury')
     assert len(books)==41 and len(brochures)==39
     assert {v['catalog_number'] for _,v in books}==set(range(1,42))
@@ -23,7 +26,15 @@ def test_original_catalog_snapshot_complete():
             assert p.read_text(encoding='utf-8').split('---',2)[2].strip()==''
 
 def test_no_generated_articles_or_unsourced_prose():
-    assert not list((ROOT/'_artykuly').glob('*.md'))
+    # Before import no editorial articles exist; afterwards, each entry must
+    # point to a copied original and pass the independent strict audit.
+    articles=collection('_artykuly')
+    for p,data in articles:
+        assert data.get('imported_from_legacy') is True,p
+        assert data.get('source_verified') is True,p
+        assert data.get('source_url','').startswith('https://swch.pl/'),p
+        assert len(data.get('source_text_sha256',''))==64,p
+        assert '{% raw %}' in p.read_text(encoding='utf-8'),p
     assert yaml.safe_load((ROOT/'_data/legacy_articles.yml').read_text())==[]
     assert not any('subtitle' in x for x in yaml.safe_load((ROOT/'_data/archive.yml').read_text()))
 

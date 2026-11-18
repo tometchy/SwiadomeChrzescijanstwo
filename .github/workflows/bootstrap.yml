@@ -1,0 +1,80 @@
+name: Bootstrap Jekyll source bundle
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - '.github/workflows/bootstrap.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jekyll-bootstrap
+  cancel-in-progress: false
+
+jobs:
+  install:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Reconstruct and verify full site source from 19 staged parts
+        shell: bash
+        run: |
+          python -m pip install --disable-pip-version-check brotli
+          python - <<'PY'
+          from pathlib import Path, PurePosixPath
+          import base64, brotli, hashlib, json, shutil
+
+          root = Path('.')
+          parts = sorted((root / '.migration').glob('part-*.b64'))
+          if not parts and (root / '_ksiazki').is_dir() and (root / 'DEPLOY_GITHUB_PAGES.md').exists():
+              print('Jekyll sources already installed; no new content written.')
+          else:
+              expected = [f'part-{n:03d}.b64' for n in range(19)]
+              actual = [p.name for p in parts]
+              if actual != expected:
+                  raise RuntimeError(f'Expected 19 consecutive parts; received: {actual}')
+              encoded = ''.join(p.read_text(encoding='ascii').strip() for p in parts)
+              compressed = base64.b64decode(encoded, validate=True)
+              assert hashlib.sha256(compressed).hexdigest() == 'bdfe4cf76106cebe047cb94b08022b026f93e9c52d3f9fdbf0a0f4ba87b21854', 'Compressed bundle checksum mismatch'
+              raw = brotli.decompress(compressed)
+              assert hashlib.sha256(raw).hexdigest() == '10bb67445243e57ef65078afc8eae6023dfadde223688368d87f1cccf6755b83', 'Source JSON checksum mismatch'
+              files = json.loads(raw)
+              assert len(files) == 129, f'Expected 129 files, found {len(files)}'
+              seen = set()
+              for name, content in files:
+                  path = PurePosixPath(name)
+                  if not name or path.is_absolute() or '..' in path.parts or name in seen or not isinstance(content, str):
+                      raise ValueError(f'Unsafe path or non-text content: {name}')
+                  seen.add(name)
+                  target = root.joinpath(*path.parts)
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_text(content, encoding='utf-8')
+
+              for old_folder in ('css', 'images', 'js', '_posts'):
+                  shutil.rmtree(root / old_folder, ignore_errors=True)
+              for old_file in ('style.css', 'favicon.ico', '_start.sh', 'readme.txt', 'Gemfile.lock'):
+                  (root / old_file).unlink(missing_ok=True)
+              shutil.rmtree(root / '.migration', ignore_errors=True)
+              print(f'Installed and verified {len(files)} original Jekyll source files')
+          PY
+      - name: Commit normal editable Markdown files and Jekyll pipelines
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Already installed"
+          else
+            git commit -m "Install consolidated Jekyll site and GitHub Pages pipelines"
+            git push origin HEAD:master
+          fi

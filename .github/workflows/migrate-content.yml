@@ -6,6 +6,8 @@ on:
     paths:
       - 'scripts/migrate_all.py'
       - 'scripts/strict_audit.py'
+      - 'scripts/validate_site.py'
+      - '_config.yml'
       - '.github/workflows/migrate-content.yml'
   workflow_dispatch:
   workflow_run:

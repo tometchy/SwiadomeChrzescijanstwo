@@ -1,6 +1,8 @@
 name: Publish Jekyll to GitHub Pages
 
 on:
+  push:
+    branches: [master]
   workflow_run:
     workflows: ['Jednorazowa migracja treści swch.pl i wswch.pl']
     types: [completed]
@@ -49,8 +51,13 @@ jobs:
         run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
-      - name: Restore large TNP and archival downloads from tracked binary chunks
-        run: python3 scripts/rebuild_large_assets.py --output _site
+      - name: Restore exact archived HTML and assets outside Jekyll template processing
+        run: |
+          if [ -d archiwum ]; then
+            mkdir -p _site/archiwum
+            cp -a archiwum/. _site/archiwum/
+          fi
+          python3 scripts/rebuild_large_assets.py --output _site
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:

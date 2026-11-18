@@ -1,5 +1,9 @@
 #!/usr/bin/env python3
-"""Szybki test danych i spójności statycznej witryny przed publikacją."""
+"""Szybki test danych i spójności źródeł Jekyll.
+
+Archiwalne pliki HTML mogą mieć oryginalne kodowanie inne niż UTF-8;
+nie zmieniamy ich bajtów. Porównuje je osobno strict_audit.py.
+"""
 from pathlib import Path
 from collections import Counter
 from urllib.parse import urlsplit
@@ -33,10 +37,14 @@ for collection in ['_ksiazki', '_broszury', '_artykuly']:
         if data.get('imported_from_legacy') and not data.get('source_url'):
             errors.append(f'{f}: brak adresu źródłowego starego artykułu')
 for file in sorted(ROOT.rglob('*')):
-    if not file.is_file() or any(x in file.parts for x in ('_source_archive','assets','.git','.venv','_site')):
+    if not file.is_file() or any(x in file.parts for x in ('_source_archive', 'archiwum', '_large_parts', 'assets', '.git', '.venv', '_site', 'vendor', 'node_modules')):
         continue
     if file.suffix in ('.md','.html'):
-        content=file.read_text(encoding='utf-8')
+        try:
+            content=file.read_text(encoding='utf-8')
+        except UnicodeDecodeError as exc:
+            errors.append(f'{file}: niepoprawny UTF-8 w źródle Jekyll: {exc}')
+            continue
         for m in re.finditer(r'(?:href|src)=["\'](/assets/[^"\']+)["\']',content):
             if not (ROOT / m.group(1).lstrip('/')).is_file():
                 errors.append(f'{file}: brak lokalnego zasobu {m.group(1)}')

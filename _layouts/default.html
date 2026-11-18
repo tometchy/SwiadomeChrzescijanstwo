@@ -2,7 +2,7 @@
 <html lang="pl">
 <head>
 <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="theme-color" content="#1d4037">
+<meta name="theme-color" content="#f6f6f3">
 {% seo %}
 <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
 <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -14,8 +14,7 @@
 <header class="site-header">
   <div class="container nav-container">
     <a class="logo" href="{{ '/' | relative_url }}" aria-label="Świadome Chrześcijaństwo — strona główna">
-      <span class="logo-symbol" aria-hidden="true"><svg viewBox="0 0 48 48" width="42" height="42"><path d="M23.7 11c-5-4.3-10.6-5.4-17-4v27c7-1.3 12.8-.2 17 4.3 4.2-4.5 10-5.6 17-4.3V7c-6.4-1.4-12 .1-17 4z" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/><path d="M23.7 11v27M10 13c4-.3 7 0 10 2.2M28 15.2c3-2.2 6-2.5 10-2.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg></span>
-      <span><strong>Świadome</strong><small>CHRZEŚCIJAŃSTWO</small></span>
+      <img src="{{ '/assets/img/legacy-logo.jpg' | relative_url }}" width="271" height="77" alt="Wydawnictwo Świadome Chrześcijaństwo — Literatura i Klasyka Chrześcijańska">
     </a>
     <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
     <nav class="primary-nav" id="primary-nav" aria-label="Nawigacja główna">
@@ -32,7 +31,7 @@
 <main id="main">{{ content }}</main>
 <footer class="site-footer">
  <div class="container footer-grid">
-   <div><a class="footer-brand" href="{{ '/' | relative_url }}">Świadome<br>Chrześcijaństwo<span>✦</span></a></div>
+   <div><a class="footer-brand" href="{{ '/' | relative_url }}" aria-label="Świadome Chrześcijaństwo — strona główna"><img src="{{ '/assets/img/legacy-logo.jpg' | relative_url }}" width="271" height="77" alt="Wydawnictwo Świadome Chrześcijaństwo — Literatura i Klasyka Chrześcijańska" loading="lazy"></a></div>
    <div><h3>Odkrywaj</h3><a href="{{ '/archiwum/' | relative_url }}">Archiwum</a><a href="{{ '/ksiazki/' | relative_url }}">Katalog książek</a><a href="{{ '/czytelnia/' | relative_url }}">Artykuły i traktaty</a><a href="{{ '/broszury/' | relative_url }}">Broszury</a><a href="{{ '/przeklad-torunski/' | relative_url }}">Przekład Toruński</a></div>
    <div><h3>Informacje</h3><a href="{{ '/o-nas/' | relative_url }}">O wydawnictwie</a><a href="{{ '/fundacja/' | relative_url }}">Fundacja</a><a href="{{ '/kontakt/' | relative_url }}">Kontakt</a><a href="{{ '/polityka-prywatnosci/' | relative_url }}">Prywatność</a></div>
    <div><h3>Napisz do nas</h3><a class="footer-email" href="mailto:{{ site.data.site.publisher_email }}">{{ site.data.site.publisher_email }} ↗</a></div>

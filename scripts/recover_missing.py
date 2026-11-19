@@ -106,15 +106,17 @@ def attempt(row,output,wayback):
     outcome={"url":url,"type":kind,"status":"unresolved","attempts":[]}
     with requests.Session() as session:
         session.headers["User-Agent"]="SwiadomeChrzescijanstwo-archival-audit/1.0"
-        trials=[("alternate-www",alternate(url),None)]
-        if wayback:
-            try:
-                old=historical_url(session,url)
-                if old:trials.append(("wayback",old[0],old[1]))
-                else:outcome["attempts"].append(["wayback-lookup","no snapshot"])
-            except (requests.RequestException, ValueError, KeyError) as e:
-                outcome["attempts"].append(["wayback-lookup",str(e)[:200]])
-        for method,fetch_url,stamp in trials:
+        # Defer Wayback queries until alternate host has failed.
+        def candidates():
+            yield "alternate-www",alternate(url),None
+            if wayback:
+                try:
+                    old=historical_url(session,url)
+                    if old:yield "wayback",old[0],old[1]
+                    else:outcome["attempts"].append(["wayback-lookup","no snapshot"])
+                except (requests.RequestException, ValueError, KeyError) as e:
+                    outcome["attempts"].append(["wayback-lookup",str(e)[:200]])
+        for method,fetch_url,stamp in candidates():
             try:
                 raw,final,mime=get_file(session,fetch_url,HOSTS if method=="alternate-www" else {"web.archive.org"})
                 if not valid_bytes(raw,url,kind,mime):

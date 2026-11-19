@@ -4,11 +4,13 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
-APPROVED_BACKS = {
-    "02-zycie-przez-jego-smierc",
-    "04-wszystko-z-laski",
-    "13-radykalny-krzyz-uwielbienie-utracony-klejnot",
-    "16-w-cieniu-wszechmogacego",
+APPROVED_GALLERY_FILES = {
+    "02-zycie-przez-jego-smierc": {"02-zycie-przez-jego-smierc-photo-2.webp"},
+    "04-wszystko-z-laski": {"04-wszystko-z-laski-photo-2.webp"},
+    "13-radykalny-krzyz-uwielbienie-utracony-klejnot": {"13-radykalny-krzyz-uwielbienie-utracony-klejnot-photo-2.webp"},
+    "16-w-cieniu-wszechmogacego": {"16-w-cieniu-wszechmogacego-photo-2.webp"},
+    # Oryginalna, zweryfikowana rozłożona obwoluta Johna Wesleya.
+    "31-duch-swiety-i-moc": {"31-duch-swiety-i-moc-full.jpg"},
 }
 
 
@@ -23,8 +25,9 @@ def test_verified_book_gallery_assets():
         assert data.get("historical_price"), f"Brak ceny z katalogu: {book}"
         assert data.get("catalog_status", "") in ("", "brak", "nowość"), book
         for photo in data.get("gallery_images", []):
-            assert book.stem in APPROVED_BACKS, f"Niezweryfikowana galeria: {book}"
-            assert photo == f"/assets/img/books/{book.stem}-photo-2.webp", f"Obce zdjęcie: {photo}"
+            assert book.stem in APPROVED_GALLERY_FILES, f"Niezweryfikowana galeria: {book}"
+            assert photo.startswith("/assets/img/books/"), f"Nieprawidłowa ścieżka: {photo}"
+            assert Path(photo).name in APPROVED_GALLERY_FILES[book.stem], f"Obce zdjęcie: {photo}"
             assert (ROOT / photo.lstrip("/")).is_file(), f"Brak pliku: {photo}"
 
 

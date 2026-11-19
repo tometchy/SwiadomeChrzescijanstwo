@@ -49,3 +49,21 @@ def test_tags_link_to_catalog_search():
     layout = (ROOT / "_layouts" / "book.html").read_text()
     assert "page.tags" in layout
     assert "?q={{ tag | url_encode }}" in layout
+
+def test_all_local_product_images_exist_and_galleries_have_local_assets():
+    all_books = [(p, yaml.safe_load(p.read_text(encoding="utf-8").split("---", 2)[1]))
+                 for p in sorted((ROOT / "_ksiazki").glob("*.md"))]
+    with_cover = 0
+    extra_images = 0
+    for path, data in all_books:
+        cover = data.get("cover_url", "")
+        if cover.startswith("/assets/img/books/"):
+            assert (ROOT / cover.lstrip("/")).is_file(), (path, cover)
+            with_cover += 1
+        for image in data.get("gallery_images", []):
+            assert isinstance(image, str)
+            assert image.startswith("/assets/img/books/")
+            assert (ROOT / image.lstrip("/")).is_file(), (path, image)
+            extra_images += 1
+    assert with_cover >= 35
+    assert extra_images >= 13

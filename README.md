@@ -72,3 +72,10 @@ Podgląd można opublikować z niekompletnym raportem WYŁĄCZNIE wtedy, gdy **w
 - Tagi na karcie szczegółów prowadzą do `/ksiazki/?q=tag`. Nie ma potrzeby dublowania tytułów ani zmieniania historycznych danych archiwalnych.
 - Rzeczywiste okładki bezpiecznie odnawiane są z listy konkretnych, zweryfikowanych stron produktów (`scripts/verified_cover_sources.yml`). `scripts/fetch_verified_cover_photos.py` sprawdza tytuł i wydawcę strony, pobiera wyłącznie jej zdjęcia produktu, zapisuje lokalne WebP i uzupełnia metadane tylko po udanym pobraniu. Niepowodzenie nie powoduje użycia zdjęcia nieodpowiedniego wydania. Nie rusza istniejących zdjęć.
 - Obsługa wielu zdjęć jest w `gallery_images`; generator frontów działa następnie na nowych, pobranych plikach.
+
+### Stan zdjęć katalogu po uzupełnieniu (2026-11-19)
+
+- **35 z 41** kart książek ma lokalną okładkę właściwego wydania, w tym 19 fotografii pozyskanych w ramach tej aktualizacji.
+- Ponadto **13 dodatkowych rzeczywistych fotografii** jest dostępnych w galeriach wybranych tytułów. Ich kopie przygotowane przez generator frontów nie są liczone podwójnie.
+- Przy sześciu pozostałych książkach generator zachowuje czytelną typograficzną okładkę zamiast podstawiać niezweryfikowane zdjęcie innego wydania. Metadane źródłowe i stare tytuły pozostają nietknięte.
+- Testy katalogu sprawdzają zgodność wszystkich lokalnych ścieżek do głównego zdjęcia oraz zdjęć dodatkowych. Nowe zdjęcia pobierane są tylko z potwierdzonych produktów właściwego wydawnictwa.

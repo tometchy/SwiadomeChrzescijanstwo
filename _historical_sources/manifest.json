@@ -1,0 +1,122 @@
+{
+  "original_missing": 109,
+  "historical_candidates": 14,
+  "remaining_without_candidate": 95,
+  "byte_exact_fallback_articles": 50,
+  "full_migration_verified": false,
+  "warning": "Wayback snapshots are not validated as originals from 18 Nov 2026",
+  "items": [
+    {
+      "source_url": "https://swch.pl/biografie/AugustynLuterKalwin.html",
+      "historical_archive_url": "https://web.archive.org/web/20080531063751id_/http://www.swch.pl:80/biografie/AugustynLuterKalwin.html",
+      "wayback_timestamp": "20080531063751",
+      "sha256": "397fcfada3f7f05e55af41ca860ed26f0c4c2d234a1d4da6eae58f5c7c68413f",
+      "bytes": 12549,
+      "path": "_historical_sources/candidates/swch/biografie/AugustynLuterKalwin.html"
+    },
+    {
+      "source_url": "https://swch.pl/biografie/Owen.html",
+      "historical_archive_url": "https://web.archive.org/web/20080531063756id_/http://www.swch.pl:80/biografie/Owen.html",
+      "wayback_timestamp": "20080531063756",
+      "sha256": "c5d5cda7c27b214e8ccb9df3306ff4b0872650c3c01697ddc3d3438224fbe76d",
+      "bytes": 8935,
+      "path": "_historical_sources/candidates/swch/biografie/Owen.html"
+    },
+    {
+      "source_url": "https://swch.pl/biografie/WilhelmFarel.html",
+      "historical_archive_url": "https://web.archive.org/web/20080531063443id_/http://www.swch.pl:80/biografie/WilhelmFarel.html",
+      "wayback_timestamp": "20080531063443",
+      "sha256": "a4fbb474da370135efb380ab5927ec63ba96fef9185c239c166dad1e49eb8f88",
+      "bytes": 6876,
+      "path": "_historical_sources/candidates/swch/biografie/WilhelmFarel.html"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022%20przyj%C4%99cie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713130541id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022%20przyj%C4%99cie.pdf",
+      "wayback_timestamp": "20260713130541",
+      "sha256": "698fc998f7850baf5aaa02545e66d939331b20f5b3ec3597c111e20ec22be100",
+      "bytes": 301193,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2022 przyjęcie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022%20zatwierdzenie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713125019id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022%20zatwierdzenie.pdf",
+      "wayback_timestamp": "20260713125019",
+      "sha256": "b6d31b110e04467a19876005dd35aa621cc251b69217b7e2818760ff90889e54",
+      "bytes": 272993,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2022 zatwierdzenie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713131555id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202022.pdf",
+      "wayback_timestamp": "20260713131555",
+      "sha256": "8e641aaea8d757bdf457b52afaf6e4bbb02a892d49bb109b660e8a6312b56284",
+      "bytes": 224595,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2022.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023%20przyj%C4%99cie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713125257id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023%20przyj%C4%99cie.pdf",
+      "wayback_timestamp": "20260713125257",
+      "sha256": "6fe4e5a3bba2a656fa548975ff2916aac617ecc58406288ef25f201b0ecca6b3",
+      "bytes": 56130,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2023 przyjęcie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023%20zatwierdzenie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713123441id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023%20zatwierdzenie.pdf",
+      "wayback_timestamp": "20260713123441",
+      "sha256": "6f91804447275423abd1a18c8547eb7d007c8184bad5bb75b29987b449e1364d",
+      "bytes": 53782,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2023 zatwierdzenie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713130519id_/https://www.swch.pl/fundacja/Sprawozdanie%20finansowe%20FSCh%202023.pdf",
+      "wayback_timestamp": "20260713130519",
+      "sha256": "b4dd17b4130e2528b8535b1ee16e46f911a176e83e3ffde6ba12d1190a728905",
+      "bytes": 135943,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie finansowe FSCh 2023.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202022%20przyj%C4%99cie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713131217id_/https://www.swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202022%20przyj%C4%99cie.pdf",
+      "wayback_timestamp": "20260713131217",
+      "sha256": "9e2e432cfb3a94b7845d01161882ba37d28d6a5b25d703e5f3d0563358e07955",
+      "bytes": 285898,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie merytoryczne FSCh 2022 przyjęcie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202022.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713122028id_/https://www.swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202022.pdf",
+      "wayback_timestamp": "20260713122028",
+      "sha256": "93ec4a2779d43fc16e8ba6af969c3081ea56a26212a896611c2cec37ae677d1a",
+      "bytes": 878694,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie merytoryczne FSCh 2022.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023%20przyj%C4%99cie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713120608id_/https://www.swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023%20przyj%C4%99cie.pdf",
+      "wayback_timestamp": "20260713120608",
+      "sha256": "b14d1ae164fde236e80c25df9c53fc9f63610161d11f8e21d668888b71a439a1",
+      "bytes": 284875,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie merytoryczne FSCh 2023 przyjęcie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023%20zatwierdzenie.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713115523id_/https://www.swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023%20zatwierdzenie.pdf",
+      "wayback_timestamp": "20260713115523",
+      "sha256": "1a43b15cd271ff2e9cd6790c091279c2995f6d83627cd9c3a19203383cd113e6",
+      "bytes": 267697,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie merytoryczne FSCh 2023 zatwierdzenie.pdf"
+    },
+    {
+      "source_url": "https://swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023.pdf",
+      "historical_archive_url": "https://web.archive.org/web/20260713123726id_/https://www.swch.pl/fundacja/Sprawozdanie%20merytoryczne%20FSCh%202023.pdf",
+      "wayback_timestamp": "20260713123726",
+      "sha256": "dc1dbcaf2535d194e18270cf72977672d9722e38e6b139b9cc1225b7dd5b5908",
+      "bytes": 788289,
+      "path": "_historical_sources/candidates/swch/fundacja/Sprawozdanie merytoryczne FSCh 2023.pdf"
+    }
+  ]
+}

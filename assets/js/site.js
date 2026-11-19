@@ -58,3 +58,18 @@
   });
   applyFilters();
 })();
+
+
+/* Galeria zdjęć książki: progresywne ulepszenie bez bibliotek */
+document.querySelectorAll('[data-book-gallery]').forEach(gallery => {
+  const large = gallery.querySelector('.book-cover > img');
+  if (!large) return;
+  const thumbnails = gallery.querySelectorAll('button[data-gallery-image]');
+  thumbnails.forEach(button => button.addEventListener('click', () => {
+    const url = button.dataset.galleryImage;
+    if (!url) return;
+    large.src = url;
+    large.style.display = 'block';
+    thumbnails.forEach(thumb => thumb.setAttribute('aria-pressed', String(thumb === button)));
+  }));
+});

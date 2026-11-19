@@ -126,7 +126,11 @@ def run(root: Path = ROOT) -> tuple[int, int]:
             publisher = normalize(soup.get_text(" ", strip=True))
             if "fundacja swiadome chrzescijanstwo" not in publisher and "fundacja swiadome ch" not in publisher:
                 raise ValueError("Publisher cannot be verified on the source page")
-            urls = ([source["image"]] if source.get("image") else []) + image_urls(soup, page)
+            # Product galleries can include unrelated recommendations. Only the
+            # first edition-matched cover is automatic; extra photos require
+            # individually approved direct image URLs in verified_cover_sources.yml.
+            urls = ([source["image"]] if source.get("image") else image_urls(soup, page)[:1])
+            urls += source.get("verified_gallery_images", [])
             imgs: list[Image.Image] = []
             signatures: set[bytes] = set()
             for url in urls:

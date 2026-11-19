@@ -382,3 +382,24 @@ body{background:#fffdfa}
 .book-tag:hover,.book-tag:focus-visible{background:#eee4d7;color:#302c28}
 .catalog-search-wrap{max-width:440px}
 @media(max-width:650px){.catalog-search-wrap{width:100%;max-width:none}}
+
+/* Katalog wydawnictwa: ceny źródłowe, etykiety i widoczne przejście do pełnej listy. */
+.catalog-more{margin:42px auto 0;padding:30px 18px;text-align:center;background:#f6f5ef;border:1px solid #e6e5df}
+.catalog-more p{color:#656d65;font-size:14px;margin:0 0 16px}
+.catalog-more .btn{min-width:280px}
+.book-card__meta{margin-top:auto;padding-top:11px;display:flex;flex-wrap:wrap;gap:8px 13px;align-items:baseline}
+.book-card__price{display:inline-flex;flex-direction:column;gap:3px;white-space:nowrap}
+.book-card__price small{font-size:10px;color:#767d75}
+.book-card__price strong{color:#40403f;font-weight:800;font-size:17px}
+.book-card__edition{font-size:11px;color:#72786f;border-left:1px solid #d7d9d3;padding-left:10px}
+.book-ribbon--new{background:#f0eee3;color:#4c524c;border-color:#d6d5c8}
+.book-ribbon--unavailable{background:#ebe9e6;color:#575451;border-color:#d9d6d1}
+.book-catalog-summary{display:flex;flex-wrap:wrap;align-items:center;gap:11px 16px;background:#f8f7f1;border:1px solid #e9e8de;padding:16px 18px}
+.book-catalog-price{display:flex;flex-direction:column;gap:4px;margin-right:auto}
+.book-catalog-price span{font-size:11px;color:#727970}
+.book-catalog-price strong{font-size:27px;line-height:1.1;color:#3d403b}
+.book-catalog-status,.book-catalog-edition{font-size:11px;font-weight:700;padding:7px 10px;border:1px solid #d6d9d0;color:#50594e;background:#fff}
+.book-catalog-status--unavailable{color:#655d54;background:#eceae6}
+.book-catalog-note{font-size:11px;line-height:1.6;color:#7a8177;margin:9px 0 18px}
+.book-catalog-note a{color:#4e594c;text-decoration:underline}
+@media(max-width:650px){.catalog-more{margin-top:30px;padding:24px 12px}.catalog-more .btn{min-width:0;width:100%}.book-card__meta{align-items:start;gap:6px}.book-card__edition{border-left:0;padding-left:0;flex-basis:100%}.book-ribbon--unavailable{font-size:7px;letter-spacing:0}.book-catalog-price strong{font-size:23px}}

@@ -8,14 +8,22 @@
   {{ book.isbn }} {{ book.publisher }} {{ book.publication_year }} {{ book.publication_date }}
   {{ book.binding }} {{ book.format }} {{ book.edition_note }} {{ book.edition_label }}
   {{ book.catalog_number }} {{ book.category }} {{ book.kind }}
+  {{ book.historical_price }} {{ book.catalog_status }}
 {%- endcapture -%}
+{%- assign card_edition = book.edition_note | downcase -%}
 <article class="book-card" data-search="{{ search_text | normalize_whitespace | escape }}" data-tags="{{ book.tags | join: ', ' | escape }}" data-category="{{ book.category | escape }}" data-kind="{{ book.kind }}" data-order="{{ book.sort_order | default: 0 }}">
   <a class="book-card__image" href="{{ book.url | relative_url }}" aria-label="Zobacz: {{ clean_book_title | escape }}">
     {% include cover.html item=book %}
+    {% if book.catalog_status == 'brak' %}<span class="book-ribbon book-ribbon--unavailable">Brak wg katalogu</span>
+    {% elsif book.catalog_status == 'nowość' or card_edition == 'nowość' or card_edition == 'nowosc' %}<span class="book-ribbon book-ribbon--new">Nowość</span>{% endif %}
   </a>
   <div class="book-card__details">
     <h3><a href="{{ book.url | relative_url }}">{{ clean_book_title | escape }}</a></h3>
     {% if book.card_subtitle %}<p class="book-card-subtitle">{{ book.card_subtitle | escape }}</p>{% endif %}
     {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author | escape }}</p>{% endif %}
+    <div class="book-card__meta">
+      {% if book.historical_price and book.historical_price != '' %}<span class="book-card__price"><small>Cena katalogowa</small><strong>{{ book.historical_price | escape }}</strong></span>{% endif %}
+      {% if book.edition_note and card_edition != 'nowość' and card_edition != 'nowosc' %}<span class="book-card__edition">{{ book.edition_note | escape }}</span>{% endif %}
+    </div>
   </div>
 </article>

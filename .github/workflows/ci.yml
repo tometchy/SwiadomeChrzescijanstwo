@@ -29,6 +29,8 @@ jobs:
           python scripts/validate_site.py
           python scripts/strict_audit.py
           if [ -f migration-report.json ]; then python scripts/verify_reachable.py; fi
+      - name: Generate authentic front covers before preview
+        run: python scripts/generate_book_fronts.py
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'

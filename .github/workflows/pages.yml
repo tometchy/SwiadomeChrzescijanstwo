@@ -38,10 +38,12 @@ jobs:
           fi
       - name: Verify exact captured sources before GitHub Pages preview
         run: |
-          python3 -m pip install --disable-pip-version-check beautifulsoup4 PyYAML
+          python3 -m pip install --disable-pip-version-check beautifulsoup4 PyYAML Pillow
           python3 scripts/strict_audit.py
           python3 scripts/verify_reachable.py
           echo 'This GitHub Pages preview contains all verified captured material. Previously dead links remain recorded in migration-report.json.' >> "$GITHUB_STEP_SUMMARY"
+      - name: Generate authentic cropped book covers
+        run: python3 scripts/generate_book_fronts.py
       - name: Ruby
         uses: ruby/setup-ruby@v1
         with:

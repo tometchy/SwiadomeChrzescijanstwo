@@ -24,4 +24,6 @@ format: "14,7 × 21,8 cm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/trylogia-zycie-w-duchowym-zwyciestwie/"
+category: "Przebudzenie"
+tags: ["trylogia","ewangelia","życie duchowe","Duch Święty","służba chrześcijańska"]
 ---

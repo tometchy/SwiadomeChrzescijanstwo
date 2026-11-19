@@ -20,4 +20,7 @@ pages: 148
 format: "14,5 × 21,5 cm"
 binding: "twarda"
 bibliographic_source: "https://clc.org.pl/produkt/glos-proroka-kto-przemawia-w-imieniu-boga/"
+category: "Życie chrześcijańskie"
+tags: ["prorok","głoszenie Słowa","kazania","Kościół"]
+author_aliases: ["Aiden Wilson Tozer","Aiden W. Tozer"]
 ---

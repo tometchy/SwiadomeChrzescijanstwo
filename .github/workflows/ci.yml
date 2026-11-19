@@ -26,6 +26,7 @@ jobs:
       - name: Testy importera i katalogów
         run: |
           python -m pytest -q tests/
+          node --test tests/test_catalog_browser.cjs
           python scripts/validate_site.py
           python scripts/strict_audit.py
           if [ -f migration-report.json ]; then python scripts/verify_reachable.py; fi

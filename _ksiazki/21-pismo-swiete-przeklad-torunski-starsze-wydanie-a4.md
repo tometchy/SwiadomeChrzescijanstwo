@@ -14,4 +14,7 @@ display_title: "Pismo Święte. Przekład Toruński"
 subtitle: "Nowego Przymierza oraz Księgi Mądrościowe, Księgi Pięciu Megilot i Proroków Mniejszych"
 card_subtitle: "Format A4"
 format: "A4"
+category: "Biblie"
+tags: ["Biblia","Pismo Święte","Przekład Toruński","TNP","Nowy Testament","Nowe Przymierze","Księgi Mądrościowe","Pięć Megilot","Prorocy Mniejsi"]
+search_aliases: ["Biblia Toruńska","Toruński Przekład Nowego Przymierza","TPNP","Biblia po polsku","Biblia protestancka","NT","wydanie starsze","format A4"]
 ---

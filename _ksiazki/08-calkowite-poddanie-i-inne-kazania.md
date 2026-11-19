@@ -19,4 +19,7 @@ pages: 112
 format: "14,7 × 21,8 cm"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/Calkowite-poddanie-i-inne-kazania/"
+category: "Życie chrześcijańskie"
+tags: ["poddanie Bogu","posłuszeństwo","kazania","życie duchowe"]
+author_aliases: ["Andrew Murray"]
 ---

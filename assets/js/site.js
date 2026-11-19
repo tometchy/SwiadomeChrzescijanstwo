@@ -23,12 +23,22 @@
   const empty = document.getElementById('no-results');
   const cards = Array.from(grid.querySelectorAll('.book-card'));
   let category = '*';
-  function normalize(s) { return (s || '').toLocaleLowerCase('pl').normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ł/g, 'l'); }
+  function normalize(s) {
+    return String(s || '').toLocaleLowerCase('pl').normalize('NFKD')
+      .replace(/\p{M}/gu, '').replace(/ł/g, 'l')
+      .replace(/[^\p{L}\p{N}]+/gu, ' ').replace(/\s+/g, ' ').trim();
+  }
+  function words(query) { return normalize(query).split(' ').filter(Boolean); }
+  const searchable = new Map(cards.map(card => [card, normalize(card.dataset.search)]));
+  const params = new URLSearchParams(window.location.search);
+  if (input && params.has('q')) input.value = params.get('q') || '';
   function applyFilters() {
-    const search = normalize(input?.value || '').trim();
+    const terms = words(input?.value || '');
     let visible = 0;
     cards.forEach(card => {
-      const matches = (category === '*' || card.dataset.category === category) && normalize(card.dataset.search).includes(search);
+      const haystack = searchable.get(card) || '';
+      const matches = (category === '*' || card.dataset.category === category)
+        && terms.every(term => haystack.includes(term));
       card.hidden = !matches;
       if (matches) visible++;
     });
@@ -36,7 +46,7 @@
       const visibleCards = cards.filter(card => !card.hidden);
       visibleCards.sort((a,b) => {
         if (sort.value === 'title') return a.querySelector('h3').textContent.localeCompare(b.querySelector('h3').textContent, 'pl');
-        if (sort.value === 'author') return a.querySelector('.book-author').textContent.localeCompare(b.querySelector('.book-author').textContent, 'pl');
+        if (sort.value === 'author') return (a.querySelector('.book-author')?.textContent || '').localeCompare(b.querySelector('.book-author')?.textContent || '', 'pl');
         return Number(b.dataset.order || 0) - Number(a.dataset.order || 0);
       });
       visibleCards.forEach(card => grid.appendChild(card));

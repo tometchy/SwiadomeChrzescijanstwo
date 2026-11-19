@@ -10,4 +10,6 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: oprawa twarda
 historical_price: 49 zł
+category: "Życie chrześcijańskie"
+tags: ["Nowe Przymierze","faryzeusze","duchowość","uczniostwo"]
 ---

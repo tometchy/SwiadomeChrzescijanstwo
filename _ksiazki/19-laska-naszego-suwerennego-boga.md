@@ -13,4 +13,7 @@ historical_price: 53 zł
 allegro_url: https://allegro.pl/produkt/laska-naszego-suwerennego-boga-john-g-resinger-a60a74d7-cea7-4ded-8221-8d948fae1499?offerId=14925271447
 cover_url: /assets/img/books/19-laska-naszego-suwerennego-boga.webp
 cover_mode: photo
+category: "Teologia"
+tags: ["łaska","suwerenność Boga","zbawienie","teologia reformowana"]
+author_aliases: ["John G. Reisinger","John G Reisinger"]
 ---

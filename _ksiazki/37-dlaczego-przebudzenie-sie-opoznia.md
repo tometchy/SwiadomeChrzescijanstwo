@@ -13,4 +13,6 @@ historical_price: 38 zł
 allegro_url: https://allegro.pl/produkt/dlaczego-przebudzenie-sie-opoznia-leonard-ravenhill-7a05e006-a999-46e4-975b-eff90ea41ae6?offerId=18449785990
 cover_url: /assets/img/books/37-dlaczego-przebudzenie-sie-opoznia.webp
 cover_mode: photo
+category: "Przebudzenie"
+tags: ["przebudzenie","modlitwa","Kościół","kazania","ewangelizacja"]
 ---

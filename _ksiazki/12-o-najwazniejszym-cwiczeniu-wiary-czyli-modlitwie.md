@@ -21,4 +21,7 @@ binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://bogulandia.pl/product-pol-6664-Podstawowe-nauki-religii-chrzescijanskiej-Institutio-Christianae-Religionis-Ksiega-III-Rozdzial-XX-Jan-Kalwin-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/12-o-najwazniejszym-cwiczeniu-wiary-czyli-modlitwie.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6664-Podstawowe-nauki-religii-chrzescijanskiej-Institutio-Christianae-Religionis-Ksiega-III-Rozdzial-XX-Jan-Kalwin-oprawa-twarda.html"
 ---

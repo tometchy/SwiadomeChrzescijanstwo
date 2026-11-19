@@ -1,74 +1,107 @@
 ---
 layout: default
 ---
-<div class="page-top"><div class="container"><div class="crumbs"><a href="{{ '/' | relative_url }}">Strona główna</a><span>/</span><a href="{% if page.kind == 'broszura' %}{{ '/broszury/' | relative_url }}{% else %}{{ '/ksiazki/' | relative_url }}{% endif %}">{% if page.kind == 'broszura' %}Broszury{% else %}Książki{% endif %}</a><span>/</span>{{ page.title }}</div></div></div>
+{% capture clean_title %}{% include book_title.html item=page %}{% endcapture %}
+<div class="page-top"><div class="container"><div class="crumbs"><a href="{{ '/' | relative_url }}">Strona główna</a><span>/</span><a href="{% if page.kind == 'broszura' %}{{ '/broszury/' | relative_url }}{% else %}{{ '/ksiazki/' | relative_url }}{% endif %}">{% if page.kind == 'broszura' %}Broszury{% else %}Książki{% endif %}</a><span>/</span>{{ clean_title | escape }}</div></div></div>
 <section class="detail-section"><div class="container detail-grid">
- <div class="detail-media">
-   {% assign primary_image = page.cover_url %}
-   {% assign cropped_front = false %}
-   {% if page.cover_url contains '/assets/img/books/' and page.cover_url contains '.webp' %}
-     {% assign primary_image = page.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' %}
-     {% assign cropped_front = true %}
-   {% endif %}
-   {% assign gallery_total = 0 %}
-   {% if primary_image and primary_image != '' %}{% assign gallery_total = 1 %}{% endif %}
-   {% if cropped_front %}{% assign gallery_total = gallery_total | plus: 1 %}{% endif %}
-   {% if page.gallery_images %}{% assign gallery_total = gallery_total | plus: page.gallery_images.size %}{% endif %}
-   <div class="book-gallery" data-book-gallery>
-     <div class="gallery-stage">
-       {% include cover.html item=page %}
-     </div>
-     {% if gallery_total > 1 %}
-     <div class="gallery-controls" role="group" aria-label="Przeglądaj zdjęcia książki">
-       <button type="button" class="gallery-arrow" data-gallery-prev aria-label="Poprzednie zdjęcie">‹</button>
-       <span class="gallery-counter" data-gallery-count aria-live="polite">1 / {{ gallery_total }}</span>
-       <button type="button" class="gallery-arrow" data-gallery-next aria-label="Następne zdjęcie">›</button>
-     </div>
-     <div class="gallery-thumbnails" role="group" aria-label="Wybierz zdjęcie książki">
-       {% if primary_image and primary_image != '' %}
-         {% assign primary_src = primary_image %}
-         {% unless primary_image contains '://' %}{% assign primary_src = primary_image | relative_url %}{% endunless %}
-         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ primary_src | escape }}" data-gallery-alt="Przód okładki: {{ page.title | escape }}" aria-label="Pokaż przód okładki" aria-pressed="true"><img src="{{ primary_src | escape }}" alt="" loading="lazy"></button>
-       {% endif %}
-       {% if cropped_front %}
-         {% assign original_src = page.cover_url %}
-         {% unless page.cover_url contains '://' %}{% assign original_src = page.cover_url | relative_url %}{% endunless %}
-         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ original_src | escape }}" data-gallery-alt="Oryginalne zdjęcie: {{ page.title | escape }}" aria-label="Pokaż oryginalne zdjęcie okładki" aria-pressed="false"><img src="{{ original_src | escape }}" alt="" loading="lazy"></button>
-       {% endif %}
-       {% for image_path in page.gallery_images %}
-         {% assign extra_src = image_path %}
-         {% unless image_path contains '://' %}{% assign extra_src = image_path | relative_url %}{% endunless %}
-         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ extra_src | escape }}" data-gallery-alt="Dodatkowe zdjęcie {{ forloop.index }}: {{ page.title | escape }}" aria-label="Pokaż dodatkowe zdjęcie {{ forloop.index }}" aria-pressed="false"><img src="{{ extra_src | escape }}" alt="" loading="lazy"></button>
-       {% endfor %}
-     </div>
-     {% endif %}
-   </div>
- </div>
- <div class="detail-copy">
-   <h1>{{ page.title }}</h1>
-   {% if page.author and page.author != '-' %}<p class="detail-author">{{ page.author }}</p>{% endif %}
-   <div class="gold-line"></div>
-   {% if page.description and page.description != '' %}<div class="book-description"><h2>Opis</h2><p>{{ page.description }}</p></div>{% endif %}
-   {{ content }}
-   <dl class="details-list">
-     {% if page.isbn %}<div><dt>ISBN</dt><dd>{{ page.isbn }}</dd></div>{% endif %}
-     {% if page.publisher %}<div><dt>Wydawca</dt><dd>{{ page.publisher }}</dd></div>{% endif %}
-     {% if page.publication_year %}<div><dt>Rok wydania</dt><dd>{{ page.publication_year }}</dd></div>{% endif %}
-     {% if page.pages %}<div><dt>Liczba stron</dt><dd>{{ page.pages }}</dd></div>{% endif %}
-     {% if page.binding %}<div><dt>Oprawa</dt><dd>{{ page.binding }}</dd></div>{% endif %}
-     {% if page.format %}<div><dt>Format</dt><dd>{{ page.format }}</dd></div>{% endif %}
-     {% assign edition_text = page.edition_note | downcase %}
-     {% if page.edition_note and edition_text != 'nowość' and edition_text != 'nowosc' and edition_text != 'dodruk' and edition_text != 'wznowienie' %}
-       <div><dt>Edycja</dt><dd>{{ page.edition_note }}</dd></div>
-     {% endif %}
-   </dl>
-   <div class="purchase-panel">
-     {% if page.allegro_url and page.allegro_url != '' %}
-       <a class="btn btn-primary btn-full" href="{{ page.allegro_url }}" target="_blank" rel="noopener noreferrer sponsored">Zobacz na Allegro <span aria-hidden="true">↗</span></a>
-     {% else %}
-       <a class="btn btn-primary btn-full" href="{{ site.data.site.distributor_profile }}" target="_blank" rel="noopener noreferrer sponsored">Oferty dystrybutora na Allegro <span aria-hidden="true">↗</span></a>
-     {% endif %}
-   </div>
- </div>
+  <div class="detail-media">
+    {% assign primary_image = page.cover_url %}
+    {% assign cropped_front = false %}
+    {% if page.cover_url contains '/assets/img/books/' and page.cover_url contains '.webp' %}
+      {% assign primary_image = page.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' %}
+      {% assign cropped_front = true %}
+    {% endif %}
+    {% assign gallery_total = 0 %}
+    {% if primary_image and primary_image != '' %}{% assign gallery_total = 1 %}{% endif %}
+    {% if cropped_front %}{% assign gallery_total = gallery_total | plus: 1 %}{% endif %}
+    {% if page.gallery_images %}{% assign gallery_total = gallery_total | plus: page.gallery_images.size %}{% endif %}
+    <div class="book-gallery" data-book-gallery>
+      <div class="gallery-stage">
+        {% if primary_image and primary_image != '' %}
+          {% assign primary_src = primary_image %}
+          {% unless primary_image contains '://' %}{% assign primary_src = primary_image | relative_url %}{% endunless %}
+          <button type="button" class="gallery-photo-trigger" data-gallery-zoom aria-label="Powiększ zdjęcie książki">
+            <img class="gallery-main-photo" src="{{ primary_src | escape }}" alt="Okładka: {{ clean_title | escape }}" loading="eager">
+            <span class="gallery-zoom-hint" aria-hidden="true">Powiększ ⤢</span>
+          </button>
+        {% else %}
+          {% include cover.html item=page %}
+        {% endif %}
+      </div>
+      {% if gallery_total > 1 %}
+        <div class="gallery-controls" role="group" aria-label="Przeglądaj zdjęcia książki">
+          <button type="button" class="gallery-arrow" data-gallery-prev aria-label="Poprzednie zdjęcie">‹</button>
+          <span class="gallery-counter" data-gallery-count aria-live="polite">1 / {{ gallery_total }}</span>
+          <button type="button" class="gallery-arrow" data-gallery-next aria-label="Następne zdjęcie">›</button>
+        </div>
+        <div class="gallery-thumbnails" role="group" aria-label="Wybierz zdjęcie książki">
+          {% if primary_image and primary_image != '' %}
+            {% assign front_src = primary_image %}
+            {% unless primary_image contains '://' %}{% assign front_src = primary_image | relative_url %}{% endunless %}
+            <button type="button" class="gallery-thumbnail" data-gallery-image="{{ front_src | escape }}" data-gallery-alt="Przód okładki: {{ clean_title | escape }}" aria-label="Przód okładki" aria-pressed="true"><img src="{{ front_src | escape }}" alt="" loading="lazy"></button>
+          {% endif %}
+          {% if cropped_front %}
+            {% assign original_src = page.cover_url %}
+            {% unless page.cover_url contains '://' %}{% assign original_src = page.cover_url | relative_url %}{% endunless %}
+            <button type="button" class="gallery-thumbnail" data-gallery-image="{{ original_src | escape }}" data-gallery-alt="Oryginalne zdjęcie: {{ clean_title | escape }}" aria-label="Oryginalne zdjęcie" aria-pressed="false"><img src="{{ original_src | escape }}" alt="" loading="lazy"></button>
+          {% endif %}
+          {% for image_path in page.gallery_images %}
+            {% assign extra_src = image_path %}
+            {% unless image_path contains '://' %}{% assign extra_src = image_path | relative_url %}{% endunless %}
+            <button type="button" class="gallery-thumbnail" data-gallery-image="{{ extra_src | escape }}" data-gallery-alt="Dodatkowe zdjęcie {{ forloop.index }}: {{ clean_title | escape }}" aria-label="Dodatkowe zdjęcie {{ forloop.index }}" aria-pressed="false"><img src="{{ extra_src | escape }}" alt="" loading="lazy"></button>
+          {% endfor %}
+        </div>
+      {% endif %}
+      {% if primary_image and primary_image != '' %}
+      <dialog class="gallery-lightbox" data-gallery-dialog aria-label="Powiększone zdjęcie książki: {{ clean_title | escape }}">
+        <div class="gallery-lightbox-content">
+          <button type="button" class="gallery-lightbox-close" data-gallery-close aria-label="Zamknij powiększenie">×</button>
+          <img class="gallery-lightbox-photo" data-gallery-modal-image src="{{ primary_src | escape }}" alt="Okładka: {{ clean_title | escape }}">
+          {% if gallery_total > 1 %}
+          <div class="gallery-lightbox-controls">
+            <button type="button" data-gallery-modal-prev aria-label="Poprzednie zdjęcie">‹</button>
+            <span data-gallery-modal-count>1 / {{ gallery_total }}</span>
+            <button type="button" data-gallery-modal-next aria-label="Następne zdjęcie">›</button>
+          </div>
+          {% endif %}
+        </div>
+      </dialog>
+      {% endif %}
+    </div>
+  </div>
+  <div class="detail-copy">
+    <h1>{{ clean_title | escape }}</h1>
+    {% if page.subtitle and page.subtitle != '' %}<p class="book-subtitle">{{ page.subtitle | escape }}</p>{% endif %}
+    {% if page.author and page.author != '-' %}<p class="detail-author">{{ page.author | escape }}</p>{% endif %}
+    <div class="gold-line"></div>
+    {% if page.description and page.description != '' %}<div class="book-description"><h2>Opis książki</h2><p>{{ page.description | escape }}</p></div>{% endif %}
+    {% if content != '' %}<div class="book-additional-copy">{{ content }}</div>{% endif %}
+    <div class="book-facts">
+      <h2>Informacje o wydaniu</h2>
+      <dl class="details-list">
+        {% if page.isbn %}<div><dt>ISBN</dt><dd>{{ page.isbn }}</dd></div>{% endif %}
+        {% if page.publisher %}<div><dt>Wydawca</dt><dd>{{ page.publisher | escape }}</dd></div>{% endif %}
+        {% if page.publication_date %}<div><dt>Data wydania</dt><dd>{{ page.publication_date | escape }}</dd></div>{% elsif page.publication_year %}<div><dt>Rok wydania</dt><dd>{{ page.publication_year }}</dd></div>{% endif %}
+        {% if page.pages %}<div><dt>Liczba stron</dt><dd>{{ page.pages }}</dd></div>{% endif %}
+        {% if page.binding %}<div><dt>Oprawa</dt><dd>{{ page.binding | escape }}</dd></div>{% endif %}
+        {% if page.format %}<div><dt>Format</dt><dd>{{ page.format | escape }}</dd></div>{% endif %}
+        {% if page.edition_label %}<div><dt>Wydanie</dt><dd>{{ page.edition_label | escape }}</dd></div>
+        {% else %}
+          {% assign edition_text = page.edition_note | downcase %}
+          {% if page.edition_note and edition_text != 'nowość' and edition_text != 'nowosc' and edition_text != 'dodruk' and edition_text != 'wznowienie' %}
+            <div><dt>Wydanie</dt><dd>{{ page.edition_note | escape }}</dd></div>
+          {% endif %}
+        {% endif %}
+        {% if page.catalog_number %}<div><dt>Pozycja w katalogu</dt><dd>{{ page.catalog_number }}</dd></div>{% endif %}
+      </dl>
+    </div>
+    <div class="purchase-panel">
+      {% if page.allegro_url and page.allegro_url != '' %}
+        <a class="btn btn-primary btn-full" href="{{ page.allegro_url }}" target="_blank" rel="noopener noreferrer sponsored">Zobacz na Allegro <span aria-hidden="true">↗</span></a>
+      {% else %}
+        <a class="btn btn-primary btn-full" href="{{ site.data.site.distributor_profile }}" target="_blank" rel="noopener noreferrer sponsored">Oferty dystrybutora na Allegro <span aria-hidden="true">↗</span></a>
+      {% endif %}
+    </div>
+  </div>
 </div></section>
 <section class="section section-light"><div class="container"><div class="section-head"><div><h2>Książki</h2></div><a href="{{ '/ksiazki/' | relative_url }}" class="text-link">Cały katalog <span>↗</span></a></div><div class="book-grid related-grid">{% assign related = site.ksiazki | where: 'category', page.category | where_exp: 'b', 'b.url != page.url' | sort: 'sort_order' | reverse %}{% for book in related limit:4 %}{% include book_card.html book=book %}{% endfor %}</div></div></section>

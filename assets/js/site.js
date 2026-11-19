@@ -60,31 +60,53 @@
 })();
 
 
-/* Galeria: miniatury, poprzednie/następne zdjęcie i nawigacja klawiaturą. */
+/* Galeria fotografii: przełączanie i powiększenie bez dodatkowych bibliotek. */
 document.querySelectorAll('[data-book-gallery]').forEach(gallery => {
-  const large = gallery.querySelector('.book-cover > img');
+  const mainPhoto = gallery.querySelector('.gallery-main-photo');
+  if (!mainPhoto) return;
   const thumbnails = Array.from(gallery.querySelectorAll('[data-gallery-image]'));
+  const dialog = gallery.querySelector('[data-gallery-dialog]');
+  const zoomPhoto = gallery.querySelector('[data-gallery-modal-image]');
   const counter = gallery.querySelector('[data-gallery-count]');
-  if (!large || thumbnails.length < 2) return;
+  const modalCounter = gallery.querySelector('[data-gallery-modal-count]');
+  const title = mainPhoto.alt;
+  let index = 0;
+  const images = thumbnails.length
+    ? thumbnails.map(button => ({url: button.dataset.galleryImage, alt: button.dataset.galleryAlt || title}))
+    : [{url: mainPhoto.src, alt: title}];
 
-  let selectedIndex = 0;
-  function show(index) {
-    selectedIndex = (index + thumbnails.length) % thumbnails.length;
-    const selected = thumbnails[selectedIndex];
-    large.src = selected.dataset.galleryImage;
-    large.alt = selected.dataset.galleryAlt || '';
-    large.style.display = 'block';
-    thumbnails.forEach((thumb, i) => thumb.setAttribute('aria-pressed', String(i === selectedIndex)));
-    if (counter) counter.textContent = (selectedIndex + 1) + ' / ' + thumbnails.length;
+  function show(nextIndex) {
+    index = (nextIndex + images.length) % images.length;
+    const item = images[index];
+    mainPhoto.src = item.url;
+    mainPhoto.alt = item.alt;
+    if (zoomPhoto) {
+      zoomPhoto.src = item.url;
+      zoomPhoto.alt = item.alt;
+    }
+    thumbnails.forEach((button, i) => button.setAttribute('aria-pressed', String(i === index)));
+    const progress = (index + 1) + ' / ' + images.length;
+    if (counter) counter.textContent = progress;
+    if (modalCounter) modalCounter.textContent = progress;
   }
-  thumbnails.forEach((thumb, index) => thumb.addEventListener('click', () => show(index)));
-  gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => show(selectedIndex - 1));
-  gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => show(selectedIndex + 1));
-  gallery.addEventListener('keydown', (event) => {
-    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
-    if (!gallery.contains(document.activeElement)) return;
-    event.preventDefault();
-    show(selectedIndex + (event.key === 'ArrowRight' ? 1 : -1));
-    thumbnails[selectedIndex].focus();
+
+  thumbnails.forEach((button, i) => button.addEventListener('click', () => show(i)));
+  gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => show(index - 1));
+  gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => show(index + 1));
+  gallery.querySelector('[data-gallery-zoom]')?.addEventListener('click', () => {
+    if (dialog && !dialog.open) dialog.showModal();
   });
+  gallery.querySelector('[data-gallery-close]')?.addEventListener('click', () => dialog?.close());
+  gallery.querySelector('[data-gallery-modal-prev]')?.addEventListener('click', () => show(index - 1));
+  gallery.querySelector('[data-gallery-modal-next]')?.addEventListener('click', () => show(index + 1));
+  dialog?.addEventListener('click', event => {
+    if (event.target === dialog) dialog.close();
+  });
+  gallery.addEventListener('keydown', event => {
+    if (!['ArrowLeft', 'ArrowRight'].includes(event.key)) return;
+    if (!gallery.contains(document.activeElement) && !dialog?.open) return;
+    event.preventDefault();
+    show(index + (event.key === 'ArrowRight' ? 1 : -1));
+  });
+  show(0);
 });

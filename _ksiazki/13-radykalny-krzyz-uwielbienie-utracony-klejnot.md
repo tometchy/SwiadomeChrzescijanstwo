@@ -17,4 +17,12 @@ cover_url: /assets/img/books/13-radykalny-krzyz-uwielbienie-utracony-klejnot.web
 cover_mode: photo
 cover_source_url: https://szaron.pl/produkt/radykalny-krzyz-oraz-uwielbienie-aiden-w-tozer/
 gallery_images: [/assets/img/books/13-radykalny-krzyz-uwielbienie-utracony-klejnot-photo-2.webp, /assets/img/books/13-radykalny-krzyz-uwielbienie-utracony-klejnot-photo-3.webp]
+description: "Dwa teksty A. W. Tozera dotyczące znaczenia krzyża i uwielbienia Boga w życiu chrześcijańskim."
+isbn: "9788396334237"
+publication_year: 2023
+pages: 74
+format: "14,7 × 21,8 cm"
+binding: "twarda"
+publisher: "Fundacja Świadome Chrześcijaństwo"
+bibliographic_source: "https://szaron.pl/produkt/radykalny-krzyz-oraz-uwielbienie-aiden-w-tozer/"
 ---

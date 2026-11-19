@@ -56,3 +56,11 @@ Podgląd można opublikować z niekompletnym raportem WYŁĄCZNIE wtedy, gdy **w
 - Własne następne zdjęcia można dodać do `gallery_images` w `_ksiazki/*.md`. Każdy wskazany plik powinien rzeczywiście istnieć, najlepiej lokalnie w repozytorium. Nie należy zastępować realnych fotografii grafikami generowanymi.
 - Generator działa podczas CI i publikacji Pages. `.github/workflows/generate-book-fronts.yml` może dodatkowo zapisać utworzone pliki na gałęzi. Dla zdjęć rozłożonych można zmienić współrzędne w `FRONT_CROPS`.
 - Przywrócono oryginalną faviconę z `assets/legacy/swch/favicon.ico`. Linki do pobierania Przekładu Toruńskiego uwzględniają `baseurl` GitHub Pages.
+
+### Tytuły, galeria, okładki i dane wydań
+
+- Nie zmieniamy historycznych `title` w `_ksiazki/*.md`. `_includes/book_title.html` usuwa tylko otaczające cudzysłowy przy renderowaniu. Dodatkowe pola `display_title`, `subtitle`, `card_subtitle` pozwalają oddzielić tytuł główny od wariantu wydania.
+- Zidentyfikowane wydania mają potwierdzone dane `isbn`, `publication_year`, `pages`, `binding`, `format`, `publisher` i krótkie opisy. `bibliographic_source` wskazuje źródło metadanych. Niepotwierdzone wartości nie są dopisywane.
+- Oryginalne zdjęcia pozostają bez zmian. Generator przycina fronty i usuwa cienkie, jednolite pasy skanu; szablony pokazują fronty przy ich naturalnych proporcjach.
+- Kliknięcie zdjęcia otwiera powiększenie. Miniatury i strzałki przełączają zdjęcia; Escape zamyka okno, strzałki na klawiaturze zmieniają zdjęcie.
+- `scripts/make_favicon.py` przekształca **oryginalny** `assets/legacy/swch/favicon.ico` w szarą przezroczystą PNG (`assets/img/favicon-gray-transparent.png`), a nie pobiera białego tła z wswch.pl.

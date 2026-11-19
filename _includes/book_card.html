@@ -6,6 +6,7 @@
   </a>
   <div class="book-card__details">
     <h3><a href="{{ book.url | relative_url }}">{{ clean_book_title | escape }}</a></h3>
-    {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author }}</p>{% endif %}
+    {% if book.card_subtitle %}<p class="book-card-subtitle">{{ book.card_subtitle | escape }}</p>{% endif %}
+    {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author | escape }}</p>{% endif %}
   </div>
 </article>

@@ -94,3 +94,23 @@ def test_favicon_is_gray_and_transparent(tmp_path):
     center = modified.getpixel((32, 32))
     assert center[:3] == (82, 83, 80)
     assert center[3] > 0
+
+
+def test_title_trim_only_in_display_include():
+    templ = (ROOT / "_includes" / "book_title.html").read_text()
+    assert "display_name" in templ
+    assert "first_char" in templ and "last_char" in templ
+    from pathlib import Path
+    source = (ROOT / "_ksiazki" / "50-trylogia-zycie-w-duchowym-zwyciestwie.md").read_text()
+    assert """title: '"TRYLOGIA. Życie w duchowym zwycięstwie"'""" in source
+
+
+def test_book_page_has_lightbox_and_real_bibliographic_fields():
+    html = (ROOT / "_layouts" / "book.html").read_text()
+    js = (ROOT / "assets" / "js" / "site.js").read_text()
+    assert "data-gallery-dialog" in html
+    assert "data-gallery-zoom" in html
+    assert "data-gallery-close" in html
+    assert "ISBN" in html and "Rok wydania" in html and "Liczba stron" in html
+    assert "dialog.showModal()" in js
+    assert "Escape" not in js or "dialog.close()" in js

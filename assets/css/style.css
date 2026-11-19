@@ -366,3 +366,6 @@ body{background:#fffdfa}
   .gallery-lightbox-content{padding:40px 12px 15px}
   .gallery-lightbox-photo{max-height:calc(96vh - 125px)}
   .detail-copy h1{font-size:clamp(28px,7vw,39px)}}
+
+.book-card-subtitle{font-size:12px;line-height:1.5;color:#746d63;margin:2px 0 9px}
+.detail-copy .book-subtitle{max-width:48ch}

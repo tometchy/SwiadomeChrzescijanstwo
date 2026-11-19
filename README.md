@@ -48,3 +48,11 @@ bundle install && bundle exec jekyll build
 Zobacz `DEPLOY_GITHUB_PAGES.md`. URL projektu to `https://tometchy.github.io/SwiadomeChrzescijanstwo/`; nie konfiguruj `CNAME` ani własnego DNS. Repozytorium zostało już ustawione jako publiczne. W `Settings → Pages` wybierz źródło **GitHub Actions**.
 
 Podgląd można opublikować z niekompletnym raportem WYŁĄCZNIE wtedy, gdy **wszystkie pobrane bajty i artykuły są sprawdzone**, a pozostałe błędy ograniczają się do oryginalnych HTTP 404 i udokumentowanych kopii HTML artykułów. Nie oznacza to, że pełna migracja 1:1 została zakończona.
+
+### Obrazy książek, galeria i favicon
+
+- Oryginalne zdjęcia są niezmienione w `assets/img/books/*.webp`. `scripts/generate_book_fronts.py` zapisuje przycięte do frontów pliki w `assets/img/books/fronts/` (bez sztucznego tworzenia okładek).
+- Katalog i strona główna wyświetlają front. Szczegóły książki pokazują galerię: front, niezmienioną fotografię źródłową i wszystkie opcjonalne dodatkowe `gallery_images` z front matter. Strzałki, miniatury i klawisze pozwalają przełączać fotografie.
+- Własne następne zdjęcia można dodać do `gallery_images` w `_ksiazki/*.md`. Każdy wskazany plik powinien rzeczywiście istnieć, najlepiej lokalnie w repozytorium. Nie należy zastępować realnych fotografii grafikami generowanymi.
+- Generator działa podczas CI i publikacji Pages. `.github/workflows/generate-book-fronts.yml` może dodatkowo zapisać utworzone pliki na gałęzi. Dla zdjęć rozłożonych można zmienić współrzędne w `FRONT_CROPS`.
+- Przywrócono oryginalną faviconę z `assets/legacy/swch/favicon.ico`. Linki do pobierania Przekładu Toruńskiego uwzględniają `baseurl` GitHub Pages.

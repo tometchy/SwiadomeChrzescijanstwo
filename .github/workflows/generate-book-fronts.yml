@@ -1,0 +1,41 @@
+name: Generate real front-cover images
+
+on:
+  push:
+    branches:
+      - master
+      - 'fix/**'
+      - 'feature/**'
+    paths:
+      - 'assets/img/books/*.webp'
+      - 'scripts/generate_book_fronts.py'
+      - '.github/workflows/generate-book-fronts.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fronts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install image processor
+        run: python -m pip install 'Pillow>=10,<13'
+      - name: Generate front panels from original local images
+        run: python scripts/generate_book_fronts.py
+      - name: Commit produced images to the same branch
+        shell: bash
+        run: |
+          git add assets/img/books/fronts/
+          if git diff --cached --quiet; then
+            echo 'No new or modified cropped covers.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: store cropped book fronts'
+          git push origin "HEAD:${GITHUB_REF_NAME}"

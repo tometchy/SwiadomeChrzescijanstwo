@@ -4,20 +4,42 @@ layout: default
 <div class="page-top"><div class="container"><div class="crumbs"><a href="{{ '/' | relative_url }}">Strona główna</a><span>/</span><a href="{% if page.kind == 'broszura' %}{{ '/broszury/' | relative_url }}{% else %}{{ '/ksiazki/' | relative_url }}{% endif %}">{% if page.kind == 'broszura' %}Broszury{% else %}Książki{% endif %}</a><span>/</span>{{ page.title }}</div></div></div>
 <section class="detail-section"><div class="container detail-grid">
  <div class="detail-media">
+   {% assign primary_image = page.cover_url %}
+   {% assign cropped_front = false %}
+   {% if page.cover_url contains '/assets/img/books/' and page.cover_url contains '.webp' %}
+     {% assign primary_image = page.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' %}
+     {% assign cropped_front = true %}
+   {% endif %}
+   {% assign gallery_total = 0 %}
+   {% if primary_image and primary_image != '' %}{% assign gallery_total = 1 %}{% endif %}
+   {% if cropped_front %}{% assign gallery_total = gallery_total | plus: 1 %}{% endif %}
+   {% if page.gallery_images %}{% assign gallery_total = gallery_total | plus: page.gallery_images.size %}{% endif %}
    <div class="book-gallery" data-book-gallery>
-     {% include cover.html item=page %}
-     {% if page.gallery_images and page.gallery_images.size > 0 %}
-     <div class="gallery-thumbnails" role="group" aria-label="Zdjęcia książki">
-     {% if page.cover_url and page.cover_url != '' %}
-       {% assign thumb_url = page.cover_url %}
-       {% unless page.cover_url contains '://' %}{% assign thumb_url = page.cover_url | relative_url %}{% endunless %}
-       <button class="gallery-thumbnail" type="button" data-gallery-image="{{ thumb_url }}" aria-label="Pokaż zdjęcie okładki" aria-pressed="true"><img src="{{ thumb_url }}" alt="" loading="lazy"></button>
-     {% endif %}
-     {% for image_path in page.gallery_images %}
-       {% assign photo_url = image_path %}
-       {% unless image_path contains '://' %}{% assign photo_url = image_path | relative_url %}{% endunless %}
-       <button class="gallery-thumbnail" type="button" data-gallery-image="{{ photo_url }}" aria-label="Pokaż zdjęcie książki {{ forloop.index }}" aria-pressed="false"><img src="{{ photo_url }}" alt="" loading="lazy"></button>
-     {% endfor %}
+     <div class="gallery-stage">
+       {% include cover.html item=page %}
+     </div>
+     {% if gallery_total > 1 %}
+     <div class="gallery-controls" role="group" aria-label="Przeglądaj zdjęcia książki">
+       <button type="button" class="gallery-arrow" data-gallery-prev aria-label="Poprzednie zdjęcie">‹</button>
+       <span class="gallery-counter" data-gallery-count aria-live="polite">1 / {{ gallery_total }}</span>
+       <button type="button" class="gallery-arrow" data-gallery-next aria-label="Następne zdjęcie">›</button>
+     </div>
+     <div class="gallery-thumbnails" role="group" aria-label="Wybierz zdjęcie książki">
+       {% if primary_image and primary_image != '' %}
+         {% assign primary_src = primary_image %}
+         {% unless primary_image contains '://' %}{% assign primary_src = primary_image | relative_url %}{% endunless %}
+         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ primary_src | escape }}" data-gallery-alt="Przód okładki: {{ page.title | escape }}" aria-label="Pokaż przód okładki" aria-pressed="true"><img src="{{ primary_src | escape }}" alt="" loading="lazy"></button>
+       {% endif %}
+       {% if cropped_front %}
+         {% assign original_src = page.cover_url %}
+         {% unless page.cover_url contains '://' %}{% assign original_src = page.cover_url | relative_url %}{% endunless %}
+         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ original_src | escape }}" data-gallery-alt="Oryginalne zdjęcie: {{ page.title | escape }}" aria-label="Pokaż oryginalne zdjęcie okładki" aria-pressed="false"><img src="{{ original_src | escape }}" alt="" loading="lazy"></button>
+       {% endif %}
+       {% for image_path in page.gallery_images %}
+         {% assign extra_src = image_path %}
+         {% unless image_path contains '://' %}{% assign extra_src = image_path | relative_url %}{% endunless %}
+         <button class="gallery-thumbnail" type="button" data-gallery-image="{{ extra_src | escape }}" data-gallery-alt="Dodatkowe zdjęcie {{ forloop.index }}: {{ page.title | escape }}" aria-label="Pokaż dodatkowe zdjęcie {{ forloop.index }}" aria-pressed="false"><img src="{{ extra_src | escape }}" alt="" loading="lazy"></button>
+       {% endfor %}
      </div>
      {% endif %}
    </div>

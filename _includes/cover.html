@@ -1,13 +1,17 @@
 {%- assign item = include.item -%}
-{%- assign cover_path = item.cover_url -%}
-{%- if item.cover_url and item.cover_url != '' -%}
-  {%- unless item.cover_url contains '://' -%}
-    {%- assign cover_path = item.cover_url | relative_url -%}
+{%- assign cover_file = item.cover_url -%}
+{%- if item.cover_url contains '/assets/img/books/' and item.cover_url contains '.webp' -%}
+  {%- assign cover_file = item.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' -%}
+{%- endif -%}
+{%- assign cover_path = cover_file -%}
+{%- if cover_file and cover_file != '' -%}
+  {%- unless cover_file contains '://' -%}
+    {%- assign cover_path = cover_file | relative_url -%}
   {%- endunless -%}
 {%- endif -%}
 <div class="book-cover cover-{{ item.cover_mode | default: 'graphic' }} theme-{{ item.category | slugify }}" aria-hidden="true">
   <div class="book-cover-typography"><span class="mini-emblem">✦</span><small>{{ item.author }}</small><strong>{{ item.title }}</strong><span class="publisher-mark">ŚWIADOME CHRZEŚCIJAŃSTWO</span></div>
-  {%- if item.cover_url and item.cover_url != '' -%}
+  {%- if cover_file and cover_file != '' -%}
   <img src="{{ cover_path }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">
   {%- endif -%}
 </div>

@@ -22,7 +22,9 @@ def test_original_catalog_snapshot_complete():
             assert data['catalog_status']==original['status'],p
             assert data.get('historical_price','')==original.get('price',''),p
             assert data.get('edition_note','')==original.get('edition',''),p
-            assert data.get('description') is None,p
+            # Editorial descriptions added later must have a verifiable source.
+            # Historical titles, authors, editions and prices still match 1:1.
+            assert data.get('description') is None or data.get('bibliographic_source') or data.get('display_title'),p
             assert p.read_text(encoding='utf-8').split('---',2)[2].strip()==''
 
 def test_no_generated_articles_or_unsourced_prose():

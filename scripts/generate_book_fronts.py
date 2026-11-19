@@ -25,7 +25,7 @@ def _flat_border(line: Image.Image) -> bool:
     stats = ImageStat.Stat(small.convert("RGB"))
     brightness = sum(stats.mean) / 3
     variance = max(stats.stddev)
-    return variance < 11 and (brightness < 48 or brightness > 225)
+    return variance < 11 and (brightness < 48 or brightness > 225) and (max(stats.mean) - min(stats.mean) < 22)
 
 
 def trim_flat_borders(image: Image.Image) -> Image.Image:

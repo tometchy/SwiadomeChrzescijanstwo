@@ -369,3 +369,8 @@ body{background:#fffdfa}
 
 .book-card-subtitle{font-size:12px;line-height:1.5;color:#746d63;margin:2px 0 9px}
 .detail-copy .book-subtitle{max-width:48ch}
+
+/* W hero sztywna ramka pozostaje na miejscu; fotografia wypełnia ją bez pasków. */
+.hero-book .book-cover.has-image>img{
+  object-fit:cover!important;object-position:center!important;background:transparent!important
+}

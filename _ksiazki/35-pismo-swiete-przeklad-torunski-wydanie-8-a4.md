@@ -19,4 +19,5 @@ description: "Ósme wydanie Przekładu Toruńskiego obejmuje Nowe Przymierze, Ks
 publication_year: 2025
 format: "A4"
 edition_label: "8"
+description_source: catalogue-title
 ---

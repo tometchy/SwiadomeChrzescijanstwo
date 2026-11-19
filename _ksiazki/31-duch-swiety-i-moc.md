@@ -15,4 +15,11 @@ cover_url: /assets/img/books/31-duch-swiety-i-moc.webp
 cover_mode: photo
 gallery_images:
   - /assets/img/books/31-duch-swiety-i-moc-full.jpg
+description: "Wybór nauczania Johna Wesleya o działaniu Ducha Świętego, nowym narodzeniu i przemianie życia wierzącego."
+isbn: "9788396908049"
+publication_year: 2024
+format: "14,5 × 21 cm"
+binding: "twarda"
+publisher: "Fundacja Świadome Chrześcijaństwo"
+bibliographic_source: "https://clc.org.pl/produkt/duch-swiety-i-moc/"
 ---

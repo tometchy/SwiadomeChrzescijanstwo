@@ -1,0 +1,14 @@
+{%- assign display_name = include.item.display_title | default: include.item.title | strip -%}
+{%- assign first_char = display_name | slice: 0, 1 -%}
+{%- assign last_char = display_name | slice: -1, 1 -%}
+{%- if first_char == '"' and last_char == '"' -%}
+  {%- assign display_length = display_name.size | minus: 2 -%}
+  {%- assign display_name = display_name | slice: 1, display_length | strip -%}
+{%- endif -%}
+{%- assign first_char = display_name | slice: 0, 1 -%}
+{%- assign last_char = display_name | slice: -1, 1 -%}
+{%- if first_char == '„' and last_char == '”' -%}
+  {%- assign display_length = display_name.size | minus: 2 -%}
+  {%- assign display_name = display_name | slice: 1, display_length | strip -%}
+{%- endif -%}
+{{- display_name -}}

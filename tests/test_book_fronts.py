@@ -48,7 +48,7 @@ def test_all_download_links_are_relative_to_pages_baseurl():
 
 def test_original_favicon_is_selected():
     source = (ROOT / "_layouts" / "default.html").read_text()
-    assert "/assets/legacy/swch/favicon.ico" in source
+    assert "/assets/img/favicon-gray-transparent.png" in source
     assert '<link rel="icon" href="{{ \'/assets/img/favicon.svg\'' not in source
 
 
@@ -70,3 +70,47 @@ def test_gallery_has_front_original_and_extra_photo_support():
     assert "data-gallery-next" in layout
     assert "data-gallery-image" in layout
     assert "ArrowRight" in script and "ArrowLeft" in script
+
+
+def test_flat_black_and_white_scan_borders_are_trimmed():
+    from PIL import ImageDraw
+    from scripts.generate_book_fronts import trim_flat_borders
+    image = Image.new("RGB", (600, 900), (60, 70, 95))
+    draw = ImageDraw.Draw(image)
+    draw.rectangle((0, 0, 599, 35), fill="black")
+    draw.rectangle((0, 876, 599, 899), fill="white")
+    front = trim_flat_borders(image)
+    assert front.height < image.height
+    assert front.getpixel((10, 10)) == (60, 70, 95)
+
+
+def test_favicon_is_gray_and_transparent(tmp_path):
+    from PIL import ImageDraw
+    from scripts.make_favicon import transparent_gray
+    original = Image.new("RGBA", (64, 64), "white")
+    ImageDraw.Draw(original).ellipse((12, 12, 52, 52), fill=(16, 82, 43, 255))
+    modified = transparent_gray(original)
+    assert modified.getpixel((0, 0))[3] == 0
+    center = modified.getpixel((32, 32))
+    assert center[:3] == (82, 83, 80)
+    assert center[3] > 0
+
+
+def test_title_trim_only_in_display_include():
+    templ = (ROOT / "_includes" / "book_title.html").read_text()
+    assert "display_name" in templ
+    assert "first_char" in templ and "last_char" in templ
+    from pathlib import Path
+    source = (ROOT / "_ksiazki" / "50-trylogia-zycie-w-duchowym-zwyciestwie.md").read_text()
+    assert """title: '"TRYLOGIA. Życie w duchowym zwycięstwie"'""" in source
+
+
+def test_book_page_has_lightbox_and_real_bibliographic_fields():
+    html = (ROOT / "_layouts" / "book.html").read_text()
+    js = (ROOT / "assets" / "js" / "site.js").read_text()
+    assert "data-gallery-dialog" in html
+    assert "data-gallery-zoom" in html
+    assert "data-gallery-close" in html
+    assert "ISBN" in html and "Rok wydania" in html and "Liczba stron" in html
+    assert "dialog.showModal()" in js
+    assert "Escape" not in js or "dialog.close()" in js

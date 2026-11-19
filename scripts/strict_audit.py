@@ -27,7 +27,11 @@ def validate(require_import=False):
                     for field,original in (('title','title'),('author','author'),('catalog_status','status')):
                         if data.get(field)!=ref[n].get(original):errors.append(f'{p}: {field} różni się od odczytu katalogu')
                 if require_import and not data.get('source_text_verified'):errors.append(f'{p}: katalog niezweryfikowany z HTML')
-                if data.get('description') or raw.split('---',2)[2].strip():errors.append(f'{p}: nieudokumentowany opis')
+                # New editorial descriptions are allowed only with explicit source provenance.
+                if raw.split('---',2)[2].strip():
+                    errors.append(f'{p}: niezidentyfikowana treść poza metadanymi')
+                if data.get('description') and not (data.get('bibliographic_source') or data.get('description_source') == 'catalogue-title'):
+                    errors.append(f'{p}: nieudokumentowany opis')
                 if data.get('source_provenance') not in ('original-downloaded-html','web-catalog-snapshot-2026-11-17'):errors.append(f'{p}: pochodzenie niejasne')
             except Exception as exc:errors.append(f'{p}: {exc}')
     for p in (ROOT/'_artykuly').glob('*.md'):

@@ -1,4 +1,5 @@
 {%- assign item = include.item -%}
+{%- capture clean_title -%}{%- include book_title.html item=item -%}{%- endcapture -%}
 {%- assign cover_file = item.cover_url -%}
 {%- if item.cover_url contains '/assets/img/books/' and item.cover_url contains '.webp' -%}
   {%- assign cover_file = item.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' -%}
@@ -9,8 +10,8 @@
     {%- assign cover_path = cover_file | relative_url -%}
   {%- endunless -%}
 {%- endif -%}
-<div class="book-cover cover-{{ item.cover_mode | default: 'graphic' }} theme-{{ item.category | slugify }}" aria-hidden="true">
-  <div class="book-cover-typography"><span class="mini-emblem">✦</span><small>{{ item.author }}</small><strong>{{ item.title }}</strong><span class="publisher-mark">ŚWIADOME CHRZEŚCIJAŃSTWO</span></div>
+<div class="book-cover{% if cover_file and cover_file != '' %} has-image{% endif %} cover-{{ item.cover_mode | default: 'graphic' }} theme-{{ item.category | slugify }}" aria-hidden="true">
+  <div class="book-cover-typography"><span class="mini-emblem">✦</span><small>{{ item.author }}</small><strong>{{ clean_title | escape }}</strong><span class="publisher-mark">ŚWIADOME CHRZEŚCIJAŃSTWO</span></div>
   {%- if cover_file and cover_file != '' -%}
   <img src="{{ cover_path }}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.style.display='none'">
   {%- endif -%}

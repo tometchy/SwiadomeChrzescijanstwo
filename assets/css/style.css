@@ -314,3 +314,63 @@ body{background:#fffdfa}
 .book-gallery .gallery-thumbnails{gap:10px;max-width:100%}
 .book-gallery .gallery-thumbnail{flex:0 0 auto}
 @media(max-width:650px){.gallery-controls{gap:14px}.book-gallery{gap:14px}}
+
+/* Karty: zachowanie naturalnych proporcji przyciętych okładek zamiast obcinania tekstu i pasków. */
+.book-card .book-cover.has-image{
+  height:auto!important;width:min(165px,95%)!important;display:block;line-height:0;
+  overflow:visible;background:transparent;flex:none;align-self:center;
+}
+.book-card .book-cover.has-image::before,.book-card .book-cover.has-image::after{display:none}
+.book-card .book-cover.has-image .book-cover-typography{display:none}
+.book-card .book-cover.has-image>img{
+  position:static!important;display:block!important;inset:auto!important;
+  width:100%!important;height:auto!important;max-width:100%!important;
+  object-fit:unset!important;transform:none;border-radius:1px;background:transparent!important
+}
+.book-card__image{align-items:center;justify-content:center}
+.book-card__image:hover .book-cover.has-image{transform:translateY(-7px) rotate(-1deg)}
+/* Zdjęcie na szczegółach dopasowuje się do naturalnego formatu fotografii. */
+.book-gallery .gallery-stage{min-height:0;width:100%;max-width:100%;display:flex;justify-content:center;align-items:center}
+.gallery-photo-trigger{display:inline-flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:0;border:0;background:transparent;cursor:zoom-in;max-width:100%;width:auto;position:relative}
+.gallery-photo-trigger .gallery-main-photo{
+  display:block;position:static!important;inset:auto!important;
+  width:auto!important;height:auto!important;max-width:min(100%,440px)!important;
+  max-height:445px;object-fit:contain;object-position:center;
+  background:transparent!important;border:1px solid rgba(45,42,37,.17);
+  box-shadow:13px 18px 29px rgba(59,52,41,.25);
+}
+.gallery-zoom-hint{position:absolute;bottom:10px;right:8px;padding:5px 10px;
+  border-radius:2px;background:rgba(32,32,31,.79);color:#fff;font-size:11px;opacity:0;transition:opacity .2s}
+.gallery-photo-trigger:hover .gallery-zoom-hint,.gallery-photo-trigger:focus-visible .gallery-zoom-hint{opacity:1}
+.gallery-lightbox{position:fixed;inset:0;margin:auto;padding:0;border:0;border-radius:3px;
+  width:min(96vw,1160px);max-width:96vw;max-height:96vh;background:transparent;overflow:visible;color:#fff}
+.gallery-lightbox::backdrop{background:rgba(20,20,19,.90)}
+.gallery-lightbox-content{position:relative;display:flex;flex-direction:column;align-items:center;gap:12px;
+  justify-content:center;max-width:100%;max-height:96vh;padding:34px 46px 20px}
+.gallery-lightbox-photo{display:block;width:auto;height:auto;max-width:100%;max-height:calc(96vh - 112px);object-fit:contain}
+.gallery-lightbox-close{position:absolute;right:5px;top:0;width:38px;height:38px;border:0;background:rgba(0,0,0,.55);
+  color:white;font-size:30px;line-height:1;border-radius:50%}
+.gallery-lightbox-controls{display:flex;align-items:center;justify-content:center;gap:20px;color:#fff;font-size:12px}
+.gallery-lightbox-controls button{height:36px;width:42px;border:1px solid #bbb;background:#222;color:#fff;font-size:27px;line-height:1}
+.gallery-lightbox-controls button:hover,.gallery-lightbox-close:hover{background:#555}
+.book-subtitle{font-family:var(--serif);font-size:clamp(18px,2vw,26px);line-height:1.4;color:#686056;margin:0 0 20px}
+.detail-copy h1{font-size:clamp(30px,3vw,45px);overflow-wrap:break-word;letter-spacing:-.025em;line-height:1.2}
+.book-facts{margin-top:31px;border-top:1px solid #e3d8c9;padding-top:20px}
+.book-facts h2{font-size:24px;margin:0 0 18px}
+.book-facts .details-list{margin-top:0}
+.book-description{margin:16px 0 23px}
+.book-description p{font-size:15px;line-height:1.85;white-space:pre-line}
+@media(max-width:900px){.book-card .book-cover.has-image{width:min(165px,90%)!important}}
+@media(max-width:650px){.book-card .book-cover.has-image{width:min(135px,90%)!important}
+  .gallery-lightbox-content{padding:40px 12px 15px}
+  .gallery-lightbox-photo{max-height:calc(96vh - 125px)}
+  .detail-copy h1{font-size:clamp(28px,7vw,39px)}}
+
+.book-card-subtitle{font-size:12px;line-height:1.5;color:#746d63;margin:2px 0 9px}
+.detail-copy .book-subtitle{max-width:48ch}
+
+/* W hero sztywna ramka pozostaje na miejscu; fotografia wypełnia ją bez pasków. */
+.hero-book .book-cover.has-image>img{
+  object-fit:cover!important;object-position:center!important;background:transparent!important
+}

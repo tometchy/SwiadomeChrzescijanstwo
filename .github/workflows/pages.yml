@@ -44,6 +44,8 @@ jobs:
           echo 'This GitHub Pages preview contains all verified captured material. Previously dead links remain recorded in migration-report.json.' >> "$GITHUB_STEP_SUMMARY"
       - name: Generate authentic cropped book covers
         run: python3 scripts/generate_book_fronts.py
+      - name: Convert original favicon to gray transparent PNG
+        run: python3 scripts/make_favicon.py
       - name: Ruby
         uses: ruby/setup-ruby@v1
         with:

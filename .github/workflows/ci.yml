@@ -31,6 +31,8 @@ jobs:
           if [ -f migration-report.json ]; then python scripts/verify_reachable.py; fi
       - name: Generate authentic front covers before preview
         run: python scripts/generate_book_fronts.py
+      - name: Regenerate transparent favicon
+        run: python scripts/make_favicon.py
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'

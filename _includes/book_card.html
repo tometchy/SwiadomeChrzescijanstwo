@@ -1,10 +1,12 @@
 {%- assign book = include.book -%}
+{%- capture clean_book_title -%}{%- include book_title.html item=book -%}{%- endcapture -%}
 <article class="book-card" data-search="{{ book.title | escape }} {{ book.author | escape }}" data-category="{{ book.category | escape }}" data-kind="{{ book.kind }}" data-order="{{ book.sort_order | default: 0 }}">
-  <a class="book-card__image" href="{{ book.url | relative_url }}" aria-label="Zobacz: {{ book.title | escape }}">
+  <a class="book-card__image" href="{{ book.url | relative_url }}" aria-label="Zobacz: {{ clean_book_title | escape }}">
     {% include cover.html item=book %}
   </a>
   <div class="book-card__details">
-    <h3><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h3>
-    {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author }}</p>{% endif %}
+    <h3><a href="{{ book.url | relative_url }}">{{ clean_book_title | escape }}</a></h3>
+    {% if book.card_subtitle %}<p class="book-card-subtitle">{{ book.card_subtitle | escape }}</p>{% endif %}
+    {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author | escape }}</p>{% endif %}
   </div>
 </article>

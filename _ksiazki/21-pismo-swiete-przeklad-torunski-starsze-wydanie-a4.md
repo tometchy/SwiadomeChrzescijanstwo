@@ -10,4 +10,8 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: nowość
 historical_price: 115 zł
+display_title: "Pismo Święte. Przekład Toruński"
+subtitle: "Nowego Przymierza oraz Księgi Mądrościowe, Księgi Pięciu Megilot i Proroków Mniejszych"
+card_subtitle: "Format A4"
+format: "A4"
 ---

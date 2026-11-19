@@ -66,4 +66,6 @@ def test_all_local_product_images_exist_and_galleries_have_local_assets():
             assert (ROOT / image.lstrip("/")).is_file(), (path, image)
             extra_images += 1
     assert with_cover >= 35
-    assert extra_images >= 13
+    # Po usunięciu omyłkowo pobranych zdjęć innych tytułów
+    # pozostaje pięć zweryfikowanych ujęć (w tym pełna obwoluta).
+    assert extra_images == 5

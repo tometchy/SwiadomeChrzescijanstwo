@@ -64,3 +64,11 @@ Podgląd można opublikować z niekompletnym raportem WYŁĄCZNIE wtedy, gdy **w
 - Oryginalne zdjęcia pozostają bez zmian. Generator przycina fronty i usuwa cienkie, jednolite pasy skanu; szablony pokazują fronty przy ich naturalnych proporcjach.
 - Kliknięcie zdjęcia otwiera powiększenie. Miniatury i strzałki przełączają zdjęcia; Escape zamyka okno, strzałki na klawiaturze zmieniają zdjęcie.
 - `scripts/make_favicon.py` przekształca **oryginalny** `assets/legacy/swch/favicon.ico` w szarą przezroczystą PNG (`assets/img/favicon-gray-transparent.png`), a nie pobiera białego tła z wswch.pl.
+
+### Wyszukiwanie i metadane publikacji
+
+- Każda z 41 książek ma co najmniej dwa tematyczne `tags` i właściwą kategorię. Przekłady Biblii mają aliasy: *Biblia*, *Pismo Święte*, *TNP*, *Przekład Toruński*, *Nowy Testament* itd.
+- Katalog przeszukuje tytuł, podtytuł, opis, autora i warianty nazwiska, słowa kluczowe, tagi, ISBN, kategorię, rok, wydawcę, oprawę, format, wydanie i tekst książki. Kolejność wyrazów i polskie znaki nie wpływają na wynik.
+- Tagi na karcie szczegółów prowadzą do `/ksiazki/?q=tag`. Nie ma potrzeby dublowania tytułów ani zmieniania historycznych danych archiwalnych.
+- Rzeczywiste okładki bezpiecznie odnawiane są z listy konkretnych, zweryfikowanych stron produktów (`scripts/verified_cover_sources.yml`). `scripts/fetch_verified_cover_photos.py` sprawdza tytuł i wydawcę strony, pobiera wyłącznie jej zdjęcia produktu, zapisuje lokalne WebP i uzupełnia metadane tylko po udanym pobraniu. Niepowodzenie nie powoduje użycia zdjęcia nieodpowiedniego wydania. Nie rusza istniejących zdjęć.
+- Obsługa wielu zdjęć jest w `gallery_images`; generator frontów działa następnie na nowych, pobranych plikach.

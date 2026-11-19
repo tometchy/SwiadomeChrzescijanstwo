@@ -1,0 +1,27 @@
+# Only product pages confirmed to describe this publisher's edition.
+# The photo importer never substitutes a different book or a generic stock image.
+- book: 02-zycie-przez-jego-smierc
+  page: https://bogulandia.pl/product-pol-6268-Zycie-przez-Jego-smierc-Studium-Biblijne-na-temat-zakresu-odkupienia-John-Owen.html
+  title: Życie przez Jego śmierć
+  image: https://bogulandia.pl/hpeciai/74e5c120af7a4404eadf06270507c504/pol_pm_Zycie-przez-Jego-smierc-Studium-Biblijne-na-temat-zakresu-odkupienia-John-Owen-6268_1.jpg
+- book: 03-niezwykly-chrzescijanin
+  page: https://szaron.pl/produkt/niezwykly-chrzescijanin-tozer/
+  title: Niezwykły Chrześcijanin
+- book: 04-wszystko-z-laski
+  page: https://szaron.pl/produkt/Wszystko-z-laski-Charles-Spurgeon/
+  title: Wszystko z łaski
+- book: 05-kleczac-zwyciezamy-tom-i
+  page: https://szaron.pl/produkt/Kleczac-zwyciezamy-t-1-Edwin-i-Lillian-Harvey/
+  title: Klęcząc zwyciężamy
+- book: 06-atrybuty-boga
+  page: https://szaron.pl/produkt/atrybuty-boga/
+  title: Atrybuty Boga
+- book: 13-radykalny-krzyz-uwielbienie-utracony-klejnot
+  page: https://szaron.pl/produkt/radykalny-krzyz-oraz-uwielbienie-aiden-w-tozer/
+  title: Radykalny krzyż
+- book: 16-w-cieniu-wszechmogacego
+  page: https://szaron.pl/produkt/W-cieniu-Wszechmogacego-Elizabeth-Elliot/
+  title: W cieniu Wszechmogącego
+- book: 30-kobieta-jadaca-na-bestii
+  page: https://szaron.pl/produkt/kobieta-jadaca-na-bestii/
+  title: Kobieta jadąca na Bestii

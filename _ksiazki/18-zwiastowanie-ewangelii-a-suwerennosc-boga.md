@@ -12,4 +12,13 @@ historical_price: 32 zł
 category: "Ewangelizacja"
 tags: ["ewangelizacja","suwerenność Boga","zbawienie","teologia reformowana"]
 author_aliases: ["James Innell Packer","J. I. Packer"]
+isbn: "9788395699856"
+publication_year: 2021
+pages: 98
+format: "140 × 210 mm"
+binding: "twarda"
+publisher: "Fundacja Świadome Chrześcijaństwo"
+description: "James I. Packer przedstawia relację między głoszeniem ewangelii, ludzką odpowiedzialnością a suwerennością Boga."
+bibliographic_source: "https://bogulandia.pl/product-pol-6271-Zwiastowanie-ewangelii-a-suwerennosc-Boga-James-Packer.html"
+description_source: "retailer"
 ---

@@ -13,4 +13,13 @@ historical_price: 56 zł
 category: "Apologetyka"
 tags: ["psychologia","Kościół","apologetyka","poradnictwo chrześcijańskie"]
 author_aliases: ["Dave Hunt","T. A. McMahon","Thomas A. McMahon"]
+isbn: "9788396908018"
+publication_year: 2024
+pages: 408
+format: "165 × 240 mm"
+binding: "twarda"
+publisher: "Fundacja Świadome Chrześcijaństwo"
+description: "Dave Hunt i T. A. McMahon krytycznie analizują przenikanie teorii psychologicznych do nauczania i poradnictwa chrześcijańskiego."
+bibliographic_source: "https://bogulandia.pl/product-pol-7169-Psychologia-i-kosciol-Dave-Hunt-T-A-McMahom-oprawa-twarda.html"
+description_source: "retailer"
 ---

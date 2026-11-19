@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -74,6 +75,25 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
+      - name: Verify Pages artifact is visible to GitHub API
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          for attempt in $(seq 1 12); do
+            count=$(gh api "repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts" --jq '[.artifacts[] | select(.name == "github-pages")] | length' || echo 0)
+            if [ "$count" = "1" ]; then
+              echo 'One published artifact is now visible to GitHub API.'
+              exit 0
+            fi
+            if [ "$count" != "0" ]; then
+              echo "::error::Expected one github-pages artifact, got $count"
+              exit 1
+            fi
+            sleep 5
+          done
+          echo "::error::Uploaded github-pages artifact was not queryable after retries"
+          exit 1
       - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4

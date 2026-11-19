@@ -21,5 +21,5 @@ bibliographic_source: "https://szaron.pl/produkt/Wszystko-z-laski-Charles-Spurge
 cover_url: /assets/img/books/04-wszystko-z-laski.webp
 cover_mode: photo
 cover_source_url: https://szaron.pl/produkt/Wszystko-z-laski-Charles-Spurgeon/
-gallery_images: [/assets/img/books/04-wszystko-z-laski-photo-2.webp, /assets/img/books/04-wszystko-z-laski-photo-3.webp]
+gallery_images: [/assets/img/books/04-wszystko-z-laski-photo-2.webp]
 ---

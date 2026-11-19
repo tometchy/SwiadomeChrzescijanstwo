@@ -21,5 +21,5 @@ bibliographic_source: "https://szaron.pl/produkt/W-cieniu-Wszechmogacego-Elizabe
 cover_url: /assets/img/books/16-w-cieniu-wszechmogacego.webp
 cover_mode: photo
 cover_source_url: https://szaron.pl/produkt/W-cieniu-Wszechmogacego-Elizabeth-Elliot/
-gallery_images: [/assets/img/books/16-w-cieniu-wszechmogacego-photo-2.webp, /assets/img/books/16-w-cieniu-wszechmogacego-photo-3.webp]
+gallery_images: [/assets/img/books/16-w-cieniu-wszechmogacego-photo-2.webp]
 ---

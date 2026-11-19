@@ -24,5 +24,4 @@ bibliographic_source: "https://szaron.pl/produkt/niezwykly-chrzescijanin-tozer/"
 cover_url: /assets/img/books/03-niezwykly-chrzescijanin.webp
 cover_mode: photo
 cover_source_url: https://szaron.pl/produkt/niezwykly-chrzescijanin-tozer/
-gallery_images: [/assets/img/books/03-niezwykly-chrzescijanin-photo-2.webp, /assets/img/books/03-niezwykly-chrzescijanin-photo-3.webp]
 ---

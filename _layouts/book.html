@@ -11,9 +11,11 @@ layout: default
       {% assign primary_image = page.cover_url | replace: '/assets/img/books/', '/assets/img/books/fronts/' %}
       {% assign cropped_front = true %}
     {% endif %}
+    {% assign show_original = false %}
+    {% if cropped_front and page.cover_mode == 'wrap' %}{% assign show_original = true %}{% endif %}
     {% assign gallery_total = 0 %}
     {% if primary_image and primary_image != '' %}{% assign gallery_total = 1 %}{% endif %}
-    {% if cropped_front %}{% assign gallery_total = gallery_total | plus: 1 %}{% endif %}
+    {% if show_original %}{% assign gallery_total = gallery_total | plus: 1 %}{% endif %}
     {% if page.gallery_images %}{% assign gallery_total = gallery_total | plus: page.gallery_images.size %}{% endif %}
     <div class="book-gallery" data-book-gallery>
       <div class="gallery-stage">
@@ -40,7 +42,7 @@ layout: default
             {% unless primary_image contains '://' %}{% assign front_src = primary_image | relative_url %}{% endunless %}
             <button type="button" class="gallery-thumbnail" data-gallery-image="{{ front_src | escape }}" data-gallery-alt="Przód okładki: {{ clean_title | escape }}" aria-label="Przód okładki" aria-pressed="true"><img src="{{ front_src | escape }}" alt="" loading="lazy"></button>
           {% endif %}
-          {% if cropped_front %}
+          {% if show_original %}
             {% assign original_src = page.cover_url %}
             {% unless page.cover_url contains '://' %}{% assign original_src = page.cover_url | relative_url %}{% endunless %}
             <button type="button" class="gallery-thumbnail" data-gallery-image="{{ original_src | escape }}" data-gallery-alt="Oryginalne zdjęcie: {{ clean_title | escape }}" aria-label="Oryginalne zdjęcie" aria-pressed="false"><img src="{{ original_src | escape }}" alt="" loading="lazy"></button>
@@ -74,6 +76,18 @@ layout: default
     {% if page.subtitle and page.subtitle != '' %}<p class="book-subtitle">{{ page.subtitle | escape }}</p>{% endif %}
     {% if page.author and page.author != '-' %}<p class="detail-author">{{ page.author | escape }}</p>{% endif %}
     <div class="gold-line"></div>
+    {% assign edition_flag = page.edition_note | downcase %}
+    {% if page.historical_price or page.edition_note or page.catalog_status == 'brak' or page.catalog_status == 'nowość' %}
+    <div class="book-catalog-summary" aria-label="Dane z katalogu wydawnictwa">
+      {% if page.historical_price and page.historical_price != '' %}
+        <div class="book-catalog-price"><span>Cena katalogowa</span><strong>{{ page.historical_price | escape }}</strong></div>
+      {% endif %}
+      {% if page.catalog_status == 'brak' %}<span class="book-catalog-status book-catalog-status--unavailable">Brak wg katalogu</span>
+      {% elsif page.catalog_status == 'nowość' or edition_flag == 'nowość' or edition_flag == 'nowosc' %}<span class="book-catalog-status">Nowość</span>{% endif %}
+      {% if page.edition_note and edition_flag != 'nowość' and edition_flag != 'nowosc' %}<span class="book-catalog-edition">{{ page.edition_note | escape }}</span>{% endif %}
+    </div>
+    <p class="book-catalog-note">Dane z <a href="https://wswch.pl/" target="_blank" rel="noopener noreferrer">katalogu wydawnictwa</a>. Ceny i oznaczenia dostępności są informacjami katalogowymi, a nie aktualną ofertą Allegro.</p>
+    {% endif %}
     {% if page.description and page.description != '' %}<div class="book-description"><h2>Opis książki</h2><p>{{ page.description | escape }}</p></div>{% endif %}
     {% if content != '' %}<div class="book-additional-copy">{{ content }}</div>{% endif %}
     {% if page.tags and page.tags.size > 0 %}

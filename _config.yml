@@ -43,6 +43,9 @@ plugins:
 - jekyll-sitemap
 - jekyll-feed
 collections:
+  piesni:
+    output: true
+    permalink: /spiewnik/piesni/:name/
   ksiazki:
     output: true
     permalink: /ksiazki/:name/
@@ -56,6 +59,11 @@ collections:
     output: true
     permalink: /archiwum/:name/
 defaults:
+- scope:
+    path: ''
+    type: piesni
+  values:
+    layout: song
 - scope:
     path: ''
     type: ksiazki

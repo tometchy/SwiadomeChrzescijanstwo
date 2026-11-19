@@ -19,6 +19,7 @@
     <button class="nav-toggle" type="button" aria-controls="primary-nav" aria-expanded="false" aria-label="Otwórz menu"><span></span><span></span><span></span></button>
     <nav class="primary-nav" id="primary-nav" aria-label="Nawigacja główna">
       <a href="{{ '/' | relative_url }}" {% if page.url == '/' %}aria-current="page"{% endif %}>Strona główna</a>
+      <a href="{{ '/spiewnik/' | relative_url }}" {% if page.url contains '/spiewnik/' %}aria-current="page"{% endif %}>Śpiewnik</a>
       <a href="{{ '/ksiazki/' | relative_url }}" {% if page.url contains '/ksiazki/' %}aria-current="page"{% endif %}>Książki</a>
       <a href="{{ '/czytelnia/' | relative_url }}" {% if page.url contains '/czytelnia/' or page.url contains '/broszury/' %}aria-current="page"{% endif %}>Czytelnia</a>
       <a href="{{ '/przeklad-torunski/' | relative_url }}" {% if page.url contains '/przeklad-torunski/' %}aria-current="page"{% endif %}>Przekład Toruński</a>
@@ -32,7 +33,7 @@
 <footer class="site-footer">
  <div class="container footer-grid">
    <div><a class="footer-brand" href="{{ '/' | relative_url }}" aria-label="Świadome Chrześcijaństwo — strona główna"><img src="{{ '/assets/img/legacy-logo.jpg' | relative_url }}" width="271" height="77" alt="Wydawnictwo Świadome Chrześcijaństwo — Literatura i Klasyka Chrześcijańska" loading="lazy"></a></div>
-   <div><h3>Odkrywaj</h3><a href="{{ '/archiwum/' | relative_url }}">Archiwum</a><a href="{{ '/ksiazki/' | relative_url }}">Katalog książek</a><a href="{{ '/czytelnia/' | relative_url }}">Artykuły i traktaty</a><a href="{{ '/broszury/' | relative_url }}">Broszury</a><a href="{{ '/przeklad-torunski/' | relative_url }}">Przekład Toruński</a></div>
+   <div><h3>Odkrywaj</h3><a href="{{ '/archiwum/' | relative_url }}">Archiwum</a><a href="{{ '/ksiazki/' | relative_url }}">Katalog książek</a><a href="{{ '/spiewnik/' | relative_url }}">Śpiewnik zborowy</a><a href="{{ '/czytelnia/' | relative_url }}">Artykuły i traktaty</a><a href="{{ '/broszury/' | relative_url }}">Broszury</a><a href="{{ '/przeklad-torunski/' | relative_url }}">Przekład Toruński</a></div>
    <div><h3>Informacje</h3><a href="{{ '/o-nas/' | relative_url }}">O wydawnictwie</a><a href="{{ '/fundacja/' | relative_url }}">Fundacja</a><a href="{{ '/kontakt/' | relative_url }}">Kontakt</a><a href="{{ '/polityka-prywatnosci/' | relative_url }}">Prywatność</a></div>
    <div><h3>Napisz do nas</h3><a class="footer-email" href="mailto:{{ site.data.site.publisher_email }}">{{ site.data.site.publisher_email }} ↗</a></div>
  </div>

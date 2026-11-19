@@ -25,8 +25,8 @@
   let category = '*';
   function normalize(s) {
     return String(s || '').toLocaleLowerCase('pl').normalize('NFKD')
-      .replace(/[\\u0300-\\u036f]/g, '').replace(/ł/g, 'l')
-      .replace(/[^\\p{L}\\p{N}]+/gu, ' ').replace(/\\s+/g, ' ').trim();
+      .replace(/\p{M}/gu, '').replace(/ł/g, 'l')
+      .replace(/[^\p{L}\p{N}]+/gu, ' ').replace(/\s+/g, ' ').trim();
   }
   function words(query) { return normalize(query).split(' ').filter(Boolean); }
   const searchable = new Map(cards.map(card => [card, normalize(card.dataset.search)]));

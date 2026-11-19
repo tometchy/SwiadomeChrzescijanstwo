@@ -1,0 +1,83 @@
+name: Issue 1 — recover missing legacy source candidates
+on:
+  push:
+    branches: [fix/issue-1-source-recovery]
+    paths:
+      - 'scripts/recover_missing.py'
+      - 'scripts/preserve_recovered.py'
+      - 'tests/test_recover_missing.py'
+      - 'tests/test_preserve_recovered.py'
+      - '.github/workflows/recover-missing.yml'
+  pull_request:
+    paths:
+      - 'scripts/recover_missing.py'
+      - 'tests/test_recover_missing.py'
+      - '.github/workflows/recover-missing.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  recovery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --disable-pip-version-check requests pytest PyYAML beautifulsoup4
+      - name: Verify downloaded sources and 50 byte-exact fallback documents
+        run: |
+          python -m pytest -q tests/test_recover_missing.py
+          python scripts/verify_reachable.py
+          python scripts/strict_audit.py
+      - name: Recover sources from alternate host and Wayback, with SHA-256 evidence
+        run: |
+          python scripts/recover_missing.py --root . --output recovery-output --max-items 109 --workers 3
+      - name: Save recovery artifacts for reviewed import
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: issue-1-source-recovery
+          path: recovery-output/
+          retention-days: 30
+          if-no-files-found: warn
+
+  preserve_historical:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/fix/issue-1-source-recovery'
+    needs: recovery
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      actions: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/issue-1-source-recovery
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install requests pytest
+      - name: Verify historical preservation logic
+        run: python -m pytest -q tests/test_preserve_recovered.py
+      - name: Download earlier source recovery artifacts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: tometchy/SwiadomeChrzescijanstwo
+        run: |
+          mkdir -p /tmp/legacy-first /tmp/legacy-second /tmp/legacy-third
+          gh run download 44484255703 -n issue-1-source-recovery -D /tmp/legacy-first
+          gh run download 44484496543 -n issue-1-source-recovery -D /tmp/legacy-second
+          gh run download 44485044296 -n issue-1-source-recovery -D /tmp/legacy-third
+      - name: Store only 14 evidence-stamped historical files, never overwrite original HTML
+        run: |
+          python scripts/preserve_recovered.py --root . /tmp/legacy-first /tmp/legacy-second /tmp/legacy-third
+      - name: Commit quarantined sources to the PR branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add _historical_sources/
+          if ! git diff --cached --quiet; then
+            git commit -m 'Preserve Wayback source evidence separately without affecting 1:1 migration'
+            git push origin HEAD:fix/issue-1-source-recovery
+          fi

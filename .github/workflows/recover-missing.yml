@@ -1,0 +1,36 @@
+name: Issue 1 — recover missing legacy source candidates
+on:
+  pull_request:
+    paths:
+      - 'scripts/recover_missing.py'
+      - 'tests/test_recover_missing.py'
+      - '.github/workflows/recover-missing.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  recovery:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install --disable-pip-version-check requests pytest PyYAML beautifulsoup4
+      - name: Verify downloaded sources and 50 byte-exact fallback documents
+        run: |
+          python -m pytest -q tests/test_recover_missing.py
+          python scripts/verify_reachable.py
+          python scripts/strict_audit.py
+      - name: Recover sources from alternate host and Wayback, with SHA-256 evidence
+        run: |
+          python scripts/recover_missing.py --root . --output recovery-output --max-items 109 --workers 3
+      - name: Save recovery artifacts for reviewed import
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: issue-1-source-recovery
+          path: recovery-output/
+          retention-days: 30
+          if-no-files-found: warn

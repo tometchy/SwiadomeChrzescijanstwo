@@ -18,7 +18,9 @@ import requests
 ROOT=Path(__file__).resolve().parents[1]
 HOSTS={"swch.pl","www.swch.pl","wswch.pl","www.wswch.pl"}
 BAD=(b"please wait while your request is being verified", b"cf-chl-", b"just a moment...",
-     b"checking your browser",b"attention required! | cloudflare")
+     b"checking your browser",b"attention required! | cloudflare", b"administrative quarantine",
+     b"blocked because of admin action", b"your system administrator has blocked",
+     b"the wayback machine has not archived that url", b"this url has been excluded")
 
 
 def source_path(url):

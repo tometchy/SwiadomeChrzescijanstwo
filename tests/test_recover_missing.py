@@ -19,6 +19,7 @@ def test_alternate_hostname():
 def test_not_accepting_captcha_or_fake_pdf():
     assert not m.valid_bytes(b"Please wait while your request is being verified","https://swch.pl/a.html","page","text/html")
     assert not m.valid_bytes(b"<html>Cloudflare</html>","https://swch.pl/x.pdf","asset","text/html")
+    assert not m.valid_bytes(b"<html><title>Administrative Quarantine</title><body>Blocked because of admin action</body></html>","https://swch.pl/biblia/index.html","page","text/html")
     assert m.valid_bytes(b"%PDF-1.4\n","https://swch.pl/x.pdf","asset","application/pdf")
     assert m.valid_bytes(b"<html><body>ABC</body></html>","https://swch.pl/a.html","page","text/html")
 

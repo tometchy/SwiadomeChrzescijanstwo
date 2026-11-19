@@ -60,16 +60,31 @@
 })();
 
 
-/* Galeria zdjęć książki: progresywne ulepszenie bez bibliotek */
+/* Galeria: miniatury, poprzednie/następne zdjęcie i nawigacja klawiaturą. */
 document.querySelectorAll('[data-book-gallery]').forEach(gallery => {
   const large = gallery.querySelector('.book-cover > img');
-  if (!large) return;
-  const thumbnails = gallery.querySelectorAll('button[data-gallery-image]');
-  thumbnails.forEach(button => button.addEventListener('click', () => {
-    const url = button.dataset.galleryImage;
-    if (!url) return;
-    large.src = url;
+  const thumbnails = Array.from(gallery.querySelectorAll('[data-gallery-image]'));
+  const counter = gallery.querySelector('[data-gallery-count]');
+  if (!large || thumbnails.length < 2) return;
+
+  let selectedIndex = 0;
+  function show(index) {
+    selectedIndex = (index + thumbnails.length) % thumbnails.length;
+    const selected = thumbnails[selectedIndex];
+    large.src = selected.dataset.galleryImage;
+    large.alt = selected.dataset.galleryAlt || '';
     large.style.display = 'block';
-    thumbnails.forEach(thumb => thumb.setAttribute('aria-pressed', String(thumb === button)));
-  }));
+    thumbnails.forEach((thumb, i) => thumb.setAttribute('aria-pressed', String(i === selectedIndex)));
+    if (counter) counter.textContent = (selectedIndex + 1) + ' / ' + thumbnails.length;
+  }
+  thumbnails.forEach((thumb, index) => thumb.addEventListener('click', () => show(index)));
+  gallery.querySelector('[data-gallery-prev]')?.addEventListener('click', () => show(selectedIndex - 1));
+  gallery.querySelector('[data-gallery-next]')?.addEventListener('click', () => show(selectedIndex + 1));
+  gallery.addEventListener('keydown', (event) => {
+    if (event.key !== 'ArrowLeft' && event.key !== 'ArrowRight') return;
+    if (!gallery.contains(document.activeElement)) return;
+    event.preventDefault();
+    show(selectedIndex + (event.key === 'ArrowRight' ? 1 : -1));
+    thumbnails[selectedIndex].focus();
+  });
 });

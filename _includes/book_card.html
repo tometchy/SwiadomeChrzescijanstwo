@@ -6,6 +6,5 @@
   <div class="book-card__details">
     <h3><a href="{{ book.url | relative_url }}">{{ book.title }}</a></h3>
     {% if book.author and book.author != '-' %}<p class="book-author">{{ book.author }}</p>{% endif %}
-    <div class="book-actions"><a class="link-strong" href="{{ book.url | relative_url }}">Zobacz książkę <span aria-hidden="true">→</span></a></div>
   </div>
 </article>

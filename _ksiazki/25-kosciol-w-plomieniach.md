@@ -20,4 +20,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "Paul B. Smith omawia potrzebę duchowego odrodzenia Kościoła, warunki przebudzenia i jego wpływ na codzienne życie chrześcijan."
 bibliographic_source: "https://bogulandia.pl/product-pol-6956-Kosciol-w-Plomieniach-Paul-B-Smith-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/25-kosciol-w-plomieniach.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6956-Kosciol-w-Plomieniach-Paul-B-Smith-oprawa-twarda.html"
 ---

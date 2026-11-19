@@ -22,4 +22,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "Dave Hunt i T. A. McMahon krytycznie analizują przenikanie teorii psychologicznych do nauczania i poradnictwa chrześcijańskiego."
 bibliographic_source: "https://bogulandia.pl/product-pol-7169-Psychologia-i-kosciol-Dave-Hunt-T-A-McMahom-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/28-psychologia-i-kosciol.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-7169-Psychologia-i-kosciol-Dave-Hunt-T-A-McMahom-oprawa-twarda.html"
 ---

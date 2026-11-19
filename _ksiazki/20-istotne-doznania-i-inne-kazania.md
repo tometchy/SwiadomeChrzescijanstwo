@@ -21,4 +21,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "Zbiór kazań Jonathana Edwardsa o doświadczeniach duchowych, przebudzeniu i rozpoznawaniu rzeczywistego działania Bożego."
 bibliographic_source: "https://bogulandia.pl/product-pol-6666-Istotne-doznania-i-inne-kazania-Jonathan-Edwards-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/20-istotne-doznania-i-inne-kazania.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6666-Istotne-doznania-i-inne-kazania-Jonathan-Edwards-oprawa-twarda.html"
 ---

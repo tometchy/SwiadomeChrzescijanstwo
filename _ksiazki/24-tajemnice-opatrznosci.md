@@ -20,4 +20,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "John Flavel rozważa Bożą opatrzność, prowadzenie i troskę o człowieka w różnych okolicznościach życia."
 bibliographic_source: "https://bogulandia.pl/product-pol-6832-Tajemnice-opatrznosci-John-Flavel-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/24-tajemnice-opatrznosci.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6832-Tajemnice-opatrznosci-John-Flavel-oprawa-twarda.html"
 ---

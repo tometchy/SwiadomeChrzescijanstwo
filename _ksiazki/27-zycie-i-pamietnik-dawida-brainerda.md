@@ -22,4 +22,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "Życie i pamiętnik Dawida Brainerda, misjonarza wśród rdzennych mieszkańców Ameryki Północnej, ukazują jego służbę i osobiste zmagania."
 bibliographic_source: "https://bogulandia.pl/product-pol-7168-Zycie-i-Pamietnik-Dawida-Brainerda-Jonathan-Edwards-oprawa-twarda.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/27-zycie-i-pamietnik-dawida-brainerda.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-7168-Zycie-i-Pamietnik-Dawida-Brainerda-Jonathan-Edwards-oprawa-twarda.html"
 ---

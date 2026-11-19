@@ -21,4 +21,7 @@ publisher: "Fundacja Świadome Chrześcijaństwo"
 description: "James I. Packer przedstawia relację między głoszeniem ewangelii, ludzką odpowiedzialnością a suwerennością Boga."
 bibliographic_source: "https://bogulandia.pl/product-pol-6271-Zwiastowanie-ewangelii-a-suwerennosc-Boga-James-Packer.html"
 description_source: "retailer"
+cover_url: "/assets/img/books/18-zwiastowanie-ewangelii-a-suwerennosc-boga.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6271-Zwiastowanie-ewangelii-a-suwerennosc-Boga-James-Packer.html"
 ---

@@ -19,4 +19,7 @@ format: "140 × 210 mm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://bogulandia.pl/product-pol-6662-Przebudzenie-ktorego-potrzebujemy-Oswald-J-Smith-oprawa-twarda.html"
+cover_url: "/assets/img/books/09-przebudzenie-ktorego-potrzebujemy.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-6662-Przebudzenie-ktorego-potrzebujemy-Oswald-J-Smith-oprawa-twarda.html"
 ---

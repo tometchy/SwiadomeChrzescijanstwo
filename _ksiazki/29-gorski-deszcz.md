@@ -21,4 +21,7 @@ format: "150 × 220 mm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://bogulandia.pl/product-pol-7305-Gorski-deszcz-Biografia-Jamesa-Frasera-Misjonarza-pioniera-w-Chinach-Eileen-Fraser-Crosman.html"
+cover_url: "/assets/img/books/29-gorski-deszcz.webp"
+cover_mode: "photo"
+cover_source_url: "https://bogulandia.pl/product-pol-7305-Gorski-deszcz-Biografia-Jamesa-Frasera-Misjonarza-pioniera-w-Chinach-Eileen-Fraser-Crosman.html"
 ---

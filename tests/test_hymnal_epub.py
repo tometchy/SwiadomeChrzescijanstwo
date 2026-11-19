@@ -45,7 +45,7 @@ def test_generated_epub_package():
         assert z.namelist()[0] == "mimetype"
         assert z.infolist()[0].compress_type == ZIP_STORED
         assert z.read("mimetype") == b"application/epub+zip"
-        assert len(re.findall(r"^OEBPS/\\d{3}\\.xhtml$", "\n".join(names), flags=re.M)) == 449
+        assert len(re.findall(r"^OEBPS/\d{3}\.xhtml$", "\n".join(names), flags=re.M)) == 449
         assert "OEBPS/nav.xhtml" in names
         for number in (1, 100, 300, 449):
             page = z.read(f"OEBPS/{number:03}.xhtml").decode("utf-8")

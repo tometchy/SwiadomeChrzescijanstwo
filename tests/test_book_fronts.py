@@ -57,3 +57,16 @@ def test_book_cards_have_no_duplicate_link():
     assert "Zobacz książkę" not in source
     assert 'class="book-card__image"' in source
     assert "<h3><a" in source
+
+
+def test_gallery_has_front_original_and_extra_photo_support():
+    layout = (ROOT / "_layouts" / "book.html").read_text()
+    cover = (ROOT / "_includes" / "cover.html").read_text()
+    script = (ROOT / "assets" / "js" / "site.js").read_text()
+    assert "assets/img/books/fronts/" in layout
+    assert "assets/img/books/fronts/" in cover
+    assert "page.gallery_images" in layout
+    assert "data-gallery-prev" in layout
+    assert "data-gallery-next" in layout
+    assert "data-gallery-image" in layout
+    assert "ArrowRight" in script and "ArrowLeft" in script

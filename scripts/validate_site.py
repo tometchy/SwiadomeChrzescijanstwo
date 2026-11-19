@@ -37,7 +37,7 @@ for collection in ['_ksiazki', '_broszury', '_artykuly']:
         if data.get('imported_from_legacy') and not data.get('source_url'):
             errors.append(f'{f}: brak adresu źródłowego starego artykułu')
 for file in sorted(ROOT.rglob('*')):
-    if not file.is_file() or any(x in file.parts for x in ('_source_archive', 'archiwum', '_large_parts', 'assets', '.git', '.venv', '_site', 'vendor', 'node_modules')):
+    if not file.is_file() or any(x in file.parts for x in ('_source_archive', '_historical_sources', 'archiwum', '_large_parts', 'assets', '.git', '.venv', '_site', 'vendor', 'node_modules')):
         continue
     if file.suffix in ('.md','.html'):
         try:

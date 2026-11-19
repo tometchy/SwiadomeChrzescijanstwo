@@ -77,7 +77,7 @@ layout: default
     {% if page.author and page.author != '-' %}<p class="detail-author">{{ page.author | escape }}</p>{% endif %}
     <div class="gold-line"></div>
     {% assign edition_flag = page.edition_note | downcase %}
-    {% if page.historical_price or page.catalog_status != '' or page.edition_note %}
+    {% if page.historical_price or page.edition_note or page.catalog_status == 'brak' or page.catalog_status == 'nowość' %}
     <div class="book-catalog-summary" aria-label="Dane z katalogu wydawnictwa">
       {% if page.historical_price and page.historical_price != '' %}
         <div class="book-catalog-price"><span>Cena katalogowa</span><strong>{{ page.historical_price | escape }}</strong></div>

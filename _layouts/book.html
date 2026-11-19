@@ -76,6 +76,13 @@ layout: default
     <div class="gold-line"></div>
     {% if page.description and page.description != '' %}<div class="book-description"><h2>Opis książki</h2><p>{{ page.description | escape }}</p></div>{% endif %}
     {% if content != '' %}<div class="book-additional-copy">{{ content }}</div>{% endif %}
+    {% if page.tags and page.tags.size > 0 %}
+    <div class="book-tag-list" aria-label="Tematy książki">
+      {% for tag in page.tags %}
+        <a class="book-tag" href="{{ '/ksiazki/' | relative_url }}?q={{ tag | url_encode }}" title="Znajdź książki: {{ tag | escape }}">{{ tag | escape }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
     <div class="book-facts">
       <h2>Informacje o wydaniu</h2>
       <dl class="details-list">

@@ -374,3 +374,11 @@ body{background:#fffdfa}
 .hero-book .book-cover.has-image>img{
   object-fit:cover!important;object-position:center!important;background:transparent!important
 }
+
+/* Editorial search tags: neutral and deliberately secondary to book details. */
+.book-tag-list{display:flex;flex-wrap:wrap;gap:8px;margin:22px 0 24px}
+.book-tag{display:inline-flex;padding:5px 11px;border:1px solid #ddd4c6;border-radius:22px;
+  background:#faf7f1;color:#625b51;font-size:12px;line-height:1.65;transition:background .15s}
+.book-tag:hover,.book-tag:focus-visible{background:#eee4d7;color:#302c28}
+.catalog-search-wrap{max-width:440px}
+@media(max-width:650px){.catalog-search-wrap{width:100%;max-width:none}}

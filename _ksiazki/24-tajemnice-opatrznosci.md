@@ -9,4 +9,6 @@ source_url: https://www.wswch.pl/
 source_provenance: original-downloaded-html
 source_text_verified: true
 historical_price: 38 zł
+category: "Życie chrześcijańskie"
+tags: ["opatrzność Boża","Boże prowadzenie","wiara","zaufanie Bogu"]
 ---

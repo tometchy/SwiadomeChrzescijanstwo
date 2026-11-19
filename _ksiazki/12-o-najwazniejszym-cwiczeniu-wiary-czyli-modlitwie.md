@@ -9,4 +9,7 @@ source_url: https://www.wswch.pl/
 source_provenance: original-downloaded-html
 source_text_verified: true
 historical_price: 32 zł
+category: "Modlitwa"
+tags: ["modlitwa","Jan Kalwin","reformacja","nauka chrześcijańska"]
+author_aliases: ["John Calvin","Jean Calvin"]
 ---

@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: wydanie rozszerzone
 historical_price: 39 zł
+category: "Życie chrześcijańskie"
+tags: ["krzyż","uwielbienie","duchowość","życie chrześcijańskie"]
+author_aliases: ["Aiden Wilson Tozer","Aiden W. Tozer"]
 ---

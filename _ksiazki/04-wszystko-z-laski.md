@@ -10,4 +10,12 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: trzecie wydanie
 historical_price: 38 zł
+category: "Teologia"
+tags: ["łaska","zbawienie","ewangelia","chrześcijaństwo"]
+description: "Charles H. Spurgeon wyjaśnia łaskę Bożą prostym językiem, ilustrując rozważania przykładami z codziennego życia."
+publication_year: 2021
+pages: 92
+format: "14,7 × 21,8 cm"
+publisher: "Fundacja Świadome Chrześcijaństwo"
+bibliographic_source: "https://szaron.pl/produkt/Wszystko-z-laski-Charles-Spurgeon/"
 ---

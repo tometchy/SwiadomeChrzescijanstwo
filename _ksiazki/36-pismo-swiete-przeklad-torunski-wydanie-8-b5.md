@@ -20,4 +20,7 @@ publication_year: 2025
 format: "B5"
 edition_label: "8"
 description_source: catalogue-title
+category: "Biblie"
+tags: ["Biblia","Pismo Święte","Przekład Toruński","TNP","Nowy Testament","Nowe Przymierze","Księgi Tory","Księgi Mądrościowe","Pięć Megilot","Prorocy Mniejsi"]
+search_aliases: ["Biblia Toruńska","Toruński Przekład Nowego Przymierza","TPNP","Biblia po polsku","Biblia protestancka","NT","wydanie ósme","wydanie 8","format B5"]
 ---

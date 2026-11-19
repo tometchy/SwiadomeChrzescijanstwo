@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: nowość
 historical_price: 56 zł
+category: "Apologetyka"
+tags: ["psychologia","Kościół","apologetyka","poradnictwo chrześcijańskie"]
+author_aliases: ["Dave Hunt","T. A. McMahon","Thomas A. McMahon"]
 ---

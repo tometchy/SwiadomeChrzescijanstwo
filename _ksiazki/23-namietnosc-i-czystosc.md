@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: nowość
 historical_price: 48 zł
+category: "Życie chrześcijańskie"
+tags: ["czystość","relacje","miłość","przygotowanie do małżeństwa"]
+author_aliases: ["Elizabeth Elliot"]
 ---

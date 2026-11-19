@@ -10,4 +10,6 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: drugie wydanie
 historical_price: 50 zł
+category: "Życie chrześcijańskie"
+tags: ["Boże obietnice","wiara","pocieszenie","rozważania"]
 ---

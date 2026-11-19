@@ -1,6 +1,15 @@
 {%- assign book = include.book -%}
 {%- capture clean_book_title -%}{%- include book_title.html item=book -%}{%- endcapture -%}
-<article class="book-card" data-search="{{ book.title | escape }} {{ book.author | escape }}" data-category="{{ book.category | escape }}" data-kind="{{ book.kind }}" data-order="{{ book.sort_order | default: 0 }}">
+{%- capture search_text -%}
+  {{ book.title }} {{ book.display_title }} {{ book.subtitle }} {{ book.card_subtitle }}
+  {{ book.author }} {{ book.author_aliases | join: ' ' }}
+  {{ book.description | strip_html }} {{ book.content | strip_html }}
+  {{ book.tags | join: ' ' }} {{ book.search_aliases | join: ' ' }}
+  {{ book.isbn }} {{ book.publisher }} {{ book.publication_year }} {{ book.publication_date }}
+  {{ book.binding }} {{ book.format }} {{ book.edition_note }} {{ book.edition_label }}
+  {{ book.catalog_number }} {{ book.category }} {{ book.kind }}
+{%- endcapture -%}
+<article class="book-card" data-search="{{ search_text | normalize_whitespace | escape }}" data-tags="{{ book.tags | join: ', ' | escape }}" data-category="{{ book.category | escape }}" data-kind="{{ book.kind }}" data-order="{{ book.sort_order | default: 0 }}">
   <a class="book-card__image" href="{{ book.url | relative_url }}" aria-label="Zobacz: {{ clean_book_title | escape }}">
     {% include cover.html item=book %}
   </a>

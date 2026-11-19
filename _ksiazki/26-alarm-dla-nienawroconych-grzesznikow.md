@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: wznowienie
 historical_price: 38 zł
+category: "Ewangelizacja"
+tags: ["nawrócenie","ewangelizacja","grzech","pokuta"]
+author_aliases: ["Joseph Alleine","Joseph Allein"]
 ---

@@ -21,4 +21,6 @@ format: "14,7 × 21,8 cm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/piecdziesiat-cech-faryzeuszow/"
+category: "Życie chrześcijańskie"
+tags: ["faryzeusze","obłuda religijna","duchowość","uczniostwo","Nowe Przymierze"]
 ---

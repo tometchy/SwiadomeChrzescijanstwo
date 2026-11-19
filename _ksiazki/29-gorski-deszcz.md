@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: Nowość
 historical_price: 42 zł
+category: "Biografie"
+tags: ["misje","biografia","świadectwo","chrześcijaństwo"]
+search_aliases: ["James Fraser","J. O. Fraser"]
 ---

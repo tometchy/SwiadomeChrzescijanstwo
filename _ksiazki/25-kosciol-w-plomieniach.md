@@ -9,4 +9,6 @@ source_url: https://www.wswch.pl/
 source_provenance: original-downloaded-html
 source_text_verified: true
 historical_price: 36 zł
+category: "Historia Kościoła"
+tags: ["Kościół","historia Kościoła","chrześcijaństwo","świadectwo"]
 ---

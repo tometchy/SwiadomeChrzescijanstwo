@@ -22,4 +22,6 @@ format: "14,5 × 21 cm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://clc.org.pl/produkt/duch-swiety-i-moc/"
+category: "Duch Święty"
+tags: ["Duch Święty","moc Boża","John Wesley","życie duchowe"]
 ---

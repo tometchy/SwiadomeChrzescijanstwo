@@ -21,4 +21,7 @@ format: "14,7 × 21,8 cm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/dwa-przymierza-i-drugie-blogoslaw-andrew-murray/"
+category: "Teologia"
+tags: ["Nowe Przymierze","Stare Przymierze","Duch Święty","teologia","obietnice Boże"]
+author_aliases: ["Andrew Murray"]
 ---

@@ -13,4 +13,7 @@ historical_price: 41 zł
 allegro_url: https://allegro.pl/produkt/mieszkaj-w-chrystusie-i-pokora-klejnot-swietych-andrew-murray-ec38af17-7512-43b6-b5b0-92d2c87c4b80?offerId=16411757457
 cover_url: /assets/img/books/17-mieszkaj-w-chrystusie-pokora-klejnot-swietych.webp
 cover_mode: photo
+category: "Życie chrześcijańskie"
+tags: ["pokora","życie w Chrystusie","duchowość","uświęcenie"]
+author_aliases: ["Andrew Murray"]
 ---

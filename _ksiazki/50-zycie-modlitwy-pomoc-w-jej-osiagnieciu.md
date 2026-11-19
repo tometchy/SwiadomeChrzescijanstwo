@@ -21,4 +21,7 @@ format: "14,7 × 21,8 cm"
 binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/zycie-modlitwy/"
+category: "Modlitwa"
+tags: ["modlitwa","życie modlitewne","wiara","duchowość"]
+author_aliases: ["Andrew Murray"]
 ---

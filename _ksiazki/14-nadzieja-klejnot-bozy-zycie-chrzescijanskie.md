@@ -10,4 +10,7 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: Dodruk
 historical_price: 41 zł
+category: "Życie chrześcijańskie"
+tags: ["nadzieja","wiara","życie chrześcijańskie","John Bunyan"]
+author_aliases: ["John Bunyan"]
 ---

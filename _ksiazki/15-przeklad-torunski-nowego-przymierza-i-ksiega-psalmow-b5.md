@@ -10,4 +10,8 @@ source_provenance: original-downloaded-html
 source_text_verified: true
 edition_note: trzecie wydanie
 historical_price: 32 zł
+category: "Biblie"
+tags: ["Biblia","Pismo Święte","Przekład Toruński","TNP","Nowy Testament","Nowe Przymierze","Psalmy"]
+search_aliases: ["Biblia Toruńska","Toruński Przekład Nowego Przymierza","TPNP","Biblia po polsku","Biblia protestancka","NT","Psalmów","biblia b5"]
+format: "B5"
 ---

@@ -40,6 +40,10 @@ jobs:
           bundler-cache: true
       - name: Budowanie statycznego Jekylla (bez publikacji)
         run: bundle exec jekyll build --trace
+      - name: Generate and verify EPUB from Jekyll output
+        run: |
+          python scripts/build_hymnal_epub.py --site _site
+          python -m pytest -q tests/test_hymnal_epub.py
       - name: Downloadable site preview (not a published website)
         uses: actions/upload-artifact@v4
         with:

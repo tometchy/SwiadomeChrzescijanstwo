@@ -57,6 +57,8 @@ jobs:
         run: bundle exec jekyll build --trace
         env:
           JEKYLL_ENV: production
+      - name: Generate EPUB from Jekyll-rendered songs
+        run: python3 scripts/build_hymnal_epub.py --site _site
       - name: Restore exact archived HTML and assets outside Jekyll template processing
         run: |
           # Jekyll renders archiwum/index.html as the navigation page.

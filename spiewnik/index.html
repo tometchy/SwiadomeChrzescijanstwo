@@ -1,0 +1,31 @@
+---
+layout: default
+title: Śpiewnik zborowy — Toruń
+description: 449 pieśni zborowych. Czytaj pieśni online albo pobierz cały śpiewnik w formacie EPUB.
+permalink: /spiewnik/
+---
+<section class="hymnal-hero"><div class="container">
+<span class="eyebrow eyebrow-dark">PIEŚNI ZBOROWE</span>
+<h1>Śpiewnik zborowy — Toruń</h1>
+<p>Wybierz pieśń z listy lub wyszukaj ją po numerze, tytule albo tekście. Wszystkie {{ site.piesni.size }} pieśni można także pobrać jako jeden plik EPUB.</p>
+<div class="hymnal-actions">
+<a class="btn btn-primary" href="{{ '/spiewnik/Spiewnik-Torun.epub' | relative_url }}" download>Pobierz śpiewnik EPUB <span aria-hidden="true">↓</span></a>
+<a class="btn btn-outline" href="#lista-piesni">Czytaj online</a>
+</div></div></section>
+<section class="hymnal-section" id="lista-piesni"><div class="container">
+<div class="hymnal-toolbar">
+<label class="sr-only" for="hymnal-search">Szukaj według numeru, tytułu lub tekstu pieśni</label>
+<input id="hymnal-search" class="hymnal-search" type="search" placeholder="Szukaj numeru, tytułu lub słów pieśni…" autocomplete="off">
+<span class="hymnal-counter" id="hymnal-count" aria-live="polite">{{ site.piesni.size }} pieśni</span>
+</div>
+<ol class="hymnal-list" id="hymnal-list">
+{% assign ordered_songs = site.piesni | sort: 'number' %}
+{% for song in ordered_songs %}
+<li data-hymnal-item data-number="{{ song.number }}" data-search="{{ song.title | append: ' ' | append: song.content | strip_html | normalize_whitespace | escape }}">
+<a href="{{ song.url | relative_url }}"><span class="hymnal-number">{{ song.number }}.</span><span class="hymnal-name">{{ song.title | escape }}</span></a>
+</li>
+{% endfor %}
+</ol>
+<p class="hymnal-empty" id="hymnal-empty" hidden>Nie znaleziono pieśni. Spróbuj innego słowa lub numeru.</p>
+</div></section>
+<script defer src="{{ '/assets/js/hymnal.js' | relative_url }}"></script>

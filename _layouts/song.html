@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{% assign all_songs = site.piesni | sort: 'number' %}
+{% assign prev_number = page.number | minus: 1 %}
+{% assign next_number = page.number | plus: 1 %}
+{% assign prev_song = all_songs | where: 'number', prev_number | first %}
+{% assign next_song = all_songs | where: 'number', next_number | first %}
+<section class="hymnal-song-layout"><div class="container">
+<article class="hymnal-song-page" data-epub-song="{{ page.number }}">
+<nav class="hymnal-crumbs" aria-label="Ścieżka"><a href="{{ '/spiewnik/' | relative_url }}">Śpiewnik</a> / Pieśń {{ page.number }}</nav>
+<div class="hymnal-kicker">PIEŚŃ NR {{ page.number }}</div>
+<h1>{{ page.title | escape }}</h1>
+<div class="hymnal-lyrics" data-epub-lyrics>{{ content }}</div>
+<nav class="hymnal-song-nav" aria-label="Przeglądaj pieśni">
+{% if prev_song %}<a href="{{ prev_song.url | relative_url }}">← {{ prev_song.number }}. Poprzednia</a>{% else %}<span></span>{% endif %}
+<a href="{{ '/spiewnik/' | relative_url }}">Wszystkie pieśni</a>
+{% if next_song %}<a href="{{ next_song.url | relative_url }}">Następna {{ next_song.number }}. →</a>{% else %}<span></span>{% endif %}
+</nav>
+<p class="hymnal-song-download"><a href="{{ '/spiewnik/Spiewnik-Torun.epub' | relative_url }}" download>Pobierz cały śpiewnik w EPUB</a></p>
+</article></div></section>

@@ -19,4 +19,11 @@ pages: 130
 format: "14,7 × 21,8 cm"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/Kleczac-zwyciezamy-t-1-Edwin-i-Lillian-Harvey/"
+cover_url: /assets/img/books/05-kleczac-zwyciezamy-tom-i.webp
+...
+cover_mode: photo
+...
+cover_source_url: https://szaron.pl/produkt/Kleczac-zwyciezamy-t-1-Edwin-i-Lillian-Harvey/
+...
+gallery_images: [/assets/img/books/05-kleczac-zwyciezamy-tom-i-photo-2.webp, /assets/img/books/05-kleczac-zwyciezamy-tom-i-photo-3.webp]
 ---

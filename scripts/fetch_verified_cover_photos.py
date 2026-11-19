@@ -14,6 +14,7 @@ from urllib.parse import urljoin, urlsplit
 import re
 import unicodedata
 import hashlib
+import json
 import time
 
 from bs4 import BeautifulSoup
@@ -88,8 +89,7 @@ def append_frontmatter(markdown: Path, fields: dict) -> None:
     for key, value in fields.items():
         if re.search(r"^" + re.escape(key) + r":", front, flags=re.M):
             continue
-        lines.append(key + ": " + yaml.safe_dump(value, allow_unicode=True,
-                                                   default_flow_style=True, width=500).strip())
+        lines.append(key + ": " + json.dumps(value, ensure_ascii=False))
     if lines:
         markdown.write_text(match.group(1) + "\n" + "\n".join(lines) + match.group(2) +
                             raw[match.end():], encoding="utf-8")

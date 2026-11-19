@@ -23,10 +23,7 @@ bibliographic_source: "https://bogulandia.pl/product-pol-6268-Zycie-przez-Jego-s
 subtitle: "Studium biblijne na temat zakresu odkupienia"
 description_source: "retailer"
 cover_url: /assets/img/books/02-zycie-przez-jego-smierc.webp
-...
 cover_mode: photo
-...
 cover_source_url: https://bogulandia.pl/product-pol-6268-Zycie-przez-Jego-smierc-Studium-Biblijne-na-temat-zakresu-odkupienia-John-Owen.html
-...
 gallery_images: [/assets/img/books/02-zycie-przez-jego-smierc-photo-2.webp]
 ---

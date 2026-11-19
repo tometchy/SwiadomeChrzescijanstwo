@@ -22,9 +22,6 @@ binding: "twarda"
 publisher: "Fundacja Świadome Chrześcijaństwo"
 bibliographic_source: "https://szaron.pl/produkt/atrybuty-boga/"
 cover_url: /assets/img/books/06-atrybuty-boga.webp
-...
 cover_mode: photo
-...
 cover_source_url: https://szaron.pl/produkt/atrybuty-boga/
-...
 ---

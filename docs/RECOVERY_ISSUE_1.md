@@ -37,3 +37,12 @@ migracji. Powrót HTTP 200 z ekranu Cloudflare nie jest uznawany za sukces.
 
 **Nie wpisywać pustych zastępczych stron, generowanych PDF-ów ani 
 wymyślonych treści, aby uzyskać zielony wynik audytu.**
+
+## Trwałe zabezpieczenie 14 historycznych kopii
+
+Na osobnej gałęzi PR działa zadanie `preserve_historical`, które odtwarza
+unikalne, zweryfikowane bajty z trzech pierwszych przebiegów. Przenosi je do
+`_historical_sources/candidates/` oraz tworzy `_historical_sources/manifest.json`.
+Ten katalog jest jawnie wykluczony z publikacji Jekyll. Nie nadpisuje
+`_source_archive` ani `archiwum`, a manifest nie oznacza żadnego źródła
+jako identycznego ze stroną w dniu migracji.

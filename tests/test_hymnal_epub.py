@@ -54,3 +54,38 @@ def test_generated_epub_package():
             assert meta["title"] in page.replace("&amp;", "&")
         ElementTree.fromstring(z.read("OEBPS/package.opf"))
         ElementTree.fromstring(z.read("OEBPS/nav.xhtml"))
+
+
+
+def test_cover_and_reader_friendly_toc():
+    assert EPUB.is_file(), "EPUB must be generated from the Jekyll output"
+    cover_source = ROOT / "assets/img/spiewnik/okladka.jpg"
+    assert cover_source.is_file()
+    with ZipFile(EPUB) as z:
+        names = set(z.namelist())
+        assert "OEBPS/cover.jpg" in names
+        assert z.read("OEBPS/cover.jpg") == cover_source.read_bytes()
+        assert "OEBPS/cover.xhtml" in names
+        assert "OEBPS/index.xhtml" in names
+        manifest_ns = "{http://www.idpf.org/2007/opf}"
+        package = ElementTree.fromstring(z.read("OEBPS/package.opf"))
+        manifest = package.find(manifest_ns + "manifest")
+        items = {item.get("id"): item for item in manifest}
+        assert "cover-image" in items["cover-image"].get("properties", "")
+        assert items["cover-image"].get("href") == "cover.jpg"
+        assert "nav" in items["nav"].get("properties", "")
+        spine = package.find(manifest_ns + "spine")
+        spine_ids = [item.get("idref") for item in spine]
+        assert spine_ids[:3] == ["cover-page", "title", "index"]
+        assert "nav" not in spine_ids, "Machine navigation should not consume book pages"
+        index = ElementTree.fromstring(z.read("OEBPS/index.xhtml"))
+        xhtml_ns = "{http://www.w3.org/1999/xhtml}"
+        links = [a.get("href") for a in index.iter(xhtml_ns + "a")
+                 if re.fullmatch(r"\d{3}\.xhtml", a.get("href") or "")]
+        assert len(links) == 449
+        assert len(set(links)) == 449
+        assert len(list(index.iter(xhtml_ns + "h2"))) >= 20
+        nav = ElementTree.fromstring(z.read("OEBPS/nav.xhtml"))
+        assert len(list(nav.iter(xhtml_ns + "li"))) >= 449
+        assert "Pieśni 1–50" in z.read("OEBPS/nav.xhtml").decode("utf-8")
+        assert "nav li{margin:" not in z.read("OEBPS/style.css").decode("utf-8")
